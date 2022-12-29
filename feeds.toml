@@ -5,4 +5,5 @@ entrySelector = ".cnbeta-update-list.rank-list.category-update.counter_news .ite
 titleSelector = "dl dt"
 linkSelector = "dl dt a"
 contentSelector = "dl dd p"
-dateSelector = ".meta-data .labels"
+dateSelector = ".meta-data label.labels"
+dateFormat = "yyyy-MM-dd hh:mm:ss"
