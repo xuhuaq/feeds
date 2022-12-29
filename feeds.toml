@@ -1,7 +1,7 @@
-[cnbeta top 10]
+[cnbeta_top_10]
 title = "cnbeta一周点击排行"
 url = "https://www.cnbeta.com.tw/top10.htm"
-entrySelector = ".cnbeta-update-list.rank-list.category-update.counter_news .items-area.rank-list .item"
+entrySelector = ".counter_news .items-area.rank-list .item"
 titleSelector = "dl dt"
 linkSelector = "dl dd a"
 contentSelector = "dl dd p"
