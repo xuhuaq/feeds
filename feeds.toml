@@ -1,13 +1,8 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[cnbeta top 10]
+title = "cnbeta一周点击排行"
+url = "https://www.cnbeta.com.tw/top10.htm"
+entrySelector = ".cnbeta-update-list.rank-list.category-update.counter_news .items-area.rank-list .item"
+titleSelector = "dl dt"
+linkSelector = "dl dd a"
+contentSelector = "dl dd p"
+dateSelector = ".meta-data label.labels"
