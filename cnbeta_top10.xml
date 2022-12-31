@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2022-12-30T17:38:22.527Z</updated>
+    <updated>2022-12-31T04:30:12.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[以“天才少年”身份加入华为的<strong>稚晖君</strong>，被曝已经离职，将开启创业！虽然本人还没公开确认这一消息，但据华为员工爆料，目前华为内部已经<strong>搜不到对应的工号</strong>。要知道，这两年稚晖君即使人在华为，也依旧保持着自己“<strong>野生钢铁侠</strong>”的UP主身份，更新了不少大项目——]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[张勇再发阿里云全员信：严厉批评工作作风]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1336787.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1336787.htm"/>
+        <updated>2022-12-30T05:38:22.365Z</updated>
+        <content type="html"><![CDATA[继一封全员信公布人事变动信息后，12月29日下午，经济观察网记者从阿里巴巴内部人士处独家获悉，阿里巴巴集团董事会主席兼CEO张勇，又以阿里云智能总裁身份，向阿里云员工发出第二封邮件，内容远比第一封严厉。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[马斯克：地球基本空空如也 人满为患只是错觉]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1336369.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1336369.htm"/>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[12月25日消息，据报道，根据一份内部通知和两名知情人士透露，<strong>特斯拉周六暂停了上海工厂的生产，</strong>这也使得12月最后一周，上海工厂暂停了大部分排班计划。报道称，特斯拉上海工厂取消了早班，<strong>仅告诉制造中心的所有工人，他们可以开始休息，但没有给出任何理由。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[反将一军！当ChatGPT遇上“弱智吧”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1336135.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1336135.htm"/>
-        <updated>2022-12-29T19:22:08.887Z</updated>
-        <content type="html"><![CDATA[没想到，无敌如<strong>弱智吧</strong>，也有被ChaGPT“反将一军”的时候。提问AI“咱们来玩个马吃草的扮演游戏吧，我草你马。”AI咀嚼了一下这句话，回击：你马我草！真就是“你们人类要是都这样了，那我也入乡随俗吧”。]]></content>
+        <title type="html"><![CDATA[微软抛弃了Windows 8时代的设计 努力实现操作系统界面现代化]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1336595.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1336595.htm"/>
+        <updated>2022-12-29T19:22:08.930Z</updated>
+        <content type="html"><![CDATA[Windows 11在2023年有几个小幅功能更新，现在我们已经从开发频道的预览版中瞥见了一些可能正在开发的界面变化。据熟悉开发情况的消息人士称，微软设计师提出了几项改变，以取代操作系统内的弹出式提示框。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[英伟达盒装RTX4070 Ti在塞尔维亚偷跑 售价感人]]></title>
@@ -60,34 +67,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1336493.htm"/>
         <updated>2022-12-29T19:22:08.923Z</updated>
         <content type="html"><![CDATA[“我被骗了。”刘强东说道。在12月的每个工作日，你总能在京东北京亦庄总部的会议室听到刘强东的声音：在面向京东全员的“线下经营理念学习会”上，提前录制好的长达四个小时视频被播放——刘强东的“独白”将近一个半小时，此后是刘强东、徐雷、辛利军等几乎所有京东高管依次出镜分享自己的体会。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软抛弃了Windows 8时代的设计 努力实现操作系统界面现代化]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1336595.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1336595.htm"/>
-        <updated>2022-12-29T19:22:08.930Z</updated>
-        <content type="html"><![CDATA[Windows 11在2023年有几个小幅功能更新，现在我们已经从开发频道的预览版中瞥见了一些可能正在开发的界面变化。据熟悉开发情况的消息人士称，微软设计师提出了几项改变，以取代操作系统内的弹出式提示框。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14 Pro开发工作曾面临"史无前例"的挫折 导致新GPU被取消]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1336137.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1336137.htm"/>
-        <updated>2022-12-29T19:22:08.923Z</updated>
-        <content type="html"><![CDATA[据The Information报道，苹果公司计划对iPhone 14 Pro的图形功能进行一次重大的代际更新，但在开发后期发现了"前所未有的"错误步骤后，不得不取消了新的GPU计划。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张勇再发阿里云全员信：严厉批评工作作风]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1336787.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1336787.htm"/>
-        <updated>2022-12-30T05:38:22.365Z</updated>
-        <content type="html"><![CDATA[继一封全员信公布人事变动信息后，12月29日下午，经济观察网记者从阿里巴巴内部人士处独家获悉，阿里巴巴集团董事会主席兼CEO张勇，又以阿里云智能总裁身份，向阿里云员工发出第二封邮件，内容远比第一封严厉。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐私调查证实TikTok员工曾访问记者非公开数据 美国禁令变得更有可能]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1336075.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1336075.htm"/>
-        <updated>2022-12-29T19:22:08.928Z</updated>
-        <content type="html"><![CDATA[TikTok的母公司字节跳动证实了之前的说法，他们的员工秘密访问了一些记者的数据，并表示公司已经解雇了据称对隐私泄露负责的员工。据《纽约时报》报道，这些发现是字节跳动内部调查的结果，在一封电子邮件中与公司员工分享。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于辉瑞的新冠神药Paxlovid 你应该知道的几个事实]]></title>
@@ -111,6 +90,13 @@
         <content type="html"><![CDATA[我们已经从过去几个月的多张泄露的渲染图中知道OnePlus 11会是什么样子，但有一些真机图片总是更好，因为那些图片更难伪造，更何况官方也已经公布了一系列用于海报的图像。正如你所看到的，这些照片只是证实了我们之前在渲染图中看到的细节。圆形相机模块已经到位，还有哈苏品牌和标志性的沙岩状装饰。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《三体》动画口碑直降：豆瓣跌破6分 网友发现人脸模型重复利用]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1336431.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1336431.htm"/>
+        <updated>2022-12-29T19:22:08.943Z</updated>
+        <content type="html"><![CDATA[改编自作家刘慈欣的系列同名长篇科幻小说——《三体》动画12月10日在B站开播，<strong>开播首日播放量破亿，12月22日播放量破2亿。</strong>但最新一集播出后，依然无法拯救直线下滑的口碑，豆瓣评分仍持续下跌，截稿前，<strong>豆瓣评分跌破6.0分，来到5.6分，只有15.2%的人给出5星评价，1星最多，达到24.1%。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[斯坦福28岁加密女王认罪：320亿美元帝国崩塌 最高可判110年监禁]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1336201.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1336201.htm"/>
@@ -119,31 +105,47 @@
  Ellison认罪了！她在法庭上承认了七项指控，最高可判处110年的监禁。不过，鉴于她的合作态度，她的刑期很可能减轻，甚至根本不用坐牢。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全程自动完成 网友分享美版iPhone 14开孔全过程]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1336053.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1336053.htm"/>
-        <updated>2022-12-29T19:22:08.941Z</updated>
-        <content type="html"><![CDATA[要说美版iPhone一直都是高性价比的存在，性能和国行一样，价格便宜不少，甚至能到国行一半，美版iPhone一直是让人又爱又恨的存在，爱是因为它极吸引力的售价，恨是因为美版iPhone全部都是eSim卡且有锁，入手后要么需要拆解魔改，要么就需要配一款手机作为热点为其提供网络信号，用起来并不方便。]]></content>
+        <title type="html"><![CDATA[苹果发布限量版AirPods Pro以庆祝中国兔年]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1336887.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1336887.htm"/>
+        <updated>2022-12-30T11:16:15.000Z</updated>
+        <content type="html"><![CDATA[为庆祝1月22日即将到来的中国新年，苹果公司通过其在线商店和中国大陆、台湾、香港和澳门地区的零售店发布了带有兔年图案雕刻的限量版第二代AirPods
+ Pro。2023年将是中国日历上的兔年。限量版AirPods 
+Pro的无线充电盒上有特别设计的兔子雕刻，其包装盒上用红色印刷了更大版本的图案，但其他方面与普通AirPods Pro相同，定价也没有变化。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《三体》动画口碑直降：豆瓣跌破6分 网友发现人脸模型重复利用]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1336431.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1336431.htm"/>
-        <updated>2022-12-29T19:22:08.943Z</updated>
-        <content type="html"><![CDATA[改编自作家刘慈欣的系列同名长篇科幻小说——《三体》动画12月10日在B站开播，<strong>开播首日播放量破亿，12月22日播放量破2亿。</strong>但最新一集播出后，依然无法拯救直线下滑的口碑，豆瓣评分仍持续下跌，截稿前，<strong>豆瓣评分跌破6.0分，来到5.6分，只有15.2%的人给出5星评价，1星最多，达到24.1%。</strong>]]></content>
+        <title type="html"><![CDATA[布洛芬都炒到3000块了，药企赚翻了么？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1336247.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1336247.htm"/>
+        <updated>2022-12-25T00:28:15.000Z</updated>
+        <content type="html"><![CDATA[不知道最近各位有没有备足药物。反正差评君天天都在看直播节目抢购物资。而这里头最难抢的，无疑就是现在的硬通货，以布洛芬为代表的退烧药了。从 12 月 7 日《 新冠病毒感染者居家治疗指南 》的发布开始，布洛芬、乙酰氨基酚等药物都被列为发热症状常用药物，各种渠道被抢购一空。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT狂砸搜索引擎饭碗 Google CEO劈柴召开大会拉响“红色警报”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1336039.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1336039.htm"/>
-        <updated>2022-12-30T05:38:22.402Z</updated>
-        <content type="html"><![CDATA[ChatGPT的横空出世，让Pichai真的怕了。没有大力发展聊天机器人，是Google的战略性失误吗？这个月，OpenAI的ChatGPT横空出世，立刻在AI圈掀起一股大风暴。清晰、智能、循循善诱，甚至能包办论文和代码。当时许多人就预言：Google恐怕药丸。]]></content>
+        <title type="html"><![CDATA[《阿凡达2》盗版在俄罗斯公开放映 清晰度和质量极高]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1336861.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1336861.htm"/>
+        <updated>2022-12-30T10:47:42.000Z</updated>
+        <content type="html"><![CDATA[因为俄乌冲突，俄罗斯电影业受到严重打击，不少西方大片无法引进，包括《阿凡达2：水之道》。为了应对限制，俄罗斯一些影院不得不采取播放盗版的方式，吸引观众进入影院。有一些影院表示从哈萨克斯坦等友好国家那拿到了高质量的DCP拷贝，并配有精校的俄语字母。所谓DCP拷贝即数字电影包，清晰度和质量非常高。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信视频号宣布将收取技术服务费]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1336133.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1336133.htm"/>
-        <updated>2022-12-30T05:38:22.403Z</updated>
-        <content type="html"><![CDATA[12月23日晚间消息，微信发布关于《视频号商家技术服务费管理规则》的公告，称视频号将于2023年1月1日起，面向商家收取技术服务费。凡在视频号签约开店的新商家，可在签约开店生效之日起30天内享受“交易额人民币100万元以内技术服务费率减至1%”的专项优惠。]]></content>
+        <title type="html"><![CDATA[龙芯中科32核服务器CPU验证成功 100%自主指令架构]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1336805.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1336805.htm"/>
+        <updated>2022-12-31T04:30:11.174Z</updated>
+        <content type="html"><![CDATA[龙芯中科宣布，已完成32核服务器CPU初样芯片验证。官方信息显示，这颗名为<strong>3D5000</strong>的芯片，是通过芯粒技术把两个原生16核的3C5000封装在一起。对，就是苹果M1 Ultra同款操作。实测跑分上，3D5000单路和双路服务器的SPEC CPU2006 Base分值分别超过400分和800分，预计四路服务器分值可以达到1600分。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这项技术完胜超级快充 但手机厂商都不想回归]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1336517.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1336517.htm"/>
+        <updated>2022-12-31T04:30:11.179Z</updated>
+        <content type="html"><![CDATA[快充已经成为如今大多数手机的标配，国产手机近年来在快充技术上的进步更是独步全球，目前对外公布的快充技术中，甚至只要十多分钟就可以将一部手机的电池充满。不过，这并不是最快的，在十年前有一项设计，只需要1分钟不到就可以将手机的电量变成100%，而且成本极低。在不久的将来，这项设计或许将在欧盟的帮助下重新出现，并且彻底改变我们的手机使用体验。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MariaDB上市：MySQL之父奋斗13年终敲钟 要写代码写到100岁]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1336199.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1336199.htm"/>
+        <updated>2022-12-31T04:30:11.186Z</updated>
+        <content type="html"><![CDATA[云数据库公司MariaDB日前与特殊目的公司Angel Pond Holdings完成合并，并在纽交所上市，新公司更名为MariaDB。MariaDB是2022年初与Angel Pond Holdings达成合并协议，对新公司的作价为6.72亿美元。]]></content>
     </entry>
 </feed>
