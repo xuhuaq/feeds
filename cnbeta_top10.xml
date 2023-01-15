@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-01-15T05:40:37.564Z</updated>
+    <updated>2023-01-15T17:38:30.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1338889.htm"/>
         <updated>2023-01-13T17:40:49.976Z</updated>
         <content type="html"><![CDATA[iOS微信迎来版本更新，版本号为8.0.32，主要是修复了一些已知问题，以及新增和优化了一些功能。这是2023年iOS微信的首个版本更新。据悉，本次更新主要是新增室内地图功能、清理聊天记录新增“自定义时间”、公众号新增“划线”功能、好友申请消息新增“展开”功能以及来电铃声变化等。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“鸿蒙之父”王成录微博被禁言？个人内容已清空]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1339031.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1339031.htm"/>
+        <updated>2023-01-13T11:38:45.000Z</updated>
+        <content type="html"><![CDATA[有网友惊奇的发现，“鸿蒙之父”王成录的微博内容被全部清空了，这引起了广泛关注。随后，有网友发截图显示，王成录的微博是被禁言了，不过一些网站实际展示的情况是，他的个人微博并没有显示被禁言，但是内容确实被清空了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[印度一航班扔下50多名乘客绝尘而去 机组人员全部除名]]></title>
@@ -64,13 +71,6 @@ X售价区间为87.99万-103.99万元，将于2023年上半年开启中国大陆
 S/X（包括Plaid版车型）取消了车尾部分的特斯拉Logo，<strong>转而在黑色饰条上增加了“TESLA”英文字母标识，相当于“一个字母”，换成了5个字母。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“鸿蒙之父”王成录微博被禁言？个人内容已清空]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1339031.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1339031.htm"/>
-        <updated>2023-01-13T11:38:45.000Z</updated>
-        <content type="html"><![CDATA[有网友惊奇的发现，“鸿蒙之父”王成录的微博内容被全部清空了，这引起了广泛关注。随后，有网友发截图显示，王成录的微博是被禁言了，不过一些网站实际展示的情况是，他的个人微博并没有显示被禁言，但是内容确实被清空了。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[对话郑刚：可以配合罗永浩演戏 但你不能要挟我们]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1338235.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1338235.htm"/>
@@ -83,6 +83,13 @@ S/X（包括Plaid版车型）取消了车尾部分的特斯拉Logo，<strong>转
         <link href="https://www.cnbeta.com.tw/articles/tech/1338537.htm"/>
         <updated>2023-01-13T17:40:49.985Z</updated>
         <content type="html"><![CDATA[去年，一部民间大神魔改的USB-C接口iPhone X引发全球网友热烈追捧，并拍卖出天价。随着欧盟、印度等地确定了强推USB-C接口的法案，留给iPhone的只是时间问题，最快今年秋季的iPhone 15上就会换装。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国“人造太阳”重大新发现：稳定困住更多“闪电”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1338585.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1338585.htm"/>
+        <updated>2023-01-11T04:48:50.000Z</updated>
+        <content type="html"><![CDATA[据中科院官方消息，近期，中科院合肥物质科学研究院等离子体物理研究所的核聚变大科学团队，利用有“人造太阳”之称的全超导托卡马克大科学装置（EAST），发现并证明了一种新的高能量约束模式。该研究成果已于2023年1月7日发表在国际学术期刊《科学·进展》。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉车主为何总在维权？]]></title>
@@ -99,11 +106,11 @@ S/X（包括Plaid版车型）取消了车尾部分的特斯拉Logo，<strong>转
         <content type="html"><![CDATA[1月12日消息，B站第2个播放量破亿视频诞生，全名为“【春晚鬼畜】赵本山：我就是念诗之王！【改革春风吹满地】”《念诗之王》（又名《改革春风吹满地》）是由小可儿使用疯猴pme作品《花姑娘又要吸旺仔牛奶》的旋律，节选赵本山小品经典桥段而做成的一部鬼畜作品。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TP-Link最新旗舰Wi-Fi7路由Archer BE900上架 峰值网速24Gbps]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1338175.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1338175.htm"/>
-        <updated>2023-01-13T17:40:49.989Z</updated>
-        <content type="html"><![CDATA[日前，TP-Link宣布了多款Wi-Fi 7路由器，其中的旗舰产品Archer BE900峰值速率高达24Gbps。<strong>这款路由器现已在京东上架，属跨境进口商品，含税价格19999元，活动到手价17359元。</strong>]]></content>
+        <title type="html"><![CDATA[西北工业大学研发激光供电的无人机 可以无限期地停留在空中]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1339057.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1339057.htm"/>
+        <updated>2023-01-13T00:09:17.000Z</updated>
+        <content type="html"><![CDATA[中国西北工业大学的研究人员展示了一种永远不需要降落的无人机，这要归功于一个远程充电系统，该系统通过地面上的自适应目标追踪激光器提供电力。该系统使用无人机底部的光电转换器来获取激光的能量。这类系统在无线电力传输方面做得相当不错，尽管转换效率并不高。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“苹果AirPods耳机盒子不要丢”意外上热搜 底下还有价值145元数据线]]></title>
@@ -127,13 +134,6 @@ S/X（包括Plaid版车型）取消了车尾部分的特斯拉Logo，<strong>转
         <content type="html"><![CDATA[近日，一位清华应届硕士生发帖引发热议。<strong>据其称字节23年应届生开出offer，只给到其月薪2w，甚至不如本科，恶意低薪很恶心，践踏学历制度。</strong>据该应届生发布的帖子称，字节口口声声说的2万薪资符合市场，但他认为这种市场行情内外都比不了，恶意低薪的目的只有一个，低成本劝退应届毕业生。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国“人造太阳”重大新发现：稳定困住更多“闪电”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1338585.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1338585.htm"/>
-        <updated>2023-01-11T04:48:50.000Z</updated>
-        <content type="html"><![CDATA[据中科院官方消息，近期，中科院合肥物质科学研究院等离子体物理研究所的核聚变大科学团队，利用有“人造太阳”之称的全超导托卡马克大科学装置（EAST），发现并证明了一种新的高能量约束模式。该研究成果已于2023年1月7日发表在国际学术期刊《科学·进展》。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[奔驰L3级自动驾驶获批：司机可看书、喝咖啡 事故奔驰负责]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1338923.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1338923.htm"/>
@@ -141,10 +141,10 @@ S/X（包括Plaid版车型）取消了车尾部分的特斯拉Logo，<strong>转
         <content type="html"><![CDATA[日前，奔驰宣布，公司已经获得美国监管部门的批准，在加利福尼亚州和内华达州部署L3 级自动驾驶系统（Drive Pilot 系统）。<strong>此次获批，也让奔驰成为第一家在美国获得该技术监管批准的汽车制造商。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有家长炮轰9.5高分动画《中国奇谭》画风吓哭孩子]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/comic/1338577.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/comic/1338577.htm"/>
-        <updated>2023-01-11T04:31:12.000Z</updated>
-        <content type="html"><![CDATA[由上海美术电影制片厂、B站联合出品的动画短片集——《中国奇谭》1月1日起正式开播，截稿前，<strong>动画豆瓣评分获得9.5的极佳评价。</strong>然而，今日晚间，一则#家长炮轰中国奇谭#的话题，登上微博热搜第一，引起网友关注与讨论。]]></content>
+        <title type="html"><![CDATA[威马的悲壮自救：“像牲口一样地活下去”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1339267.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1339267.htm"/>
+        <updated>2023-01-15T11:26:44.000Z</updated>
+        <content type="html"><![CDATA[1月12日下午，威马汽车官方微信公众号以“重大官宣！”为题，公布了一条信息：Apollo智慧出行集团有限公司（香港联交所股份代号：860）与威马集团达成有条件买卖协议，并建议配售股份款项总额将约为39.18亿港元，建议临时融资约人民币7.2亿元。同时，威马持有股东承诺常备融资15亿港元。]]></content>
     </entry>
 </feed>
