@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-01-19T17:38:47.995Z</updated>
+    <updated>2023-01-20T05:38:27.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -23,7 +23,7 @@
         <title type="html"><![CDATA[“巨型屎山”QQ终于要史诗级重写 但是腾讯被骂惨了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1339887.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1339887.htm"/>
-        <updated>2023-01-19T17:38:47.220Z</updated>
+        <updated>2023-01-20T05:38:27.008Z</updated>
         <content type="html"><![CDATA[每次打开 QQ 桌面版，我都有一种回到小时候的感觉 ——&nbsp;这可不是对 QQ 的夸奖。<strong>作为一个 20 多岁的互联网活化石，在不断的修修补补、增增减减之后，QQ 电脑版也和微软 Windows 11 一样，存在着很多不协调的 “ 割裂感 ” 。</strong>]]></content>
     </entry>
     <entry>
@@ -142,7 +142,7 @@
         <title type="html"><![CDATA[《最后生还者》艾莉演员不喜欢被性别化 更爱非二元性别]]></title>
         <id>https://hot.cnbeta.com.tw/articles/movie/1339203.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/movie/1339203.htm"/>
-        <updated>2023-01-19T17:38:47.270Z</updated>
+        <updated>2023-01-20T05:38:27.039Z</updated>
         <content type="html"><![CDATA[近日《最后的生还者》剧集艾莉演员贝拉·拉姆齐(Bella Ramsey)接受《纽约时报》采访，她表示自己不喜欢被性别化，如果可以的话，她会选择非二元性别。之前拉姆齐凭借在《小鸟凯瑟琳》中扮演凯瑟琳，获得非性别特定类别的第28届评论家选择奖最佳新演员提名。]]></content>
     </entry>
 </feed>
