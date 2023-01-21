@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-21T05:40:40.148Z</updated>
+    <updated>2023-01-21T17:44:29.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[16年前被华为卖掉 换了7次主人 现在它终于真正属于中国 (cnbeta一周点击排行)]]></title>
@@ -61,13 +61,6 @@
         <content type="html"><![CDATA[之前暴雪发布公告，称在与网易的谈判后，对方拒绝基于2019年已同意既定条款的协议，顺延六个月游戏服务协议。该公告一出，就遭到国内许多玩家质疑，不少人认为暴雪是在甩锅。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitch泰国女主播因露脚被封三天 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1339255.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1339255.htm"/>
-        <updated>2023-01-15T11:07:48.000Z</updated>
-        <content type="html"><![CDATA[Twitch主播Justketh最近因在直播中露脚而被平台封禁三天，原因是“性内容”违规。事件发生时，泰国Twitch女主播Justketh直播了一个轮子游戏，观众可以给钱旋转轮子，让JustKeth执行它落在上面的动作。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[哪种取暖电器最省电？国家电网实测：电热油汀成刺客 空调最省 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1339631.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1339631.htm"/>
@@ -75,11 +68,32 @@
         <content type="html"><![CDATA[近日，上海一名女子收到12月份的用电账单后惊呆了，她称11月只交了197元电费，12月却发现欠费3481元，结果发现自己的取暖器竟然一个月没关，用电量高达1636度。按取暖器2000W额定功率来计算，一天下来就48度了，一个月妥妥超过1000度。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[M2 Pro跑分出炉，击败M1 Max (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1340043.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1340043.htm"/>
+        <updated>2023-01-21T05:40:39.518Z</updated>
+        <content type="html"><![CDATA[新发布的配备M2和M2 Pro芯片的Mac mini的Geekbench分数显示，与上一代Mac mini和以前的M1 Pro和M1 Max设备相比，性能有了明显的提高。分数显示，配备M2 Pro的Mac mini在配备16GB统一内存的配置下，单核得分达到1952分，多核得分达到15013分。作为对比，之前的M1 Mac mini取得了1651的单核分数和5181的多核分数。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitch泰国女主播因露脚被封三天 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1339255.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1339255.htm"/>
+        <updated>2023-01-15T11:07:48.000Z</updated>
+        <content type="html"><![CDATA[Twitch主播Justketh最近因在直播中露脚而被平台封禁三天，原因是“性内容”违规。事件发生时，泰国Twitch女主播Justketh直播了一个轮子游戏，观众可以给钱旋转轮子，让JustKeth执行它落在上面的动作。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“暴雪中国再次发文”登顶微博热搜 网友：洋老爷好大的威风 (cnbeta一周点击排行)]]></title>
         <id>https://hot.cnbeta.com.tw/articles/game/1339621.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/game/1339621.htm"/>
         <updated>2023-01-18T17:38:38.287Z</updated>
         <content type="html"><![CDATA[就在刚刚，暴雪中国官方发文对暴雪娱乐在国服地区的游戏服务状况作出说明，“暴雪中国再次发文”也冲上了微博热搜榜单的第一名。暴雪表示：自己上周再次与网易接触并寻求协助，试图与网易谈判将2019年签订的协议顺延六个月，从而使国服正常运作。（同时也留出时间让暴雪寻找其他的国服代理，还提到暴雪已与多个潜在代理展开了会谈，但网易并未接受此协议。）]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺基亚C12发布：国产28nm芯 全塑料机身卖880元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1340033.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1340033.htm"/>
+        <updated>2023-01-21T17:44:28.568Z</updated>
+        <content type="html"><![CDATA[1月19日消息，今日，<strong>诺基亚手机之家HMD&nbsp;Global推出C系列新成员——诺基亚C12，2GB+64GB版本售价120欧元（约合人民币880元），</strong>将率先在德国与奥地利上市。由于定位入门机，诺基亚C12配备一块HD+级别的LCD屏，采用“复古”的水滴屏设计，屏幕尺寸为6.3英寸，机身尺寸为160.6*74.3*8.75mm，机身为聚碳酸酯材质（也就是PC塑料）。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[佛山机场花2000万改造完成 曾被网友戏称“候机大棚” (cnbeta一周点击排行)]]></title>
@@ -118,11 +132,11 @@ mini上启用该功能。HomePod的内置温度和湿度传感器可以测量室
         <content type="html"><![CDATA[现在，<strong>只用Wi-Fi</strong>就能“看”到你在房间里干啥了……多人追踪也是so easy。过程中完全不需要拍下图像、<strong>不需要摄像头</strong>。输入的仅是WiFi一维信号，输出则是三维人体姿态。<strong>两台路由器</strong>即可搞定！换算成本都不到500块。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《最后生还者》艾莉演员不喜欢被性别化 更爱非二元性别 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1339203.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1339203.htm"/>
-        <updated>2023-01-20T05:38:27.039Z</updated>
-        <content type="html"><![CDATA[近日《最后的生还者》剧集艾莉演员贝拉·拉姆齐(Bella Ramsey)接受《纽约时报》采访，她表示自己不喜欢被性别化，如果可以的话，她会选择非二元性别。之前拉姆齐凭借在《小鸟凯瑟琳》中扮演凯瑟琳，获得非性别特定类别的第28届评论家选择奖最佳新演员提名。]]></content>
+        <title type="html"><![CDATA[iPhone 15 Pro固态按键专利曝光 支持不同力度感应 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1339923.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1339923.htm"/>
+        <updated>2023-01-19T08:54:25.000Z</updated>
+        <content type="html"><![CDATA[众所周知，苹果一直都在往完全无线、无孔化的手机方向努力，比如重新回归的磁吸充电，还有Apple Watch上连维修缺口都取消的完全无开孔。前不久郭明錤再次发文确认，<strong>高端版iPhone 15将会采用“固态按键”，也就是取消实体按键。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[丰收1年 挥霍掉400年的积累 东北黑土地不“黑”了 (cnbeta一周点击排行)]]></title>
@@ -130,19 +144,5 @@ mini上启用该功能。HomePod的内置温度和湿度传感器可以测量室
         <link href="https://www.cnbeta.com.tw/articles/science/1339687.htm"/>
         <updated>2023-01-18T01:27:51.000Z</updated>
         <content type="html"><![CDATA[有一项数据可能会让人许多人吃惊：<strong>东北三省的粮食产量占了全国总产量的1/5左右，其中商品粮占了1/4，而粮食调出量（产量-需求量）占到1/3。</strong>简单地说，如果你不是自己种粮食的话，那么你每吃三碗饭就有一碗来自东北，也正因为如此，东北有中国粮仓的称号。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2 Pro跑分出炉，击败M1 Max (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1340043.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1340043.htm"/>
-        <updated>2023-01-21T05:40:39.518Z</updated>
-        <content type="html"><![CDATA[新发布的配备M2和M2 Pro芯片的Mac mini的Geekbench分数显示，与上一代Mac mini和以前的M1 Pro和M1 Max设备相比，性能有了明显的提高。分数显示，配备M2 Pro的Mac mini在配备16GB统一内存的配置下，单核得分达到1952分，多核得分达到15013分。作为对比，之前的M1 Mac mini取得了1651的单核分数和5181的多核分数。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉狂降价 国产车怎么都涨价了？其实很简单 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1339583.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1339583.htm"/>
-        <updated>2023-01-17T10:59:44.000Z</updated>
-        <content type="html"><![CDATA[不久前从特斯拉降价闹出来沸沸扬扬的维权故事，差友们肯定都没少吃瓜吧。门店拉横幅、写联名信都是常规操作了，脖子哥还看到有说要在车顶拉屎的，这可真让人耳目一新。大庭广众之下，当真能拉出来？]]></content>
     </entry>
 </feed>
