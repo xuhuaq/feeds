@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-01-29T17:38:32.725Z</updated>
+    <updated>2023-01-30T05:39:10.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -28,6 +28,20 @@
         <content type="html"><![CDATA[按照惯例，苹果将在今年9月份准时推出新一代手机——iPhone 15系列。根据供应链消息，目前iPhone 15系列的大体设计已经敲定，<strong>尤其是外观方面，相较于iPhone 14系列基本不变，不过有一个小改变确实大家都喜闻乐见的。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[-53℃的漠河户外开跑i9-13900K、RTX 4090会发生什么？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341229.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341229.htm"/>
+        <updated>2023-01-29T05:39:18.732Z</updated>
+        <content type="html"><![CDATA[近日，“中国北极”漠河出现了-53℃的极端低温，打破54年来记录。B站UP主“苏打baka”前往漠河，进行了一次特殊的测试，看看电脑在那里开机会怎么样。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这款来自小厂的迷你主机 把小米新品按在地上摩擦]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341325.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341325.htm"/>
+        <updated>2023-01-28T11:06:22.000Z</updated>
+        <content type="html"><![CDATA[前阵子小米不是发布了一台迷你主机么？它搭载英特尔酷睿 i5-1240P 处理器，16GB DDR4 内存以及 512GB PCIe 4.0 SSD，首发价 3699 元：同时，小米还推出了这款机型的准系统版本，也就是在前面这配置的基础上，去掉了内存、固态以及 Windows 11 系统，价格便宜 900，售价 2799。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[蔚来车主占三个车位充电引争议 - 好像只能这么充]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1340945.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1340945.htm"/>
@@ -40,6 +54,14 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1340823.htm"/>
         <updated>2023-01-26T05:40:33.768Z</updated>
         <content type="html"><![CDATA[时间进入 2023 年，此前大火的“元宇宙”概念在大众领域已经有所哑火，VR 的市场关注度也随之有一定下滑。但相比概念，VR 的核心依然是产品，去年最重要的 VR 设备当属字节的 Pico 4 以及 Meta 的 Quest Pro。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT又赢了：带动股价涨三倍，成考试神器]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341315.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341315.htm"/>
+        <updated>2023-01-28T10:53:50.000Z</updated>
+        <content type="html"><![CDATA[自打横空出世以来，ChatGPT出尽了风头：这个由OpenAI推出的一种新型 AI 
+聊天机器人工具，可以根据用户的要求快速生成文章、故事和歌词甚至代码，回答各类疑问等等。它在推出之际，就因为回答里惊人的信息量和完成度，遭遇了人们的病毒式传播，一夜之间坐拥百万用户。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克Twitter账号改名“Mr. Tweet” 受限于平台规则改不回来了]]></title>
@@ -57,18 +79,18 @@
  11中应该如何发展。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[-53℃的漠河户外开跑i9-13900K、RTX 4090会发生什么？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341229.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341229.htm"/>
-        <updated>2023-01-29T05:39:18.732Z</updated>
-        <content type="html"><![CDATA[近日，“中国北极”漠河出现了-53℃的极端低温，打破54年来记录。B站UP主“苏打baka”前往漠河，进行了一次特殊的测试，看看电脑在那里开机会怎么样。]]></content>
+        <title type="html"><![CDATA[Windows 11 22H2更新为所有PC带来全屏小工具]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341449.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341449.htm"/>
+        <updated>2023-01-29T06:40:41.000Z</updated>
+        <content type="html"><![CDATA[如果你喜欢小工具板，但需要在Windows 11中更好地查看小工具，现在有了一个好消息。微软正在推出一个新的更新，在Windows 11 22H2中启用全屏小部件模式，这意味着全屏小部件模式终于可以在生产渠道中使用。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这款来自小厂的迷你主机 把小米新品按在地上摩擦]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341325.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341325.htm"/>
-        <updated>2023-01-28T11:06:22.000Z</updated>
-        <content type="html"><![CDATA[前阵子小米不是发布了一台迷你主机么？它搭载英特尔酷睿 i5-1240P 处理器，16GB DDR4 内存以及 512GB PCIe 4.0 SSD，首发价 3699 元：同时，小米还推出了这款机型的准系统版本，也就是在前面这配置的基础上，去掉了内存、固态以及 Windows 11 系统，价格便宜 900，售价 2799。]]></content>
+        <title type="html"><![CDATA[高铁超员报警无法行驶 无票乘客被请下车]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341415.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341415.htm"/>
+        <updated>2023-01-30T05:39:09.302Z</updated>
+        <content type="html"><![CDATA[据都市快报报道，1月27日，河南至上海高铁由于列车全列超员报警无法开车，没有车票的旅客被请下车。<strong>网友称自己第一次遇见乘坐的高铁超员报警无法行驶，广播通知需要无票的旅客下车后才能正常行驶。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[吴孟达再现《流浪地球2》引热议 网友:看到达叔泪目]]></title>
@@ -78,40 +100,11 @@
         <content type="html"><![CDATA[近日，《流浪地球2》正在各大影院热映，电影中的情节和与第一部的联系也引起了影迷热议。而在续集中，吴孟达的出现也引起了众多网友的回忆杀。四年前的《流浪地球》，吴孟达扮演的韩子昂给很多观众留下深刻印象。如今这位已故的老戏骨再次出现在电影中也让不少影迷泪目。尤其是片尾还出现了“谨以此片献给吴孟达先生”的字样。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《满江红》被质疑抄袭《龙门镖局》宁财神回应]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1341097.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1341097.htm"/>
-        <updated>2023-01-28T05:38:44.599Z</updated>
-        <content type="html"><![CDATA[上映一周不到，票房轻松破20亿，有关《满江红》的话题实在是太多了，比如抄袭，幽灵场等等。有不少网友发现，《满江红》的剧情套路和十年前的一部电视剧《龙门镖局》十分的相似，还原度可以说是百分之百，而因为抄袭一事《满江红》也暂时登上热搜。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT又赢了：带动股价涨三倍，成考试神器]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341315.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341315.htm"/>
-        <updated>2023-01-28T10:53:50.000Z</updated>
-        <content type="html"><![CDATA[自打横空出世以来，ChatGPT出尽了风头：这个由OpenAI推出的一种新型 AI 
-聊天机器人工具，可以根据用户的要求快速生成文章、故事和歌词甚至代码，回答各类疑问等等。它在推出之际，就因为回答里惊人的信息量和完成度，遭遇了人们的病毒式传播，一夜之间坐拥百万用户。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16.3已发布 支持HomePod 2、物理FIDO密钥、新壁纸等]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1340687.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1340687.htm"/>
-        <updated>2023-01-24T02:39:52.000Z</updated>
-        <content type="html"><![CDATA[拥有支持iOS 16的现代iPhone的人可以下载一个新的功能更新。16.3版现在可以下载，支持新的HomePod，Apple ID的物理FIDO密钥，新的主题墙纸，以及各种错误修复，比如唤醒iPhone 14 Pro Max时屏幕上出现的横线。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023款MacBook Pro/Mac mini难逃SSD被降速问题 降幅最高35%]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341047.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341047.htm"/>
-        <updated>2023-01-26T11:48:17.000Z</updated>
-        <content type="html"><![CDATA[春节前，苹果发布了多款Mac新品，其都搭载了M2系列处理器，比如2023款MacBook Pro，售价达到了15999元起步。<strong>对于这波新品，有外媒还是爆料称，搭载了M2系列处理器的新品，苹果的一些调整让SSD被降速了，降幅最高达到了35%。256GB的Mac mini（2023款）等也都在其中。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小伙过年陪家人下象棋用手机当外挂 爷爷被下到“自闭”]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1340897.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1340897.htm"/>
-        <updated>2023-01-25T11:41:12.000Z</updated>
-        <content type="html"><![CDATA[对于“象棋”这类规则性极强和明确的棋类，在计算机面前，一般人类玩家根本没有胜算。因此，过年期间，一些小辈不讲武德，使用“孙子棋法”，把家里的长辈们下到“自闭”。近日，网友上传视频显示，内蒙古呼伦贝尔，一小伙过年回家陪爷爷下象棋，自知棋艺不敌爷爷的孙子，率先拿出了手机“作弊”。]]></content>
+        <title type="html"><![CDATA[iOS 17细节泄露：几乎没有视觉变化 只关注稳定性和效率]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341015.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341015.htm"/>
+        <updated>2023-01-26T11:13:17.000Z</updated>
+        <content type="html"><![CDATA[苹果刚刚推送了iOS 16.3，这是iOS 16的最新版本，第一个版本早在去年6月就已推出，并在秋季随iPhone 14系列发布。今年，iOS 17将与iPhone 15系列一起发布，很可能在9月，而今天一份新的报告已经在谈论它。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《狂飙》全员be？豆瓣评分涨至9.0分：近6成观众给满分 看了很上头]]></title>
@@ -121,11 +114,32 @@
         <content type="html"><![CDATA[2023年开年第一部大剧《狂飙》口碑一路“狂飙”。截稿前，<strong>该剧豆瓣评分从8.7涨至9.0，远超《三体》的8.1分。</strong>从评分来看，<strong>59.2%的观众给了5星满分。4星占比也达到了32.8%，只有0.5%的观众给了1星。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[499元买iPhone SE的羊毛没了 苹果bug已修复：下单的不认账]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1340753.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1340753.htm"/>
-        <updated>2023-01-24T11:49:01.000Z</updated>
-        <content type="html"><![CDATA[前两天，苹果官网出现了一个非常重大的bug，<strong>仅需499元就能买到iPhone SE 3。</strong>在购买iPhone SE 3的页面用其他手机抵扣购买，<strong>如果选择Redmi 10A机型将会抵扣掉3000元，入手价仅需499元起。</strong>]]></content>
+        <title type="html"><![CDATA[《满江红》被质疑抄袭《龙门镖局》宁财神回应]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1341097.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1341097.htm"/>
+        <updated>2023-01-28T05:38:44.599Z</updated>
+        <content type="html"><![CDATA[上映一周不到，票房轻松破20亿，有关《满江红》的话题实在是太多了，比如抄袭，幽灵场等等。有不少网友发现，《满江红》的剧情套路和十年前的一部电视剧《龙门镖局》十分的相似，还原度可以说是百分之百，而因为抄袭一事《满江红》也暂时登上热搜。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023款MacBook Pro/Mac mini难逃SSD被降速问题 降幅最高35%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341047.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341047.htm"/>
+        <updated>2023-01-26T11:48:17.000Z</updated>
+        <content type="html"><![CDATA[春节前，苹果发布了多款Mac新品，其都搭载了M2系列处理器，比如2023款MacBook Pro，售价达到了15999元起步。<strong>对于这波新品，有外媒还是爆料称，搭载了M2系列处理器的新品，苹果的一些调整让SSD被降速了，降幅最高达到了35%。256GB的Mac mini（2023款）等也都在其中。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16.3已发布 支持HomePod 2、物理FIDO密钥、新壁纸等]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1340687.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1340687.htm"/>
+        <updated>2023-01-24T02:39:52.000Z</updated>
+        <content type="html"><![CDATA[拥有支持iOS 16的现代iPhone的人可以下载一个新的功能更新。16.3版现在可以下载，支持新的HomePod，Apple ID的物理FIDO密钥，新的主题墙纸，以及各种错误修复，比如唤醒iPhone 14 Pro Max时屏幕上出现的横线。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小伙过年陪家人下象棋用手机当外挂 爷爷被下到“自闭”]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1340897.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1340897.htm"/>
+        <updated>2023-01-25T11:41:12.000Z</updated>
+        <content type="html"><![CDATA[对于“象棋”这类规则性极强和明确的棋类，在计算机面前，一般人类玩家根本没有胜算。因此，过年期间，一些小辈不讲武德，使用“孙子棋法”，把家里的长辈们下到“自闭”。近日，网友上传视频显示，内蒙古呼伦贝尔，一小伙过年回家陪爷爷下象棋，自知棋艺不敌爷爷的孙子，率先拿出了手机“作弊”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网飞真人版鱿鱼游戏已有人受伤 奖金456万美元]]></title>
@@ -133,19 +147,5 @@
         <link href="https://hot.cnbeta.com.tw/articles/movie/1341125.htm"/>
         <updated>2023-01-29T05:39:18.783Z</updated>
         <content type="html"><![CDATA[据报道，网飞真人版《鱿鱼游戏》已经有多名参赛者在第一天就需要就医，原因据传是因为天气降到了零下。据Variety报道，在伦敦北部的一座飞机库，456名选手报名参加了比赛，当天气温达到了0度以下。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 17细节泄露：几乎没有视觉变化 只关注稳定性和效率]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341015.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341015.htm"/>
-        <updated>2023-01-26T11:13:17.000Z</updated>
-        <content type="html"><![CDATA[苹果刚刚推送了iOS 16.3，这是iOS 16的最新版本，第一个版本早在去年6月就已推出，并在秋季随iPhone 14系列发布。今年，iOS 17将与iPhone 15系列一起发布，很可能在9月，而今天一份新的报告已经在谈论它。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA新技术让主播全程紧盯摄像头 效果非常瘆人]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1340949.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1340949.htm"/>
-        <updated>2023-01-27T17:39:38.543Z</updated>
-        <content type="html"><![CDATA[游戏主播与新闻频道的主持人不一样，眼睛不会一直盯着镜头与观众进行眼神交流，而是会四处乱看，有时候看电脑屏幕，有时候会四下张望，也有少部分主播会偶尔看看摄像头。但NVIDIA觉得这样很不好，并推出了一项全新AI技术，让画面中主播的眼睛一直盯着摄像头。说实在的，这样有点吓人。]]></content>
     </entry>
 </feed>
