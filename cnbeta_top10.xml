@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-02-01T17:42:13.927Z</updated>
+    <updated>2023-02-02T05:40:56.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -35,13 +35,6 @@
         <content type="html"><![CDATA[如果你喜欢小工具板，但需要在Windows 11中更好地查看小工具，现在有了一个好消息。微软正在推出一个新的更新，在Windows 11 22H2中启用全屏小部件模式，这意味着全屏小部件模式终于可以在生产渠道中使用。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[蔚来车主占三个车位充电引争议 - 好像只能这么充]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1340945.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1340945.htm"/>
-        <updated>2023-01-26T05:40:33.772Z</updated>
-        <content type="html"><![CDATA[近日有网友拍摄视频反映称，有蔚来车主在极氪充电桩充电时，占用了三个停车位，引发争议。视频拍摄者称：“蔚来的这位车主素质是真高，一人占三个车位，牛，别人都不用充电了”。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT又赢了：带动股价涨三倍，成考试神器]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1341315.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1341315.htm"/>
@@ -55,21 +48,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1341415.htm"/>
         <updated>2023-01-30T05:39:09.302Z</updated>
         <content type="html"><![CDATA[据都市快报报道，1月27日，河南至上海高铁由于列车全列超员报警无法开车，没有车票的旅客被请下车。<strong>网友称自己第一次遇见乘坐的高铁超员报警无法行驶，广播通知需要无票的旅客下车后才能正常行驶。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软将对Windows 11文件资源管理器进行重大改进]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1340941.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1340941.htm"/>
-        <updated>2023-01-27T17:39:38.524Z</updated>
-        <content type="html"><![CDATA[在推出备受期待的对标签的支持后，现在看起来微软真正致力于将文件资源管理器变成一个全功能的文件管理器。据WindowsCentral报道，这家软件巨头已经在进行大规模的改革，内部模拟图已经让我们更近距离地看到了文件资源管理器在Windows
- 11中应该如何发展。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 17细节泄露：几乎没有视觉变化 只关注稳定性和效率]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341015.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341015.htm"/>
-        <updated>2023-01-26T11:13:17.000Z</updated>
-        <content type="html"><![CDATA[苹果刚刚推送了iOS 16.3，这是iOS 16的最新版本，第一个版本早在去年6月就已推出，并在秋季随iPhone 14系列发布。今年，iOS 17将与iPhone 15系列一起发布，很可能在9月，而今天一份新的报告已经在谈论它。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉强推“单踏板”文案遭吐槽 博主直言：价值观、是非观畸形]]></title>
@@ -86,11 +64,18 @@
         <content type="html"><![CDATA[特斯拉和推特CEO埃隆·马斯克周三表示，他把自己的推特账号名字改成了“推特先生”（Mr. Tweet），但现在该平台不让他改回原来的名字了。马斯克在一条推文中写道：“我把名字改成了推特先生，现在推特不让我改回来了。”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谷歌裁员细节曝光：开源主管被裁 61岁程序员在线求职]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341529.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341529.htm"/>
-        <updated>2023-01-31T05:39:54.979Z</updated>
-        <content type="html"><![CDATA[“开源”谷歌，竟然连开源主管也给裁了。<strong>随着更多裁员细节曝光，不少谷歌开源项目办公室OSPO和其他开源工作的高管已经被裁。</strong>其中甚至还包括了开源运动“先锋”，18年前创立OSPO，&nbsp;Chris DiBona；Samba联合创始人、现年61岁程序员Jeremy Allison。]]></content>
+        <title type="html"><![CDATA[宝马全新设计语言效果图：大鼻孔变成“大龅牙”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341887.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341887.htm"/>
+        <updated>2023-01-31T00:01:21.000Z</updated>
+        <content type="html"><![CDATA[近日消息，有海外媒体曝光了一张宝马全新前脸设计的效果图，据悉，<strong>该图结合此前曝光的专利图绘制而成</strong>，具有一定的参考价值。综合最新消息看，预计宝马这种由LED光源等技术构成的全新前脸设计，可能会被基于Neue Klasse平台打造的新一代i3、i4、i7等产品使用。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《满江红》：成也算计，败也算计]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1341651.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1341651.htm"/>
+        <updated>2023-01-30T11:09:03.000Z</updated>
+        <content type="html"><![CDATA[《满江红》可能是春节档有史以来最有戏剧感的票房冠军。它的戏剧感，戏外比戏里还要明显。1月28日，春节档宣告收官后的第二天下午，《满江红》官方一连发了6条微博来回应此前外界对其“幽灵场”、“偷票房”、“抄袭”、“买票房”和“资本操控”等等质疑。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果M2 Pro/Max发布后：单核性能又把Intel教育了]]></title>
@@ -100,11 +85,33 @@
         <content type="html"><![CDATA[<strong>日前，基准测试PassMark更新了性能榜单，在笔记本单核天梯中，Intel酷睿i9-12900HX被挤出前三。</strong>原因无它，苹果M2 Pro和M2 Max发布了。其中，12核的M2 Max拿到4322分成为新王者，10核M2 Pro则以4233分紧随其后。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《满江红》：成也算计，败也算计]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1341651.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1341651.htm"/>
-        <updated>2023-01-30T11:09:03.000Z</updated>
-        <content type="html"><![CDATA[《满江红》可能是春节档有史以来最有戏剧感的票房冠军。它的戏剧感，戏外比戏里还要明显。1月28日，春节档宣告收官后的第二天下午，《满江红》官方一连发了6条微博来回应此前外界对其“幽灵场”、“偷票房”、“抄袭”、“买票房”和“资本操控”等等质疑。]]></content>
+        <title type="html"><![CDATA[谷歌裁员细节曝光：开源主管被裁 61岁程序员在线求职]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341529.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341529.htm"/>
+        <updated>2023-01-31T05:39:54.979Z</updated>
+        <content type="html"><![CDATA[“开源”谷歌，竟然连开源主管也给裁了。<strong>随着更多裁员细节曝光，不少谷歌开源项目办公室OSPO和其他开源工作的高管已经被裁。</strong>其中甚至还包括了开源运动“先锋”，18年前创立OSPO，&nbsp;Chris DiBona；Samba联合创始人、现年61岁程序员Jeremy Allison。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DUV光刻机遭进一步限制 中国仍有破局之路]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341839.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341839.htm"/>
+        <updated>2023-01-31T11:09:15.000Z</updated>
+        <content type="html"><![CDATA[针对近期荷兰、日本加入对华半导体设备出口管制的动向，知名行业分析师Dylan 
+Patel认为，三方所达成的合作意向依然非常初步，本质上仍是口头协议，其中存在不少漏洞。Patel指出，如果目标是阻止中国获得14nm、7nm或5nm工艺技术，那么禁令必须达到能够处理这些节点功能的不同级别的工具。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧iPhone原来也能拥有灵动岛 这还换啥新手机啊]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341465.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341465.htm"/>
+        <updated>2023-01-29T10:54:30.000Z</updated>
+        <content type="html"><![CDATA[正如标题所言，我是没想到网友们竟然这么会整活，不仅给旧款 iPhone 整上了灵动岛，甚至还让 iPad 也成功登岛……有一说一，原本我还真以为灵动岛既是硬件又是软件，是 iPhone 14 Pro 系列独享的 moment，不少人也是因为眼馋这功能才换的新 iPhone。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[咖啡不会给你带来额外的能量 它只是一种清醒的“借债”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1341881.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1341881.htm"/>
+        <updated>2023-01-31T11:57:45.000Z</updated>
+        <content type="html"><![CDATA[我们中的许多人都希望（或者应该说需要）早晨的咖啡能给我们带来"起床和行动"。世界上的人每天总共要喝20多亿杯咖啡。你可能认为咖啡给你提供了度过早晨或一天的能量--但咖啡给你的能量可能没有你想象的那么多。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[奥迪A6被打上红旗标 电视剧《狂飙》现低级穿帮镜头]]></title>
@@ -121,6 +128,13 @@
         <content type="html"><![CDATA[2023年开年第一部大剧《狂飙》口碑一路“狂飙”。截稿前，<strong>该剧豆瓣评分从8.7涨至9.0，远超《三体》的8.1分。</strong>从评分来看，<strong>59.2%的观众给了5星满分。4星占比也达到了32.8%，只有0.5%的观众给了1星。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一特斯拉高速上行驶时方向盘脱落：提车仅一周 维修还被收费]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1341889.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1341889.htm"/>
+        <updated>2023-01-31T00:03:23.000Z</updated>
+        <content type="html"><![CDATA[近日消息，有美国网友在社交平台上分享了自己驾驶特斯拉遭遇的“惊险一幕”。据其表示，自己的Model Y才提车一周，<strong>然而在高速拉着一家人行驶时，方向盘突然脱落</strong>，万幸后方并无来着，自己才得以停了下来。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《满江红》被质疑抄袭《龙门镖局》宁财神回应]]></title>
         <id>https://hot.cnbeta.com.tw/articles/movie/1341097.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/movie/1341097.htm"/>
@@ -128,27 +142,10 @@
         <content type="html"><![CDATA[上映一周不到，票房轻松破20亿，有关《满江红》的话题实在是太多了，比如抄袭，幽灵场等等。有不少网友发现，《满江红》的剧情套路和十年前的一部电视剧《龙门镖局》十分的相似，还原度可以说是百分之百，而因为抄袭一事《满江红》也暂时登上热搜。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[旧iPhone原来也能拥有灵动岛 这还换啥新手机啊]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341465.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341465.htm"/>
-        <updated>2023-01-29T10:54:30.000Z</updated>
-        <content type="html"><![CDATA[正如标题所言，我是没想到网友们竟然这么会整活，不仅给旧款 iPhone 整上了灵动岛，甚至还让 iPad 也成功登岛……有一说一，原本我还真以为灵动岛既是硬件又是软件，是 iPhone 14 Pro 系列独享的 moment，不少人也是因为眼馋这功能才换的新 iPhone。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023款MacBook Pro/Mac mini难逃SSD被降速问题 降幅最高35%]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341047.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341047.htm"/>
-        <updated>2023-01-26T11:48:17.000Z</updated>
-        <content type="html"><![CDATA[春节前，苹果发布了多款Mac新品，其都搭载了M2系列处理器，比如2023款MacBook Pro，售价达到了15999元起步。<strong>对于这波新品，有外媒还是爆料称，搭载了M2系列处理器的新品，苹果的一些调整让SSD被降速了，降幅最高达到了35%。256GB的Mac mini（2023款）等也都在其中。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2 Pro和M2 Max芯片与近期M系列和A系列芯片在基准测试中的表现]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341389.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341389.htm"/>
-        <updated>2023-02-01T17:42:13.216Z</updated>
-        <content type="html"><![CDATA[苹果公司最近宣布了其最新的M2 Pro和M2 Max芯片，与上一代Apple 
-Silicon片相比，其CPU和GPU表现都有重大提升。相对而言，新的M2 Max芯片更接近M1 
-Ultra芯片，但后者仍然夺得了苹果最强大芯片的桂冠。如果你有兴趣，可以看看苹果最新M2 Pro和M2 Max芯片在基准测试中的表现，特别是与旧的Apple
- Silicon芯片，包括A系列的芯片相比有什么优势。]]></content>
+        <title type="html"><![CDATA[马斯克转发特斯拉远程融雪暖车功能 引网友热议]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1342097.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1342097.htm"/>
+        <updated>2023-02-01T00:36:16.000Z</updated>
+        <content type="html"><![CDATA[北京时间2月1日消息，马斯克转发了特斯拉官方推文，推文视频中展示了特斯拉汽车应用程序新功能，该功能可以远程融化车身上的积雪，并对车内进行加热，这一视频的内容引起部分网友热议：“为什么要买一辆刚被雪掩埋的车呢？”]]></content>
     </entry>
 </feed>
