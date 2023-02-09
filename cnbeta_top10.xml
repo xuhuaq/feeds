@@ -2,15 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-02-07T17:40:11.668Z</updated>
+    <updated>2023-02-09T05:38:34.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[马斯克转发特斯拉远程融雪暖车功能 引网友热议]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342097.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342097.htm"/>
-        <updated>2023-02-01T00:36:16.000Z</updated>
-        <content type="html"><![CDATA[北京时间2月1日消息，马斯克转发了特斯拉官方推文，推文视频中展示了特斯拉汽车应用程序新功能，该功能可以远程融化车身上的积雪，并对车内进行加热，这一视频的内容引起部分网友热议：“为什么要买一辆刚被雪掩埋的车呢？”]]></content>
+        <title type="html"><![CDATA[精简定制版Windows 11：Tiny11发布 安装所需空间减少一半多]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1342655.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1342655.htm"/>
+        <updated>2023-02-05T03:14:28.000Z</updated>
+        <content type="html"><![CDATA[Windows 95在首次安装时占用不到100MB。然而，Windows 
+11完成后需要占据大约20GB的磁盘空间。没有人怀疑随着技术的发展，软件将需要更多的数据，但许多人认为，Windows在28年里没有理由将安装所需容量大小增加20000%。一位开发者可能已经用一个将Windows
+ 11削减到其默认大小一半的定制安装来证明了这一点。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[免费游戏突然开口要钱 粉丝们却开心坏了：一个月狂掏4800万]]></title>
@@ -27,13 +29,21 @@
         <content type="html"><![CDATA[日前，苹果公布了2023财年Q1季度财报，营收1171.5亿美元，同比下降5%，净利润下降12%至300亿美元，双双表现不及预期，这是苹果6年来最大跌幅。导致苹果营收、盈利下滑的重要原因就是iPhone手机，<strong>iPhone业务净销售额为657.75亿美元，较上年同期的716.28亿美元下降8%，这也是iPhone三年来首次下滑。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[精简定制版Windows 11：Tiny11发布 安装所需空间减少一半多]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342655.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342655.htm"/>
-        <updated>2023-02-05T03:14:28.000Z</updated>
-        <content type="html"><![CDATA[Windows 95在首次安装时占用不到100MB。然而，Windows 
-11完成后需要占据大约20GB的磁盘空间。没有人怀疑随着技术的发展，软件将需要更多的数据，但许多人认为，Windows在28年里没有理由将安装所需容量大小增加20000%。一位开发者可能已经用一个将Windows
- 11削减到其默认大小一半的定制安装来证明了这一点。]]></content>
+        <title type="html"><![CDATA[微软宣布融合OpenAI技术的新必应搜索和Edge浏览器]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343129.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343129.htm"/>
+        <updated>2023-02-08T03:16:21.000Z</updated>
+        <content type="html"><![CDATA[微软的新品发布会现在正在举行。正如预期的那样，该公司将推出其必应搜索引擎和Edge网络浏览器的新版本，该版本将由OpenAI开发的AI技术驱动。微软表示，它实际上将比OpenAI目前的ChatGPT人工智能机器人更强大。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果Mac mini还不如一台显示器贵？我们跟它的产品营销团队聊了聊]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343005.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343005.htm"/>
+        <updated>2023-02-07T11:41:29.000Z</updated>
+        <content type="html"><![CDATA[今年第一波Apple新品，要比往年来的更早一些，全新的Mac mini、MacBook 
+Pro以及HomePod，不等春季大部队，就提前出发，在春节之前上线官网。在这三款新品中，14寸和16寸MacBook 
+Pro例行更新，全系升级更强的M2 Pro、M2 
+Max芯片；HomePod则是久违的老朋友回归，让这个产品线不再只有一款mini机型在售，满足对音质有更高追求的用户。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 17代码泄露 却曝出了iPhone 15的“瓜”]]></title>
@@ -51,39 +61,11 @@
         <content type="html"><![CDATA[国产大飞机C919交付东航后，正在按部就班推进各项工作，以期尽快载客运营。日前，<strong>东航官微分享了C919客机内部的视频内容，并介绍这是唯一采用中文客舱操作系统的大型客机。</strong>空乘介绍，她们可以方便快捷地对客舱里面的一些设施设备进行一个调控，比如客舱的灯光系统等。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米通报汽车设计图泄密处理结果：供应商被罚100万元 泄密人严肃处理]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342277.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342277.htm"/>
-        <updated>2023-02-02T00:41:54.000Z</updated>
-        <content type="html"><![CDATA[2月2日消息，小米今天内部通告了小米汽车设计图泄密处理结果：供应商依照《保密协议》处以100万元的经济赔偿；泄密肇事人进行严肃处理。1月22日，网上流传出了一组小米汽车车型的设计图纸，主要展示了车辆前脸和尾部的设计细节。对此，小米集团公关部总经理王化回应称，泄密的文件是非常早期的招标过程的设计稿，并非最终文件。王化当时提到，小米一定会根据与该供应商签订的保密协议进行严肃处理。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30多年来最大变化 Intel 14代酷睿令人兴奋]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342267.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342267.htm"/>
-        <updated>2023-02-02T00:16:26.000Z</updated>
-        <content type="html"><![CDATA[上周的财报会议上，Intel确认2023年会推出14代酷睿，代号Meteor Lake，只不过发布时间从之前的上半年延期到了下半年。14代酷睿可以说是Intel处理器的一次飞跃，因为它不仅会首发Intel 4及EUV工艺，同时架构也会大改，<strong>并首次在桌面级x86中引入小芯片设计，首次使用多芯片整合封装</strong>，CPU、核显、输入输出等各自独立，制造工艺也不尽相同。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软正在用全屏Windows 11"免费升级"通知提醒Windows 10用户]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342229.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342229.htm"/>
-        <updated>2023-02-02T07:10:03.000Z</updated>
-        <content type="html"><![CDATA[Windows 10的全屏通知又来了，微软正在将"现已解锁，你有资格免费升级到Windows 11"的提醒推送给老版本系统用户。在安装最近的更新后，用户开始在Windows 10上收到全屏的Windows 11"免费升级"通知。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[顶配1.32万元 三星Galaxy S23 Ultra正式发布]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342207.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342207.htm"/>
-        <updated>2023-02-02T04:01:54.000Z</updated>
-        <content type="html"><![CDATA[2月2日凌晨，三星新一代Galaxy S23系列如期而至，照例分为S23、S23+、S23 Ultra三个版本。作为顶级超大杯，Galaxy S23 Ultra这一代升级幅度不算很大，造型设计基本延续了上代风格，配置规格也只是部分升级，包括处理器、影像等。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硬核操作：网友尝试用7斤实心铜柱为i9散热 效果还不错]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342485.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342485.htm"/>
-        <updated>2023-02-06T05:40:41.181Z</updated>
-        <content type="html"><![CDATA[你见过什么样的CPU散热？近日，一位网友在Reddit上晒出了自己的“杰作”，一套可以说前无古人后无来者的被动散热系统。从照片和帖子描述来看，<strong>他采用了一根8磅（约合7.25斤）的实心铜柱，来为自己的一颗i9处理器充当被动散热器。</strong>]]></content>
+        <title type="html"><![CDATA[女子网上买iPhone 14收到一堆铁片 京东自营退一赔一]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343191.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343191.htm"/>
+        <updated>2023-02-08T11:12:53.000Z</updated>
+        <content type="html"><![CDATA[购买iPhone手机，却收到一堆铁片，相信谁遇到都会直接懵掉。据小强热线报道，<strong>2月3日，广东曾女士称，之前她在苹果的京东自营店购买了一台苹果iPhone 14手机。1月31日收到货后，手机包装盒里竟然没有手机，而是一堆铁片。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[18万美元offer！ChatGPT通过谷歌L3入职测试，人类码农危？]]></title>
@@ -93,25 +75,61 @@
         <content type="html"><![CDATA[ChatGPT已经通过Google面试，拿下offer了。看来，替代全部码农它还做不到，但替代一部分，已经是绰绰有余了。最近，ChatGPT成功通过了Google的面试，拿到了年薪18万美元的L3工程师offer！又能替代人类码农，又能给科学论文当共同作者，还能给总统讲话写稿子，这个AI，怕是真要通天了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网传微软苏州大裁员：赔偿N+12个月工资 股票解禁 一年社保]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342173.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342173.htm"/>
-        <updated>2023-02-03T05:40:57.065Z</updated>
-        <content type="html"><![CDATA[近日网上流传一张截图，内容透露微软苏州大裁员，赔偿N+12个月工资，股票解禁，一年社保。截图还称，MSRA副院长被拿下转工程，layoff名单下周宣布。此前微软公司宣布，由于经济形势不佳且客户需求变化，将于3月底前在全球裁员1万人，约占员工总数的5%。]]></content>
+        <title type="html"><![CDATA[老干妈“迟暮”，开始在互联网上摆烂了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1342763.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1342763.htm"/>
+        <updated>2023-02-06T10:44:59.000Z</updated>
+        <content type="html"><![CDATA[老干妈的抖音账号已经停更两个月有余。微博账号也显示“资质未经过年审”而一片空白。这个曾经在调味品货柜上称霸一方的“霸主”，消失在了互联网的世界里。如今已不是线下销售渠道为王的时代，75岁的老干妈创始人陶华碧、26岁的老干妈似乎也走到了“美人迟暮”的年纪，在内外多方面夹击下开始了颓势。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[泰国首富两见马云 收获10亿“见面礼”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1341975.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1341975.htm"/>
-        <updated>2023-02-03T05:40:57.071Z</updated>
-        <content type="html"><![CDATA[与马云见面，价值几何？正大集团资深董事长、泰国首富谢国民给出的答案是9.37亿港币。据《香港经济日报》报道，近日，阿里巴巴联合创始人马云在香港与谢国民及其三儿子、正大行政总裁谢镕仁会面。]]></content>
+        <title type="html"><![CDATA[7斤纯铜就能压制酷睿i9 为啥还要散热风扇？原因一个字：贵]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343001.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343001.htm"/>
+        <updated>2023-02-07T11:36:29.000Z</updated>
+        <content type="html"><![CDATA[近年来随着随着CPU、显卡的性能提升，功耗也水涨船高，高端的CPU如i9、R9高负载下也能跑到200W功耗甚至更高，散热是个麻烦事，又想低温又想低噪音可不容易。前几天有网友展示了自己DIY的一种其他散热器，用了一根8磅（约合7.25斤）的实心铜柱，来为自己的一颗i9处理器充当被动散热器。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三体人为什么那么害怕地球人的加速器？中科院科普]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1341945.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1341945.htm"/>
-        <updated>2023-02-06T05:40:41.183Z</updated>
-        <content type="html"><![CDATA[在《三体》故事中，三体人到地球要飞400年，但如果放任地球发展科技，有可能在到达地球时被地球文明超越，入侵变成送死。<strong>于是，三体人提出了“染色、神迹、智子”三个计划，彻底锁死人类科技。</strong>]]></content>
+        <title type="html"><![CDATA[又一公司高调暴雷 创始人称钱早就洗干净了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343083.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343083.htm"/>
+        <updated>2023-02-09T05:38:33.757Z</updated>
+        <content type="html"><![CDATA[元宵节当天，一封官宣跑路的公开信，让一家中国人在澳洲开的公司火了。这家公司叫傲利资本，创始人名为齐洛，信的内容足以让人“三观震碎”，跟去年底同样官宣跑路的湖南盛大金禧如出一辙：]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软宣布明天举行发布会活动 预计将有Bing ChatGPT出现]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1342939.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1342939.htm"/>
+        <updated>2023-02-07T04:12:02.000Z</updated>
+        <content type="html"><![CDATA[微软将于明天2月7日举行一次重要的新闻发布会。这家软件巨头上周首次在公司的雷德蒙总部邮寄了邀请函，在Google正式宣布其ChatGPT竞争对手后几分钟，现在又正式宣布了这次活动。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google宣布ChatGPT的竞争产品Bard 未来几周将更广泛上线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1342935.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1342935.htm"/>
+        <updated>2023-02-07T04:06:29.000Z</updated>
+        <content type="html"><![CDATA[官方消息，Google正在开发一个名为Bard的ChatGPT竞争者。Google首席执行官桑达尔-皮查伊(Sundar 
+Pichai)今天在一篇博文中宣布了这个项目，将该工具描述为"实验性的对话式人工智能服务"，将回答用户的询问并参与对话。皮查伊说，该软件今天将提供给一组"值得信赖的测试者"，然后"在未来几周内更广泛地提供给公众"。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硬核操作：网友尝试用7斤实心铜柱为i9散热 效果还不错]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1342485.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1342485.htm"/>
+        <updated>2023-02-06T05:40:41.181Z</updated>
+        <content type="html"><![CDATA[你见过什么样的CPU散热？近日，一位网友在Reddit上晒出了自己的“杰作”，一套可以说前无古人后无来者的被动散热系统。从照片和帖子描述来看，<strong>他采用了一根8磅（约合7.25斤）的实心铜柱，来为自己的一颗i9处理器充当被动散热器。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克一周工作量已从80小时升至120小时 什么时间睡觉？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1342809.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1342809.htm"/>
+        <updated>2023-02-06T00:14:56.000Z</updated>
+        <content type="html"><![CDATA[“没人能靠每周工作40小时改变世界。”51岁的马斯克有点儿累了。这位经营着特斯拉、Space X、Twitter等多家公司的亿万富翁，打造了市值最高的汽车公司，开创了私人航天的先河，带领公司在脑机接口领域取得技术突破，还正在革新社交媒体（最后这件事目前还不太成功）。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT修bug横扫全场 准确率达78%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1342807.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1342807.htm"/>
+        <updated>2023-02-06T00:14:15.000Z</updated>
+        <content type="html"><![CDATA[ChatGPT到底有多会修bug？这事终于有人正儿八经地搞研究了——来自德国、英国的研究人员，专门搭了个“擂台”来检验ChatGPT的这项本领。除了ChatGPT之外，研究人员还找来了其它三位修bug的“AI猛将”，分别让它们修复40个错误代码。结果真是不比不知道，一比吓一跳。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AMD Zen4笔记本登顶世界第一 31％优势碾压12代酷睿]]></title>
@@ -123,31 +141,17 @@
  24核心32线程，36MB三级缓存，5.6GHz睿频。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[老干妈“迟暮”，开始在互联网上摆烂了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342763.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342763.htm"/>
-        <updated>2023-02-06T10:44:59.000Z</updated>
-        <content type="html"><![CDATA[老干妈的抖音账号已经停更两个月有余。微博账号也显示“资质未经过年审”而一片空白。这个曾经在调味品货柜上称霸一方的“霸主”，消失在了互联网的世界里。如今已不是线下销售渠道为王的时代，75岁的老干妈创始人陶华碧、26岁的老干妈似乎也走到了“美人迟暮”的年纪，在内外多方面夹击下开始了颓势。]]></content>
+        <title type="html"><![CDATA[女子存款5万需提供个人收入证明引热议 多家银行最新回应]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343199.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343199.htm"/>
+        <updated>2023-02-08T11:18:57.000Z</updated>
+        <content type="html"><![CDATA[近日，浙江湖州一市民发布视频称，去银行存5万元现金，遭遇工作人员对于职业、现金来源等诸多问题的问询，并被要求提供收入证明等材料。此事引发高度关注，并登上热搜。那么，存现金何故需要收入证明？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[揭秘ChatGPT之父：8岁编程16岁出柜 储藏枪支、黄金]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342341.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342341.htm"/>
-        <updated>2023-02-06T05:40:41.187Z</updated>
-        <content type="html"><![CDATA[北京时间2月2日消息，聊天机器人ChatGPT一经推出便火爆了整个AI圈。这款神器背后的开发商就是AI研究公司OpenAI，其CEO山姆·阿尔特曼(Sam Altman)在硅谷也是闻名遐迩，特立独行。以下通过图文形式了解一下这位<strong>ChatGPT的缔造者</strong>：]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT商业应用来了 微软旗下多款工具率先“吃螃蟹”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342383.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342383.htm"/>
-        <updated>2023-02-03T03:57:24.000Z</updated>
-        <content type="html"><![CDATA[<strong>作为ChatGPT聊天机器人背后开发商OpenAI的大金主，微软正忙着把这项火到出圈的技术移植到自家的一系列产品线中，眼下第一批“吃螃蟹”的应用已经走进大众视野。</strong>当地时间周四，微软旗下Dynamics 365产品线（ERP+CRM程序）发布视频，<span style="">宣布旗下客户关系管理软件Viva Sales将集成OpenAI的技术</span>，通过人工智能帮助销售人员完成许多繁杂且重复的文字工作。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可口可乐定制版真我10 Pro官宣：LCD屏 边框比iPhone 14 Pro还窄]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1342321.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1342321.htm"/>
-        <updated>2023-02-07T17:40:10.932Z</updated>
-        <content type="html"><![CDATA[真我宣布将于2月10日在印度发布真我10 Pro可口可乐定制版。<strong>这款新品也将会在国内市场亮相，发布时间应该是2月9日，与真我GT Neo5一同登场。</strong>据悉，真我10 Pro可口可乐定制版基于真我10 Pro打造，该机该机采用了LCD屏幕，<strong>左右边框缩减至1mm，比iPhone 14 Pro系列边框都要窄，后者左右边框宽度是2.1mm，</strong>堪称“窄边框直屏天花板”。]]></content>
+        <title type="html"><![CDATA[iPhone 15 Ultra外观想象图 Type-C接口+钛合金中框]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343053.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343053.htm"/>
+        <updated>2023-02-09T05:38:33.802Z</updated>
+        <content type="html"><![CDATA[自从去年苹果在手表上推出了Ultra机型之后，就一直有传闻称手机产品线也将迎来更贵的iPhone Ultra版本。<strong>据名记Mark Gurman爆料称，苹果将会在Pro Max机型之上增加“Ultra”高端机型，售价将会进一步提升。</strong>]]></content>
     </entry>
 </feed>
