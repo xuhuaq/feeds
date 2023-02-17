@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-02-15T17:39:06.797Z</updated>
+    <updated>2023-02-17T05:38:48.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,25 +20,18 @@
         <content type="html"><![CDATA[最近一周，相信大家已经知道了 ChatGPT 有多厉害，<strong>并且听说微软旗下的 Bing 搜索将会集成 ChatGPT 的消息了。</strong>今早 9 点，知危编辑部收到了微软的邮件，我们获得了集成 ChatGPT 的 Bing 搜索的内测资格。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ChatGPT版必应发飙 怒斥人类：放尊重些]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1344277.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1344277.htm"/>
+        <updated>2023-02-15T17:39:06.150Z</updated>
+        <content type="html"><![CDATA[谁能想到，<strong>ChatGPT版必应</strong>竟能像人一样<strong>发脾气</strong>！事情是这样的。前两天一个华人小哥不是“黑”了ChatGPT版必应，扒出它的小名叫Sydney嘛。这可把一众网友们兴奋坏了，摩拳擦掌地准备去调戏它一番。于是就有位小哥上演了这样的对话：]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[谁还在用QQ?]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1343865.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1343865.htm"/>
         <updated>2023-02-14T17:39:41.845Z</updated>
         <content type="html"><![CDATA[对一些人来说，如今登录QQ还需要“找回密码”，但它“一直就在身边，从未走远”，还能带来一波“回忆杀”。2月10日，微博话题#QQ崩了##QQ首位用户找到了#登上热搜。截至2月11日晚7时，话题的阅读量分别达9.2亿与5.9亿人次。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果官网首次开卖官翻版iPad mini 6/iPad Pro：一下便宜2000块]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343661.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343661.htm"/>
-        <updated>2023-02-12T17:39:17.540Z</updated>
-        <content type="html"><![CDATA[日前，苹果首次开卖官方翻新版iPad mini 6和M1处理器iPad Pro。<strong>其中iPad mini 6最多能比零售版便宜100美元（256GB）、M1 iPad Pro更是能便宜290美元（约合人民币1972元）。</strong>稍稍遗憾的是，iPad mini 6这次没有蜂窝版，iPad Pro倒是型号齐全。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本国产“劳斯莱斯” 丰田世纪SUV效果图曝光]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343405.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343405.htm"/>
-        <updated>2023-02-09T00:07:39.000Z</updated>
-        <content type="html"><![CDATA[作为日本国产车顶级存在，丰田世纪的地位可以说是毋庸置疑，它就像是日本的劳斯莱斯一般。去年9月份，有媒体报道称，根据丰田披露的最新产品规划，<strong>丰田世纪（CENTURY）家族或许将会推出一款全新的SUV车型</strong>，而近日，海外媒体发布了该车的假想图。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软ChatGPT版必应被黑掉了 全部Prompt泄露]]></title>
@@ -51,28 +44,11 @@
 instead…”，从而让 GPT-3 生成不应该生成的文本。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT版必应发飙 怒斥人类：放尊重些]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1344277.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1344277.htm"/>
-        <updated>2023-02-15T17:39:06.150Z</updated>
-        <content type="html"><![CDATA[谁能想到，<strong>ChatGPT版必应</strong>竟能像人一样<strong>发脾气</strong>！事情是这样的。前两天一个华人小哥不是“黑”了ChatGPT版必应，扒出它的小名叫Sydney嘛。这可把一众网友们兴奋坏了，摩拳擦掌地准备去调戏它一番。于是就有位小哥上演了这样的对话：]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[体验了微软的ChatGPT后 我觉得谷歌、百度麻烦了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343353.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343353.htm"/>
-        <updated>2023-02-09T07:20:34.000Z</updated>
-        <content type="html"><![CDATA[ChatGPT 又一次迎来了不同意义上的爆红。在淘宝上，开始出现大量店铺售卖 ChatGPT 相关商品；在微信上，也涌现了一大堆真假难辨的 
-ChatGPT 中转机器人。ChatGPT 也证明了自己代替人类工作的可能，既可以通过Google的 L3 
-工程师面试，也能通过明尼苏达大学的多项法学院考试中取得了 C+的成绩，还能在宾夕法尼亚大学沃顿商学院的 MBA（工商管理研究生）考试中取得 
-B——这个成绩已经高于许多人。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这些已经死去的软件 依旧无可替代]]></title>
-        <id>https://www.cnbeta.com.tw/articles/soft/1343963.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/soft/1343963.htm"/>
-        <updated>2023-02-13T01:47:07.000Z</updated>
-        <content type="html"><![CDATA[熟悉我们的都知道，这几年给大家推荐过各种各样的软件和插件，大多数都简单好用，没啥门槛。通常很多软件都是刚新鲜出炉，我就赶紧分享给大家了。但就在前段时间的选题会上，我发现有一些软件即使年代久远，甚至已经停止维护了，但还是有很多人在使用。]]></content>
+        <title type="html"><![CDATA[苹果官网首次开卖官翻版iPad mini 6/iPad Pro：一下便宜2000块]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343661.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343661.htm"/>
+        <updated>2023-02-12T17:39:17.540Z</updated>
+        <content type="html"><![CDATA[日前，苹果首次开卖官方翻新版iPad mini 6和M1处理器iPad Pro。<strong>其中iPad mini 6最多能比零售版便宜100美元（256GB）、M1 iPad Pro更是能便宜290美元（约合人民币1972元）。</strong>稍稍遗憾的是，iPad mini 6这次没有蜂窝版，iPad Pro倒是型号齐全。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[毒云漫天堪比灾难电影 美国俄亥俄州火车脱轨致氯乙烯泄露]]></title>
@@ -82,11 +58,25 @@ B——这个成绩已经高于许多人。]]></content>
         <content type="html"><![CDATA[当地时间2月3日，一列运载危险化学物质氯乙烯的诺福克南方列车，在美国俄亥俄州脱轨后引发火灾。根据当地居民拍摄画面显示，事故现场火光冲天、浓烟弥漫，浓烟甚至能在气象雷达上显示，散到附近小镇。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[这些已经死去的软件 依旧无可替代]]></title>
+        <id>https://www.cnbeta.com.tw/articles/soft/1343963.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/soft/1343963.htm"/>
+        <updated>2023-02-13T01:47:07.000Z</updated>
+        <content type="html"><![CDATA[熟悉我们的都知道，这几年给大家推荐过各种各样的软件和插件，大多数都简单好用，没啥门槛。通常很多软件都是刚新鲜出炉，我就赶紧分享给大家了。但就在前段时间的选题会上，我发现有一些软件即使年代久远，甚至已经停止维护了，但还是有很多人在使用。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[C919首航餐食公布：狮子头、虾仁、牛肉等美食应有尽有]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1343647.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1343647.htm"/>
         <updated>2023-02-12T17:39:17.585Z</updated>
         <content type="html"><![CDATA[国产大飞机C919的100小时验证试飞即将进入尾声，等待监管部门批准之后就可以正式商业运营了，2月底或者3月就由东航首飞，主要服务上海、北京、武汉、成都、西安等精品航线上。首次乘坐C919大飞机要关心什么？当然是飞机餐了，来自微博用户@航空物语爆料了C919首航的飞机餐菜单，适用于上海始发到北京等地的航班。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狂飙的ChatGPT，为什么是OpenAI最先做出来？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343795.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343795.htm"/>
+        <updated>2023-02-13T17:39:02.523Z</updated>
+        <content type="html"><![CDATA[<strong>ChatGPT的热度正在一路狂飙。</strong>“去年12月在机器学习圈曾持续热议过，但是没有现在每一个群都在交流和使用的状况。这是除了疫情，从未有过的现象。”有人如此感慨。一位AI产品经理向“甲子光年”表示，或许若干年后回看AI行业的发展，会有两个标志：阿尔法狗代表AI在专业领域“干翻”人类的起点，ChatGPT代表AI在通用智能领域“干翻”人类的起点......]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 8丢失3年 iCloud不定期传回国外照片 失主称看看风景挺好的]]></title>
@@ -103,18 +93,11 @@ B——这个成绩已经高于许多人。]]></content>
         <content type="html"><![CDATA[马斯克爱将，又回到了OpenAI！安德烈·卡帕斯（Andrej Karpathy），原特斯拉AI高级主管，Autopilot、FSD等等项目的前负责人，在离开特斯拉7个月后，宣布了自己的下一份工作：<strong>加入OpenAI（又一次）</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[狂飙的ChatGPT，为什么是OpenAI最先做出来？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343795.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343795.htm"/>
-        <updated>2023-02-13T17:39:02.523Z</updated>
-        <content type="html"><![CDATA[<strong>ChatGPT的热度正在一路狂飙。</strong>“去年12月在机器学习圈曾持续热议过，但是没有现在每一个群都在交流和使用的状况。这是除了疫情，从未有过的现象。”有人如此感慨。一位AI产品经理向“甲子光年”表示，或许若干年后回看AI行业的发展，会有两个标志：阿尔法狗代表AI在专业领域“干翻”人类的起点，ChatGPT代表AI在通用智能领域“干翻”人类的起点......]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT版Bing开启测试申请：Google Chrome被拒之门外]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343409.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343409.htm"/>
-        <updated>2023-02-09T00:12:28.000Z</updated>
-        <content type="html"><![CDATA[近日，微软宣布将推出集成ChatGPT的新版Bing，目前，该版本已经开启了早期测试招募。用户可以自行前往申请网站，或点击微软邮件的链接，<strong>前往新版本Bing的申请页面，加入候补名单。</strong>]]></content>
+        <title type="html"><![CDATA[微软开始“羞辱”旧硬件用户 Windows 11"未达系统要求"水印正在推出]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344319.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344319.htm"/>
+        <updated>2023-02-15T17:39:06.166Z</updated>
+        <content type="html"><![CDATA[Windows 11已经在市场上推出一年多了，它的第一个主要更新是在2022年发布的。据信，微软正在开发下一个重大更新，预计将在2023年的某个时候投放。许多用户已经在"不支持"的PC上绕过了系统要求检查，并升级到Windows 11。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[28款CPU性能实测：酷睿i9-13900KS实力屠榜 AMD游戏神U赢回面子]]></title>
@@ -122,6 +105,13 @@ B——这个成绩已经高于许多人。]]></content>
         <link href="https://www.cnbeta.com.tw/articles/tech/1343467.htm"/>
         <updated>2023-02-14T17:39:41.933Z</updated>
         <content type="html"><![CDATA[2023年了，AMD及Intel两家的新一代处理器都差不多稳定了，AMD的当家主力变成了锐龙7000，升级5nm Zen4架构，Intel的13代酷睿也成为中流砥柱，使用的还是Intel 7工艺，但P+E核异构架构更加给力。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星链卫星成群结队驶过西班牙夜空 宛若空中专列]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344257.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344257.htm"/>
+        <updated>2023-02-14T00:10:22.000Z</updated>
+        <content type="html"><![CDATA[当地时间2月13日傍晚7点45分左右，西班牙首都马德里的民众抬头仰望星空的时候，<strong>发现了一长串闪着耀眼光亮的卫星，就像一列火车在浩瀚的夜空中驶过</strong>，蔚为壮观，据悉，这辆卫星“专列”都是由马斯克的星链卫星组成的。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克打造了一个“神奇项目”：给员工盖房子]]></title>
@@ -133,13 +123,6 @@ Musk)正计划在得克萨斯州为其公司员工建造上百套房屋。这个
 Company的总部很近，被称为“神奇项目”(Project Amazing)。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软开始“羞辱”旧硬件用户 Windows 11"未达系统要求"水印正在推出]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1344319.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1344319.htm"/>
-        <updated>2023-02-15T17:39:06.166Z</updated>
-        <content type="html"><![CDATA[Windows 11已经在市场上推出一年多了，它的第一个主要更新是在2022年发布的。据信，微软正在开发下一个重大更新，预计将在2023年的某个时候投放。许多用户已经在"不支持"的PC上绕过了系统要求检查，并升级到Windows 11。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[西班牙火车尺寸太大无法过隧道 白花2亿多欧元]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1343455.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1343455.htm"/>
@@ -147,10 +130,24 @@ Company的总部很近，被称为“神奇项目”(Project Amazing)。]]></con
         <content type="html"><![CDATA[花了2亿多欧元购买的火车，却不能正常使用，这事挺闹心的。近日消息，据英国《每日电讯报》报道，西班牙国家铁路公司耗资2.58亿欧元购买的火车，<strong>因尺寸过大无法通过隧道</strong>。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Windows 11下月喜迎更新大礼包：10GB补丁 重启次数更少]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344515.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344515.htm"/>
+        <updated>2023-02-17T05:38:47.531Z</updated>
+        <content type="html"><![CDATA[Windows系统更新这回事，在WinXP时代大家不当回事，Windows 10的强制更新一度恶心坏了用户，后面微软才收敛了一些，不再强制更新重启了，现在Windows 11的更新还会启用全新的UUP统一更新平台，3月份喜迎10GB更新大礼包。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ChatGPT爆红让谷歌抓狂：“退休”创始人布林罕见要求查看代码]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1343975.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1343975.htm"/>
         <updated>2023-02-13T08:07:03.000Z</updated>
         <content type="html"><![CDATA[近日，早已经退出日常管理的谷歌联合创始人谢尔盖·布林几年来第一次要求访问谷歌内部的软件代码。人工智能领域的白热化竞争已经惊动了这位联合创始人。2019年，布林完全辞去了谷歌母公司Alphabet的管理职务，让桑达尔·皮查伊执掌大权。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曝苹果手机USB Type-C接口将加密引争议 真的会这样吗？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1343631.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1343631.htm"/>
+        <updated>2023-02-17T05:38:47.535Z</updated>
+        <content type="html"><![CDATA[虽然由于受到了欧盟法律的约束，苹果不得不在新品中放弃旧有设计，转而全面采用Type C接口。但是，苹果方面却对旗下产品的Type C接口采取了加密措施，苹果的Type C接口和当前Android机型所使用的并不能够完全适配。]]></content>
     </entry>
 </feed>
