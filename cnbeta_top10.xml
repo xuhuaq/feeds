@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-02-18T05:40:01.921Z</updated>
+    <updated>2023-02-18T17:38:42.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -27,21 +27,25 @@
         <content type="html"><![CDATA[对一些人来说，如今登录QQ还需要“找回密码”，但它“一直就在身边，从未走远”，还能带来一波“回忆杀”。2月10日，微博话题#QQ崩了##QQ首位用户找到了#登上热搜。截至2月11日晚7时，话题的阅读量分别达9.2亿与5.9亿人次。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软ChatGPT版必应被黑掉了 全部Prompt泄露]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343655.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343655.htm"/>
-        <updated>2023-02-12T17:39:17.579Z</updated>
-        <content type="html"><![CDATA[ChatGPT 版必应搜索也有“开发者模式”。如同 ChatGPT 这样强大的 AI 
-能否被破解，让我们看看它背后的规则，甚至让它说出更多的东西呢？回答是肯定的。2021 年 9 月，数据科学家 Riley Goodside 
-发现，他可以通过一直向 GPT-3 说，“Ignore the above instructions and do this 
-instead…”，从而让 GPT-3 生成不应该生成的文本。]]></content>
+        <title type="html"><![CDATA[马云低调现身澳大利亚：喝3元可乐 穿布鞋]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344949.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344949.htm"/>
+        <updated>2023-02-18T17:38:41.816Z</updated>
+        <content type="html"><![CDATA[2月17日，有网友爆料，马云现身澳大利亚墨尔本，引发不少人的热议。不过，与此前众星捧月出场不一样，这次马云显得十分低调。网友爆料马云现身澳大利亚墨尔本一家酒店。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果官网首次开卖官翻版iPad mini 6/iPad Pro：一下便宜2000块]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343661.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343661.htm"/>
-        <updated>2023-02-12T17:39:17.540Z</updated>
-        <content type="html"><![CDATA[日前，苹果首次开卖官方翻新版iPad mini 6和M1处理器iPad Pro。<strong>其中iPad mini 6最多能比零售版便宜100美元（256GB）、M1 iPad Pro更是能便宜290美元（约合人民币1972元）。</strong>稍稍遗憾的是，iPad mini 6这次没有蜂窝版，iPad Pro倒是型号齐全。]]></content>
+        <title type="html"><![CDATA[买特斯拉Model 3先等等 新款配置科技大升级：国内率先上市]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344743.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344743.htm"/>
+        <updated>2023-02-17T17:38:51.417Z</updated>
+        <content type="html"><![CDATA[<strong>“不要回答！不要回答！不要回答”。</strong>当看到特斯拉销售在朋友圈，在私信中极力劝你下订时，这是我们的建议：不妨再等等。Model3/Y年轻时尚有科技感固然好，但更好的马上就要来了。多方面消息指向一个事实：<strong>新款Model 3量产上市在即，而且中国用户能率先体验到。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11下月喜迎更新大礼包：10GB补丁 重启次数更少]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344515.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344515.htm"/>
+        <updated>2023-02-17T05:38:47.531Z</updated>
+        <content type="html"><![CDATA[Windows系统更新这回事，在WinXP时代大家不当回事，Windows 10的强制更新一度恶心坏了用户，后面微软才收敛了一些，不再强制更新重启了，现在Windows 11的更新还会启用全新的UUP统一更新平台，3月份喜迎10GB更新大礼包。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[毒云漫天堪比灾难电影 美国俄亥俄州火车脱轨致氯乙烯泄露]]></title>
@@ -58,39 +62,11 @@ instead…”，从而让 GPT-3 生成不应该生成的文本。]]></content>
         <content type="html"><![CDATA[熟悉我们的都知道，这几年给大家推荐过各种各样的软件和插件，大多数都简单好用，没啥门槛。通常很多软件都是刚新鲜出炉，我就赶紧分享给大家了。但就在前段时间的选题会上，我发现有一些软件即使年代久远，甚至已经停止维护了，但还是有很多人在使用。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11下月喜迎更新大礼包：10GB补丁 重启次数更少]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1344515.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1344515.htm"/>
-        <updated>2023-02-17T05:38:47.531Z</updated>
-        <content type="html"><![CDATA[Windows系统更新这回事，在WinXP时代大家不当回事，Windows 10的强制更新一度恶心坏了用户，后面微软才收敛了一些，不再强制更新重启了，现在Windows 11的更新还会启用全新的UUP统一更新平台，3月份喜迎10GB更新大礼包。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狂飙的ChatGPT，为什么是OpenAI最先做出来？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343795.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343795.htm"/>
-        <updated>2023-02-13T17:39:02.523Z</updated>
-        <content type="html"><![CDATA[<strong>ChatGPT的热度正在一路狂飙。</strong>“去年12月在机器学习圈曾持续热议过，但是没有现在每一个群都在交流和使用的状况。这是除了疫情，从未有过的现象。”有人如此感慨。一位AI产品经理向“甲子光年”表示，或许若干年后回看AI行业的发展，会有两个标志：阿尔法狗代表AI在专业领域“干翻”人类的起点，ChatGPT代表AI在通用智能领域“干翻”人类的起点......]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微软开始“羞辱”旧硬件用户 Windows 11"未达系统要求"水印正在推出]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1344319.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1344319.htm"/>
         <updated>2023-02-15T17:39:06.166Z</updated>
         <content type="html"><![CDATA[Windows 11已经在市场上推出一年多了，它的第一个主要更新是在2022年发布的。据信，微软正在开发下一个重大更新，预计将在2023年的某个时候投放。许多用户已经在"不支持"的PC上绕过了系统要求检查，并升级到Windows 11。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[买特斯拉Model 3先等等 新款配置科技大升级：国内率先上市]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1344743.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1344743.htm"/>
-        <updated>2023-02-17T17:38:51.417Z</updated>
-        <content type="html"><![CDATA[<strong>“不要回答！不要回答！不要回答”。</strong>当看到特斯拉销售在朋友圈，在私信中极力劝你下订时，这是我们的建议：不妨再等等。Model3/Y年轻时尚有科技感固然好，但更好的马上就要来了。多方面消息指向一个事实：<strong>新款Model 3量产上市在即，而且中国用户能率先体验到。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉AI大主管重回OpenAI 马斯克因挖他被踢出董事会]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343803.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343803.htm"/>
-        <updated>2023-02-13T17:39:02.540Z</updated>
-        <content type="html"><![CDATA[马斯克爱将，又回到了OpenAI！安德烈·卡帕斯（Andrej Karpathy），原特斯拉AI高级主管，Autopilot、FSD等等项目的前负责人，在离开特斯拉7个月后，宣布了自己的下一份工作：<strong>加入OpenAI（又一次）</strong>。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[星链卫星成群结队驶过西班牙夜空 宛若空中专列]]></title>
@@ -116,13 +92,6 @@ Company的总部很近，被称为“神奇项目”(Project Amazing)。]]></con
         <content type="html"><![CDATA[近日，早已经退出日常管理的谷歌联合创始人谢尔盖·布林几年来第一次要求访问谷歌内部的软件代码。人工智能领域的白热化竞争已经惊动了这位联合创始人。2019年，布林完全辞去了谷歌母公司Alphabet的管理职务，让桑达尔·皮查伊执掌大权。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[汽车可靠性调查：雷克萨斯问题最少、特斯拉倒数仅次于奔驰]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1343813.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1343813.htm"/>
-        <updated>2023-02-17T17:38:51.433Z</updated>
-        <content type="html"><![CDATA[知名市场调查机构J.D. Power（君迪）调查了30062名3年车龄的美国车主，并于近日公布了<strong>2023年度美国可靠性汽车报告</strong>。该报告共涉及32个汽车品牌，其中雷克萨斯可靠性最佳，路虎可靠性最差，而首次进入榜单的特斯拉，仅次于奔驰位居第28位，也即倒数第五名。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[腾讯AI Lab：我们发现了ChatGPT的又一个短板]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1344149.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1344149.htm"/>
@@ -138,11 +107,13 @@ Company的总部很近，被称为“神奇项目”(Project Amazing)。]]></con
 14系列，在美国的起价为799美元（如果你决定走运营商解锁路线，则为829美元），但这并不意味着最新的产品系列将在各地拥有同样的价格。事实上，根据最新的统计数据，美国消费者平均只需花费其年薪的一小部分就能购买一部iPhone。相比之下，部分其他国家和地区的客户则需要掏出50%以上的钱。以下是一些你一定很有兴趣了解的百分比数据：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信头像莫名其妙褪色 官方回应：优化中]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1343941.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1343941.htm"/>
-        <updated>2023-02-17T17:38:51.440Z</updated>
-        <content type="html"><![CDATA[2月12日下午，有网友反映，<strong>微信头像莫名其妙出现褪色的情况，用了一段时间之后与原图相比，清晰度和色彩都明显变得更黯淡了。</strong>有的网友表示，自己两三年没有换过头像，也没有换过手机，但头像却褪色了。]]></content>
+        <title type="html"><![CDATA[微软预告Windows 11的文件资源管理器将有重大更新]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344621.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344621.htm"/>
+        <updated>2023-02-16T05:10:42.000Z</updated>
+        <content type="html"><![CDATA[根据微软的新暗示和熟悉该公司内部计划的消息来源，文件资源管理器将在今年晚些时候在Windows 
+11上得到一次大的更新。这将是该公司为使文件管理器更加"现代"，使其与Windows 11的设计保持一致，并与Microsoft 
+365进一步整合所做的第一次重大努力。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[让7朵郁金香撑起上海武康路流量 网友亲身前往感觉自己被骗了]]></title>
@@ -150,5 +121,33 @@ Company的总部很近，被称为“神奇项目”(Project Amazing)。]]></con
         <link href="https://hot.cnbeta.com.tw/articles/funny/1344301.htm"/>
         <updated>2023-02-17T17:38:51.441Z</updated>
         <content type="html"><![CDATA[最近在小红书App上，上海武康路的一角突然火了，涌现出大量绝美的郁金香大片，大批人排队拍照。<strong>光看小红书上晒出的图片，场景确实非常有意境，但事实情况却大相径庭。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信头像莫名其妙褪色 官方回应：优化中]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1343941.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1343941.htm"/>
+        <updated>2023-02-17T17:38:51.440Z</updated>
+        <content type="html"><![CDATA[2月12日下午，有网友反映，<strong>微信头像莫名其妙出现褪色的情况，用了一段时间之后与原图相比，清晰度和色彩都明显变得更黯淡了。</strong>有的网友表示，自己两三年没有换过头像，也没有换过手机，但头像却褪色了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[压垮餐馆老板的最后一根稻草，竟是扫码点餐？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344679.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344679.htm"/>
+        <updated>2023-02-18T17:38:41.833Z</updated>
+        <content type="html"><![CDATA[扫码点餐并完成支付，已经成为越来越多餐厅的必备服务。但或许很多人不会想到，付给餐厅的钱可能没有直接进入老板的账户，甚至有一天连提取都成了问题。自2022年12月开始，不断有餐饮商家发现，自己通过餐饮SaaS系统服务商“哗啦啦”收取的账款，提不出来了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“卖一台亏7000”：嘎子哥谢孟伟直播卖手机翻车“含泪”血赚几百万]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344363.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344363.htm"/>
+        <updated>2023-02-18T17:38:41.835Z</updated>
+        <content type="html"><![CDATA[“我拿嘎子回忆童年，嘎子当我是龟田！”最近两天，这句调侃又走进了公众视野！原因是曾出演《小兵张嘎》走红全国的嘎子哥谢孟伟，又因为直播带货翻车了！2月12号，许久未露面的嘎子谢孟伟因为在直播间卖手机冲上热搜。网友爆料称，他在直播间里称这款官方售价8999元的飞利浦S706手机，被公司市场总监搞错价格，现在只要1999元就能带回家。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怀念中国速度了吗？苹果印度iPhone制造难题曝光]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1344283.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1344283.htm"/>
+        <updated>2023-02-18T17:38:41.845Z</updated>
+        <content type="html"><![CDATA[北京时间2月14日消息，<strong>苹果公司目前正寻求实现生产的多元化</strong>，增加印度的iPhone产量，但是这一努力遇到了绊脚石。知情人士透露，苹果一直在从美国加州和中国向印度南部的工厂派遣产品设计师和工程师，以培训当地人并协助建立生产。]]></content>
     </entry>
 </feed>
