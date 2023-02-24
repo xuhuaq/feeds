@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-02-24T05:38:58.301Z</updated>
+    <updated>2023-02-24T17:39:30.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -26,13 +26,6 @@
         <updated>2023-02-22T17:39:03.318Z</updated>
         <content type="html"><![CDATA[随着半导体工艺进入到5nm节点以内，对EUV光刻机的需求也不断增长，目前全球只有ASML一家公司能够生产EUV光刻机，今年的出货量还会进一步提升。当然，EUV这样的光刻机主要用于先进工艺，所以全球有需求也有能力购买EUV光刻机的芯片制造商也不多，ASML
  CEO日前在采访中提到他们在全球有5家EUV光刻机客户。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[买特斯拉Model 3先等等 新款配置科技大升级：国内率先上市]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1344743.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1344743.htm"/>
-        <updated>2023-02-17T17:38:51.417Z</updated>
-        <content type="html"><![CDATA[<strong>“不要回答！不要回答！不要回答”。</strong>当看到特斯拉销售在朋友圈，在私信中极力劝你下订时，这是我们的建议：不妨再等等。Model3/Y年轻时尚有科技感固然好，但更好的马上就要来了。多方面消息指向一个事实：<strong>新款Model 3量产上市在即，而且中国用户能率先体验到。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌没“Money”了]]></title>
@@ -81,18 +74,18 @@ Pro/Pro+的拆解分析结果，发现了不少这两部手机配备的自研芯
  Truong在声明中表示：“PSVR2是面向PS5主机进行设计的。”记者询问PSVR2是否支持PC平台的时候，索尼方面并未正面回应。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[张一鸣的开挂人生:13年前买iPhone 4都舍不得 如今已是中国首富]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345379.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345379.htm"/>
-        <updated>2023-02-21T17:39:44.848Z</updated>
-        <content type="html"><![CDATA[近日，有网友翻出了13年前字节跳动、今日头条的创始人、原CEO张一鸣的微博内容，当年的他嫌第一代iPhone响应速度太慢耽误事情，换Android手机又不能使用已经购买了的软件，苹果的iPhone 4又太贵了，所以在纠结买不买。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微软狂飙，百度谷歌有点追不上了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1345247.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1345247.htm"/>
         <updated>2023-02-20T10:31:28.000Z</updated>
         <content type="html"><![CDATA[微软的必应搜索引擎嵌入ChatGPT后，它的智能程度震惊了世人。一夜之间，人们似乎都在期待，智能搜索引擎会怎样干掉以谷歌和百度为代表的传统搜索引擎？ChatGPT火了好一阵了，各种消息还是层出不穷。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[张一鸣的开挂人生:13年前买iPhone 4都舍不得 如今已是中国首富]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345379.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345379.htm"/>
+        <updated>2023-02-21T17:39:44.848Z</updated>
+        <content type="html"><![CDATA[近日，有网友翻出了13年前字节跳动、今日头条的创始人、原CEO张一鸣的微博内容，当年的他嫌第一代iPhone响应速度太慢耽误事情，换Android手机又不能使用已经购买了的软件，苹果的iPhone 4又太贵了，所以在纠结买不买。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[暴雪情商极低全体会议CEO爆论 引发全体员工众怒]]></title>
@@ -102,25 +95,6 @@ Pro/Pro+的拆解分析结果，发现了不少这两部手机配备的自研芯
         <content type="html"><![CDATA[据 GameDeveloper 报道，最近在暴雪举办的公司全体问答环节中，暴雪 CEO Mike Yabarra 的一部分回答导致公司的员工感到震惊和愤怒。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 15 Pro USB-C端口的真机图像首次出现]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1344859.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1344859.htm"/>
-        <updated>2023-02-17T11:27:42.000Z</updated>
-        <content type="html"><![CDATA[一位泄密者分享了他声称是iPhone 15 Pro 
-USB-C端口的"实际特写"照片。被称为@URedditor或Unknownz21的Twitter用户分享了一张据称是iPhone 15 Pro
- USB-C接口的图片。如果是真的，这将是该设备的第一张真正的外观，而不是渲染。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉看不上的激光雷达 成了中国企业的“独角戏”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1344903.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1344903.htm"/>
-        <updated>2023-02-21T17:39:44.832Z</updated>
-        <content type="html"><![CDATA[“傻瓜才用激光雷达。”至少从 2019 年开始，马斯克多次炮轰车载激光雷达方案，并将特斯拉带向纯视觉方案。去年 10 
-月，特斯拉官方宣布，所有为北美、欧洲、中东制造的 Model 3 和 Model Y 都不再配备超声波传感器，将完全依靠 Tesla 
-Vision 提供 Autopilot（辅助驾驶）、FSD（自动驾驶）和主动安全功能。从 2023 年开始，这一举措延续到了 Model S 和
- Model X 车型。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《小龙人》贝贝扮演者陈晨突然去世：年仅38岁]]></title>
         <id>https://hot.cnbeta.com.tw/articles/movie/1345349.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/movie/1345349.htm"/>
@@ -128,20 +102,11 @@ Vision 提供 Autopilot（辅助驾驶）、FSD（自动驾驶）和主动安全
         <content type="html"><![CDATA[《小龙人》，是无数80后的经典童年回忆。2月20日，演员“苗苗老师”黄禾透露，<strong>在《小龙人》里扮演贝贝的演员陈晨，于2023年2月18日因病在北京突然离世。</strong>小龙人的扮演者陈嘉男也表示太突然了，前天还和陈晨一起吃过饭，实在无法接受这个消息，连声再见都没说。今后会把其两个女儿当作自己的孩子一样。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 15 Pro渲染图：边框更薄、相机模组更厚、USB-C接口]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1344809.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1344809.htm"/>
-        <updated>2023-02-17T05:42:01.000Z</updated>
-        <content type="html"><![CDATA[多个传言表明，iPhone 15 Pro和iPhone 15 Pro Max将有少量的设计变化，为了展示我们可能看到的东西，Ian 
-Zelbo制作了一系列渲染图。随着iPhone 15阵容的推出，所有iPhone 
-15机型都将改为USB-C以取代Lightning接口。根据渲染图，该端口看起来不会有明显不同，底部的扬声器孔也可能会有一些变化。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国一封信寄了107年 官方回应：偶尔会有这种情况]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1345355.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1345355.htm"/>
-        <updated>2023-02-23T17:41:04.782Z</updated>
-        <content type="html"><![CDATA[据外媒报道，近日英国伦敦一男子收到一封收件人为“凯蒂”的信件，寄件日期写着“16年2月6日”。他本以为这是2016年寄出的信件，却发现邮票上印着国王乔治五世的肖像，调查后发现这封信竟是来自1916年，收件人“凯蒂”夫妇是他居住房屋的前住户。]]></content>
+        <title type="html"><![CDATA[新款特斯拉Model 3实车谍照曝光：疑似加长、内饰大改]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345995.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345995.htm"/>
+        <updated>2023-02-23T00:05:12.000Z</updated>
+        <content type="html"><![CDATA[2月23日，有海外媒体拍到了<strong>新款特斯拉Model 3的最新实车谍照</strong>，该车有望于2023年下半年正式亮相。由于覆盖有伪装，所以看不清楚具体情况，只能从一些细节进行推敲，预计新车会在头灯组末端加入摄像头，进一步提高车辆的“视觉”能力，增强特斯拉FSD自动驾驶辅助系统的性能，同时可能还会引入360°全景影像功能。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[复旦抢发类ChatGPT模型MOSS被骂惨了 内测服务器挤崩]]></title>
@@ -151,10 +116,39 @@ Zelbo制作了一系列渲染图。随着iPhone 15阵容的推出，所有iPhone
         <content type="html"><![CDATA[昨日，复旦大学自然语言处理实验室邱锡鹏教授团队发布了国内第一个对话式AI模型MOSS，邀请公众参与内测。据介绍，MOSS可执行对话生成、编程、事实问答等任务，打通了让生成式语言模型理解人类意图并具有对话能力的全部技术路径。其命名灵感来自《流浪地球》中的人工智能MOSS。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[英国一封信寄了107年 官方回应：偶尔会有这种情况]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1345355.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1345355.htm"/>
+        <updated>2023-02-23T17:41:04.782Z</updated>
+        <content type="html"><![CDATA[据外媒报道，近日英国伦敦一男子收到一封收件人为“凯蒂”的信件，寄件日期写着“16年2月6日”。他本以为这是2016年寄出的信件，却发现邮票上印着国王乔治五世的肖像，调查后发现这封信竟是来自1916年，收件人“凯蒂”夫妇是他居住房屋的前住户。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone 14 Pro Max出现烧屏：在微信摇一摇显示AOD画面]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1345027.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1345027.htm"/>
         <updated>2023-02-18T08:08:18.000Z</updated>
         <content type="html"><![CDATA[苹果时隔多年才在iPhone 14 Pro系列上推出AOD息屏显示，虽然可以全屏显示完整画面，效果看起来很炫酷，但却让烧屏更快了。<strong>近日，有国内用户在酷安上晒出自己的iPhone 14 Pro Max烧屏了，息屏显示界面已经永久留在了屏幕上。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员发现了弱点 人类在围棋比赛中击败顶级AI KataGo]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345187.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345187.htm"/>
+        <updated>2023-02-24T17:39:29.616Z</updated>
+        <content type="html"><![CDATA[2月19日消息，最近一名美国围棋选手战胜了排名与AlphaGo不相上下的人工智能KataGo，意味着自2016年谷歌人工智能系统AlphaGo击败世界围棋冠军以来，人类翻盘击败顶级人工智能。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome浏览器的最新版本包括解决其内存占用问题的工具]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345435.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345435.htm"/>
+        <updated>2023-02-21T02:43:28.000Z</updated>
+        <content type="html"><![CDATA[<strong>Google已经发布了优化功能，旨在改善运行其最新版本Chrome桌面网络浏览器的机器的电池寿命和内存使用。</strong>Chrome的新节能模式和省内存模式于去年12月在发布Chrome
+ 108的同时首次公布，现在这两个优化工具开始在全球范围内被包含到Mac、Windows和Chromebook的Chrome 110程序当中。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果改变年轻一代社交圈：安卓成“老鼠屎” 咬牙买iPhone]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345691.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345691.htm"/>
+        <updated>2023-02-22T10:48:14.000Z</updated>
+        <content type="html"><![CDATA[在美国年轻一代心目中，<strong>iPhone已经不单单是一部手机，它还能改变自己的社交圈子</strong>，他们不想被朋友贴上“Android人”的标签。苹果已经彻底俘获了美国Z世代(1996年以后出生)的心，以至于年轻消费者会担心因为没有iPhone而遭到社交排斥。<strong>这种趋势会产生溢出效应，将有助于苹果在其他产品类别上获得更多市场份额。</strong>]]></content>
     </entry>
 </feed>
