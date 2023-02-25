@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-02-25T05:38:37.993Z</updated>
+    <updated>2023-02-25T17:39:12.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[联想的“计划性报废” 整个笔记本电脑圈都炸锅了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345041.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345041.htm"/>
-        <updated>2023-02-18T10:50:02.000Z</updated>
-        <content type="html"><![CDATA[近日，只要是和笔记本有关的讨论。都绕不开一个关键词“低温锡焊”。机哥一开始，也看的是一头雾水。仔细了解了一下才搞懂，原来是笔记本大厂联想，这次翻车了。上周，一位 ID @笔记本维修厮 的 B 站 UP 主，上传了一段百万播放的爆款视频。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马云低调现身澳大利亚：喝3元可乐 穿布鞋]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1344949.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1344949.htm"/>
-        <updated>2023-02-18T17:38:41.816Z</updated>
-        <content type="html"><![CDATA[2月17日，有网友爆料，马云现身澳大利亚墨尔本，引发不少人的热议。不过，与此前众星捧月出场不一样，这次马云显得十分低调。网友爆料马云现身澳大利亚墨尔本一家酒店。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ASML今年将出货60台EUV光刻机 全球只有5家客户]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1345573.htm</id>
@@ -33,14 +19,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1345063.htm"/>
         <updated>2023-02-20T17:39:24.942Z</updated>
         <content type="html"><![CDATA[<strong>又一位身居高位的硅谷女性苏珊·沃西基（Susan Wojcicki）宣布离任。</strong>苏珊此时的离开，对于Google来说不算是好消息。Google在她家车库里创办，第一个营销经理由她担任，知名的涂鸦Logo背后有她的参与，开创性的广告产品之一AdSense的第一任产品经理是她，提议和推动Google收购YouTube的还是她。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Model 3改款真车首曝 揭秘三大改变 最快下月投产]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1344979.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1344979.htm"/>
-        <updated>2023-02-19T17:40:01.008Z</updated>
-        <content type="html"><![CDATA[特斯拉Model 3改款车终于要来了！日前，有海外网友拍到了特斯拉Model 3改款车型的最新谍照，谍照显示，新款Model 
-3在外观上并没有太大变化，车辆伪装也集中下头部和尾部。根据此前流传的信息来看，车辆前面或许会增加传感器的数量进一步提升车辆的自动驾驶能力。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[拆解小米、vivo与华为新款手机 国产自研芯片真的起来了？]]></title>
@@ -74,6 +52,13 @@ Pro/Pro+的拆解分析结果，发现了不少这两部手机配备的自研芯
  Truong在声明中表示：“PSVR2是面向PS5主机进行设计的。”记者询问PSVR2是否支持PC平台的时候，索尼方面并未正面回应。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新款特斯拉Model 3实车谍照曝光：疑似加长、内饰大改]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345995.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345995.htm"/>
+        <updated>2023-02-23T00:05:12.000Z</updated>
+        <content type="html"><![CDATA[2月23日，有海外媒体拍到了<strong>新款特斯拉Model 3的最新实车谍照</strong>，该车有望于2023年下半年正式亮相。由于覆盖有伪装，所以看不清楚具体情况，只能从一些细节进行推敲，预计新车会在头灯组末端加入摄像头，进一步提高车辆的“视觉”能力，增强特斯拉FSD自动驾驶辅助系统的性能，同时可能还会引入360°全景影像功能。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微软狂飙，百度谷歌有点追不上了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1345247.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1345247.htm"/>
@@ -102,20 +87,6 @@ Pro/Pro+的拆解分析结果，发现了不少这两部手机配备的自研芯
         <content type="html"><![CDATA[《小龙人》，是无数80后的经典童年回忆。2月20日，演员“苗苗老师”黄禾透露，<strong>在《小龙人》里扮演贝贝的演员陈晨，于2023年2月18日因病在北京突然离世。</strong>小龙人的扮演者陈嘉男也表示太突然了，前天还和陈晨一起吃过饭，实在无法接受这个消息，连声再见都没说。今后会把其两个女儿当作自己的孩子一样。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新款特斯拉Model 3实车谍照曝光：疑似加长、内饰大改]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345995.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345995.htm"/>
-        <updated>2023-02-23T00:05:12.000Z</updated>
-        <content type="html"><![CDATA[2月23日，有海外媒体拍到了<strong>新款特斯拉Model 3的最新实车谍照</strong>，该车有望于2023年下半年正式亮相。由于覆盖有伪装，所以看不清楚具体情况，只能从一些细节进行推敲，预计新车会在头灯组末端加入摄像头，进一步提高车辆的“视觉”能力，增强特斯拉FSD自动驾驶辅助系统的性能，同时可能还会引入360°全景影像功能。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复旦抢发类ChatGPT模型MOSS被骂惨了 内测服务器挤崩]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345585.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345585.htm"/>
-        <updated>2023-02-23T17:41:04.784Z</updated>
-        <content type="html"><![CDATA[昨日，复旦大学自然语言处理实验室邱锡鹏教授团队发布了国内第一个对话式AI模型MOSS，邀请公众参与内测。据介绍，MOSS可执行对话生成、编程、事实问答等任务，打通了让生成式语言模型理解人类意图并具有对话能力的全部技术路径。其命名灵感来自《流浪地球》中的人工智能MOSS。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[英国一封信寄了107年 官方回应：偶尔会有这种情况]]></title>
         <id>https://hot.cnbeta.com.tw/articles/funny/1345355.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/funny/1345355.htm"/>
@@ -123,11 +94,11 @@ Pro/Pro+的拆解分析结果，发现了不少这两部手机配备的自研芯
         <content type="html"><![CDATA[据外媒报道，近日英国伦敦一男子收到一封收件人为“凯蒂”的信件，寄件日期写着“16年2月6日”。他本以为这是2016年寄出的信件，却发现邮票上印着国王乔治五世的肖像，调查后发现这封信竟是来自1916年，收件人“凯蒂”夫妇是他居住房屋的前住户。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 14 Pro Max出现烧屏：在微信摇一摇显示AOD画面]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345027.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345027.htm"/>
-        <updated>2023-02-18T08:08:18.000Z</updated>
-        <content type="html"><![CDATA[苹果时隔多年才在iPhone 14 Pro系列上推出AOD息屏显示，虽然可以全屏显示完整画面，效果看起来很炫酷，但却让烧屏更快了。<strong>近日，有国内用户在酷安上晒出自己的iPhone 14 Pro Max烧屏了，息屏显示界面已经永久留在了屏幕上。</strong>]]></content>
+        <title type="html"><![CDATA[复旦抢发类ChatGPT模型MOSS被骂惨了 内测服务器挤崩]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345585.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345585.htm"/>
+        <updated>2023-02-23T17:41:04.784Z</updated>
+        <content type="html"><![CDATA[昨日，复旦大学自然语言处理实验室邱锡鹏教授团队发布了国内第一个对话式AI模型MOSS，邀请公众参与内测。据介绍，MOSS可执行对话生成、编程、事实问答等任务，打通了让生成式语言模型理解人类意图并具有对话能力的全部技术路径。其命名灵感来自《流浪地球》中的人工智能MOSS。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[研究人员发现了弱点 人类在围棋比赛中击败顶级AI KataGo]]></title>
@@ -150,5 +121,35 @@ Pro/Pro+的拆解分析结果，发现了不少这两部手机配备的自研芯
         <link href="https://www.cnbeta.com.tw/articles/tech/1345691.htm"/>
         <updated>2023-02-22T10:48:14.000Z</updated>
         <content type="html"><![CDATA[在美国年轻一代心目中，<strong>iPhone已经不单单是一部手机，它还能改变自己的社交圈子</strong>，他们不想被朋友贴上“Android人”的标签。苹果已经彻底俘获了美国Z世代(1996年以后出生)的心，以至于年轻消费者会担心因为没有iPhone而遭到社交排斥。<strong>这种趋势会产生溢出效应，将有助于苹果在其他产品类别上获得更多市场份额。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔兽等游戏停服一个月 暴雪真不着急：两家中国公司抢破头]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346013.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346013.htm"/>
+        <updated>2023-02-25T17:39:11.365Z</updated>
+        <content type="html"><![CDATA[对魔兽玩家来说，今天是国服停服一个月的日子了，但是暴雪跟网易分手之后，国内新代理花落谁家一直没有明确消息，现在有爆料称暴雪反而不着急了，因为有两家国内游戏公司正在抢着开价争夺代理权。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联想“饼干”充电头上架：65W功率 附赠1.8m充电线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345799.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345799.htm"/>
+        <updated>2023-02-25T17:39:11.365Z</updated>
+        <content type="html"><![CDATA[<strong>2月22日消息，联想推出了一款饼干充电头，名为ThinkBook随行能量卡GaN 65W便携适配器，首发199元。</strong>外观上，这款充电头突破性将充电器形态压缩至饼干形状，机身仅12.7mm，另采用折叠式插脚设计，携带方便。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔚来车主分享“薅羊毛”技巧：反向换电、每月白赚300块]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345595.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345595.htm"/>
+        <updated>2023-02-25T17:39:11.366Z</updated>
+        <content type="html"><![CDATA[蔚来的车主肯定对换电站很熟悉，毕竟这算是专属的特色服务，不过你可曾想过<strong>有车主竟然薅上了蔚来的羊毛</strong>。近日，有蔚来车主在线分享了经验，表示自己不仅不用花钱就能开车，每个月还能赚300元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泄露的照片展示了iPhone 15的显示屏和USB-C接口]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345907.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345907.htm"/>
+        <updated>2023-02-23T07:20:09.000Z</updated>
+        <content type="html"><![CDATA[据称描述标准版iPhone 15机身的图片今天现身，由泄密者Unknownz21在Twitter上分享，让我们第一次看到iPhone 
+15的设计全貌。图片展示了iPhone底部的USB-C接口，它将取代苹果自2012年以来在每部iPhone上使用的Lightning接口。由于欧盟实施的充电端口立法，整个iPhone
+ 15阵容将过渡到USB-C。]]></content>
     </entry>
 </feed>
