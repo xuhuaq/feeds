@@ -2,43 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-28T05:41:04.225Z</updated>
+    <updated>2023-02-28T17:39:44.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[ASML今年将出货60台EUV光刻机 全球只有5家客户 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345573.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345573.htm"/>
-        <updated>2023-02-22T17:39:03.318Z</updated>
-        <content type="html"><![CDATA[随着半导体工艺进入到5nm节点以内，对EUV光刻机的需求也不断增长，目前全球只有ASML一家公司能够生产EUV光刻机，今年的出货量还会进一步提升。当然，EUV这样的光刻机主要用于先进工艺，所以全球有需求也有能力购买EUV光刻机的芯片制造商也不多，ASML
- CEO日前在采访中提到他们在全球有5家EUV光刻机客户。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[新款特斯拉Model 3实车谍照曝光：疑似加长、内饰大改 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1345995.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1345995.htm"/>
         <updated>2023-02-23T00:05:12.000Z</updated>
         <content type="html"><![CDATA[2月23日，有海外媒体拍到了<strong>新款特斯拉Model 3的最新实车谍照</strong>，该车有望于2023年下半年正式亮相。由于覆盖有伪装，所以看不清楚具体情况，只能从一些细节进行推敲，预计新车会在头灯组末端加入摄像头，进一步提高车辆的“视觉”能力，增强特斯拉FSD自动驾驶辅助系统的性能，同时可能还会引入360°全景影像功能。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星回应Galaxy S23 Ultra屏幕瑕疵：并非缺陷 不影响使用 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345523.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345523.htm"/>
-        <updated>2023-02-21T00:54:19.000Z</updated>
-        <content type="html"><![CDATA[近日，三星发布了新一代旗舰Galaxy S23系列，但有用户反应，他们的Galaxy S23 Ultra似乎存在屏幕缺陷。从照片来看，<strong>这些用户手机屏幕的左下角或右下角，出现了一个小的瑕疵或变形，对于一台售价不菲的旗舰手机来说，这显然无法接受。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《狂飙》高启兰在日本火爆出圈 网友：《柯南》妃英理本理 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1346199.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1346199.htm"/>
-        <updated>2023-02-26T17:39:04.410Z</updated>
-        <content type="html"><![CDATA[《狂飙》最近成为现象级热播剧，刷新爱奇艺多项纪录；单集收视率、日均播放量创历史新高。该电视剧还衍生出“老默我想吃鱼了”“高启盛摇头走路”“人紧张的时候要吃棒棒糖”“干嚼咖啡不用冲”等热梗。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张一鸣的开挂人生:13年前买iPhone 4都舍不得 如今已是中国首富 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345379.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345379.htm"/>
-        <updated>2023-02-21T17:39:44.848Z</updated>
-        <content type="html"><![CDATA[近日，有网友翻出了13年前字节跳动、今日头条的创始人、原CEO张一鸣的微博内容，当年的他嫌第一代iPhone响应速度太慢耽误事情，换Android手机又不能使用已经购买了的软件，苹果的iPhone 4又太贵了，所以在纠结买不买。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“B站焊武帝”再出圈：孤身爆肝造CPU，软硬件全自研，可玩游戏 (cnbeta一周点击排行)]]></title>
@@ -48,18 +19,26 @@
         <content type="html"><![CDATA[两年时间，一个90后体制内小哥下班之后只干三件私务，那就是：手搓CPU！手搓CPU！还是***手搓CPU！纯手工制作、全自主研发，于是一个名叫“初芯”的CPU终极形态终于诞生。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Galaxy S23 Ultra的电池可以在开盖后快速拆除 无需任何工具 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346623.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346623.htm"/>
+        <updated>2023-02-27T11:58:37.000Z</updated>
+        <content type="html"><![CDATA[三星在Galaxy S23 Ultra上使用相同的设计可能让一些人感到不满，但在收取与Galaxy S22 
+Ultra相同价格的情况下，对这一旗舰机所做的改进确实令人瞩目。在经受住了弯曲测试后，一位YouTuber显示，他等了八年之久，三星才实现了这一小小的改变，使电池拆卸成为一个无痛的过程。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《狂飙》高启兰在日本火爆出圈 网友：《柯南》妃英理本理 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1346199.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1346199.htm"/>
+        <updated>2023-02-26T17:39:04.410Z</updated>
+        <content type="html"><![CDATA[《狂飙》最近成为现象级热播剧，刷新爱奇艺多项纪录；单集收视率、日均播放量创历史新高。该电视剧还衍生出“老默我想吃鱼了”“高启盛摇头走路”“人紧张的时候要吃棒棒糖”“干嚼咖啡不用冲”等热梗。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新理论认为超光速粒子可能能够穿越时空回到过去 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1346185.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1346185.htm"/>
         <updated>2023-02-24T00:33:13.000Z</updated>
         <content type="html"><![CDATA[超光速粒子的想法在20世纪初首次获得关注，当时阿尔伯特-爱因斯坦提出理论，认为一种可以比光速更快的粒子可能存在。这个术语直到1967年才被创造出来，当时物理学家杰拉尔德-费恩伯格如此命名它。虽然我们不知道这些粒子的存在，但新的报告认为超光速粒子可能有时间旅行的成分。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复旦抢发类ChatGPT模型MOSS被骂惨了 内测服务器挤崩 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345585.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345585.htm"/>
-        <updated>2023-02-23T17:41:04.784Z</updated>
-        <content type="html"><![CDATA[昨日，复旦大学自然语言处理实验室邱锡鹏教授团队发布了国内第一个对话式AI模型MOSS，邀请公众参与内测。据介绍，MOSS可执行对话生成、编程、事实问答等任务，打通了让生成式语言模型理解人类意图并具有对话能力的全部技术路径。其命名灵感来自《流浪地球》中的人工智能MOSS。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软正在Google Chrome网页注入全尺寸广告 希望用户留在Edge (cnbeta一周点击排行)]]></title>
@@ -69,6 +48,20 @@
         <content type="html"><![CDATA[作为Windows 10和11系统中自带的浏览器，微软Edge经常被戏称为成为下载Chrome（或其他浏览器）的首选工具。这让微软很不高兴，以至于它不断推出更激进和对用户有敌意的方法，让客户留在Edge上而不下载Chrome。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[台积电工程师妻子爆美国厂十大“猛料”：勇士别再傻傻被卖 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346649.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346649.htm"/>
+        <updated>2023-02-28T17:39:43.943Z</updated>
+        <content type="html"><![CDATA[近日外媒报道称，许多员工担心台积电或偏离研发重心，潜在文化冲突令部分员工不太愿意外派美国。台积电则回应称，在设立每个晶圆厂时，当地都会有着不同的特性与氛围，包括中国台湾在内，台积电协助新进员工顺利融入公司企业文化，来台受训或是海外外派的项目皆持续进行中。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[复旦抢发类ChatGPT模型MOSS被骂惨了 内测服务器挤崩 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345585.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345585.htm"/>
+        <updated>2023-02-23T17:41:04.784Z</updated>
+        <content type="html"><![CDATA[昨日，复旦大学自然语言处理实验室邱锡鹏教授团队发布了国内第一个对话式AI模型MOSS，邀请公众参与内测。据介绍，MOSS可执行对话生成、编程、事实问答等任务，打通了让生成式语言模型理解人类意图并具有对话能力的全部技术路径。其命名灵感来自《流浪地球》中的人工智能MOSS。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ChatGPT迅速学会下棋精髓 把人类给整不会了 (cnbeta一周点击排行)]]></title>
         <id>https://hot.cnbeta.com.tw/articles/funny/1346205.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/funny/1346205.htm"/>
@@ -76,12 +69,11 @@
         <content type="html"><![CDATA[ChatGPT对战国际象棋AI，不到15秒就让人大受震撼。开局ChatGPT执黑，国际象棋AI执白，双方有来有往，ChatGPT甚至主动出击，逼退对方的象（主教）：看起来会是一场激烈较量，直到ChatGPT突然嘎嘣一下，吃掉了自己的象！]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Chrome浏览器的最新版本包括解决其内存占用问题的工具 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345435.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345435.htm"/>
-        <updated>2023-02-21T02:43:28.000Z</updated>
-        <content type="html"><![CDATA[<strong>Google已经发布了优化功能，旨在改善运行其最新版本Chrome桌面网络浏览器的机器的电池寿命和内存使用。</strong>Chrome的新节能模式和省内存模式于去年12月在发布Chrome
- 108的同时首次公布，现在这两个优化工具开始在全球范围内被包含到Mac、Windows和Chromebook的Chrome 110程序当中。]]></content>
+        <title type="html"><![CDATA[成本只有Model 3一半 特斯拉纸图泄露20万以下A级轿跑 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346355.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346355.htm"/>
+        <updated>2023-02-27T17:39:27.329Z</updated>
+        <content type="html"><![CDATA[特斯拉，即将发布的新车型，<strong>被官方视频里的图纸泄露了</strong>。在特斯拉新发布的视频里，出现了一款眼生的新车型，明显不是Model 3和Model Y，反而有点像几年前特斯拉招聘海报上的车型。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果改变年轻一代社交圈：安卓成“老鼠屎” 咬牙买iPhone (cnbeta一周点击排行)]]></title>
@@ -91,11 +83,18 @@
         <content type="html"><![CDATA[在美国年轻一代心目中，<strong>iPhone已经不单单是一部手机，它还能改变自己的社交圈子</strong>，他们不想被朋友贴上“Android人”的标签。苹果已经彻底俘获了美国Z世代(1996年以后出生)的心，以至于年轻消费者会担心因为没有iPhone而遭到社交排斥。<strong>这种趋势会产生溢出效应，将有助于苹果在其他产品类别上获得更多市场份额。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[成本只有Model 3一半 特斯拉纸图泄露20万以下A级轿跑 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346355.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346355.htm"/>
-        <updated>2023-02-27T17:39:27.329Z</updated>
-        <content type="html"><![CDATA[特斯拉，即将发布的新车型，<strong>被官方视频里的图纸泄露了</strong>。在特斯拉新发布的视频里，出现了一款眼生的新车型，明显不是Model 3和Model Y，反而有点像几年前特斯拉招聘海报上的车型。]]></content>
+        <title type="html"><![CDATA[下一个华为？日媒访查：欧美对比亚迪提高警戒 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346455.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346455.htm"/>
+        <updated>2023-02-28T17:39:43.956Z</updated>
+        <content type="html"><![CDATA[2月24日，界面新闻从北京、上海等多家比亚迪展厅获悉，比亚迪王朝系列产品已经启动降价，交车周期较去年出现不同程度的缩短。今年首次降价也释放出另一重要信号——<strong>对于比亚迪来说，2023年稳住现有市场份额或将会是比维持利润率更重要的任务</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT幕后的真正大佬 - Transformer (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346581.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346581.htm"/>
+        <updated>2023-02-27T10:56:04.000Z</updated>
+        <content type="html"><![CDATA[ChatGPT红得发紫，强得让人类心悸，但在它的背后，还隐藏着一位真正的大佬。可以说，与它相比，ChatGPT其实只是它的一个跟班小弟。或者说，只是它掌控家族中的一个比较靓的仔。这位大佬自2017年问世以来，隐约已成为AI领域的基石王者。它的名字叫做——Transformer。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[魔兽等游戏停服一个月 暴雪真不着急：两家中国公司抢破头 (cnbeta一周点击排行)]]></title>
@@ -112,13 +111,6 @@
         <content type="html"><![CDATA[<strong>2月22日消息，联想推出了一款饼干充电头，名为ThinkBook随行能量卡GaN 65W便携适配器，首发199元。</strong>外观上，这款充电头突破性将充电器形态压缩至饼干形状，机身仅12.7mm，另采用折叠式插脚设计，携带方便。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[蔚来车主分享“薅羊毛”技巧：反向换电、每月白赚300块 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345595.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345595.htm"/>
-        <updated>2023-02-25T17:39:11.366Z</updated>
-        <content type="html"><![CDATA[蔚来的车主肯定对换电站很熟悉，毕竟这算是专属的特色服务，不过你可曾想过<strong>有车主竟然薅上了蔚来的羊毛</strong>。近日，有蔚来车主在线分享了经验，表示自己不仅不用花钱就能开车，每个月还能赚300元。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[改款Model 3大揭秘：内饰升级 雷达回归 价格降低量产在即 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1346245.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1346245.htm"/>
@@ -126,11 +118,11 @@
         <content type="html"><![CDATA[新款Model 3终于要来了。最近不少海外网友拍到了新款Model 3路试图，通过这些伪装后的谍照图，我们可以看到新款Model 3的车身没有明显变化，但局部设计还是调整了不少。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Galaxy S23 Ultra屏幕上有奇怪的东西？三星说这是正常的 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1345569.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1345569.htm"/>
-        <updated>2023-02-27T17:39:27.349Z</updated>
-        <content type="html"><![CDATA[在质量控制方面，三星通常很出色，自Galaxy Note 7大翻车以来，我们很少看到三星手机在推出后出现故障或显示奇怪的行为。然而，最近的一个问题使几个Galaxy S23 Ultra的用户感到困惑。]]></content>
+        <title type="html"><![CDATA[蔚来车主分享“薅羊毛”技巧：反向换电、每月白赚300块 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345595.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345595.htm"/>
+        <updated>2023-02-25T17:39:11.366Z</updated>
+        <content type="html"><![CDATA[蔚来的车主肯定对换电站很熟悉，毕竟这算是专属的特色服务，不过你可曾想过<strong>有车主竟然薅上了蔚来的羊毛</strong>。近日，有蔚来车主在线分享了经验，表示自己不仅不用花钱就能开车，每个月还能赚300元。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果发起抢收大促销：iPhone 14全系遭甩卖 (cnbeta一周点击排行)]]></title>
@@ -139,6 +131,14 @@
         <updated>2023-02-26T17:39:04.452Z</updated>
         <content type="html"><![CDATA[在发布“四年最差”季报后，苹果2月初开启了覆盖全国各地、各大电商平台的大促销，折扣力度堪比618、双11，iPhone14系列600元-1000元立减券可谓随处可见。以原价9899元的256GB版本iPhone
  14 Pro Max为例，在京东、美团、淘宝等平台均可以不高于9099元的价格买到。而上市之初即半年前，这款手机曾溢价一两千元，一机难求。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 电视芯片天梯图 为什么说买电视看芯片？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1345867.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1345867.htm"/>
+        <updated>2023-02-28T17:39:43.994Z</updated>
+        <content type="html"><![CDATA[一台电视的屏幕面板如何决定了电视画质的下限，而好的电视芯片则决定了电视画质的上限，尤其在高端电视上体现得淋漓尽致，购买电视的时候一定不要认为只有屏幕才能决定电视清晰度。实际上，电视
+ SoC 芯片就相当于是电视的大脑，是电视的核心。一台电视的 SoC 芯片会负责三类工作：<strong>维持系统和应用运行、视频解码，还有画面处理。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[泄露的照片展示了iPhone 15的显示屏和USB-C接口 (cnbeta一周点击排行)]]></title>
