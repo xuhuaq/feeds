@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-05T05:38:37.465Z</updated>
+    <updated>2023-03-05T17:38:18.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[马云现身斐济引热议 旅游局CEO亲自发声：热烈欢迎 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1347587.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1347587.htm"/>
+        <updated>2023-03-04T17:38:58.089Z</updated>
+        <content type="html"><![CDATA[近日，马云来到斐济的行程被多位本地网民拍到，并纷纷po到社交媒体上。马云的到来，不仅仅是一位富豪的度假之旅，在斐济人看来，这更代表着中国游客重回斐济的重大标志。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Galaxy S23 Ultra的电池可以在开盖后快速拆除 无需任何工具 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1346623.htm</id>
@@ -11,20 +18,6 @@
         <updated>2023-02-27T11:58:37.000Z</updated>
         <content type="html"><![CDATA[三星在Galaxy S23 Ultra上使用相同的设计可能让一些人感到不满，但在收取与Galaxy S22 
 Ultra相同价格的情况下，对这一旗舰机所做的改进确实令人瞩目。在经受住了弯曲测试后，一位YouTuber显示，他等了八年之久，三星才实现了这一小小的改变，使电池拆卸成为一个无痛的过程。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“B站焊武帝”再出圈：孤身爆肝造CPU，软硬件全自研，可玩游戏 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346483.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346483.htm"/>
-        <updated>2023-02-27T17:39:27.289Z</updated>
-        <content type="html"><![CDATA[两年时间，一个90后体制内小哥下班之后只干三件私务，那就是：手搓CPU！手搓CPU！还是***手搓CPU！纯手工制作、全自主研发，于是一个名叫“初芯”的CPU终极形态终于诞生。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马云现身斐济引热议 旅游局CEO亲自发声：热烈欢迎 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1347587.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1347587.htm"/>
-        <updated>2023-03-04T17:38:58.089Z</updated>
-        <content type="html"><![CDATA[近日，马云来到斐济的行程被多位本地网民拍到，并纷纷po到社交媒体上。马云的到来，不仅仅是一位富豪的度假之旅，在斐济人看来，这更代表着中国游客重回斐济的重大标志。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[台积电工程师妻子爆美国厂十大“猛料”：勇士别再傻傻被卖 (cnbeta一周点击排行)]]></title>
@@ -63,25 +56,18 @@ Ultra相同价格的情况下，对这一旗舰机所做的改进确实令人瞩
  Crawford）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新加坡成国际芯片制造商“香饽饽”，为什么？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346993.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346993.htm"/>
-        <updated>2023-03-01T06:57:16.000Z</updated>
-        <content type="html"><![CDATA[西方大型芯片制造商正采取行动，增加在新加坡的产量。《日经亚洲》近日报道称，一些西方芯片制造商正加大在新加坡投资以满足中长期需求增长，并分散供应链风险。报道称，法国基板制造商Soitec将投资4.3亿美元将其新加坡晶圆厂产能提高1倍，美国半导体设备制造商应用材料公司在新加坡投资4.5亿美元的新工厂已破土动工，预计2024年完工。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一个华为？日媒访查：欧美对比亚迪提高警戒 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346455.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346455.htm"/>
-        <updated>2023-02-28T17:39:43.956Z</updated>
-        <content type="html"><![CDATA[2月24日，界面新闻从北京、上海等多家比亚迪展厅获悉，比亚迪王朝系列产品已经启动降价，交车周期较去年出现不同程度的缩短。今年首次降价也释放出另一重要信号——<strong>对于比亚迪来说，2023年稳住现有市场份额或将会是比维持利润率更重要的任务</strong>。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[照坏了手机的激光雷达，会照瞎你吗？ (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1346691.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1346691.htm"/>
         <updated>2023-03-02T17:40:09.680Z</updated>
         <content type="html"><![CDATA[“电池有辐射，不买电动车。”“电机有辐射，不买电动车。”“换电站有辐射，不买换电的车。”继“电池辐射”之后，如今，大家不买电动车的理由又要多了一条——激光雷达会有“激光辐射”。前不久，有网友爆料：拍摄蔚来ES7的激光雷达时候，小米12SU的相机传感器直接被烧出绿线。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新加坡成国际芯片制造商“香饽饽”，为什么？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346993.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346993.htm"/>
+        <updated>2023-03-01T06:57:16.000Z</updated>
+        <content type="html"><![CDATA[西方大型芯片制造商正采取行动，增加在新加坡的产量。《日经亚洲》近日报道称，一些西方芯片制造商正加大在新加坡投资以满足中长期需求增长，并分散供应链风险。报道称，法国基板制造商Soitec将投资4.3亿美元将其新加坡晶圆厂产能提高1倍，美国半导体设备制造商应用材料公司在新加坡投资4.5亿美元的新工厂已破土动工，预计2024年完工。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大厂裸辞卖盒饭女生：压力骤减、不会再去上班 (cnbeta一周点击排行)]]></title>
@@ -98,11 +84,18 @@ Ultra相同价格的情况下，对这一旗舰机所做的改进确实令人瞩
         <content type="html"><![CDATA[Windows 11 KB5022913正在作为运行22H2的PC上的可选更新推出。它是备受期待的"Moment 2"版本，具有许多新功能，如平板电脑优化的任务栏。如果操作系统没有提示升级，微软还公布了Windows 11 KB5022913离线安装程序的直接下载链接。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[长城放出王炸？水平对置八缸发动机摩托曝光 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346473.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346473.htm"/>
-        <updated>2023-03-02T17:40:09.666Z</updated>
-        <content type="html"><![CDATA[虽然长城汽车此前就透露可能要制造摩托车，但没想到的是，长城摩托车上来就要放出王炸？水平对置八缸发动机摩托，这谁敢相信。日前，网上有一组长城水平对置八缸发动机摩托的谍照流出，<strong>该车目前还在试验阶段，但硕大的八缸发动机令整个摩托看上去像是一头“猛兽”。</strong>]]></content>
+        <title type="html"><![CDATA[三款索尼新品耳机发布：仅重33g 轻若无物 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346933.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346933.htm"/>
+        <updated>2023-03-03T17:38:19.193Z</updated>
+        <content type="html"><![CDATA[2月28日，索尼发布了三款耳机新品：一款为非入耳开放式运动耳机Float Run，以及两款高性价比头戴式耳机——索尼史上最轻头戴式无线降噪耳机WH-CH720N，以及主打多彩莫兰迪配色、兼具时尚和品质之感的WH-CH520。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一号位出走的YouTube 是时候离开谷歌这棵大树了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1347439.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1347439.htm"/>
+        <updated>2023-03-03T10:43:56.000Z</updated>
+        <content type="html"><![CDATA[上个月，谷歌元老级人物——苏珊•沃西基（Susan Wojcicki）宣布将卸任YouTube CEO。比起Bob Iger重新掌舵迪士尼以及Reed Hastings离开奈飞（Netflix）那时的轰动，同样是头部流媒体一号位变动，这次的动静似乎小了许多。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[董明珠被传与王自如恋爱 格力已报案 (cnbeta一周点击排行)]]></title>
@@ -112,20 +105,18 @@ Ultra相同价格的情况下，对这一旗舰机所做的改进确实令人瞩
         <content type="html"><![CDATA[近日，有网友表示“董明珠言而无信，员工一人一套房没见着”，对此，董明珠强调格力此前作出的“集团员工一人分得一套房”的承诺不变。董明珠解释，格力电器之前第一批3700套房本来已经分了，但是确实受到这几年特殊环境的影响。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三款索尼新品耳机发布：仅重33g 轻若无物 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346933.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346933.htm"/>
-        <updated>2023-03-03T17:38:19.193Z</updated>
-        <content type="html"><![CDATA[2月28日，索尼发布了三款耳机新品：一款为非入耳开放式运动耳机Float Run，以及两款高性价比头戴式耳机——索尼史上最轻头戴式无线降噪耳机WH-CH720N，以及主打多彩莫兰迪配色、兼具时尚和品质之感的WH-CH520。]]></content>
+        <title type="html"><![CDATA[Tiny11 Builder - 全自助打造极致精简版Windows 11 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346665.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346665.htm"/>
+        <updated>2023-03-04T17:38:58.144Z</updated>
+        <content type="html"><![CDATA[Windows 11官方规定需要至少4GB内存、双核处理器、64GB SSD存储，但这个底线只能让你进入系统，想要流畅怎么也得翻两番。Tiny11就是一款针对Windows 11的系统精简工具，开发者是海外网友NTDEV，通过删除不必要的库、应用、服务，<strong>只需2GB内存、12GB硬盘空间就可以流畅运行，也不需要TPM。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 15 Pro Max渲染图 对比14 Pro Max边框更窄、机身更厚 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346415.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346415.htm"/>
-        <updated>2023-02-26T07:07:14.000Z</updated>
-        <content type="html"><![CDATA[按苹果往年时间，iPhone 15系列将在今年9月正式登场，虽然还有7个月左右时间，但随着配置、配色等信息的曝光，可以说iPhone 
-15系列已被全方位曝光。日前，知名数码博主“Ice Universe”（i冰宇宙）根据曝光的CAD图，做出了iPhone 15 Pro 
-Max全新渲染图。]]></content>
+        <title type="html"><![CDATA[芬兰一客机故意偏航以便乘客看极光 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1347573.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1347573.htm"/>
+        <updated>2023-03-05T17:38:17.393Z</updated>
+        <content type="html"><![CDATA[极光是一种只会出现在地球南北两极附近地区高空的美丽景象，十分的绚丽多彩，由于太阳带电粒子流（太阳风）进入地球磁场引起的独特现象。<strong>由于只能在南北极看到，绝大多数人一辈子都没有机会亲眼所见。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[纳智捷当街加油 车主现身说法：从郑州到广州加了5次 (cnbeta一周点击排行)]]></title>
@@ -135,17 +126,24 @@ Max全新渲染图。]]></content>
         <content type="html"><![CDATA[素有“两桶油战略合作伙伴”之称的纳智捷，最近又稍火了一把。2月26日，有博主发布了一条最新拍摄的视频，目测事发于河南郑州，一台纳智捷SUV停在路口，打着双闪在等红灯，让人意外的是，<strong>有两个人正在给它“当街加油”</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[库克下月恐被踢出苹果董事会 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346385.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346385.htm"/>
-        <updated>2023-03-01T17:40:37.868Z</updated>
-        <content type="html"><![CDATA[<span style="">2月24日，据媒体报道，美国国家法律和政策中心（NLPC）单独提交了一份豁免征求书，</span><span style="">敦促Apple股东反对将CEO蒂姆·库克重新任命为董事会成员。</span>据悉，苹果（AAPL.US）年度股东大会将于今年3月10日召开。<span style="">美国福克斯商业频道指出，NLPC就阿尔·戈尔和蒂姆·库克两名苹果董事会成员，向美国证券交易委员会提交了两份豁免请求。</span>]]></content>
+        <title type="html"><![CDATA[联想新一代ThinkPad X13系列发布：外观设计全面升级 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1346605.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1346605.htm"/>
+        <updated>2023-02-27T11:42:46.000Z</updated>
+        <content type="html"><![CDATA[今天，联想发布了ThinkPad系列的多款新品，其中就包括了全新的ThinkPad X13 Gen 4和ThinkPad X13 Yoga Gen 4笔记本。与此前相比，新一代ThinkPad X13系列一眼看去，最大的变化就是其全新的外观ID设计，<strong>新的X13系列笔记本在B面采用了“反向刘海”设计，在确保功能的前提下缩短了边框长度。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tiny11 Builder - 全自助打造极致精简版Windows 11 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346665.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346665.htm"/>
-        <updated>2023-03-04T17:38:58.144Z</updated>
-        <content type="html"><![CDATA[Windows 11官方规定需要至少4GB内存、双核处理器、64GB SSD存储，但这个底线只能让你进入系统，想要流畅怎么也得翻两番。Tiny11就是一款针对Windows 11的系统精简工具，开发者是海外网友NTDEV，通过删除不必要的库、应用、服务，<strong>只需2GB内存、12GB硬盘空间就可以流畅运行，也不需要TPM。</strong>]]></content>
+        <title type="html"><![CDATA[医院拍CT有位患者叫熊猫 结果竟是真熊猫 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1347135.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1347135.htm"/>
+        <updated>2023-03-05T17:38:17.407Z</updated>
+        <content type="html"><![CDATA[影像科的医生见多识广，可来自Dr.Wang的分享，他对2月27日那次CT经历依然印象深刻，主角是患者“熊猫”。王医生表示，<strong>我们就是一家正规三甲医院，看到病例名字一栏写的是“熊猫”，性别“男”并没有多想，可没想到来拍片的是真的国宝大熊猫。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙江女子1600公里追到广州找到被偷爱猫 苹果AirTag定位器立了大功 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1347293.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1347293.htm"/>
+        <updated>2023-03-02T11:28:05.000Z</updated>
+        <content type="html"><![CDATA[近日，一则关于#浙江女子追到广州找到被偷的爱猫#报道火了，引起了网友的关注，在她找猫的过程中，苹果AirTag定位器立下了汗马功劳。据悉，张女士的猫名叫“馒头”，是一只英国短毛猫，今年2岁多，在老家湖州丢失。]]></content>
     </entry>
 </feed>
