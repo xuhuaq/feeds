@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-03-07T05:39:20.821Z</updated>
+    <updated>2023-03-07T17:39:19.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1347391.htm"/>
         <updated>2023-03-03T17:38:19.161Z</updated>
         <content type="html"><![CDATA[昨日3月第1天，网上流传出一份Google中国研发中心裁员的消息引发关注。据Redian报道，经多位相关人士确认，Google确实已经敲定了中国研发中心裁员调整一事。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缘分好奇妙：女孩拿2004年老照片在抖音寻人 真找到了]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1346869.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1346869.htm"/>
-        <updated>2023-03-01T17:40:37.865Z</updated>
-        <content type="html"><![CDATA[大数据让梦想接入现实！一周前，<strong>抖音博主“夏望”发布了自己2004年在重庆街头拍摄的老照片，想用大数据寻找背景中的一位路人小姐姐。</strong>没想到真的找到了，而且是抖音大数据找到的。<strong>昨天，抖音博主“Andy Ma”发布照片表示那位路人小姐姐正是自己，还晒出了自己穿绿衣服的照片。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“人民的五菱”在被人民抛弃]]></title>
@@ -62,11 +55,25 @@
         <content type="html"><![CDATA[Windows 11 KB5022913正在作为运行22H2的PC上的可选更新推出。它是备受期待的"Moment 2"版本，具有许多新功能，如平板电脑优化的任务栏。如果操作系统没有提示升级，微软还公布了Windows 11 KB5022913离线安装程序的直接下载链接。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小米平板6系列外形、CPU配置大曝光 确认新增NFC]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1347719.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1347719.htm"/>
+        <updated>2023-03-06T17:40:02.876Z</updated>
+        <content type="html"><![CDATA[小米13 Ultra、小米平板6系列等均未在此次的MWC23上推出，看来首发还是国内舞台。日前，科技博主Kacper Skrzypek分享了新款小米键盘套装，大概率就是为小米平板6系列打造，包括黑白双色，一个最主要的变化就是加入NFC标签。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[大厂裸辞卖盒饭女生：压力骤减、不会再去上班]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1347155.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1347155.htm"/>
         <updated>2023-03-02T17:40:09.665Z</updated>
         <content type="html"><![CDATA[想要过什么样的生活，其实都把控在自己手里。近日，#年薪30万大厂女生回应转行卖快餐#登上热搜，据悉，97年女生王小姐在深圳工作，此前就职于一家互联网大厂，工资不菲，一年收入30万元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果即将全面更新Mac产品线：部分机型或采用M3处理器]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1347899.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1347899.htm"/>
+        <updated>2023-03-06T08:02:17.000Z</updated>
+        <content type="html"><![CDATA[据报道，苹果即将发布新一代Mac笔记本电脑和台式机，其中也包括一款新iMac。关注苹果的新闻媒体经常会被问到一个问题：新iMac何时发布？现在终于传来了好消息。苹果的下一代iMac台式机已经进入后期开发阶段，也就是所谓的工程验证测试阶段（EVT），该公司正在对这款设备进行生产测试。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一号位出走的YouTube 是时候离开谷歌这棵大树了]]></title>
@@ -76,18 +83,25 @@
         <content type="html"><![CDATA[上个月，谷歌元老级人物——苏珊•沃西基（Susan Wojcicki）宣布将卸任YouTube CEO。比起Bob Iger重新掌舵迪士尼以及Reed Hastings离开奈飞（Netflix）那时的轰动，同样是头部流媒体一号位变动，这次的动静似乎小了许多。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米平板6系列外形、CPU配置大曝光 确认新增NFC]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1347719.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1347719.htm"/>
-        <updated>2023-03-06T17:40:02.876Z</updated>
-        <content type="html"><![CDATA[小米13 Ultra、小米平板6系列等均未在此次的MWC23上推出，看来首发还是国内舞台。日前，科技博主Kacper Skrzypek分享了新款小米键盘套装，大概率就是为小米平板6系列打造，包括黑白双色，一个最主要的变化就是加入NFC标签。]]></content>
+        <title type="html"><![CDATA[中国式ChatGPT“大跃进”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1347471.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1347471.htm"/>
+        <updated>2023-03-03T11:04:03.000Z</updated>
+        <content type="html"><![CDATA[3月2日，OpenAI正式开放了ChatGPT的API接口，开发人员可以将ChatGPT模型集成到他们的应用程序和产品中。ChatGPT API调用的价格以Token（数字代币）计算，<strong>0.002美元可以获得1000 Token，1000个Token约等750个单词。</strong>这个价格比ChatGPT刚刚开放测试时大幅下降，OpenAI官方称，<strong>12月以来，OpenAI为ChatGPT降低了90%的成本。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[董明珠被传与王自如恋爱 格力已报案]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1346765.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1346765.htm"/>
-        <updated>2023-02-28T07:29:14.000Z</updated>
-        <content type="html"><![CDATA[近日，有网友表示“董明珠言而无信，员工一人一套房没见着”，对此，董明珠强调格力此前作出的“集团员工一人分得一套房”的承诺不变。董明珠解释，格力电器之前第一批3700套房本来已经分了，但是确实受到这几年特殊环境的影响。]]></content>
+        <title type="html"><![CDATA[盖茨女儿走红TikTok 回应称：我靠的不只是出身]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1347921.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1347921.htm"/>
+        <updated>2023-03-06T11:03:48.000Z</updated>
+        <content type="html"><![CDATA[亿万富翁比尔·盖茨(Bill Gates)的小女儿菲比·盖茨(Phoebe Gates)目前已是TikTok上的名人。她在接受采访时表示，自己在TikTok走红靠的不只是她的出身，还因为自己发布的内容。菲比称，在TikTok上出名最糟糕的地方是人们对她家人的错误看法，在TikTok上发帖最大缺点是铺天盖地的“误解和阴谋论”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴青峰发文请大家别听苏打绿的歌 母带仍被非法利用]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/music/1347895.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/music/1347895.htm"/>
+        <updated>2023-03-06T08:00:21.000Z</updated>
+        <content type="html"><![CDATA[自己作词作曲并演唱的歌，却不属于自己。3月4日晚，吴青峰在个人社交平台发文，请大家“别听苏打绿的歌”了。吴青峰表示，<strong>虽然苏打绿这个名字回来了，但是之前苏打绿版本的所有音乐母带版权都不在自己手上且被非法利用。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[芬兰一客机故意偏航以便乘客看极光]]></title>
@@ -95,13 +109,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1347573.htm"/>
         <updated>2023-03-05T17:38:17.393Z</updated>
         <content type="html"><![CDATA[极光是一种只会出现在地球南北两极附近地区高空的美丽景象，十分的绚丽多彩，由于太阳带电粒子流（太阳风）进入地球磁场引起的独特现象。<strong>由于只能在南北极看到，绝大多数人一辈子都没有机会亲眼所见。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国式ChatGPT“大跃进”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1347471.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1347471.htm"/>
-        <updated>2023-03-03T11:04:03.000Z</updated>
-        <content type="html"><![CDATA[3月2日，OpenAI正式开放了ChatGPT的API接口，开发人员可以将ChatGPT模型集成到他们的应用程序和产品中。ChatGPT API调用的价格以Token（数字代币）计算，<strong>0.002美元可以获得1000 Token，1000个Token约等750个单词。</strong>这个价格比ChatGPT刚刚开放测试时大幅下降，OpenAI官方称，<strong>12月以来，OpenAI为ChatGPT降低了90%的成本。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[浙江女子1600公里追到广州找到被偷爱猫 苹果AirTag定位器立了大功]]></title>
@@ -125,13 +132,6 @@
         <content type="html"><![CDATA[近日，“爱搞事”的韩国文化圈带着Netflix新节目《Physical 100》（体能之巅：百人大挑战）再次席卷而来，在短时间内成为全球收视率最高的非英语节目，以及有史以来第一部登上Netflix榜首的真人秀节目。该节目在豆瓣也有着8.9分的优秀口碑。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[商业版ChatGPT单价骤减9成 推出语音转文字API]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1347217.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1347217.htm"/>
-        <updated>2023-03-02T05:18:55.000Z</updated>
-        <content type="html"><![CDATA[当地时间周三（3月1日），OpenAI宣布正式推出面向商业用户的ChatGPT和Whisper语音转文字API，并给出了一系列商业伙伴已经上线的案例。简单来说，继去年11月向公众推出ChatGPT聊天机器人后，OpenAI现在开始向有意在自家APP或产品中提供相同AIGC服务的企业，提供付费接入的产品。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特斯拉Model 2被曝成本大降37% 比丰田卡罗拉还低]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1347147.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1347147.htm"/>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[特斯拉的第二款车Model 2即将上线，关于该车的猜测也流传开来。日前，Newstreet Research机构分析师Pierre Ferragu发推表示，<strong>特斯拉Model 2的制造成本预计比Model 3低37%左右。</strong>特斯拉被曝目前正在开发第三代汽车平台，新一代平台的集成化程度会更高，车辆的生产成本也会进一步下降，将会只有目前的一半。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《魔兽世界》国服没了：大量工作室淹没亚服 人民币团出现]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1347307.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1347307.htm"/>
-        <updated>2023-03-02T00:05:02.000Z</updated>
-        <content type="html"><![CDATA[1月24日凌晨，《魔兽世界》等7款暴雪游戏在国内的代理结束，服务器关闭。许多玩家都转移到亚服，国内的大量工作室也同样跑去亚服了。目前《魔兽世界》亚服的问题主要就是两点，一是工作室，二是金团。之前暴雪为了方便玩家改了一些设定，没有大号也能建立DK死亡骑士这样的职业，但这也直接给工作室大开方便之门，可以快速建号。]]></content>
+        <title type="html"><![CDATA[商业版ChatGPT单价骤减9成 推出语音转文字API]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1347217.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1347217.htm"/>
+        <updated>2023-03-02T05:18:55.000Z</updated>
+        <content type="html"><![CDATA[当地时间周三（3月1日），OpenAI宣布正式推出面向商业用户的ChatGPT和Whisper语音转文字API，并给出了一系列商业伙伴已经上线的案例。简单来说，继去年11月向公众推出ChatGPT聊天机器人后，OpenAI现在开始向有意在自家APP或产品中提供相同AIGC服务的企业，提供付费接入的产品。]]></content>
     </entry>
 </feed>
