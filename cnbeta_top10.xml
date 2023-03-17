@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-03-17T05:38:27.389Z</updated>
+    <updated>2023-03-17T17:39:23.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[本周，ASML在最新的声明中指出，这些新的出口管制措施侧重于先进的芯片制造技术，包括最先进的沉积设备和浸润式光刻系统。ASML强调，新的出口管制措施并不针对所有浸润式光刻系统，而只涉及所谓“最先进”的浸润式光刻系统。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[别为了卖车 忽悠中国消费者]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349493.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349493.htm"/>
-        <updated>2023-03-15T09:46:30.000Z</updated>
-        <content type="html"><![CDATA[22 万的雪铁龙 C6 是<strong>牛夫人</strong>不假，12 万的雪铁龙 C6 就一定是<strong>小甜甜</strong>吗？不，它也有可能是<strong>蜘蛛精</strong>，放出一百条心眼玩透的蛛（套）丝（路），总有一条缠住你。事情是这样的：3 月初，湖北政府联合多个东风系汽车品牌，为购买这些品牌新车的消费者提供大额优惠补贴。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[谷歌的又一波反击！开放大语言模型PaLM API]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1349461.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1349461.htm"/>
         <updated>2023-03-15T06:57:53.000Z</updated>
         <content type="html"><![CDATA[事到如今，OpenAI 的 ChatGPT 在 AI 社区的统治地位已经无需多言。特别是 OpenAI 开放 ChatGPT 的 API 之后，在开发者社区掌握了极大的话语权。反观Google那边，在第一波发布 Bard 失利之后，一直处于沉默状态。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别为了卖车 忽悠中国消费者]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349493.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349493.htm"/>
+        <updated>2023-03-15T09:46:30.000Z</updated>
+        <content type="html"><![CDATA[22 万的雪铁龙 C6 是<strong>牛夫人</strong>不假，12 万的雪铁龙 C6 就一定是<strong>小甜甜</strong>吗？不，它也有可能是<strong>蜘蛛精</strong>，放出一百条心眼玩透的蛛（套）丝（路），总有一条缠住你。事情是这样的：3 月初，湖北政府联合多个东风系汽车品牌，为购买这些品牌新车的消费者提供大额优惠补贴。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关闭Windows 10/11虚拟化安全功能 游戏性能飙升最多37.7％]]></title>
@@ -62,18 +62,11 @@
         <content type="html"><![CDATA[近日，山东航空一飞机晚点一小时起飞，乘客因要到济南转机，向航班人员求助后，山航机长提速提前20分钟到达，此事引起网友热议。有网友认为，“山航考虑乘客需求，并提供人性化解决方案，值得点赞”。但也有网友表示，“飞机上有上百人，不应该只考虑一个人的非紧急需求，就将飞机提速运行”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国内明星私照被疯狂模仿 旅游警示乱穿泰国校服会被罚款]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1348787.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1348787.htm"/>
-        <updated>2023-03-10T00:03:07.000Z</updated>
-        <content type="html"><![CDATA[去泰国的中国游客越来越多，但是一些美女网红为了拍照，乱穿泰国校服这已经被警告了。一名泰国律师警告中国游客，在泰国旅行时不要再穿泰国校服，否则将被处以1000泰铢的罚款。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌砸出5620亿参数大模型 机器人都能用 学术圈已刷屏]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1348825.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1348825.htm"/>
-        <updated>2023-03-12T17:38:31.970Z</updated>
-        <content type="html"><![CDATA[为应对新一轮技术竞赛，Google还在不断出后手。这两天，一个名叫<strong>PaLM-E</strong>的大模型在AI学术圈疯狂刷屏。它能只需一句话，就让机器人去厨房抽屉里拿薯片。即便是中途干扰它，它也会坚持执行任务。]]></content>
+        <title type="html"><![CDATA[体验完百度的文心一言 我只能说：它胆子够大]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349771.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349771.htm"/>
+        <updated>2023-03-17T06:17:12.000Z</updated>
+        <content type="html"><![CDATA[3 月 16 日下午 2 点，百度北京总部的发布厅内，李彦宏迈着急促的步伐走上台，和大家公布了最近一段时间备受关注的产品——文心一言。尽管这位科技巨头创始人登过《&nbsp;时代&nbsp;》周刊封面，见过无数大场面，但发布会中，他的神态里都透露了些许紧张和局促。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[欧盟有言在先：苹果不可加密iPhone 15 USB-C来限制充电速度]]></title>
@@ -83,11 +76,11 @@
         <content type="html"><![CDATA[今年秋季的iPhone 15系列，最引人注目的变化之一莫过于换装USB-C接口。不过，此前有爆料称，富士康为苹果量产的USB-C接口产品继续保持加密，也就是需要MFI（Made for iPhone）认证。没有MFI认证的话，数据传输和充电速度将受到限制。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[戴尔PC生产工作将100％离开中国 台媒曝光完整时间表]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349355.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349355.htm"/>
-        <updated>2023-03-16T17:38:27.862Z</updated>
-        <content type="html"><![CDATA[在各大厂商中，戴尔一直是离开中国的急先锋。现在，有媒体曝光了戴尔所谓“去中化”的全套剧本和时间表，从上游IC采购到中下游周边再到整机组装，都有明确的安排。根据计划，<strong>戴尔预计从2025年开始，首先在中下游供应链中排除中国内地制造，并优先在美国内需市场上进行转变。</strong>]]></content>
+        <title type="html"><![CDATA[日媒：与中国“脱钩”蔓延至软件开发]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349619.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349619.htm"/>
+        <updated>2023-03-16T10:57:22.000Z</updated>
+        <content type="html"><![CDATA[中国和美国之间的技术脱钩正在蔓延到软件领域。据日经亚洲报道，出于对网络攻击的担忧，软件开发商开始排斥整合来自中国创建的软件组件。中国本土在软件开发领域不断扩大，已经为美国、日本和其他国家敲响了警钟。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉，求求你能不能把单踏板模式删了？]]></title>
@@ -97,11 +90,11 @@
         <content type="html"><![CDATA[大家有没有发现，最近和特斯拉有关的事故又多起来了。潮州，一台 Model Y 全速狂奔 2 公里没停，最后造成 2 死 3 伤。东莞，一台&nbsp;Model S&nbsp;撞了好几台车以后飞进了路边的店里，顺道让那家名叫一锅端的拌饭火了一把。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT造孽 中国高校因它算力荒]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349115.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349115.htm"/>
-        <updated>2023-03-14T17:45:42.223Z</updated>
-        <content type="html"><![CDATA[<strong>不做大模型，就没有算力用。</strong>这是ChatGPT点燃AI风口后，国内某top3高校AI实验室的残酷现状。同一个实验室里，非大模型团队6人用4块3090卡，比起同实验室的大模型团队10个人用10块A800卡，本就已经不算富裕。]]></content>
+        <title type="html"><![CDATA[戴尔PC生产工作将100％离开中国 台媒曝光完整时间表]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349355.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349355.htm"/>
+        <updated>2023-03-16T17:38:27.862Z</updated>
+        <content type="html"><![CDATA[在各大厂商中，戴尔一直是离开中国的急先锋。现在，有媒体曝光了戴尔所谓“去中化”的全套剧本和时间表，从上游IC采购到中下游周边再到整机组装，都有明确的安排。根据计划，<strong>戴尔预计从2025年开始，首先在中下游供应链中排除中国内地制造，并优先在美国内需市场上进行转变。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SSD比机械硬盘更容易坏？实测来了：跟想象中不一样]]></title>
@@ -118,6 +111,20 @@
         <content type="html"><![CDATA[今天凌晨，OpenAI又发布了最新的GPT-4，这是一款多模态模型，相比当前ChatGPT在用的GPT-3.5模型，它支持了图像能力，能理解用户发的梗图，使用范围更广了。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ChatGPT造孽 中国高校因它算力荒]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349115.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349115.htm"/>
+        <updated>2023-03-14T17:45:42.223Z</updated>
+        <content type="html"><![CDATA[<strong>不做大模型，就没有算力用。</strong>这是ChatGPT点燃AI风口后，国内某top3高校AI实验室的残酷现状。同一个实验室里，非大模型团队6人用4块3090卡，比起同实验室的大模型团队10个人用10块A800卡，本就已经不算富裕。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克再次批评OpenAI变成营利组织：我当初还捐了1亿美元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349665.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349665.htm"/>
+        <updated>2023-03-17T17:39:23.325Z</updated>
+        <content type="html"><![CDATA[特斯拉和推特CEO埃隆·马斯克周三再次将矛头对准OpenAI，对其从一家非营利组织变成一家营利组织表示困惑。在回应有关OpenAI联合创始人兼CEO山姆·奥特曼和他的公司不再是“非营利组织，甚至不再是开放的”的调侃时，马斯克质疑了这一转变的合法性。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AMD直接向Intel开炮：顶级性能 不需要高功耗]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1349045.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1349045.htm"/>
@@ -125,24 +132,17 @@
         <content type="html"><![CDATA[AMD锐龙7000系列、Intel 13代酷睿系列，在性能上可以说相差并不大，不过在功耗上，AMD还是有明显优势的。在近日的一次商业伙伴会议上，AMD就展示了两张幻灯片，一个是双方型号定位对比，另一个就是功耗、能效对比。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[魔兽国服重开遥遥无期 暴雪釜底抽薪将实现全球服直营]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1349073.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1349073.htm"/>
-        <updated>2023-03-13T07:29:11.000Z</updated>
-        <content type="html"><![CDATA[再过一个多星期，魔兽世界等7款暴雪游戏的国服停服就要满2个月了，这已经让暴雪游戏玩家数量暴跌，然而国服新代理一事还是没有下落，重开国服遥遥无期，可能半年内都很难。]]></content>
+        <title type="html"><![CDATA[马保国：B站年轻人很过分 赚6个亿后栽赃我 没起诉是给他们面子]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349643.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349643.htm"/>
+        <updated>2023-03-16T11:25:34.000Z</updated>
+        <content type="html"><![CDATA[“年轻人不讲武德”“耗子尾汁”这些梗相信大家都听过。此前，网红形意太极门掌门人马保国约战职业拳手，被瞬间秒杀的视频火遍全网。而被秒杀后，马保国过去被人打肿眼睛演讲的名句：“年轻人不讲武德”也被传颂起来。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国杂牌显卡蜂拥进入美国：矿卡滞销 帮帮我们]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349053.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349053.htm"/>
-        <updated>2023-03-13T17:38:41.778Z</updated>
-        <content type="html"><![CDATA[美国人最近发现，一大批此前只在中国市场或者阿里速卖通上才能看到的不知名显卡品牌，集中出现在了亚马逊、新蛋等美国电商平台上。它们进入美国的时机很有意思，正好是以太坊挖矿崩溃之后，所以……你懂的。<strong>这些品牌既有明显、映众电竞判客(AX Gaming)这样有实力背景的，但更多是51RISC、Corn、Mllse、Peladn(磐镭)这样的杂牌，目测普遍来自深圳，有的根本就查不到任何官方资料。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4下周王者登基 必应日活破亿]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1348823.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1348823.htm"/>
-        <updated>2023-03-12T17:38:31.984Z</updated>
-        <content type="html"><![CDATA[最近，微软是喜讯连连。昨天，微软德国CTO在活动中透露，<strong>GPT-4将在下周发布，将提供多模态模型</strong>。毫无疑问，微软要搞个大的——GPT-4将转向多模态，Kosmos-1也是多模态，微软亚研院3月8日提出的Visual ChatGPT，也把视觉基础模型整合进ChatGPT里。]]></content>
+        <title type="html"><![CDATA[景区回应被央视315点名安全带不安全：暂不考虑整改 6年没任何意外]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349641.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349641.htm"/>
+        <updated>2023-03-16T11:19:30.000Z</updated>
+        <content type="html"><![CDATA[在今年的央视“315”晚会上，<strong>央视曝光了一些景区高空项目使用的“三点式安全带”安全问题，这些 “三点式安全带”或有脱落风险。</strong>据了解，天津市蓟州区的九山顶景区、湖北恩施地心谷景区、昆明市五华西游洞景区、南宁市青瓦房古村落的“步步惊心”项目皆被点名。]]></content>
     </entry>
 </feed>
