@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-19T05:38:39.928Z</updated>
+    <updated>2023-03-19T17:38:43.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[腾讯T13技术大佬黄希彤被裁：曾两次“惊动”马化腾 现年47厂龄16年 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349009.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349009.htm"/>
-        <updated>2023-03-13T17:38:41.734Z</updated>
-        <content type="html"><![CDATA[05年入职腾讯，腾讯首个Web前端专家，职级T13，到今年1月还是腾讯前端级别最高专家。拥有如此履历的<span style="">前端大牛黄希彤，在47岁这一年，被曝遭腾讯裁员</span>。消息最早在小红书传开。黄希彤夫人在“鹅厂前端No.1”这一账号中透露：<span style="">（</span><span style="">黄希彤）</span>在鹅厂打工15年，年前收到裁员通知。]]></content>
+        <title type="html"><![CDATA[网曝友商要特斯拉降低中国员工工资 从13000降到5341元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350031.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350031.htm"/>
+        <updated>2023-03-19T17:38:41.759Z</updated>
+        <content type="html"><![CDATA[现在，有网友爆料称，有友商要特斯拉降低中国员工工资，从13000降到5341元。据悉，特斯拉上海工厂一线工人的基本工资确实是5341元起，这个基本工资对应的级别是1.3+，加班费46元/小时，中班/夜班费分别是10元和18元/天，每年发17薪，这样算下来，综合月薪为7500到1万，外加五险一金，和家庭医疗保险，以及堪比星级酒店自助餐的员工餐。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌的又一波反击！开放大语言模型PaLM API (cnbeta一周点击排行)]]></title>
@@ -33,11 +33,11 @@
         <content type="html"><![CDATA[Windows 11发布的时候，微软默认开启了<strong>基于虚拟化的安全性(VBS)、Hypervisor强制代码一致性检查(HVCI)</strong>两项功能，引发了不小的争议，很多人担心它们是否会影响性能。最近，Windows 10似乎也开始默认打开了VBS。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android 14不再允许“杀后台” 一键加速App集体沉没 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349175.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349175.htm"/>
-        <updated>2023-03-14T17:45:42.214Z</updated>
-        <content type="html"><![CDATA[在Android应用商店当中，有很多提供“一键加速”功能的App，它们通过清理Android系统中的后台应用来为手机提速。这样的操作是否有用，以及这样的App存在是否合理呢？随着Android 14 DP2发布，Android用户有了一个官方解释。]]></content>
+        <title type="html"><![CDATA[日媒：与中国“脱钩”蔓延至软件开发 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349619.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349619.htm"/>
+        <updated>2023-03-16T10:57:22.000Z</updated>
+        <content type="html"><![CDATA[中国和美国之间的技术脱钩正在蔓延到软件领域。据日经亚洲报道，出于对网络攻击的担忧，软件开发商开始排斥整合来自中国创建的软件组件。中国本土在软件开发领域不断扩大，已经为美国、日本和其他国家敲响了警钟。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[体验完百度的文心一言 我只能说：它胆子够大 (cnbeta一周点击排行)]]></title>
@@ -47,18 +47,18 @@
         <content type="html"><![CDATA[3 月 16 日下午 2 点，百度北京总部的发布厅内，李彦宏迈着急促的步伐走上台，和大家公布了最近一段时间备受关注的产品——文心一言。尽管这位科技巨头创始人登过《&nbsp;时代&nbsp;》周刊封面，见过无数大场面，但发布会中，他的神态里都透露了些许紧张和局促。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Android 14不再允许“杀后台” 一键加速App集体沉没 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349175.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349175.htm"/>
+        <updated>2023-03-14T17:45:42.214Z</updated>
+        <content type="html"><![CDATA[在Android应用商店当中，有很多提供“一键加速”功能的App，它们通过清理Android系统中的后台应用来为手机提速。这样的操作是否有用，以及这样的App存在是否合理呢？随着Android 14 DP2发布，Android用户有了一个官方解释。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPT-4发布：ChatGPT大升级 太太太太强了 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1349495.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1349495.htm"/>
         <updated>2023-03-15T09:47:16.000Z</updated>
         <content type="html"><![CDATA[一觉醒来，万众期待的<strong>GPT-4</strong>，它来了！OpenAI老板Sam Altman直接开门见山地介绍说：这是我们迄今为止功能最强大的模型！有多强？根据OpenAI官方的介绍，GPT-4是一个超大的<strong>多模态模型</strong>，也就是说，它的输入可以是文字（上限2.5万字），还可以是图像。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日媒：与中国“脱钩”蔓延至软件开发 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349619.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349619.htm"/>
-        <updated>2023-03-16T10:57:22.000Z</updated>
-        <content type="html"><![CDATA[中国和美国之间的技术脱钩正在蔓延到软件领域。据日经亚洲报道，出于对网络攻击的担忧，软件开发商开始排斥整合来自中国创建的软件组件。中国本土在软件开发领域不断扩大，已经为美国、日本和其他国家敲响了警钟。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克再次批评OpenAI变成营利组织：我当初还捐了1亿美元 (cnbeta一周点击排行)]]></title>
@@ -82,6 +82,13 @@
         <content type="html"><![CDATA[去年夏天，我们回顾了Starlink RV，这是一种卫星互联网服务的机动版本，承诺用户可以从其所在大陆的几乎任何地方接入。现在，它已被重新命名为Starlink Roam，可提供每月150美元的区域性接入服务，或每月200美元的全球使用服务。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[用户称微软员工竟用盗版脚本激活其Windows 10系统 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349795.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349795.htm"/>
+        <updated>2023-03-17T10:45:07.000Z</updated>
+        <content type="html"><![CDATA[近日，一位Twitter用户@TCNOco在微软商店购买了正版的Windows 10专业版密钥，但无法激活操作系统。他联系了微软官方支持部门，没想到对方竟然使用了一个非官方的脚本为他激活了系统，这种方法实际上是盗版，不合法。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[特斯拉，求求你能不能把单踏板模式删了？ (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1349437.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1349437.htm"/>
@@ -94,13 +101,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1349355.htm"/>
         <updated>2023-03-16T17:38:27.862Z</updated>
         <content type="html"><![CDATA[在各大厂商中，戴尔一直是离开中国的急先锋。现在，有媒体曝光了戴尔所谓“去中化”的全套剧本和时间表，从上游IC采购到中下游周边再到整机组装，都有明确的安排。根据计划，<strong>戴尔预计从2025年开始，首先在中下游供应链中排除中国内地制造，并优先在美国内需市场上进行转变。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用户称微软员工竟用盗版脚本激活其Windows 10系统 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349795.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349795.htm"/>
-        <updated>2023-03-17T10:45:07.000Z</updated>
-        <content type="html"><![CDATA[近日，一位Twitter用户@TCNOco在微软商店购买了正版的Windows 10专业版密钥，但无法激活操作系统。他联系了微软官方支持部门，没想到对方竟然使用了一个非官方的脚本为他激活了系统，这种方法实际上是盗版，不合法。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4大量技术细节不再公开 (cnbeta一周点击排行)]]></title>
@@ -131,11 +131,11 @@
         <content type="html"><![CDATA[在今年的央视“315”晚会上，<strong>央视曝光了一些景区高空项目使用的“三点式安全带”安全问题，这些 “三点式安全带”或有脱落风险。</strong>据了解，天津市蓟州区的九山顶景区、湖北恩施地心谷景区、昆明市五华西游洞景区、南宁市青瓦房古村落的“步步惊心”项目皆被点名。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD直接向Intel开炮：顶级性能 不需要高功耗 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349045.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349045.htm"/>
-        <updated>2023-03-14T17:45:42.224Z</updated>
-        <content type="html"><![CDATA[AMD锐龙7000系列、Intel 13代酷睿系列，在性能上可以说相差并不大，不过在功耗上，AMD还是有明显优势的。在近日的一次商业伙伴会议上，AMD就展示了两张幻灯片，一个是双方型号定位对比，另一个就是功耗、能效对比。]]></content>
+        <title type="html"><![CDATA[传iPhone 15 Pro Max将打破智能手机最薄边框纪录 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349883.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349883.htm"/>
+        <updated>2023-03-19T17:38:41.823Z</updated>
+        <content type="html"><![CDATA[iPhone 15 Pro Max将拥有所有智能手机中最薄的边框，打破目前由小米13保持的记录。这是被称为"Ice Universe"的泄密者的说法，他在过去曾泄露过有关苹果计划的准确信息。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[魔兽国服重开遥遥无期 暴雪釜底抽薪将实现全球服直营 (cnbeta一周点击排行)]]></title>
