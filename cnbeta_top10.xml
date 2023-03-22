@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-03-22T05:38:55.808Z</updated>
+    <updated>2023-03-22T17:38:51.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,32 +20,11 @@
         <content type="html"><![CDATA[<strong>前段时间，美团创始人王兴发了个内部邮件，表示美团网约车放弃自营。</strong>美团的入场和退场的时间点，其实都特别有意思。2021 年 7 月，风头无俩的滴滴被斩落马下。<strong>老大哥倒下不到五天，美团网约车 APP 就跟着上架了，当月就在 100&nbsp;多个城市上线自营打车服务。俨然一副趁你病、要你命的架势。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谷歌的又一波反击！开放大语言模型PaLM API]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349461.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349461.htm"/>
-        <updated>2023-03-15T06:57:53.000Z</updated>
-        <content type="html"><![CDATA[事到如今，OpenAI 的 ChatGPT 在 AI 社区的统治地位已经无需多言。特别是 OpenAI 开放 ChatGPT 的 API 之后，在开发者社区掌握了极大的话语权。反观Google那边，在第一波发布 Bard 失利之后，一直处于沉默状态。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别为了卖车 忽悠中国消费者]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349493.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349493.htm"/>
-        <updated>2023-03-15T09:46:30.000Z</updated>
-        <content type="html"><![CDATA[22 万的雪铁龙 C6 是<strong>牛夫人</strong>不假，12 万的雪铁龙 C6 就一定是<strong>小甜甜</strong>吗？不，它也有可能是<strong>蜘蛛精</strong>，放出一百条心眼玩透的蛛（套）丝（路），总有一条缠住你。事情是这样的：3 月初，湖北政府联合多个东风系汽车品牌，为购买这些品牌新车的消费者提供大额优惠补贴。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关闭Windows 10/11虚拟化安全功能 游戏性能飙升最多37.7％]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349549.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349549.htm"/>
-        <updated>2023-03-16T17:38:27.854Z</updated>
-        <content type="html"><![CDATA[Windows 11发布的时候，微软默认开启了<strong>基于虚拟化的安全性(VBS)、Hypervisor强制代码一致性检查(HVCI)</strong>两项功能，引发了不小的争议，很多人担心它们是否会影响性能。最近，Windows 10似乎也开始默认打开了VBS。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日媒：与中国“脱钩”蔓延至软件开发]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349619.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349619.htm"/>
-        <updated>2023-03-16T10:57:22.000Z</updated>
-        <content type="html"><![CDATA[中国和美国之间的技术脱钩正在蔓延到软件领域。据日经亚洲报道，出于对网络攻击的担忧，软件开发商开始排斥整合来自中国创建的软件组件。中国本土在软件开发领域不断扩大，已经为美国、日本和其他国家敲响了警钟。]]></content>
+        <title type="html"><![CDATA[2TB硬盘开车价400多 SSD便宜到没朋友]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350491.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350491.htm"/>
+        <updated>2023-03-22T17:38:51.254Z</updated>
+        <content type="html"><![CDATA[在显卡越来越贵的DIY环境中，现在只有内存及SSD的跌价让玩家感受到了买买买的乐趣，2TB容量的M.2硬盘现在可以做到459元开车价，比大厂的1TB还要便宜。而且这款产品还不是SATA的，<strong>是国产闪存及国产主控，性能可达3400MB/s、3000MB/s，除了品牌不太出名之外，规格很强大。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[文心一言的理性思维能力距离GPT-4差多少？我们第一时间测试了一下]]></title>
@@ -55,18 +34,18 @@
         <content type="html"><![CDATA[如果将大语言模型想象成一个人，那么，通过对它的人格、智商、理性与社会情绪能力进行心理测量，是不是可以清晰地描绘出大语言模型的心智成熟程度。这就是新兴的人工智能心理测量学。只是，在人工智能心理测量学中，我们不再测查人类，而是测查大语言模型以及各类机器人。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[日媒：与中国“脱钩”蔓延至软件开发]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349619.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349619.htm"/>
+        <updated>2023-03-16T10:57:22.000Z</updated>
+        <content type="html"><![CDATA[中国和美国之间的技术脱钩正在蔓延到软件领域。据日经亚洲报道，出于对网络攻击的担忧，软件开发商开始排斥整合来自中国创建的软件组件。中国本土在软件开发领域不断扩大，已经为美国、日本和其他国家敲响了警钟。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[体验完百度的文心一言 我只能说：它胆子够大]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1349771.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1349771.htm"/>
         <updated>2023-03-17T06:17:12.000Z</updated>
         <content type="html"><![CDATA[3 月 16 日下午 2 点，百度北京总部的发布厅内，李彦宏迈着急促的步伐走上台，和大家公布了最近一段时间备受关注的产品——文心一言。尽管这位科技巨头创始人登过《&nbsp;时代&nbsp;》周刊封面，见过无数大场面，但发布会中，他的神态里都透露了些许紧张和局促。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4发布：ChatGPT大升级 太太太太强了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349495.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349495.htm"/>
-        <updated>2023-03-15T09:47:16.000Z</updated>
-        <content type="html"><![CDATA[一觉醒来，万众期待的<strong>GPT-4</strong>，它来了！OpenAI老板Sam Altman直接开门见山地介绍说：这是我们迄今为止功能最强大的模型！有多强？根据OpenAI官方的介绍，GPT-4是一个超大的<strong>多模态模型</strong>，也就是说，它的输入可以是文字（上限2.5万字），还可以是图像。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为P60系列外观官宣：P系列颜值巅峰 3月23日登场]]></title>
@@ -81,6 +60,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1349665.htm"/>
         <updated>2023-03-17T17:39:23.325Z</updated>
         <content type="html"><![CDATA[特斯拉和推特CEO埃隆·马斯克周三再次将矛头对准OpenAI，对其从一家非营利组织变成一家营利组织表示困惑。在回应有关OpenAI联合创始人兼CEO山姆·奥特曼和他的公司不再是“非营利组织，甚至不再是开放的”的调侃时，马斯克质疑了这一转变的合法性。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4“越狱”计划曝光 还引诱人类帮助]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350159.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350159.htm"/>
+        <updated>2023-03-20T02:47:49.000Z</updated>
+        <content type="html"><![CDATA[<span style="">刚刚发布5天的GPT-4，掀起了一场轩然大波。一位斯坦福大学教授最新发现，GPT-4竟然能引诱人类提供开发文档，在30分钟就拟定出了一个完整的“外逃越狱”计划。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[百度网盘下载竟能用变速精灵加速 带宽跑满]]></title>
@@ -104,13 +90,6 @@
         <content type="html"><![CDATA[近日，一位Twitter用户@TCNOco在微软商店购买了正版的Windows 10专业版密钥，但无法激活操作系统。他联系了微软官方支持部门，没想到对方竟然使用了一个非官方的脚本为他激活了系统，这种方法实际上是盗版，不合法。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉，求求你能不能把单踏板模式删了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349437.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349437.htm"/>
-        <updated>2023-03-15T01:40:07.000Z</updated>
-        <content type="html"><![CDATA[大家有没有发现，最近和特斯拉有关的事故又多起来了。潮州，一台 Model Y 全速狂奔 2 公里没停，最后造成 2 死 3 伤。东莞，一台&nbsp;Model S&nbsp;撞了好几台车以后飞进了路边的店里，顺道让那家名叫一锅端的拌饭火了一把。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-4背后的开发者：七大团队 三十余位华人]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1350015.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1350015.htm"/>
@@ -120,13 +99,6 @@
 应用瞬间比竞争对手拉开一个身位，甚至有人说，新的工业革命开始了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4“越狱”计划曝光 还引诱人类帮助]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1350159.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1350159.htm"/>
-        <updated>2023-03-20T02:47:49.000Z</updated>
-        <content type="html"><![CDATA[<span style="">刚刚发布5天的GPT-4，掀起了一场轩然大波。一位斯坦福大学教授最新发现，GPT-4竟然能引诱人类提供开发文档，在30分钟就拟定出了一个完整的“外逃越狱”计划。</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一条喷学校和老师的视频：播放量800多万 老师都点赞]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1349769.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1349769.htm"/>
@@ -134,17 +106,45 @@
         <content type="html"><![CDATA[“ 去你X的集体荣誉感，老子没有&nbsp;”。前阵子，一段以这句话为标题的视频，在 B 站热度顶顶的，没多久就干到了恐怖的 800 多万播放，其中 UP 主的不少发言，也被网友誉为了“&nbsp;新时代学生圣经 ”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4大量技术细节不再公开]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349571.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349571.htm"/>
-        <updated>2023-03-16T17:38:27.863Z</updated>
-        <content type="html"><![CDATA[今天凌晨，OpenAI又发布了最新的GPT-4，这是一款多模态模型，相比当前ChatGPT在用的GPT-3.5模型，它支持了图像能力，能理解用户发的梗图，使用范围更广了。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[不必再等？微软疑似全面开放新必应]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1349899.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1349899.htm"/>
         <updated>2023-03-21T17:38:36.514Z</updated>
         <content type="html"><![CDATA[报道称，用户必须使用微软旗下的Edge浏览器才能使用类似ChatGPT的聊天机器人界面。ChatGPT版本的必应上线测试近1个月后，微软似乎已经将其全面开放，用户不用再报名等候。据多家媒体、网站近两日报道，未加入等候清单的用户已经可以直接使用。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传iPhone 15 Pro Max将打破智能手机最薄边框纪录]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349883.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349883.htm"/>
+        <updated>2023-03-22T17:38:51.298Z</updated>
+        <content type="html"><![CDATA[iPhone 15 Pro Max将拥有所有智能手机中最薄的边框，打破目前由小米13保持的记录。这是被称为"Ice Universe"的泄密者的说法，他在过去曾泄露过有关苹果计划的准确信息。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马保国：B站年轻人很过分 赚6个亿后栽赃我 没起诉是给他们面子]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349643.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349643.htm"/>
+        <updated>2023-03-16T11:25:34.000Z</updated>
+        <content type="html"><![CDATA[“年轻人不讲武德”“耗子尾汁”这些梗相信大家都听过。此前，网红形意太极门掌门人马保国约战职业拳手，被瞬间秒杀的视频火遍全网。而被秒杀后，马保国过去被人打肿眼睛演讲的名句：“年轻人不讲武德”也被传颂起来。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[景区回应被央视315点名安全带不安全：暂不考虑整改 6年没任何意外]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349641.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349641.htm"/>
+        <updated>2023-03-16T11:19:30.000Z</updated>
+        <content type="html"><![CDATA[在今年的央视“315”晚会上，<strong>央视曝光了一些景区高空项目使用的“三点式安全带”安全问题，这些 “三点式安全带”或有脱落风险。</strong>据了解，天津市蓟州区的九山顶景区、湖北恩施地心谷景区、昆明市五华西游洞景区、南宁市青瓦房古村落的“步步惊心”项目皆被点名。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度人不爱便宜手机了？小米是这么丢掉市场头名的]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349673.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349673.htm"/>
+        <updated>2023-03-22T17:38:51.305Z</updated>
+        <content type="html"><![CDATA[北京时间3月16日消息，据外媒报道，小米公司正在大幅调整其印度战略。此前，该公司错误判断了印度消费者的品味，这一代价高昂的失误使得<strong>三星电子在印度这个全球第二大手机市场上反超了小米</strong>，成为第一大制造商。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抖音偷偷给我办了个小额贷 开通条件里隐藏着“非学生承诺函”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350275.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350275.htm"/>
+        <updated>2023-03-22T17:38:51.305Z</updated>
+        <content type="html"><![CDATA[3·15晚会上没有“大厂”，是一些观众看完后的直观感受。今天，笔者来说说自己近期跟一家“大厂”的事儿。抖音，记录美好生活。不过，这两天，抖音给我生活增添不小的烦恼——我被抖音偷偷办了小额贷！还不能一下子轻松关闭。<strong>更有趣的是，再次尝试新开通“抖音月付”时，发现办理条件中还隐藏着“非学生承诺函”。</strong>]]></content>
     </entry>
 </feed>
