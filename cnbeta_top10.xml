@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-03-23T05:39:27.579Z</updated>
+    <updated>2023-03-23T17:38:51.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[如果将大语言模型想象成一个人，那么，通过对它的人格、智商、理性与社会情绪能力进行心理测量，是不是可以清晰地描绘出大语言模型的心智成熟程度。这就是新兴的人工智能心理测量学。只是，在人工智能心理测量学中，我们不再测查人类，而是测查大语言模型以及各类机器人。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日媒：与中国“脱钩”蔓延至软件开发]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349619.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349619.htm"/>
-        <updated>2023-03-16T10:57:22.000Z</updated>
-        <content type="html"><![CDATA[中国和美国之间的技术脱钩正在蔓延到软件领域。据日经亚洲报道，出于对网络攻击的担忧，软件开发商开始排斥整合来自中国创建的软件组件。中国本土在软件开发领域不断扩大，已经为美国、日本和其他国家敲响了警钟。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[体验完百度的文心一言 我只能说：它胆子够大]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1349771.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1349771.htm"/>
@@ -53,13 +46,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1350029.htm"/>
         <updated>2023-03-20T17:39:17.541Z</updated>
         <content type="html"><![CDATA[3月18日晚间，华为官方微博直接公布了P60系列真机照。这让网友感到意外。因为以往华为在新品预热阶段，通常不会直接公布新品外观。海报显示，华为P60系列在工业设计上又有了明显改变。<strong>背板疑似采用了贝壳材质作为设计工艺，独特的白色让整机更典雅、更有质感，辨识度也拉满，</strong>堪称是P系列颜值巅峰。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克再次批评OpenAI变成营利组织：我当初还捐了1亿美元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349665.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349665.htm"/>
-        <updated>2023-03-17T17:39:23.325Z</updated>
-        <content type="html"><![CDATA[特斯拉和推特CEO埃隆·马斯克周三再次将矛头对准OpenAI，对其从一家非营利组织变成一家营利组织表示困惑。在回应有关OpenAI联合创始人兼CEO山姆·奥特曼和他的公司不再是“非营利组织，甚至不再是开放的”的调侃时，马斯克质疑了这一转变的合法性。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4“越狱”计划曝光 还引诱人类帮助]]></title>
@@ -76,20 +62,6 @@
         <content type="html"><![CDATA[最近，<strong>有网友惊讶地发现：在使用百度网盘下载文件时，可以通过使用变速精灵来加速下载速度。</strong>在这之前，下载速度一般维持在100K每秒，变速精灵速率调到500倍，直接跑满其百兆带宽。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX Starlink推出每月200美元的"全球"卫星互联网套餐]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349589.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349589.htm"/>
-        <updated>2023-03-16T05:44:20.000Z</updated>
-        <content type="html"><![CDATA[去年夏天，我们回顾了Starlink RV，这是一种卫星互联网服务的机动版本，承诺用户可以从其所在大陆的几乎任何地方接入。现在，它已被重新命名为Starlink Roam，可提供每月150美元的区域性接入服务，或每月200美元的全球使用服务。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用户称微软员工竟用盗版脚本激活其Windows 10系统]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349795.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349795.htm"/>
-        <updated>2023-03-17T10:45:07.000Z</updated>
-        <content type="html"><![CDATA[近日，一位Twitter用户@TCNOco在微软商店购买了正版的Windows 10专业版密钥，但无法激活操作系统。他联系了微软官方支持部门，没想到对方竟然使用了一个非官方的脚本为他激活了系统，这种方法实际上是盗版，不合法。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-4背后的开发者：七大团队 三十余位华人]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1350015.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1350015.htm"/>
@@ -97,6 +69,13 @@
         <content type="html"><![CDATA[始于Google，发迹于 OpenAI，这是很多 GPT-4 贡献者的职业轨迹。这个星期，OpenAI 大模型 GPT-4 
 的发布让全球科技圈的技术竞争进入了白热化。几天之内，ChatGPT、必应搜索和 Microsoft 365 相继接入 GPT-4，微软的 AI 
 应用瞬间比竞争对手拉开一个身位，甚至有人说，新的工业革命开始了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用户称微软员工竟用盗版脚本激活其Windows 10系统]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1349795.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1349795.htm"/>
+        <updated>2023-03-17T10:45:07.000Z</updated>
+        <content type="html"><![CDATA[近日，一位Twitter用户@TCNOco在微软商店购买了正版的Windows 10专业版密钥，但无法激活操作系统。他联系了微软官方支持部门，没想到对方竟然使用了一个非官方的脚本为他激活了系统，这种方法实际上是盗版，不合法。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一条喷学校和老师的视频：播放量800多万 老师都点赞]]></title>
@@ -120,25 +99,39 @@
         <content type="html"><![CDATA[iPhone 15 Pro Max将拥有所有智能手机中最薄的边框，打破目前由小米13保持的记录。这是被称为"Ice Universe"的泄密者的说法，他在过去曾泄露过有关苹果计划的准确信息。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马保国：B站年轻人很过分 赚6个亿后栽赃我 没起诉是给他们面子]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349643.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349643.htm"/>
-        <updated>2023-03-16T11:25:34.000Z</updated>
-        <content type="html"><![CDATA[“年轻人不讲武德”“耗子尾汁”这些梗相信大家都听过。此前，网红形意太极门掌门人马保国约战职业拳手，被瞬间秒杀的视频火遍全网。而被秒杀后，马保国过去被人打肿眼睛演讲的名句：“年轻人不讲武德”也被传颂起来。]]></content>
+        <title type="html"><![CDATA[越南年轻人在中国互联网平台疯狂“淘宝”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350495.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350495.htm"/>
+        <updated>2023-03-23T17:38:50.316Z</updated>
+        <content type="html"><![CDATA[除了是“我是学生，免费送我”等中文网络梗的发源地，二手交易平台闲鱼可谓卧虎藏龙。卖家和买家之间的讲价环节有时充满火药味，最为极端的例子中，双方一言不合就要开启线下真人PK。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[景区回应被央视315点名安全带不安全：暂不考虑整改 6年没任何意外]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349641.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349641.htm"/>
-        <updated>2023-03-16T11:19:30.000Z</updated>
-        <content type="html"><![CDATA[在今年的央视“315”晚会上，<strong>央视曝光了一些景区高空项目使用的“三点式安全带”安全问题，这些 “三点式安全带”或有脱落风险。</strong>据了解，天津市蓟州区的九山顶景区、湖北恩施地心谷景区、昆明市五华西游洞景区、南宁市青瓦房古村落的“步步惊心”项目皆被点名。]]></content>
+        <title type="html"><![CDATA[黄仁勋向台积电放核弹：干掉40000台CPU服务器 计算光刻提速40倍]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350547.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350547.htm"/>
+        <updated>2023-03-22T09:58:27.000Z</updated>
+        <content type="html"><![CDATA[全球AI计算技术盛会、一年一度的英伟达GTC大会如期而至！英伟达CEO黄仁勋（昵称“老黄”）一如既往穿着标志性的皮衣进行了78分钟演讲，满面笑容地分享英伟达又闷声干了哪些大事。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[印度人不爱便宜手机了？小米是这么丢掉市场头名的]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1349673.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1349673.htm"/>
-        <updated>2023-03-22T17:38:51.305Z</updated>
-        <content type="html"><![CDATA[北京时间3月16日消息，据外媒报道，小米公司正在大幅调整其印度战略。此前，该公司错误判断了印度消费者的品味，这一代价高昂的失误使得<strong>三星电子在印度这个全球第二大手机市场上反超了小米</strong>，成为第一大制造商。]]></content>
+        <title type="html"><![CDATA[ASML部分先进DUV光刻机出口受限：对准精度不高于2.5nm]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350131.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350131.htm"/>
+        <updated>2023-03-23T17:38:50.320Z</updated>
+        <content type="html"><![CDATA[今年3月8日，荷兰方面，计划对半导体技术出口实施新的管制，这些管制措施将在今天夏天之前开始实施。3月9日上午，荷兰光刻机巨头阿斯麦（ASML）发布声明表示，ASML预计必须申请许可证方可出口DUV设备。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尴尬：ChatGPT加持的New Bing可以帮找序列号激活Windows 11]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350429.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350429.htm"/>
+        <updated>2023-03-21T11:20:12.000Z</updated>
+        <content type="html"><![CDATA[3月21日消息，数码博主@Sunbelife 发文称，经实测发现，无所不能的New Bing，甚至可以帮你免费激活正版Windows 11。众所周知，Windows 11是微软旗下的操作系统，用户需要付费激活。而ChatGPT此举无疑助长了盗版情况的蔓延。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯四年磨一剑 结果网友都在看笑话]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350555.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350555.htm"/>
+        <updated>2023-03-22T10:08:52.000Z</updated>
+        <content type="html"><![CDATA[前阵子，腾讯历时 4 年打造的“ 末日僵尸生存 ”游戏《黎明觉醒》终于上线。在前期宣发中，光子工作室表示，游戏采用虚幻四打造，画面大幅升级，还会出现可探索的开放大地图、实时动态天气、真实的生存系统，和多样的建造玩法等，把玩家兴致吊得足足的。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[抖音偷偷给我办了个小额贷 开通条件里隐藏着“非学生承诺函”]]></title>
@@ -146,5 +139,12 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1350275.htm"/>
         <updated>2023-03-22T17:38:51.305Z</updated>
         <content type="html"><![CDATA[3·15晚会上没有“大厂”，是一些观众看完后的直观感受。今天，笔者来说说自己近期跟一家“大厂”的事儿。抖音，记录美好生活。不过，这两天，抖音给我生活增添不小的烦恼——我被抖音偷偷办了小额贷！还不能一下子轻松关闭。<strong>更有趣的是，再次尝试新开通“抖音月付”时，发现办理条件中还隐藏着“非学生承诺函”。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为最新天才少年曝光：26岁年薪百万 还是 UP 主]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350225.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350225.htm"/>
+        <updated>2023-03-20T00:23:02.000Z</updated>
+        <content type="html"><![CDATA[近日，据电子科技大学消息，2022年秋季校园招聘中，该校博士研究生宁博宇进入华为，成为“天才少年”项目一员，年薪百万。据悉，现年&nbsp;26&nbsp;岁的宁博宇通过华为&nbsp;2022&nbsp;年秋季校园招聘入选华为无线产品线与光产品线的&nbsp;"&nbsp;天才少年计划&nbsp;"，年薪百万。]]></content>
     </entry>
 </feed>
