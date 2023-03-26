@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-03-25T17:38:19.346Z</updated>
+    <updated>2023-03-26T05:38:42.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[网曝友商要特斯拉降低中国员工工资 从13000降到5341元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1350031.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1350031.htm"/>
-        <updated>2023-03-25T05:38:43.269Z</updated>
-        <content type="html"><![CDATA[现在，有网友爆料称，有友商要特斯拉降低中国员工工资，从13000降到5341元。据悉，特斯拉上海工厂一线工人的基本工资确实是5341元起，这个基本工资对应的级别是1.3+，加班费46元/小时，中班/夜班费分别是10元和18元/天，每年发17薪，这样算下来，综合月薪为7500到1万，外加五险一金，和家庭医疗保险，以及堪比星级酒店自助餐的员工餐。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[滴滴下架18个月 回来一看：没一个能打的]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1350121.htm</id>
@@ -41,20 +34,6 @@
         <content type="html"><![CDATA[<span style="">刚刚发布5天的GPT-4，掀起了一场轩然大波。一位斯坦福大学教授最新发现，GPT-4竟然能引诱人类提供开发文档，在30分钟就拟定出了一个完整的“外逃越狱”计划。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为P60系列外观官宣：P系列颜值巅峰 3月23日登场]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1350029.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1350029.htm"/>
-        <updated>2023-03-25T05:38:43.292Z</updated>
-        <content type="html"><![CDATA[3月18日晚间，华为官方微博直接公布了P60系列真机照。这让网友感到意外。因为以往华为在新品预热阶段，通常不会直接公布新品外观。海报显示，华为P60系列在工业设计上又有了明显改变。<strong>背板疑似采用了贝壳材质作为设计工艺，独特的白色让整机更典雅、更有质感，辨识度也拉满，</strong>堪称是P系列颜值巅峰。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度网盘下载竟能用变速精灵加速 带宽跑满]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1350129.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1350129.htm"/>
-        <updated>2023-03-25T05:38:43.293Z</updated>
-        <content type="html"><![CDATA[最近，<strong>有网友惊讶地发现：在使用百度网盘下载文件时，可以通过使用变速精灵来加速下载速度。</strong>在这之前，下载速度一般维持在100K每秒，变速精灵速率调到500倍，直接跑满其百兆带宽。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[胡润全球富豪榜公布：马斯克退居第二 中国富豪人数再次领跑全球]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1350771.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1350771.htm"/>
@@ -62,13 +41,11 @@
         <content type="html"><![CDATA[胡润研究院今日发布《2023胡润全球富豪榜》。榜单显示，今年共有69个国家、2356家公司的3112位十亿美金企业家上榜。与去年相比，十亿美金企业家的数量减少了8%，他们的总财富下降了10%。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4背后的开发者：七大团队 三十余位华人]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1350015.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1350015.htm"/>
-        <updated>2023-03-25T05:38:43.295Z</updated>
-        <content type="html"><![CDATA[始于Google，发迹于 OpenAI，这是很多 GPT-4 贡献者的职业轨迹。这个星期，OpenAI 大模型 GPT-4 
-的发布让全球科技圈的技术竞争进入了白热化。几天之内，ChatGPT、必应搜索和 Microsoft 365 相继接入 GPT-4，微软的 AI 
-应用瞬间比竞争对手拉开一个身位，甚至有人说，新的工业革命开始了。]]></content>
+        <title type="html"><![CDATA[百度网盘下载竟能用变速精灵加速 带宽跑满]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350129.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350129.htm"/>
+        <updated>2023-03-25T05:38:43.293Z</updated>
+        <content type="html"><![CDATA[最近，<strong>有网友惊讶地发现：在使用百度网盘下载文件时，可以通过使用变速精灵来加速下载速度。</strong>在这之前，下载速度一般维持在100K每秒，变速精灵速率调到500倍，直接跑满其百兆带宽。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[黄仁勋向台积电放核弹：干掉40000台CPU服务器 计算光刻提速40倍]]></title>
@@ -92,11 +69,11 @@
         <content type="html"><![CDATA[近日，据电子科技大学消息，2022年秋季校园招聘中，该校博士研究生宁博宇进入华为，成为“天才少年”项目一员，年薪百万。据悉，现年&nbsp;26&nbsp;岁的宁博宇通过华为&nbsp;2022&nbsp;年秋季校园招聘入选华为无线产品线与光产品线的&nbsp;"&nbsp;天才少年计划&nbsp;"，年薪百万。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[越南年轻人在中国互联网平台疯狂“淘宝”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1350495.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1350495.htm"/>
-        <updated>2023-03-25T05:38:43.319Z</updated>
-        <content type="html"><![CDATA[除了是“我是学生，免费送我”等中文网络梗的发源地，二手交易平台闲鱼可谓卧虎藏龙。卖家和买家之间的讲价环节有时充满火药味，最为极端的例子中，双方一言不合就要开启线下真人PK。]]></content>
+        <title type="html"><![CDATA[芯片要大涨价？ARM已通知小米等客户将改变授权模式]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350779.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350779.htm"/>
+        <updated>2023-03-25T05:38:43.338Z</updated>
+        <content type="html"><![CDATA[北京时间3月23日消息，知情人士称，软银集团旗下英国芯片设计巨头ARM正寻求提高其芯片设计的价格，该公司希望在今年备受期待的纽约首次公开招股(IPO)之前提高收入。目前，超过95%的智能机都使用了ARM的芯片架构。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ASML部分先进DUV光刻机出口受限：对准精度不高于2.5nm]]></title>
@@ -104,6 +81,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1350131.htm"/>
         <updated>2023-03-25T05:38:43.331Z</updated>
         <content type="html"><![CDATA[今年3月8日，荷兰方面，计划对半导体技术出口实施新的管制，这些管制措施将在今天夏天之前开始实施。3月9日上午，荷兰光刻机巨头阿斯麦（ASML）发布声明表示，ASML预计必须申请许可证方可出口DUV设备。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[越南年轻人在中国互联网平台疯狂“淘宝”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350495.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350495.htm"/>
+        <updated>2023-03-25T05:38:43.319Z</updated>
+        <content type="html"><![CDATA[除了是“我是学生，免费送我”等中文网络梗的发源地，二手交易平台闲鱼可谓卧虎藏龙。卖家和买家之间的讲价环节有时充满火药味，最为极端的例子中，双方一言不合就要开启线下真人PK。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尴尬：ChatGPT加持的New Bing可以帮找序列号激活Windows 11]]></title>
@@ -120,11 +104,11 @@
         <content type="html"><![CDATA[3·15晚会上没有“大厂”，是一些观众看完后的直观感受。今天，笔者来说说自己近期跟一家“大厂”的事儿。抖音，记录美好生活。不过，这两天，抖音给我生活增添不小的烦恼——我被抖音偷偷办了小额贷！还不能一下子轻松关闭。<strong>更有趣的是，再次尝试新开通“抖音月付”时，发现办理条件中还隐藏着“非学生承诺函”。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[芯片要大涨价？ARM已通知小米等客户将改变授权模式]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1350779.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1350779.htm"/>
-        <updated>2023-03-25T05:38:43.338Z</updated>
-        <content type="html"><![CDATA[北京时间3月23日消息，知情人士称，软银集团旗下英国芯片设计巨头ARM正寻求提高其芯片设计的价格，该公司希望在今年备受期待的纽约首次公开招股(IPO)之前提高收入。目前，超过95%的智能机都使用了ARM的芯片架构。]]></content>
+        <title type="html"><![CDATA[李彦宏：重做ChatGPT已没多大意义 不会写提示的人将被淘汰]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350749.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350749.htm"/>
+        <updated>2023-03-23T10:32:35.000Z</updated>
+        <content type="html"><![CDATA[最近几个月，由于ChatGPT大火，AI领域创业也变得炙手可热，很多创业者或者机构都想打造一个国产版的OpenAI及ChatGPT，然而百度创始人李彦宏表示国内基本不会再出OpenAI这样的公司了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《黑暗荣耀》女反派晒幕后照 监狱中歪嘴看向镜]]></title>
@@ -134,11 +118,13 @@
         <content type="html"><![CDATA[据新浪娱乐报道，近日《黑暗荣耀》女反派朴妍珍的扮演者林智妍更新了社交网络照片，晒出了一组剧中角色入狱后的幕后照，照片中的“妍珍”歪嘴看向镜头，还原剧中形象。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[李彦宏：重做ChatGPT已没多大意义 不会写提示的人将被淘汰]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1350749.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1350749.htm"/>
-        <updated>2023-03-23T10:32:35.000Z</updated>
-        <content type="html"><![CDATA[最近几个月，由于ChatGPT大火，AI领域创业也变得炙手可热，很多创业者或者机构都想打造一个国产版的OpenAI及ChatGPT，然而百度创始人李彦宏表示国内基本不会再出OpenAI这样的公司了。]]></content>
+        <title type="html"><![CDATA[固态硬盘可以取代机械硬盘了吗？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350823.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350823.htm"/>
+        <updated>2023-03-26T05:38:42.082Z</updated>
+        <content type="html"><![CDATA[相信有很多小伙伴已经注意到了，目前市场上很多固态硬盘的价格相比去年又降低了不少。这是由于制造固态硬盘所需的NAND芯片降价导致的。根据集邦咨询的数据显示，NAND
+ Flash市场自2022年下半年以来面临需求逆风，供应链积极去化库存加以应对，此情况导致第四季NAND 
+Flash合约价格下跌20-25%，其中Enterprise SSD（企业级固态硬盘）是下跌最剧烈的产品，跌幅约23-28%。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开源软件五巨头全部支持龙芯CPU架构]]></title>
@@ -146,5 +132,20 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1350133.htm"/>
         <updated>2023-03-25T05:38:43.341Z</updated>
         <content type="html"><![CDATA[据龙芯中科官方消息，3月18日，<strong>著名的LLVM国际开源软件社区发布16.0.0版本，以正式后端（official target）的级别，实现了对龙芯LoongArch指令集龙架构的完善支持。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为举办重磅会议称将“突破乌江天险” 孟晚舟等6位高层授旗]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350701.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350701.htm"/>
+        <updated>2023-03-23T09:51:08.000Z</updated>
+        <content type="html"><![CDATA[3月21日，华为官方论坛心声社区发布了一则视频，内容是华为公司在深圳华为坂田基地举行的“突破乌江天险 
+实现战略突围——产品研发工具阶段总结与表彰会”。视频显示，包括创始人任正非、副董事长兼轮值董事长孟晚舟、常务董事余承东在内的华为高管全员出席了这次表彰会，并为产品研发工具团队颁奖以及授旗。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东航MU5735 132人遇难坠机事故调查进展公布]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1350335.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1350335.htm"/>
+        <updated>2023-03-26T05:38:42.095Z</updated>
+        <content type="html"><![CDATA[3月20日消息，今日，民航局发布关于“3·21”东航MU5735航空器飞行事故调查进展情况的通报。通报显示，2022年3月21日，东方航空云南有限公司波音737-800型客机（注册号B-1791），执行MU5735昆明长水机场至广州白云机场国内定期客运航班。<strong>13时16分飞机从昆明长水机场起飞，64分钟后偏离巡航高度8900米快速下降，坠毁于广西壮族自治区梧州市藤县埌南镇莫埌村附近。机上123名旅客、9名机组成员全部遇难。</strong>]]></content>
     </entry>
 </feed>
