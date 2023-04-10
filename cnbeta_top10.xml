@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-04-09T17:38:49.326Z</updated>
+    <updated>2023-04-10T05:38:32.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[一个免费良心的开源项目：把两个国产软件钉在耻辱柱上]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1352515.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1352515.htm"/>
-        <updated>2023-04-03T02:33:50.000Z</updated>
-        <content type="html"><![CDATA[2016 年，一名叫做雷霄骅的中国传媒大学博士生因为过度劳累而离世，在那之后，CSDN 社区的许多网友和钻研技术的人们都自发来缅怀他。如果你是一个玩转视频、音频的代码和解码相关的人，或者是 CSDN 技术社区的老油条，那么很有可能就认识这位博士。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT大封号 注册功能关闭 亚洲成重灾区]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1352629.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1352629.htm"/>
         <updated>2023-04-04T05:38:56.753Z</updated>
         <content type="html"><![CDATA[“不要登录ChatGPT！”“暂时远离人工智能和ChatGPT概念板块高位股！”就在这两天，一些关于ChatGPT的疾呼突然在各种社交平台和群聊刷屏了。而看到这些消息的用户更是感到前所未有的惶恐。因为导致这些声音出现的原因是——<strong>ChatGPT正在悄无声息地大规模封号。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美光被“审查”的背后，会带来什么样的连锁反应？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1352481.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1352481.htm"/>
-        <updated>2023-04-04T05:38:56.746Z</updated>
-        <content type="html"><![CDATA[3月31日晚间，国家互联网信息办公室下设的“网络安全审查办公室”宣布按照《网络安全审查办法》对美国存储芯片大厂美光公司(Micron)在华销售的产品实施网络安全审查。此消息一发布，立刻引发了业内的热议，都在讨论此事可能对于整个存储芯片市场所带来的影响。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[板子打在余承东身上 疼的是任正非]]></title>
@@ -35,6 +21,21 @@
  AITO”。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[啥事不干年薪130万 美国科技公司为何愿意“养闲人”？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1353597.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1353597.htm"/>
+        <updated>2023-04-08T10:25:55.000Z</updated>
+        <content type="html"><![CDATA[北京时间4月8日消息，就在美国科技公司纷纷大力裁员之前，他们曾经以“养闲人”为豪。这些员工基本上什么事也不用干，年收入就能达到上百万。直到去年，33岁的玛德琳·马查多(Madelyn
+ Machado)还在Facebook母公司Meta工作。不过据她反映，自己根本没工作过。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[董明珠称孟羽童已不做秘书 曾被称为格力“接班人”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1353461.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1353461.htm"/>
+        <updated>2023-04-07T11:16:57.000Z</updated>
+        <content type="html"><![CDATA[2021年4月，董明珠加入综艺《初入职场的我们》，在节目中，浙江大学本科生孟羽童获得董明珠赏识，最终由实习生转正为董事长秘书。被称为格力“接班人”的孟羽童多次跟随董明珠参加各种活动，在此前中国制造业领袖峰会上，董明珠还公开表示，<strong>“我希望她能在我身边，我要把她培养成第二个董明珠”。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[特斯拉不要的技术，蔚来当个宝？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1353061.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1353061.htm"/>
@@ -43,11 +44,12 @@
 公里之间的表显续航；五分钟，它可以使一位焦虑不堪的车主变回情绪稳定的成年人，让全车人在没什么大风的车厢里获得“松弛感”；五分钟，它能让你深刻理解“汽车是灵魂伴侣，而不是冰冷机器”这句名言的真谛：心虽被掏空，但真心从未远走。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[董明珠称孟羽童已不做秘书 曾被称为格力“接班人”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1353461.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1353461.htm"/>
-        <updated>2023-04-07T11:16:57.000Z</updated>
-        <content type="html"><![CDATA[2021年4月，董明珠加入综艺《初入职场的我们》，在节目中，浙江大学本科生孟羽童获得董明珠赏识，最终由实习生转正为董事长秘书。被称为格力“接班人”的孟羽童多次跟随董明珠参加各种活动，在此前中国制造业领袖峰会上，董明珠还公开表示，<strong>“我希望她能在我身边，我要把她培养成第二个董明珠”。</strong>]]></content>
+        <title type="html"><![CDATA[三星Galaxy Z Fold 5和Galaxy Z Flip 5机身配色泄露 继续偏向保守]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1353125.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1353125.htm"/>
+        <updated>2023-04-08T05:38:23.625Z</updated>
+        <content type="html"><![CDATA[三星将在8月和9月之间发布Galaxy Z Fold 5和Galaxy Z Flip 
+5，如果一切顺利，我们还将看到一些相当不错的可穿戴设备，以及新的平板电脑。现在，到目前为止，我们已经收到了一些关于即将到来的设备的有趣细节，但最新的信息更像是一种确认，因为一位业内人士和专家已经透露了三星将为其可折叠手机设定什么配色。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[号称“不泄密” 微信键盘Mac版正式发布 Windows还要等]]></title>
@@ -62,14 +64,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1353285.htm"/>
         <updated>2023-04-06T00:42:23.000Z</updated>
         <content type="html"><![CDATA[4月6日消息，微软已将OpenAI的GPT-4集成到Microsoft 365生产力应用套件中，这是一项非常艰巨的任务，但公司一直希望能够尽快完成。因此，微软动员了数百名员工，让他们长时间加班工作，一起头脑风暴产品方案，基于一个统一的设计框架，开发出三种人工智能助手的工作模式。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy Z Fold 5和Galaxy Z Flip 5机身配色泄露 继续偏向保守]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1353125.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1353125.htm"/>
-        <updated>2023-04-08T05:38:23.625Z</updated>
-        <content type="html"><![CDATA[三星将在8月和9月之间发布Galaxy Z Fold 5和Galaxy Z Flip 
-5，如果一切顺利，我们还将看到一些相当不错的可穿戴设备，以及新的平板电脑。现在，到目前为止，我们已经收到了一些关于即将到来的设备的有趣细节，但最新的信息更像是一种确认，因为一位业内人士和专家已经透露了三星将为其可折叠手机设定什么配色。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司在Mac销量下跌的情况下于1月停止了M2芯片的生产]]></title>
@@ -109,15 +103,6 @@ Elec报道，在严重的PC市场低迷中，面对Mac销量的"大跌"，苹果
         <content type="html"><![CDATA[白头发会不会越拔越多？不会。解决这个问题前，大家不妨先想象一下，如果白头发真的会越拔越多，要通过怎样的形式呢？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[打过码的图片等于没打 用Windows截图工具的要小心了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1352423.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1352423.htm"/>
-        <updated>2023-04-02T10:28:28.000Z</updated>
-        <content type="html"><![CDATA[上周有外媒爆出了一个和Google隐私安全有关的小瓜。事儿本身不大，但聊一聊还是蛮有意思的。报道讲说，Google自家的 Pixel 
-手机系统内置的 “ Markup ” 截图工具，存在一个严重的隐私漏洞。只要你通过这个截图工具来剪辑 PNG 
-格式的图片，就有一定概率还原出原图被截掉的其他信息……]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT需要1万张NVIDIA A100显卡 国内仅有6家公司做到]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1353167.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1353167.htm"/>
@@ -125,11 +110,28 @@ Elec报道，在严重的PC市场低迷中，面对Mac销量的"大跌"，苹果
         <content type="html"><![CDATA[ChatGPT这样的生成式AI不仅需要千亿级的大模型，同时还需要有庞大的算力基础，训练AI现在主要依赖NVIDIA的AI加速卡，达到ChatGPT这种级别的至少需要1万张A100加速卡。高性能加速显卡现在是稀缺资源，国内购买NVIDIA高端显卡更是不容易，来自商汤科技的一份纪要显示，能达到ChatGPT这种算力要求的公司在国内凤毛麟角，只有6家。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马保国“偷袭”直播间]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1352447.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1352447.htm"/>
-        <updated>2023-04-02T11:15:53.000Z</updated>
-        <content type="html"><![CDATA[愚人节当天，<strong>1198万人在直播间欣赏72岁老年人表演“中国功夫”。</strong>4月1日，时隔两年重返互联网的马保国在抖音开启了直播带货，一边讲解卖货“少喝一瓶酒，买个十件、二十件衣服”“57%的大米，26%的虾肉”；一边讲述自己曾经的武打经历，“我在英国的时候，二百多斤的大理石都弄不动我”，说到激情处还要现场演绎一下，找来直播间一个有劲儿的小伙子开始比划。]]></content>
+        <title type="html"><![CDATA[iPhone 15 Pro外观渲染图首曝：钛金属边框、Type-C接口]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1353601.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1353601.htm"/>
+        <updated>2023-04-08T10:29:08.000Z</updated>
+        <content type="html"><![CDATA[这可能是目前为止，iPhone 15 Pro最清晰、最靠谱的外观渲染图了。4月8日消息，9to5mac今日独家放出了iPhone 15 
+Pro的高清渲染图，细节爆料非常多，包括钛金属边框，Type-C接口，更加凸出的摄像头模组，电容式音量和静音按键，超窄边框，还有全新的深红配色。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又快谷歌一步 微软已将“文本生成图片”功能整合进浏览器]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1353371.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1353371.htm"/>
+        <updated>2023-04-10T05:38:31.326Z</updated>
+        <content type="html"><![CDATA[<strong>当地时间周三（4月5日），科技巨头微软高管表示，公司已将“必应映像创建器”（Bing Image 
+Creator）试用版的功能整合到微软Edge浏览器的侧边栏上。</strong>公司广告和网络服务部门的首席执行官Mikhail 
+Parakhin在社交媒体上表示，在新功能的帮助下，“用户可以将生成的图片直接插入到任何正在编辑的内容中。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玩家测试GPT-4能力 瞬间作成网页版《俄罗斯方块》]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1353299.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1353299.htm"/>
+        <updated>2023-04-09T05:38:31.922Z</updated>
+        <content type="html"><![CDATA[如今爆火的AI软件Chat GPT最新升级版GPT-4究竟有多强？让很多人失业似乎已经是工人的未来了，近日有玩家测试GPT-4能力，一瞬间就作成网页版《俄罗斯方块》供用户游玩。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌亚马逊在欧洲难裁员 提供丰厚补偿鼓励自愿离职]]></title>
@@ -139,17 +141,18 @@ Elec报道，在严重的PC市场低迷中，面对Mac销量的"大跌"，苹果
         <content type="html"><![CDATA[4月6日消息，在宣布有史以来最大规模的裁员后，美国大型科技公司正面临新的难题：如何在欧洲裁减员工。在美国，公司可以宣布大规模的裁员，几个月内数百甚至数千名员工可能被解雇，而且许多公司都已经这样做了。然而欧洲的劳动保护法更严格，在某些国家如果不事先与员工利益团体协商，解雇员工几乎是不可能的。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[台积电三星考虑放弃美半导体补贴 台媒解析]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1352417.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1352417.htm"/>
-        <updated>2023-04-02T10:24:37.000Z</updated>
-        <content type="html"><![CDATA[据台湾“中时新闻网”3月31日报道，随着美国政府关于“芯片法案”补贴限制条款相关细节出炉，台积电、三星、SK海力士等芯片制造商正面临抉择。这些芯片大厂虽然无法违反美国的先进制程产品输出禁令，但可以选择不申请美国政府的半导体补贴，以避免受限太多，以及公司营运与客户机密遭美国政府外流给对手。]]></content>
+        <title type="html"><![CDATA[马斯克母亲最后一站来上海 隔空问了儿子这样一个问题……]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1352617.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1352617.htm"/>
+        <updated>2023-04-10T05:38:31.329Z</updated>
+        <content type="html"><![CDATA[美国商人、特斯拉创始人马斯克的母亲梅耶·马斯克，周日（2日）在社交媒体发帖称，她结束了为期两周的中国之旅，并感谢中国。在此期间，她曾赴上海、广州、厦门、成都、苏州、武汉等多地游玩。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[玩家测试GPT-4能力 瞬间作成网页版《俄罗斯方块》]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1353299.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1353299.htm"/>
-        <updated>2023-04-09T05:38:31.922Z</updated>
-        <content type="html"><![CDATA[如今爆火的AI软件Chat GPT最新升级版GPT-4究竟有多强？让很多人失业似乎已经是工人的未来了，近日有玩家测试GPT-4能力，一瞬间就作成网页版《俄罗斯方块》供用户游玩。]]></content>
+        <title type="html"><![CDATA[你都被ChatGPT白嫖了，还得给它数钱]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1353387.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1353387.htm"/>
+        <updated>2023-04-07T01:11:39.000Z</updated>
+        <content type="html"><![CDATA[“谷歌计划在旗舰搜索引擎中添加对话式人工智能功能，这将引导公司应对来自ChatGPT等聊天机器人的竞争和更广泛的业务压力。”谷歌首席执行官Sundar
+ Pichai在近日的一次采访中表示，AI并不会对谷歌的搜索业务构成威胁，相反，人工智能的进步会增强谷歌搜索查询的能力。]]></content>
     </entry>
 </feed>
