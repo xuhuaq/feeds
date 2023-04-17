@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-04-16T17:39:36.067Z</updated>
+    <updated>2023-04-17T05:38:30.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[现在的中端机 16GB+1TB只卖2599元 却悄悄偷工减料]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1353807.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1353807.htm"/>
-        <updated>2023-04-10T01:30:44.000Z</updated>
-        <content type="html"><![CDATA[在文章正式开始前，请允许我在这里先对一加、红米还有 realme 这三家手机厂商表示下感谢。感谢它们的疯狂对线，让我们在 2023 年依旧还能用上 “&nbsp;感动人心，价格厚道&nbsp;”&nbsp;的中端机。<strong>现如今在大内存和大存储普及风暴下，我们只要花 2599 就能买到 16GB+1TB 的手机，而且它们甚至还能畅玩原神，这要是放在之前想都不敢想好吧！</strong>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[C919全球订单量突破1000架 美国一家航空公司也买了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1354173.htm</id>
@@ -27,34 +20,11 @@
         <content type="html"><![CDATA[Google的对话式人工智能聊天机器人Bard在其首次公开演示中提供了错误的答案，未能给人留下深刻印象。上个月末，当Google开放对Bard的访问时，用户也同样感到失望，因为该聊天机器人未能像OpenAI的ChatGPT一样表现出色。Google仍在追赶，但Bard的第一次大更新应该会让人工智能得到提升。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11的新版文件资源管理器预览 自Windows 8以来最大的更新]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1353829.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1353829.htm"/>
-        <updated>2023-04-10T02:10:31.000Z</updated>
-        <content type="html"><![CDATA[消息来源此前证实，微软正在为Windows 11的文件资源管理器进行重大改造。这家科技巨头后来在Windows 
-Insider网络广播中提出了这一点。该公司证实，它正在将文件资源管理器转移到WinAppSDK（Windows App 
-SDK），启用WinUI、新API和其他功能。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[打工人的巅峰：年薪19万美元，啥也不用干]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1353949.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1353949.htm"/>
         <updated>2023-04-14T17:38:28.676Z</updated>
         <content type="html"><![CDATA[“在Salesforce，20%的人做完了80%的工作，剩下的人都在练瑜伽，或者花很长时间吃午餐。”给世界上最著名的科技巨头打工是一种什么体验？<strong>可能是年入19万美元（约130.6万人民币），什么都不需要干。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球最大盗版电子书网站Z-Library复活后路子更野了 要共享纸质书]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1353779.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1353779.htm"/>
-        <updated>2023-04-14T17:38:28.680Z</updated>
-        <content type="html"><![CDATA[去年11月，号称是全球最大电子图书馆的Z-Library被美国FBI封禁，连同下线的还有多达249个备用、影子、镜像、关联域名等。随后，美司法部称已经在阿根廷逮捕了Z-Library网站幕后的两位策划者。他们被控盗取文化作品牟利，经常在新书出版后几小时内上传电子版，从而损害了作者、出版商、书商的正当权益。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[演员张颂文的散文登高中语文试卷：人民日报也曾分享过他的精彩演讲]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1353757.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1353757.htm"/>
-        <updated>2023-04-14T17:38:28.682Z</updated>
-        <content type="html"><![CDATA[据<a class="f14_link" href="https://bj.bjd.com.cn/5b165687a010550e5ddc0e6a/contentShare/5b16573ae4b02a9fe2d558f9/AP64323345e4b05339adcbfff2.html" target="_blank">北京日报微信公众号</a>，有网友发现，近日，演员张颂文的散文《在心里点灯的人》作为现代文阅读题的材料，出现在贵州省一模试卷上。报道称，《在心里点灯的人》这篇散文原发表在2017年第3期《天涯》杂志上，原文8000多字，文中张颂文深情回忆了一个影响了他童年时代的重要人物——算命先生盲佬。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯定性此前微信QQ故障为一级事故 总办成员遭处罚]]></title>
@@ -85,6 +55,13 @@ SDK），启用WinUI、新API和其他功能。]]></content>
         <content type="html"><![CDATA[AI 热潮以来，“突发”就成了我们标题的常客。昨天，来自 Google 的大语言生成类 AI 模型 Bard 又迎来更新，新增了“Google it”按钮，增强了数学与逻辑能力，并发布了一个全新的功能更新公告板。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[免费、不用注册、支持中文！ChatGPT最强竞品爆火]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1354779.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1354779.htm"/>
+        <updated>2023-04-16T05:38:40.211Z</updated>
+        <content type="html"><![CDATA[家人们，终于！终于！<strong>免费</strong>、<strong>支持中文</strong>、<strong>无需注册</strong>、<strong>不用骚操作直接可用</strong>的类ChatGPT产品，它来了！（此等好事必须第一时间和家人们分享）毫不意外的，目前它的热度已经被炒到不行：]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[为什么华为坚决反对鼎桥收购案？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1354307.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1354307.htm"/>
@@ -94,20 +71,6 @@ SDK），启用WinUI、新API和其他功能。]]></content>
  TECH”）51% 股权，交易对价为 21.216 亿人民币。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么华为坚决反对东方材料收购鼎桥通信？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1353959.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1353959.htm"/>
-        <updated>2023-04-14T17:38:28.709Z</updated>
-        <content type="html"><![CDATA[<strong>东方材料斥资21亿收购鼎桥通信，遭到华为的强烈反对。华为在深夜发布公告，用词非常坚决：“绝无可能！没有任何意愿及可能与东方材料合资运营TD TECH。”</strong>为什么华为要坚决反对东方材料合资运营TD TECH呢？这就得从鼎桥通信的成立开始说起。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费、不用注册、支持中文！ChatGPT最强竞品爆火]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1354779.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1354779.htm"/>
-        <updated>2023-04-16T05:38:40.211Z</updated>
-        <content type="html"><![CDATA[家人们，终于！终于！<strong>免费</strong>、<strong>支持中文</strong>、<strong>无需注册</strong>、<strong>不用骚操作直接可用</strong>的类ChatGPT产品，它来了！（此等好事必须第一时间和家人们分享）毫不意外的，目前它的热度已经被炒到不行：]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特斯拉Cybertruck被无人机拍到 大型挡风玻璃雨刷在运行中]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1354831.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1354831.htm"/>
@@ -115,18 +78,32 @@ SDK），启用WinUI、新API和其他功能。]]></content>
         <content type="html"><![CDATA[特斯拉尚未发布的皮卡车再次成为新闻主角，来自无人机拍摄的视频介绍了其巨大的挡风玻璃和如何清洁的问题，这也是我们第一次看到Cybertruck如此巨大的雨刷。正如Electrek首先拍摄的视频所见，一辆Cybertruck被放置在一个风洞前的旋转支架上。可以看到一名工人手里拿着一个喷雾瓶，他似乎正在测试这个大型雨刷的叶片。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[为什么华为坚决反对东方材料收购鼎桥通信？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1353959.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1353959.htm"/>
+        <updated>2023-04-14T17:38:28.709Z</updated>
+        <content type="html"><![CDATA[<strong>东方材料斥资21亿收购鼎桥通信，遭到华为的强烈反对。华为在深夜发布公告，用词非常坚决：“绝无可能！没有任何意愿及可能与东方材料合资运营TD TECH。”</strong>为什么华为要坚决反对东方材料合资运营TD TECH呢？这就得从鼎桥通信的成立开始说起。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[号称“不泄密” 的微信键盘Windows版上线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1354799.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1354799.htm"/>
+        <updated>2023-04-17T05:38:29.497Z</updated>
+        <content type="html"><![CDATA[<strong>今天，微信键盘终于推出首个Windows测试版，版本号0.9.0.47</strong>，产品空缺的一环终于得以完整补齐。目前，微信键盘的Windows版支持符号自动转换、符号自动配对、模糊拼音、隐藏状态栏等功能，也支持快捷键状态切换、候选翻页等基础操作。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一级7台发动机 中国全新载人火箭突破关键技术]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1354167.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1354167.htm"/>
+        <updated>2023-04-16T05:38:40.456Z</updated>
+        <content type="html"><![CDATA[据中国航天科技集团消息，<strong>国内首件新一代载人运载火箭的八通蓄压器，近日成功通过冷冲击试验和1.4兆帕液压试验。</strong>这标志着，航天科技集团一院211厂已成功突破和掌握了八通蓄压器研制的关键技术，并取得重大阶段性成果。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[网友曝光马斯克和openAI工程师卧室照片：只有一张床垫]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1354413.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1354413.htm"/>
         <updated>2023-04-14T17:38:28.714Z</updated>
         <content type="html"><![CDATA[近日，有网友在Twitter上晒出了埃隆·马斯克的卧室照片。该网友称，马斯克是世界上最富有的人之一，这就是他的卧室。照片中只能看到一张床垫，连床都没有，地板上放着一些衣服、一个背包和两个笔记本电脑。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合资燃油车，就快凉透了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1353749.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1353749.htm"/>
-        <updated>2023-04-09T11:05:22.000Z</updated>
-        <content type="html"><![CDATA[在中文互联网知名度最高的问答社区里，有这样一个问题被讨论得相当激烈：<strong>合资品牌什么时候退出中国？</strong>“保合派”认为，就算地球毁灭了，合资品牌都不会退出中国。哪怕一年只卖一台，“希望的火种”都不能算完全被扑灭。“反合派”则认为，合资品牌在中国的未来，可以浓缩为八个字：<strong>最快今年，最晚明年。</strong>不信你扭头看看，身边还有人“主动”购买合资品牌燃油车吗？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[两女生为拍照爬上保安亭取景引发热议 亭子将被拆除]]></title>
@@ -145,10 +122,31 @@ SDK），启用WinUI、新API和其他功能。]]></content>
 工程的下一个前沿。”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一级7台发动机 中国全新载人火箭突破关键技术]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1354167.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1354167.htm"/>
-        <updated>2023-04-16T05:38:40.456Z</updated>
-        <content type="html"><![CDATA[据中国航天科技集团消息，<strong>国内首件新一代载人运载火箭的八通蓄压器，近日成功通过冷冲击试验和1.4兆帕液压试验。</strong>这标志着，航天科技集团一院211厂已成功突破和掌握了八通蓄压器研制的关键技术，并取得重大阶段性成果。]]></content>
+        <title type="html"><![CDATA[Android 13系统目前在12%的设备上运行 Google公布数据的频率越来越低]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1354741.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1354741.htm"/>
+        <updated>2023-04-14T11:16:01.000Z</updated>
+        <content type="html"><![CDATA[Google曾经通过一个可公开访问的网站发布有关Android版本分布的月度统计数据。而最近一段时间以来，该公司的透明度大大降低，可能是因为其移动操作系统在设备运行最新版本的速度方面被苹果连续无情地嘲弄，当然这只是胡乱猜测。现在的情况是，Google只通过Android Studio提供一些相关数字，但非常零星。今天有一次更新，而之前的更新是在1月份。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马保国直播带货现演“闪电五连鞭”：销量惨淡 网友只看不买]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1354579.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1354579.htm"/>
+        <updated>2023-04-17T05:38:29.507Z</updated>
+        <content type="html"><![CDATA[一提到劝年轻人“耗子尾汁”的“武术大师”，马保国的画面感立马就有了。据南方周末，在4月1日，愚人节当天，72岁的马保国开启了自己的首场直播带货。<strong>仅一天时间，吸引了超过1198万人次围观，并向观众展示昔日成名绝技“接化发”“闪电五连鞭”。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界记录被熊孩子清零后 任天堂马力欧之父给超级小桀送礼物]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1354777.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1354777.htm"/>
+        <updated>2023-04-17T05:38:29.508Z</updated>
+        <content type="html"><![CDATA[4月14日消息，前不久，斗鱼游戏主播超级小桀因《马力欧制造2》世界排名前30的纪录被亲戚家熊孩子清零一事登上热搜。今日，超级小桀发文表示，收到了由任天堂和环球影业共同送出的，<strong>全球限量、宫本茂亲笔签名的《超级马力欧兄弟大电影》金币礼盒。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔兽、暗黑国服遥遥无期 暴雪斥巨资购入大量服务器另起炉灶]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1354379.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1354379.htm"/>
+        <updated>2023-04-17T05:38:29.509Z</updated>
+        <content type="html"><![CDATA[暴雪关停魔兽、暗黑等7款游戏的国服已经过去快3个月了，新的国服代理也没了音讯，国服重开遥遥无期，现在来看暴雪应该是要铁心自己搞了，巨资购买服务器自己代理。来自知名魔兽玩家@我苹果牛的爆料显示<strong>，暴雪为魔兽世界亚服购入了大量服务器，价值600多万。</strong>]]></content>
     </entry>
 </feed>
