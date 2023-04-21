@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-04-20T17:38:22.041Z</updated>
+    <updated>2023-04-21T05:38:56.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[过去两年，伴随芯片的短缺、对华禁令等一系列重大事件，光刻机从一种不为人知的先进制造设备，一跃成为了大众的新闻热点。在这当中，荷兰光刻机厂商 ASML 几乎是绕不开的存在。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新款特斯拉Model 3实车首曝：大灯更精神、颜值再提升]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1354507.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1354507.htm"/>
-        <updated>2023-04-13T11:24:53.000Z</updated>
-        <content type="html"><![CDATA[卖了多年的<strong>特斯拉Model 3</strong>终于要改款了，就在今日，改款实车图遭到了曝光，新车内部代号为“highland”，预计会在年内正式发布。从此次曝光的实车图看，新车的前脸做了不小的改动，<strong>大灯采用了全新的造型，去掉现款的弧形设计，因此显得更为硬朗</strong>，灯腔内的光源也做了调整，底部为一条L形的灯带，彰显新鲜感，同时新车还配备了新的多辐轮圈。]]></content>
+        <title type="html"><![CDATA[科学家发现一颗新的"准月球"正围绕地球运转]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1354857.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1354857.htm"/>
+        <updated>2023-04-15T03:05:22.000Z</updated>
+        <content type="html"><![CDATA[最近发现的一颗名为2023 FW13的新小行星不仅仅是一颗路过的小行星。根据新的报告，这颗新发现的小行星实际上是地球的一个古老的伙伴，是一颗最晚在公元前100年起就在我们星球附近运行的准月球。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[免费、不用注册、支持中文！ChatGPT最强竞品爆火]]></title>
@@ -25,13 +25,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1354779.htm"/>
         <updated>2023-04-16T05:38:40.211Z</updated>
         <content type="html"><![CDATA[家人们，终于！终于！<strong>免费</strong>、<strong>支持中文</strong>、<strong>无需注册</strong>、<strong>不用骚操作直接可用</strong>的类ChatGPT产品，它来了！（此等好事必须第一时间和家人们分享）毫不意外的，目前它的热度已经被炒到不行：]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家发现一颗新的"准月球"正围绕地球运转]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1354857.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1354857.htm"/>
-        <updated>2023-04-15T03:05:22.000Z</updated>
-        <content type="html"><![CDATA[最近发现的一颗名为2023 FW13的新小行星不仅仅是一颗路过的小行星。根据新的报告，这颗新发现的小行星实际上是地球的一个古老的伙伴，是一颗最晚在公元前100年起就在我们星球附近运行的准月球。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉Cybertruck被无人机拍到 大型挡风玻璃雨刷在运行中]]></title>
@@ -48,18 +41,18 @@
         <content type="html"><![CDATA[近日，一位玩家在Reddit论坛发帖，<strong>讲述了自己抽中微软“终生XGPU”大奖后，却无奈放弃的经历。</strong>该玩家表示，自己在数周前赢得了微软举办的抽奖活动，获得了终生Xbox Game Pass Ultimate会员资格的大奖。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[号称“不泄密” 的微信键盘Windows版上线]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1354799.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1354799.htm"/>
-        <updated>2023-04-17T05:38:29.497Z</updated>
-        <content type="html"><![CDATA[<strong>今天，微信键盘终于推出首个Windows测试版，版本号0.9.0.47</strong>，产品空缺的一环终于得以完整补齐。目前，微信键盘的Windows版支持符号自动转换、符号自动配对、模糊拼音、隐藏状态栏等功能，也支持快捷键状态切换、候选翻页等基础操作。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Pixel Fold、Pixel 7a可能于5月10日到货]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1355309.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1355309.htm"/>
         <updated>2023-04-18T04:46:32.000Z</updated>
         <content type="html"><![CDATA[两个知名的泄密者说，Google Pixel Fold（传闻中的可折叠产品，旨在与三星Galaxy Z Fold 4竞争）和Pixel 7a（去年Pixel 7的简化版）将在下个月的GoogleI/O大会期间推出。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[号称“不泄密” 的微信键盘Windows版上线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1354799.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1354799.htm"/>
+        <updated>2023-04-17T05:38:29.497Z</updated>
+        <content type="html"><![CDATA[<strong>今天，微信键盘终于推出首个Windows测试版，版本号0.9.0.47</strong>，产品空缺的一环终于得以完整补齐。目前，微信键盘的Windows版支持符号自动转换、符号自动配对、模糊拼音、隐藏状态栏等功能，也支持快捷键状态切换、候选翻页等基础操作。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[贾跃亭憋了九年的车终于量产？结果又一张大饼]]></title>
@@ -69,11 +62,11 @@
         <content type="html"><![CDATA[今天起了个大早，就为看一场预热了九年的发布会。这是法拉第未来第一台量产&nbsp;FF91&nbsp;的下线仪式，没错，就是贾跃亭的那个法拉第未来。为了造势，许久没有回国的他发了一条微博。<strong>不仅说自己&nbsp;“&nbsp;九年不屈&nbsp;”&nbsp;，还说法拉第未来是&nbsp;“&nbsp;智能电车时代下极智科技奢华超塔尖市场的开创者和传统超豪华汽车文明颠覆者&nbsp;”&nbsp;。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[两女生为拍照爬上保安亭取景引发热议 亭子将被拆除]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1354589.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1354589.htm"/>
-        <updated>2023-04-15T05:38:35.353Z</updated>
-        <content type="html"><![CDATA[为了拍出美美的照片，很多网友都会精心取景，日前两女生爬上保安亭打卡拍照一事引发不少网友关注，<strong>现在当地部门决定拆除这个亭子。</strong>从某社交平台发布的消息来看，这个保安亭位于上海漕河泾地铁口外，想要拍照需要爬上屋顶，距离地面大约2米多高，亭顶铺着垫子，还放有拍摄用的道具，不少人都在拍对等待。]]></content>
+        <title type="html"><![CDATA[跌破20万？网传特斯拉Model 3本周六降至18万元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1355679.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1355679.htm"/>
+        <updated>2023-04-21T05:38:55.787Z</updated>
+        <content type="html"><![CDATA[随着电池成本的持续下降，电动整车企业也跟进了降价步伐。近段时间以来，已有多家新能源车企下调了其车型售价。而特斯拉更是被传将降价至20万元以内。4月19日，有博主爆料称，<strong>知情人士透露本周六特斯拉Model 3、Y将降价，其中 Model 3最高降4.3万，Model Y系列降4.6万。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[始祖鸟用户，不敢洗衣服]]></title>
@@ -104,11 +97,11 @@
         <content type="html"><![CDATA[Google曾经通过一个可公开访问的网站发布有关Android版本分布的月度统计数据。而最近一段时间以来，该公司的透明度大大降低，可能是因为其移动操作系统在设备运行最新版本的速度方面被苹果连续无情地嘲弄，当然这只是胡乱猜测。现在的情况是，Google只通过Android Studio提供一些相关数字，但非常零星。今天有一次更新，而之前的更新是在1月份。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马保国直播带货现演“闪电五连鞭”：销量惨淡 网友只看不买]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1354579.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1354579.htm"/>
-        <updated>2023-04-17T05:38:29.507Z</updated>
-        <content type="html"><![CDATA[一提到劝年轻人“耗子尾汁”的“武术大师”，马保国的画面感立马就有了。据南方周末，在4月1日，愚人节当天，72岁的马保国开启了自己的首场直播带货。<strong>仅一天时间，吸引了超过1198万人次围观，并向观众展示昔日成名绝技“接化发”“闪电五连鞭”。</strong>]]></content>
+        <title type="html"><![CDATA[买游戏零元购的偷盘哥，在三天内成功社死]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1355581.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1355581.htm"/>
+        <updated>2023-04-19T11:07:47.000Z</updated>
+        <content type="html"><![CDATA[如果你是平时习惯购买主机游戏实体盘的玩家，那我打赌你一定有过在各大电商平台和“海鲜市场”上，与电玩店老板交流“接头暗号”的经历。比如，当你想向一位卖家咨询某个已经卖了上亿份的R星游戏时，如果直接报上游戏名，对方大概率只会回复你一句“没有”。但如果你能说出像“三男一狗”“那个游戏5”这样的接头暗号，你和卖家之间就会迅速培养起一种无声的默契，对方会在语气突然变好的同时，通过某种特殊方式与你完成交易。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[世界记录被熊孩子清零后 任天堂马力欧之父给超级小桀送礼物]]></title>
@@ -148,5 +141,14 @@ Altman辟谣了！根本就没有GPT-5！之前一直有大瓜称，GPT-5正在�
         <content type="html"><![CDATA[一份报告称，苹果不会在iOS 
 17中引入很多功能，但它会放入一些元素来实现应用程序的侧载，这也是多国监管机构所要求实现的。6月的WWDC将展示苹果对其主要操作系统的年度更新，其中iOS的变化是最受关注的。然而，对于2023年的开发者活动，iOS
  17的变化似乎将更多地倾向于遵守法规而不是全新的功能。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 17将支持应用程序侧载 以符合欧洲法规要求]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1355263.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1355263.htm"/>
+        <updated>2023-04-21T05:38:55.830Z</updated>
+        <content type="html"><![CDATA[据彭博社记者Mark Gurman报道，苹果在iOS 17中首次允许iPhone用户下载其官方App 
+Store以外的应用程序。也就是所谓的侧载，这一变化将允许客户在不需要使用App 
+Store的情况下下载应用，这意味着开发者如若不在苹果应用商店上架程序就不需要支付苹果公司15%到30%的费用。]]></content>
     </entry>
 </feed>
