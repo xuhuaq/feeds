@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-04-23T17:38:26.065Z</updated>
+    <updated>2023-04-24T05:38:43.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[过去两年，伴随芯片的短缺、对华禁令等一系列重大事件，光刻机从一种不为人知的先进制造设备，一跃成为了大众的新闻热点。在这当中，荷兰光刻机厂商 ASML 几乎是绕不开的存在。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中奖却需纳税超1.2万元：玩家主动放弃微软终生XGPU大奖]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1355067.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1355067.htm"/>
-        <updated>2023-04-18T05:38:52.366Z</updated>
-        <content type="html"><![CDATA[近日，一位玩家在Reddit论坛发帖，<strong>讲述了自己抽中微软“终生XGPU”大奖后，却无奈放弃的经历。</strong>该玩家表示，自己在数周前赢得了微软举办的抽奖活动，获得了终生Xbox Game Pass Ultimate会员资格的大奖。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Pixel Fold、Pixel 7a可能于5月10日到货]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1355309.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1355309.htm"/>
@@ -27,18 +20,32 @@
         <content type="html"><![CDATA[两个知名的泄密者说，Google Pixel Fold（传闻中的可折叠产品，旨在与三星Galaxy Z Fold 4竞争）和Pixel 7a（去年Pixel 7的简化版）将在下个月的GoogleI/O大会期间推出。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[马斯克妈妈开派对庆祝75岁 三代同堂很欢乐，闺蜜邓文迪也到场]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1356025.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1356025.htm"/>
+        <updated>2023-04-22T11:37:27.000Z</updated>
+        <content type="html"><![CDATA[当地时间4月21日，<strong>梅耶·马斯克</strong>在社交媒体上分享了一组照片，展示了自己开派对庆祝75岁生日的画面。穿着亮片裙的白发模特，在拍摄合影时，笑得很是灿烂。“我的75岁生日被家人、朋友、乐趣和欢笑围绕着”，梅耶在照片旁边这样写道。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX星舰发射导流槽都没挖 马斯克：大意了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1356169.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1356169.htm"/>
+        <updated>2023-04-24T05:38:42.890Z</updated>
+        <content type="html"><![CDATA[快科技4月23日消息，今天凌晨，马斯克在推特回复消息，解答了本周早些时候，SpaceX星舰发射时，场地连导流槽都没有挖的原因。根据马斯克的回复，<strong>早在发射三个月前，SpaceX就开始建造一块巨大的水冷钢板</strong>，用于放置在发射塔架下方，作为热传导结构的一部分。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX星际飞船发射后 发射台就像被炸弹炸过]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1356127.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1356127.htm"/>
+        <updated>2023-04-23T03:34:28.000Z</updated>
+        <content type="html"><![CDATA[本周早些时候，SpaceX在全球航天爱好者的期待中发射了其"星舰"火箭。这枚火箭在没有对发射场进行任何保护的情况下起飞，留下了一个巨大的"弹坑"，并摧毁了发射塔的底座。在这次历史性的发射之后，随着众所周知的"尘埃"渐渐散去，人们纷纷猜测为什么"星舰"的第一级和第二级在升空之后无法分离。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[跌破20万？网传特斯拉Model 3本周六降至18万元]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1355679.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1355679.htm"/>
         <updated>2023-04-21T05:38:55.787Z</updated>
         <content type="html"><![CDATA[随着电池成本的持续下降，电动整车企业也跟进了降价步伐。近段时间以来，已有多家新能源车企下调了其车型售价。而特斯拉更是被传将降价至20万元以内。4月19日，有博主爆料称，<strong>知情人士透露本周六特斯拉Model 3、Y将降价，其中 Model 3最高降4.3万，Model Y系列降4.6万。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贾跃亭憋了九年的车终于量产？结果又一张大饼]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1355071.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1355071.htm"/>
-        <updated>2023-04-18T05:38:52.413Z</updated>
-        <content type="html"><![CDATA[今天起了个大早，就为看一场预热了九年的发布会。这是法拉第未来第一台量产&nbsp;FF91&nbsp;的下线仪式，没错，就是贾跃亭的那个法拉第未来。为了造势，许久没有回国的他发了一条微博。<strong>不仅说自己&nbsp;“&nbsp;九年不屈&nbsp;”&nbsp;，还说法拉第未来是&nbsp;“&nbsp;智能电车时代下极智科技奢华超塔尖市场的开创者和传统超豪华汽车文明颠覆者&nbsp;”&nbsp;。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小折叠终极形态 新moto razr官宣：“无公摊”外屏]]></title>
@@ -55,46 +62,11 @@
         <content type="html"><![CDATA[如果有人对自己的衣服很爱护，那么他可能穿的是始祖鸟；如果他的衣服看上去很脏，那么大概率是海淘的始祖鸟。潘哥发现，作为服装界的流量密码，始祖鸟虽然穿上舒适，清洗时却容易洗坏，其中最大原因，在于GTX面料的特殊性。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[买游戏零元购的偷盘哥，在三天内成功社死]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1355581.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1355581.htm"/>
-        <updated>2023-04-19T11:07:47.000Z</updated>
-        <content type="html"><![CDATA[如果你是平时习惯购买主机游戏实体盘的玩家，那我打赌你一定有过在各大电商平台和“海鲜市场”上，与电玩店老板交流“接头暗号”的经历。比如，当你想向一位卖家咨询某个已经卖了上亿份的R星游戏时，如果直接报上游戏名，对方大概率只会回复你一句“没有”。但如果你能说出像“三男一狗”“那个游戏5”这样的接头暗号，你和卖家之间就会迅速培养起一种无声的默契，对方会在语气突然变好的同时，通过某种特殊方式与你完成交易。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克关闭推特免费API 美国天气预报和地铁等公共服务帐号瘫了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1355137.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1355137.htm"/>
-        <updated>2023-04-17T10:24:28.000Z</updated>
-        <content type="html"><![CDATA[推特最近关闭免费API访问的举动影响了公共服务推特账号，这些账号向公众提供重要的更新和信息。这个周末，许多公共服务推特账号表示无法自动发布突发新闻和事件。美国国家气象局的账号报告称，由于API限制，他们无法在该社交媒体平台上提供更新。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轮子只能是圆的？这辆方轮自行车颠覆你的固有印象]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1355253.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1355253.htm"/>
-        <updated>2023-04-20T05:38:31.197Z</updated>
-        <content type="html"><![CDATA[自行车已经存在了200多年，随着行业的进步，目前的自行车相比其刚出现时有了不小的变化，但是有一点却一直保持不变：车辆的两个轮子都是圆形的。<strong>不过近日，有一位国外网友却决定打破物理学常规，打造了一款方形轮胎的自行车，并且还能够正常骑行。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wi-Fi还是蓝牙？无线Hi-Fi迎来转点]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1355915.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1355915.htm"/>
-        <updated>2023-04-22T05:38:33.771Z</updated>
-        <content type="html"><![CDATA[“无线也敢叫Hi-Fi？”，在十年前的HiFi圈子里类似的言论其实并不少见，甚至直到今天，在高端Hi-Fi玩家眼里无线与有线之间的差距仍然非常巨大，无线耳机的音质是拍马都追不上有线的。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华人团队迷你GPT-4抢跑看图聊天：OpenAI有的它都有 服务器已被挤爆]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1355731.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1355731.htm"/>
-        <updated>2023-04-22T05:38:33.765Z</updated>
-        <content type="html"><![CDATA[看美食图写菜谱，手绘网页变代码。GPT-4识图功能迟迟不开放，终于有人忍不住自己动手做了一个。MiniGPT-4来了，Demo开放在线可玩。传一张海鲜大餐照片上去，就能直接获得菜谱。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑人埃及艳后演员回应选角争议：不喜欢可以不看]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1355923.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1355923.htm"/>
-        <updated>2023-04-22T05:38:33.773Z</updated>
-        <content type="html"><![CDATA[近日，网飞新纪录片《非洲女王：克利奥帕特拉女王》中，采用黑人演员扮演埃及托勒密王朝女王克利奥帕特拉七世，引发舆论争议，超8.5万人请愿抵制这部影片。然而，影片制片方坚称埃及艳后克利奥帕特拉七世的传统形象“备受争议”，并无定论。]]></content>
+        <title type="html"><![CDATA[AMD Zen5 APU全线细节泄露：核显性能媲美RTX 4070]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1356087.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1356087.htm"/>
+        <updated>2023-04-24T05:38:42.905Z</updated>
+        <content type="html"><![CDATA[曝料大神MLID带来了2024年度AMD移动平台的大量曝料，涵盖高中低端各条产品线。这一次，不但CPU架构全线升级到Zen5，GPU架构和性能也有突飞猛进，最高甚至达到移动版RTX 4070的级别！]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉Cybertruck被批史上最丑：将被福特碾压]]></title>
@@ -104,43 +76,32 @@
         <content type="html"><![CDATA[特斯拉股价周四大跌近10%，因该公司此前公布的第一季度业绩令人失望。特斯拉CEO埃隆·马斯克指出，该公司备受期待的电动皮卡Cybertruck有望在今年晚些时候投产。但美国财经名嘴吉姆·克莱默并不指望这款车能帮助扭转局面。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[迪士尼《小美人鱼》黑人鱼主演发声反对霸凌：要和我一样可爱]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1354999.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1354999.htm"/>
-        <updated>2023-04-16T10:49:55.000Z</updated>
-        <content type="html"><![CDATA[4月16日消息，迪士尼真人版《小美人鱼》将于5月26日在中国内地上映，该片选角问题一直有争议，原本应该非常美丽白皙的小美人鱼，后来选择了一位黑人演员来演绎。]]></content>
+        <title type="html"><![CDATA[买游戏零元购的偷盘哥，在三天内成功社死]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1355581.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1355581.htm"/>
+        <updated>2023-04-19T11:07:47.000Z</updated>
+        <content type="html"><![CDATA[如果你是平时习惯购买主机游戏实体盘的玩家，那我打赌你一定有过在各大电商平台和“海鲜市场”上，与电玩店老板交流“接头暗号”的经历。比如，当你想向一位卖家咨询某个已经卖了上亿份的R星游戏时，如果直接报上游戏名，对方大概率只会回复你一句“没有”。但如果你能说出像“三男一狗”“那个游戏5”这样的接头暗号，你和卖家之间就会迅速培养起一种无声的默契，对方会在语气突然变好的同时，通过某种特殊方式与你完成交易。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[宝马Mini展台被曝区别对待国人 涉事冰淇淋品牌Luneurs回应]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1355921.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1355921.htm"/>
-        <updated>2023-04-22T05:38:33.777Z</updated>
-        <content type="html"><![CDATA[日前，上海车展期间，宝马MINI品牌却被网友曝出“区别对待国人”，引起网友关注热议。网友上传视频显示，在宝马MINI展台上，有免费领取冰淇淋的工作台，一位国人小姐姐要来领冰淇淋，结果被两位工作人员告知没有了。]]></content>
+        <title type="html"><![CDATA[华人团队迷你GPT-4抢跑看图聊天：OpenAI有的它都有 服务器已被挤爆]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1355731.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1355731.htm"/>
+        <updated>2023-04-22T05:38:33.765Z</updated>
+        <content type="html"><![CDATA[看美食图写菜谱，手绘网页变代码。GPT-4识图功能迟迟不开放，终于有人忍不住自己动手做了一个。MiniGPT-4来了，Demo开放在线可玩。传一张海鲜大餐照片上去，就能直接获得菜谱。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果将在iOS 17中奠定侧载应用的基础 以满足监管要求]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1355113.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1355113.htm"/>
-        <updated>2023-04-17T06:05:35.000Z</updated>
-        <content type="html"><![CDATA[一份报告称，苹果不会在iOS 
-17中引入很多功能，但它会放入一些元素来实现应用程序的侧载，这也是多国监管机构所要求实现的。6月的WWDC将展示苹果对其主要操作系统的年度更新，其中iOS的变化是最受关注的。然而，对于2023年的开发者活动，iOS
- 17的变化似乎将更多地倾向于遵守法规而不是全新的功能。]]></content>
+        <title type="html"><![CDATA[月入过万是什么水平？平均超过2.5万的只有一个职业]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1356103.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1356103.htm"/>
+        <updated>2023-04-24T05:38:42.917Z</updated>
+        <content type="html"><![CDATA[根据国家统计局公布的2023年一季度经济运行数据，<strong>全国居民人均可支配收入达到10870元，同比增长3.8％。</strong>智联招聘发布的《中国企业招聘薪酬报告》则显示，2023年第一季度，有20个行业的平均月薪超1万元、20个职业平均月薪超过1.1万元，其中三个超过了2万元。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 17将支持应用程序侧载 以符合欧洲法规要求]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1355263.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1355263.htm"/>
-        <updated>2023-04-21T05:38:55.830Z</updated>
-        <content type="html"><![CDATA[据彭博社记者Mark Gurman报道，苹果在iOS 17中首次允许iPhone用户下载其官方App 
-Store以外的应用程序。也就是所谓的侧载，这一变化将允许客户在不需要使用App 
-Store的情况下下载应用，这意味着开发者如若不在苹果应用商店上架程序就不需要支付苹果公司15%到30%的费用。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一男性游客被指逼哭工作人员 上海迪士尼：涉事者被终身禁入]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1355901.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1355901.htm"/>
-        <updated>2023-04-23T05:38:18.793Z</updated>
-        <content type="html"><![CDATA[4月19日，有网友爆料称上海迪士尼园区内，一名男性游客在非吸烟区内抽烟，被工作人员提醒后反而发怒，要求工作人员道歉，最终工作人员被逼哭和道歉随后离开，男子依然穷追不舍，此事引发网络热议。]]></content>
+        <title type="html"><![CDATA[轮子只能是圆的？这辆方轮自行车颠覆你的固有印象]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1355253.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1355253.htm"/>
+        <updated>2023-04-20T05:38:31.197Z</updated>
+        <content type="html"><![CDATA[自行车已经存在了200多年，随着行业的进步，目前的自行车相比其刚出现时有了不小的变化，但是有一点却一直保持不变：车辆的两个轮子都是圆形的。<strong>不过近日，有一位国外网友却决定打破物理学常规，打造了一款方形轮胎的自行车，并且还能够正常骑行。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[放了一个30亿的烟花 但马斯克早已在太空赢麻了]]></title>
@@ -148,5 +109,40 @@ Store的情况下下载应用，这意味着开发者如若不在苹果应用商
         <link href="https://www.cnbeta.com.tw/articles/tech/1356009.htm"/>
         <updated>2023-04-23T05:38:18.799Z</updated>
         <content type="html"><![CDATA[美国中部时间4月20日8时33分，SpaceX“星舰”从得克萨斯州南部的发射台升空，飞升到墨西哥湾上空约39公里的高度，但在级间分离前出现异常，起飞约4分钟后在空中解体。在星舰发射之前，马斯克就已经多次公开表态试图降低大众期待，并委婉表示：“不应期待成功，星舰可能在第一次轨道级试飞尝试时爆炸。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑人埃及艳后演员回应选角争议：不喜欢可以不看]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1355923.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1355923.htm"/>
+        <updated>2023-04-22T05:38:33.773Z</updated>
+        <content type="html"><![CDATA[近日，网飞新纪录片《非洲女王：克利奥帕特拉女王》中，采用黑人演员扮演埃及托勒密王朝女王克利奥帕特拉七世，引发舆论争议，超8.5万人请愿抵制这部影片。然而，影片制片方坚称埃及艳后克利奥帕特拉七世的传统形象“备受争议”，并无定论。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wi-Fi还是蓝牙？无线Hi-Fi迎来转点]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1355915.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1355915.htm"/>
+        <updated>2023-04-22T05:38:33.771Z</updated>
+        <content type="html"><![CDATA[“无线也敢叫Hi-Fi？”，在十年前的HiFi圈子里类似的言论其实并不少见，甚至直到今天，在高端Hi-Fi玩家眼里无线与有线之间的差距仍然非常巨大，无线耳机的音质是拍马都追不上有线的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok周受资：年内删除遗留数据 已建万人审核团队]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1356007.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1356007.htm"/>
+        <updated>2023-04-24T05:38:42.924Z</updated>
+        <content type="html"><![CDATA[在出席美国国会听证会并接受问询后，短视频巨头TikTok CEO周受资再次公开谈及用户数据安全问题。据美国全国广播公司（NBC）报道，当地时间4月20日，周受资在TED2023会议上接受TED负责人克里斯·安德森 (Chris Anderson) 的采访，并强调了TikTok对用户数据安全的承诺。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杨紫琼演观音 吴彦祖演美猴王 美剧《西游ABC》正式预告]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1356037.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1356037.htm"/>
+        <updated>2023-04-22T11:50:07.000Z</updated>
+        <content type="html"><![CDATA[继日前公布出新海报之后，<strong>美剧《西游ABC》又发布了正式中字预告，定档5月24日上线，共8集，一次性全部上线。</strong>预告中展现的特效非常华丽，还有两个世界的穿梭，用西方手法展现了一个全新的东方神话世界。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝马Mini展台被曝区别对待国人 涉事冰淇淋品牌Luneurs回应]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1355921.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1355921.htm"/>
+        <updated>2023-04-22T05:38:33.777Z</updated>
+        <content type="html"><![CDATA[日前，上海车展期间，宝马MINI品牌却被网友曝出“区别对待国人”，引起网友关注热议。网友上传视频显示，在宝马MINI展台上，有免费领取冰淇淋的工作台，一位国人小姐姐要来领冰淇淋，结果被两位工作人员告知没有了。]]></content>
     </entry>
 </feed>
