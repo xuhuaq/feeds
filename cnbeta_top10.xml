@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-05-01T17:38:29.921Z</updated>
+    <updated>2023-05-02T05:38:40.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,15 +13,6 @@
         <content type="html"><![CDATA[近日，一张二维码的照片突然在全网流传，使用微信扫描或打开该图片将导致微信出现闪退。而如果短时间多次闪退，微信将进入安全模式，账号被强制登出。目前，用户已经发现，导致该问题的是微信扫码引擎中的一个内存读写Bug，<strong>此类恶意制作的图片，将会通过无效的内存访问导致wechat_qrcode模块崩溃。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[李小龙回应华为P60 Pro充电器设计争议 特意让用户同时只能插一根线]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1357019.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1357019.htm"/>
-        <updated>2023-04-28T05:38:16.897Z</updated>
-        <content type="html"><![CDATA[近段时间，网上关于华为P60 
-Pro充电器的双口设计关注度很高。有网友质问华为为什么要这样设计充电器，Type-C充电器的大小两个接口很近，无法同时插进去，容易发生短路。4月27日，华为终端BG
- CTO李小龙发微博解释了充电器这样设计的初衷，并表示自己就是这个设计方案的“始作俑者”。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[支持7nm高端DUV光刻机可出口 ASML死保中国市场]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1357141.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1357141.htm"/>
@@ -29,6 +20,15 @@ Pro充电器的双口设计关注度很高。有网友质问华为为什么要�
         <content type="html"><![CDATA[对于中国市场而言，ASML正在全力以赴，预计2023年在中国的销售额将保持在22亿欧元左右（约合人民币超162亿元），其正在加快拓展在中国的业务和销售。ASML
  CEO Peter 
 Wennink表示，近几年，由于新冠疫情供应链停滞，芯片行业出现了长达多年的短缺。而现在，由于全球消费电子产品出货量持续下降，科技行业又再次进入半导体供应过剩的窘境。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李小龙回应华为P60 Pro充电器设计争议 特意让用户同时只能插一根线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1357019.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1357019.htm"/>
+        <updated>2023-04-28T05:38:16.897Z</updated>
+        <content type="html"><![CDATA[近段时间，网上关于华为P60 
+Pro充电器的双口设计关注度很高。有网友质问华为为什么要这样设计充电器，Type-C充电器的大小两个接口很近，无法同时插进去，容易发生短路。4月27日，华为终端BG
+ CTO李小龙发微博解释了充电器这样设计的初衷，并表示自己就是这个设计方案的“始作俑者”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netflix联合周星驰打造 《美猴王》剧照公布 孙悟空造型引热议]]></title>
@@ -45,13 +45,6 @@ Wennink表示，近几年，由于新冠疫情供应链停滞，芯片行业出�
         <content type="html"><![CDATA[很多年前，拓林思作为一家事实上的中国公司，已经做到中国服务器市场第一名的时候，各项指标都遥遥领先。正在此时，红帽突然大举进入中国。拓林思技术负责人陈棋德知道消息后，丧气地找到公司总经理周群说：“我们没有路可走了，以后怎么办？”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[长江存储开始使用北方华创的本土设备进行先进3D NAND制造]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1356335.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1356335.htm"/>
-        <updated>2023-04-26T05:38:19.334Z</updated>
-        <content type="html"><![CDATA[据《南华早报》消息，长江存储技术公司（YMTC）正在策划使用当地的设备来制造其先进的3D NAND闪存。消息人士指出，在一个代号为武当山的秘密项目中，YMTC已经向当地设备制造商下了大订单，该项目以该公司所在地湖北的道教名山命名。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3000元捡漏苹果电脑？小丑竟是我自己]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1357069.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1357069.htm"/>
@@ -66,11 +59,11 @@ Wennink表示，近几年，由于新冠疫情供应链停滞，芯片行业出�
         <content type="html"><![CDATA[多年来一直有关于苹果研究无创血糖监测Apple Watch技术的消息，但迟迟未能见到量产或工程产品。前不久，名记Mark Gurman表示苹果这项技术还有必须要改进的算法和元器件设计，<strong>甚至可能还需要额外3-7年时间才能实现将此项技术的硬件缩小到适合Apple Watch大小。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国狂飙万兆宽带 却比中国差一个身位]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1356659.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1356659.htm"/>
-        <updated>2023-04-27T05:38:21.260Z</updated>
-        <content type="html"><![CDATA[围绕超千兆宽带，美国的电信运营商们最近飙上了。近日，一家名为Ziply Fiber 的美国运营商宣布，已经在俄勒冈州、爱达荷州等州的部分地区推出了对称10Gbit/s宽带，也就是大家通常所说的万兆宽带，“飙”出了新速度。]]></content>
+        <title type="html"><![CDATA[韩国要和中国抢超级工厂？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1357375.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1357375.htm"/>
+        <updated>2023-05-01T05:38:19.266Z</updated>
+        <content type="html"><![CDATA[4月26日，韩国总统尹锡悦在访美行程中，应特斯拉CEO马斯克邀请短暂会面。<strong>虽然会面由马斯克提出，但尹锡悦似乎是更急切的一方。根据新闻发布会的文字记录，尹锡悦试图说服马斯克去韩国建厂。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国小卖部助力 ChatGPT已打通国内“最后一公里”]]></title>
@@ -87,11 +80,19 @@ Wennink表示，近几年，由于新冠疫情供应链停滞，芯片行业出�
         <content type="html"><![CDATA[本月中旬，有海外媒体曝光了中期<strong>改款特斯拉Model 3</strong>的实车谍照，这款车自发布以来，已经过去了将近6年时间，并成为了最为畅销的特斯拉，也确实到了该出新款的时候了。近日，有国外网友根据泄露的后备箱盖图，设计了Model 3改款Highland的渲染图，从图片看，<strong>改款特斯拉Model 3的尾灯着实秀气，像是两撇娥眉一般</strong>，跟现款相比差别甚大，也强化了其辨识度。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韩国要和中国抢超级工厂？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1357375.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1357375.htm"/>
-        <updated>2023-05-01T05:38:19.266Z</updated>
-        <content type="html"><![CDATA[4月26日，韩国总统尹锡悦在访美行程中，应特斯拉CEO马斯克邀请短暂会面。<strong>虽然会面由马斯克提出，但尹锡悦似乎是更急切的一方。根据新闻发布会的文字记录，尹锡悦试图说服马斯克去韩国建厂。</strong>]]></content>
+        <title type="html"><![CDATA[美国狂飙万兆宽带 却比中国差一个身位]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1356659.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1356659.htm"/>
+        <updated>2023-04-27T05:38:21.260Z</updated>
+        <content type="html"><![CDATA[围绕超千兆宽带，美国的电信运营商们最近飙上了。近日，一家名为Ziply Fiber 的美国运营商宣布，已经在俄勒冈州、爱达荷州等州的部分地区推出了对称10Gbit/s宽带，也就是大家通常所说的万兆宽带，“飙”出了新速度。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[换了C口又如何？iPhone 15系列又要割一波韭菜]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1357353.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1357353.htm"/>
+        <updated>2023-05-01T05:38:19.269Z</updated>
+        <content type="html"><![CDATA[终于，苹果总算要彻底放弃Lightning接口了。从去年开始，就有不少外媒爆料iPhone 
+15全系都会从Lightning接口更换成更先进且实用的Type-C接口。关于Type-C接口的好处有多少大家应该都清楚，比如支持最高100W的快充功率，而且在兼容性方面也远比lightning接口丰富得多，十分有利于提升用户的使用体验。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为规避风险 曝小米接下来的手机将大量采用国产器件]]></title>
@@ -108,21 +109,6 @@ Wennink表示，近几年，由于新冠疫情供应链停滞，芯片行业出�
         <content type="html"><![CDATA[近日，上海车展期间，宝马MINI品牌却被网友曝出“区别对待国人”，引起网友关注热议。网友上传视频显示，在宝马MINI展台上，国人小姐姐来了都要不来冰淇淋，而老外来了，不仅立马送出一盒，还贴心的教他如何食用。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[换了C口又如何？iPhone 15系列又要割一波韭菜]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1357353.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1357353.htm"/>
-        <updated>2023-05-01T05:38:19.269Z</updated>
-        <content type="html"><![CDATA[终于，苹果总算要彻底放弃Lightning接口了。从去年开始，就有不少外媒爆料iPhone 
-15全系都会从Lightning接口更换成更先进且实用的Type-C接口。关于Type-C接口的好处有多少大家应该都清楚，比如支持最高100W的快充功率，而且在兼容性方面也远比lightning接口丰富得多，十分有利于提升用户的使用体验。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实拍“星舰”发射失败后现场：发射台报废、地面影像设备尽毁]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1356333.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1356333.htm"/>
-        <updated>2023-04-26T05:38:19.351Z</updated>
-        <content type="html"><![CDATA[四天前，也就是在当地时间4月20日，美国太空探索技术公司(SpaceX)的超强火箭系统“星舰”再次发射，但四分钟后却发生爆炸，宣告此次发射失败。SpaceX的飞行直播显示，就在发射后不久，火箭有三个引擎失灵了，在另外一个时刻，图表显示有五个引擎停止了工作。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD锁定锐龙7000烧毁元凶：果然猜对了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1357107.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1357107.htm"/>
@@ -137,17 +123,31 @@ Wennink表示，近几年，由于新冠疫情供应链停滞，芯片行业出�
         <content type="html"><![CDATA[大家还记得一个月前，周受资出席 Tiktok 听证会那档子事儿吗？万万没想到，后来 Tiktok 旗下一个叫 Lemon8 的 APP ，却成了这个故事的主角。<strong>因为怕失去冲浪的&nbsp;“&nbsp;快乐老家&nbsp;”&nbsp;，网友互相安利 Lemon8 ，相关话题的阅读量，直接冲上了 24 亿。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[又美又飒的特斯拉AutoPilot产品总监离职了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1356373.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1356373.htm"/>
-        <updated>2023-04-30T05:38:32.481Z</updated>
-        <content type="html"><![CDATA[糟糕，马斯克又痛失一爱将！Autopilot亚裔产品总监Kate Park，为特斯拉效力近5年，现在离职了。本硕斯坦福计算机专业，与特斯拉前AI主管Andrej Karpathy一起发过专利。去年的特斯拉AI Day上，还被引荐到台前进行展示过。]]></content>
+        <title type="html"><![CDATA[《饥饿游戏》美女演员晒照反击黑客勒索：我想展示给谁看都行]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1357611.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1357611.htm"/>
+        <updated>2023-05-02T05:38:38.984Z</updated>
+        <content type="html"><![CDATA[《饥饿游戏》女演员薇洛·西尔德斯晒出一张侧身自拍，称她最近被黑客用一些本不应该和世界分享的照片威胁和勒索，她要夺回主动权，先与大家分享。她已报案，也知道每天有很多人受到私密照被泄露的影响，“我不会忍受任何羞辱，这是我的身体，我来选择把它展示给谁看。”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[看完车展 我终于知道为啥宁德时代能叫宁王了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1356271.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1356271.htm"/>
-        <updated>2023-05-01T05:38:19.292Z</updated>
-        <content type="html"><![CDATA[还记得上海车展开始前，脖子哥就说过肯定会是<strong>一幅神仙打架的景象</strong>吗。几天看下来，我还是<strong>保守</strong>了。不光是新车新技术一个接一个，各种大瓜和热搜也是一环扣一环，真的<strong>比看电视剧都有意思</strong>……热闹归热闹，这次车展上最让人感慨的，肯定还是<strong>电车对油车的无情碾压</strong>。重磅的新车基本都带电，人流量最大的也是新能源品牌的场馆。]]></content>
+        <title type="html"><![CDATA[保温杯底的贴纸为什么千万不能撕？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1356803.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1356803.htm"/>
+        <updated>2023-05-02T05:38:38.996Z</updated>
+        <content type="html"><![CDATA[今天告诉大家一个冷但保温的知识：保温杯底部如果有有贴纸，建议你不要撕掉，不然保温杯就变敲鸡棒了。最近，日本的一位保温杯制造业业内人士在推特上发文称：<strong>撕掉保温杯底部贴纸，保温效果就可能会消失。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙江发现罕见3后1王白蚁巢 数量多达百万：蚁后有多能生？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1357045.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1357045.htm"/>
+        <updated>2023-05-02T05:38:38.998Z</updated>
+        <content type="html"><![CDATA[近日，浙江象山赤坎水库，专业的白蚁防治人员在大坝上发现了一个巨型白蚁巢穴。据工作人员表示，挖出来的巢穴直径约有80厘米，最深之处在地下4米。主巢附近有15个副巢，地下情况盘根错节很是复杂。<strong>巢穴中有3个蚁后1个蚁王</strong>，蚁后体长约5cm，体型肥硕，目测已经存活10年以上，其他成员预估数量可能超过百万。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全新宝马5系无伪谍照首曝 大鸡腿档杆成历史]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1357251.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1357251.htm"/>
+        <updated>2023-05-02T05:38:40.003Z</updated>
+        <content type="html"><![CDATA[网络上曝光了全系宝马5系的无伪谍照，<strong>新车将于5月24日全球首发</strong>，随后可能于今年夏季正式投产，并于10月在海外市场上市销售，国产长轴距版也会同步生产。此次曝光的实车图仅为后部，可以看到该车采用了半隐藏式门把手，经典的霍斯曼拐角依然存在，其尾灯并未采用时下流行的贯穿式，灯腔内的光源呈细长横辐条式，点亮后别具一格。]]></content>
     </entry>
 </feed>
