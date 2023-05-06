@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-05-05T17:38:29.773Z</updated>
+    <updated>2023-05-06T05:38:47.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -49,6 +49,13 @@
         <content type="html"><![CDATA[4月26日，韩国总统尹锡悦在访美行程中，应特斯拉CEO马斯克邀请短暂会面。<strong>虽然会面由马斯克提出，但尹锡悦似乎是更急切的一方。根据新闻发布会的文字记录，尹锡悦试图说服马斯克去韩国建厂。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[受够了微信？来抖音聊天吧 舒服得不要不要的]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1357943.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1357943.htm"/>
+        <updated>2023-05-04T05:38:45.289Z</updated>
+        <content type="html"><![CDATA[<strong>不知道大家有没有发现一件事，越来越多的人，开始抛弃微信，用抖音聊天了。</strong>比如很多老年人，都把自己的社交圈子，搬进了抖音。同事脖子右拧的妈妈，跟好姐妹都是在评论区里畅聊。父母和子女的聊天，很多也都开始转换阵地了。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Statcounter：微软Edge不再是世界第二大桌面浏览器]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1357649.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1357649.htm"/>
@@ -56,11 +63,11 @@
         <content type="html"><![CDATA[根据Statcounter 2023年4月的报告，微软Edge不再是世界第二大最受欢迎的桌面浏览器。苹果Safari唯一的非跨平台浏览器已经取代了微软开发的由Chromium驱动的Edge。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[受够了微信？来抖音聊天吧 舒服得不要不要的]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1357943.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1357943.htm"/>
-        <updated>2023-05-04T05:38:45.289Z</updated>
-        <content type="html"><![CDATA[<strong>不知道大家有没有发现一件事，越来越多的人，开始抛弃微信，用抖音聊天了。</strong>比如很多老年人，都把自己的社交圈子，搬进了抖音。同事脖子右拧的妈妈，跟好姐妹都是在评论区里畅聊。父母和子女的聊天，很多也都开始转换阵地了。]]></content>
+        <title type="html"><![CDATA[敢吃50%回扣，李想撕下汽车营销界的“底裤”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1358089.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1358089.htm"/>
+        <updated>2023-05-04T11:09:16.000Z</updated>
+        <content type="html"><![CDATA[如房地产圈一样，汽车圈产业链也很长，不仅创造了大量税收，也养活了太多人。人多的地方，自然就有江湖，更有扯不清的利益纠葛。昨天下午，理想汽车老板李想在微博上突然曝“黑料”，看起来“意有所指”，迅疾就秒删了，意味深长。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11的下一步核心改进：用Rust启动 ReFS代替NTFS文件系统]]></title>
@@ -77,6 +84,13 @@
         <content type="html"><![CDATA[相比传统的燃油车，电动车一个重要优点就是电费比油费便宜，但是这个解释对有钱人适用吗？很多网友认为有钱人就对那点电费、油费不在意了，而理想创始人给出了一番解释——有钱人也在意电费的。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[微软Bing Chat现已处于开放预览阶段 将增加聊天记录、可视化搜索等功能]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1358141.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1358141.htm"/>
+        <updated>2023-05-06T05:38:46.034Z</updated>
+        <content type="html"><![CDATA[微软今天向所有人提供其Bing GPT-4聊天机器人，不再需要等待名单，只需要用微软账户登录到新的必应或Edge，现在就可以访问由GPT-4驱动的开放预览版本。微软还在大规模升级必应聊天，增加了很多新功能，甚至支持插件。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[手机需求疲软 苹果华为小米均降价]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1357497.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1357497.htm"/>
@@ -84,18 +98,11 @@
         <content type="html"><![CDATA[在过去的第一季度，智能手机市场的需求并未得到明显提升，甚至还出现了一定幅度的下降。据台媒工商时报报道，华为、小米和苹果等过去广受中国大陆市场欢迎的手机大厂皆难以幸免，近期旗舰机型相继开启降价模式。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[敢吃50%回扣，李想撕下汽车营销界的“底裤”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1358089.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1358089.htm"/>
-        <updated>2023-05-04T11:09:16.000Z</updated>
-        <content type="html"><![CDATA[如房地产圈一样，汽车圈产业链也很长，不仅创造了大量税收，也养活了太多人。人多的地方，自然就有江湖，更有扯不清的利益纠葛。昨天下午，理想汽车老板李想在微博上突然曝“黑料”，看起来“意有所指”，迅疾就秒删了，意味深长。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新宝马5系无伪谍照首曝 大鸡腿档杆成历史]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1357251.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1357251.htm"/>
-        <updated>2023-05-02T05:38:40.003Z</updated>
-        <content type="html"><![CDATA[网络上曝光了全系宝马5系的无伪谍照，<strong>新车将于5月24日全球首发</strong>，随后可能于今年夏季正式投产，并于10月在海外市场上市销售，国产长轴距版也会同步生产。此次曝光的实车图仅为后部，可以看到该车采用了半隐藏式门把手，经典的霍斯曼拐角依然存在，其尾灯并未采用时下流行的贯穿式，灯腔内的光源呈细长横辐条式，点亮后别具一格。]]></content>
+        <title type="html"><![CDATA[原来AMD才是苹果最好的老师]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1357567.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1357567.htm"/>
+        <updated>2023-05-01T10:52:51.000Z</updated>
+        <content type="html"><![CDATA[根据数据咨询机构 Canalys的报告，2022 年全球 PC 总出货量为 2.851 亿台，同比下降 16%，笔记本降幅更加明显，其在2022 年第四季度出货量下降 30% 至 5140 万台，全年出货量下降 19% 至 2.238 亿台。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[USB：终于一统江湖]]></title>
@@ -107,11 +114,11 @@
  2.0 和 USB 3.2 SuperSpeed 之间有什么区别？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[原来AMD才是苹果最好的老师]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1357567.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1357567.htm"/>
-        <updated>2023-05-01T10:52:51.000Z</updated>
-        <content type="html"><![CDATA[根据数据咨询机构 Canalys的报告，2022 年全球 PC 总出货量为 2.851 亿台，同比下降 16%，笔记本降幅更加明显，其在2022 年第四季度出货量下降 30% 至 5140 万台，全年出货量下降 19% 至 2.238 亿台。]]></content>
+        <title type="html"><![CDATA[“插队婆孙”被恶搞做成表情包：如此“网暴”是否合适？]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1357929.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1357929.htm"/>
+        <updated>2023-05-05T05:38:29.822Z</updated>
+        <content type="html"><![CDATA[五一期间每个景区景点都是人满为患，排长队是在所难免的。而一对婆孙因为插队还怒怼其他游客而成为“网红”，嚣张的表情还被做成表情包，到处传播。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[敲定光刻机开发合作伙伴 俄罗斯提供百亿卢布信贷支持]]></title>
@@ -121,11 +128,13 @@
         <content type="html"><![CDATA[据俄罗斯媒体报道称，为了推进自研光刻机进度，其已经敲定了相关的合作伙伴。据悉，俄罗斯方面将为两大白俄罗斯微电子领域项目提供约100亿卢布信贷支持，受资助企业包括集成电路成套工艺领域的Integral和精密光刻设备领域的Planar。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“插队婆孙”被恶搞做成表情包：如此“网暴”是否合适？]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1357929.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1357929.htm"/>
-        <updated>2023-05-05T05:38:29.822Z</updated>
-        <content type="html"><![CDATA[五一期间每个景区景点都是人满为患，排长队是在所难免的。而一对婆孙因为插队还怒怼其他游客而成为“网红”，嚣张的表情还被做成表情包，到处传播。]]></content>
+        <title type="html"><![CDATA[14.1英寸显示屏的iPad Pro据称将放弃M3 转而采用更强大的M3 Pro]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1357781.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1357781.htm"/>
+        <updated>2023-05-05T05:38:29.826Z</updated>
+        <content type="html"><![CDATA[据报道，苹果公司将为其家族增加另一个iPad 
+Pro型号，该型号将采用14.1英寸的巨大显示屏，该平板电脑的屏幕尺寸基本上进入了笔记本类别。然而，一个传言称，随着尺寸的增加，规格也会大幅提升，据说更大的版本将采用M3
+ Pro，可能提供比M3更多的CPU和GPU内核。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Chrome 113发布 采用更快的AV1视频编码 默认为WebGPU]]></title>
@@ -138,19 +147,10 @@
 更改列表可在日志中找到。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[14.1英寸显示屏的iPad Pro据称将放弃M3 转而采用更强大的M3 Pro]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1357781.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1357781.htm"/>
-        <updated>2023-05-05T05:38:29.826Z</updated>
-        <content type="html"><![CDATA[据报道，苹果公司将为其家族增加另一个iPad 
-Pro型号，该型号将采用14.1英寸的巨大显示屏，该平板电脑的屏幕尺寸基本上进入了笔记本类别。然而，一个传言称，随着尺寸的增加，规格也会大幅提升，据说更大的版本将采用M3
- Pro，可能提供比M3更多的CPU和GPU内核。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鬼迷心窍的扎克伯格 正陷入一场信任危机]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1357643.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1357643.htm"/>
-        <updated>2023-05-05T05:38:29.830Z</updated>
-        <content type="html"><![CDATA[马克·扎克伯格(Mark Zuckerberg)听起来有些紧张。在加州门洛帕克总部举行的员工大会上，有员工尖锐地向扎克伯格提问，为什么他们应该对他的领导抱有信心？就在今年3月，扎克伯格又宣布了一轮规模达到数千人的裁员。而在去年11月，他已经裁员1.1万人。]]></content>
+        <title type="html"><![CDATA[Windows 11“颠覆性”功能被遗弃 失效三个月仍被微软无视]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1357829.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1357829.htm"/>
+        <updated>2023-05-03T01:31:36.000Z</updated>
+        <content type="html"><![CDATA[在2021年，微软首席产品官Panos Panay公布了一向被他称之为“颠覆性”创新的功能——将时钟应用与音乐平台Spotify整合，在专注模式下播放特定音乐。但讽刺的是，近日，<strong>有用户发现，这一“颠覆性”功能，至少已经失效了三个月。</strong>]]></content>
     </entry>
 </feed>
