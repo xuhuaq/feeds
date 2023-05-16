@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-05-15T17:38:27.865Z</updated>
+    <updated>2023-05-16T05:38:36.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[单价6.5亿元 第二架东航C919国产大飞机开始试飞]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1358681.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1358681.htm"/>
-        <updated>2023-05-09T02:56:14.000Z</updated>
-        <content type="html"><![CDATA[去年底中国商飞向东航交付了全球首架C919大飞机，现在第二架东航C919来了，今天中午开始试飞。5月8日13:50，C919第8架机从浦东机场起飞，临时注册号B-001K，沿用了以前ARJ21使用过的临时注册号。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[如何辨别在美国的中国人：看车牌 国人秒懂内涵]]></title>
         <id>https://hot.cnbeta.com.tw/articles/funny/1358961.htm</id>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[据报道，作为网络搜索的代名词，谷歌今日在“谷歌I/O”开发者大会上向我们展示了搜索的未来。这当然少不了人工智能（AI），但可能并不是你想象的那样。谷歌搜索的未来是人工智能，但它并不是你想象的那样。谷歌并不完全热衷于人工智能（AI）聊天机器人，尽管该公司正在开发一款这样的产品“Bard”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谷歌一雪前耻 全新PaLM 2反超GPT-4 Bard史诗进化]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359081.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359081.htm"/>
-        <updated>2023-05-11T11:12:27.000Z</updated>
-        <content type="html"><![CDATA[新版PaLM 2超强进化，办公全家桶Workspace全面升级，Bard全面增强、所有人可用……可以看出，这届I/O大会，Google是真的憋出不少大招。GoogleI/O 2023大会，仿佛又给Google的支持者们打了一针强心剂。]]></content>
+        <title type="html"><![CDATA[三年时间OPPO哲库到底“烧”了多少钱？究竟为何被放弃？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359589.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359589.htm"/>
+        <updated>2023-05-15T03:09:56.000Z</updated>
+        <content type="html"><![CDATA[5月12日，OPPO宣布全面终止旗下芯片设计公司哲库科技（ZEKU）的业务，这也引发了业内的巨大震动。对于为何突然毫无征兆的解散哲库科技的原因，外界也是众说纷纭。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 2023年5月更新终于带回了丢失的任务栏功能]]></title>
@@ -48,35 +41,18 @@
         <content type="html"><![CDATA[对许多人来说，Windows 11是一个整洁的操作系统，但如果你经常要用的哦啊高级功能，经常使用取消图标分组、拖放、时钟中的秒数、第三方定制工具等等，任务栏的变化是一个很大的遗憾。虽然Windows 11 22H2带回了拖放功能，但仍缺少许多功能。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[谷歌一雪前耻 全新PaLM 2反超GPT-4 Bard史诗进化]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359081.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359081.htm"/>
+        <updated>2023-05-11T11:12:27.000Z</updated>
+        <content type="html"><![CDATA[新版PaLM 2超强进化，办公全家桶Workspace全面升级，Bard全面增强、所有人可用……可以看出，这届I/O大会，Google是真的憋出不少大招。GoogleI/O 2023大会，仿佛又给Google的支持者们打了一针强心剂。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[今天开始，AI接管了Google搜索]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1359193.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1359193.htm"/>
         <updated>2023-05-13T05:38:30.632Z</updated>
         <content type="html"><![CDATA[据报道，作为网络搜索的代名词，谷歌今日在“谷歌I/O”开发者大会上向我们展示了搜索的未来。这当然少不了人工智能（AI），但可能并不是你想象的那样。谷歌搜索的未来是人工智能，但它并不是你想象的那样。谷歌并不完全热衷于人工智能（AI）聊天机器人，尽管该公司正在开发一款这样的产品“Bard”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“本月离职名额已满”   - 比亚迪长沙工厂“排队辞职”现象调查]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1358637.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1358637.htm"/>
-        <updated>2023-05-09T05:38:24.194Z</updated>
-        <content type="html"><![CDATA[“本月离职名额已满。”日前，长沙比亚迪望城工厂的马力在提出离职后，得到了这样的答复，而此时距离他进厂还不到两个月时间。据马力说，厂里最近辞职的人不少，一些宿舍房间都空了。同在长沙的比亚迪雨花区工厂，3、4月份也出现了工人离职潮，当下正恢复普工招聘补充人员。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对比SSD一身弱点 存储厂商：不出5年 机械硬盘将完全停售]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1358925.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1358925.htm"/>
-        <updated>2023-05-10T11:43:08.000Z</updated>
-        <content type="html"><![CDATA[固态硬盘（SSD）和机械硬盘（HDD）之争一直没消停过。日前，<strong>专业存储公司Pure Storage研发副总裁Shawn Rosemarin表示，压死机械硬盘的最后一根稻草将是耗电量。如果再考虑到SSD不断下降的每TB单价，他预言，2028年，机械硬盘将全面停售。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google AI方向巨变：新研究要闭源 让OpenAI没得看]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1358649.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1358649.htm"/>
-        <updated>2023-05-10T05:39:03.125Z</updated>
-        <content type="html"><![CDATA[众所周知，Google就像人工智能领域的“黄埔军校”，自深度学习兴起后培养出了整整一代机器学习研究人员和工程师。很长一段时间里，Google就是领先
- AI 
-技术的代名词。人们已经习惯跟随Google的脚步，使用其提出的新技术和工具作为研究基础，Google也走出过大批人才，成为了各家研究机构和公司的骨干。然而最近，在
- ChatGPT 的冲击下，Google决定不这么干了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[徐雷还想走老路 刘强东直接换新人]]></title>
@@ -86,11 +62,18 @@
         <content type="html"><![CDATA[去年，京东CEO徐雷还在感叹，2022年是京东19年来最艰难的一次“618”，但今年徐雷却不必再为之烦神，因为就在618前夕，他“退休”了。5月11日，京东集团宣布原CEO徐雷因个人原因将退休，原CFO许冉将升任CEO，并向京东集团董事会及主席刘强东先生汇报。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[拼多多“总部迁移”疑云]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1358711.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1358711.htm"/>
-        <updated>2023-05-09T09:30:26.000Z</updated>
-        <content type="html"><![CDATA[环球网近日报道，根据拼多多（PDD.US）提交予美国证券交易委员会（SEC）的20-F文件显示，其已将总部从中国迁至爱尔兰。最新文件显示，该公司的“主要行政办公地址”在都柏林。而2月份的文件显示该公司所列的地址是上海。]]></content>
+        <title type="html"><![CDATA[傲慢的特斯拉屈服了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359489.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359489.htm"/>
+        <updated>2023-05-14T07:50:10.000Z</updated>
+        <content type="html"><![CDATA[这两年，特斯拉的傲慢，肉眼可见。2021年5月，特斯拉全球副总裁陶琳的一句话，传遍了整个中国社交媒体。她的原话是这样说的：<strong>“在车辆的使用环节，可能要加强消费者的教育。”</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对比SSD一身弱点 存储厂商：不出5年 机械硬盘将完全停售]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1358925.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1358925.htm"/>
+        <updated>2023-05-10T11:43:08.000Z</updated>
+        <content type="html"><![CDATA[固态硬盘（SSD）和机械硬盘（HDD）之争一直没消停过。日前，<strong>专业存储公司Pure Storage研发副总裁Shawn Rosemarin表示，压死机械硬盘的最后一根稻草将是耗电量。如果再考虑到SSD不断下降的每TB单价，他预言，2028年，机械硬盘将全面停售。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[号称“不泄密” 微信键盘1.0.6发布：加入2项新功能]]></title>
@@ -100,18 +83,18 @@
         <content type="html"><![CDATA[微信键盘iOS版本发布了1.0.6正式版，各位用户已经可以在App Store进行下载更新。根据官方介绍，本次带来了两项全新的功能，分别是自定义工具栏和长按删除键时可上滑快速清空。更新之后可以点击键盘左上角的微信键盘 Logo图标，向左滑动菜单页面就可以看到新增了“定制工具栏”功能。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[傲慢的特斯拉屈服了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359489.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359489.htm"/>
-        <updated>2023-05-14T07:50:10.000Z</updated>
-        <content type="html"><![CDATA[这两年，特斯拉的傲慢，肉眼可见。2021年5月，特斯拉全球副总裁陶琳的一句话，传遍了整个中国社交媒体。她的原话是这样说的：<strong>“在车辆的使用环节，可能要加强消费者的教育。”</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[联想发布ThinkStation P3 Tiny迷你机 可选配半高专业显卡]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1359177.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1359177.htm"/>
         <updated>2023-05-13T05:38:30.640Z</updated>
         <content type="html"><![CDATA[联想发布了一款超迷你的专业工作站“<strong>ThinkStation P3 Tiny</strong>”，配置却不弱，尤其是显卡很少见。这台迷你机的体积为<strong>183x179×37毫米</strong>，体积只有1.2升，重量约1.4公斤，其中面积大约是标准尺寸Intel NUC的三倍，高度则几乎完全一致。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中性笔后面的神秘液体是什么？竟然大有用处]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1359469.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1359469.htm"/>
+        <updated>2023-05-16T05:38:35.874Z</updated>
+        <content type="html"><![CDATA[在无聊的课堂上祸害中性笔，这大概是很多人共有的童年回忆。<strong>在中性笔笔芯的末端，总有一截无色或是黄色的神秘液体。</strong>把长长的自动铅笔芯捅进去，然后再搅一搅，这个动作对不想听课的好奇宝宝似乎有着无限的吸引力。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT大更新：联网/插件功能无需排队 Plus用户下周即可体验]]></title>
@@ -128,13 +111,6 @@
         <content type="html"><![CDATA[5月11日，一度被贴上董明珠“接班人”标签的孟羽童在社交媒体上发布了一则视频表示自己已经从格力电器离职，<strong>“顺利毕业了”，未来将会继续读书，申请研究生。</strong>此事一出，立马引起了网友广泛的关注。当当网创始人李国庆随后谈及了孟羽童辞职一事。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信又有新玩法：状态终于可以评论了 但仅双方可见]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359075.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359075.htm"/>
-        <updated>2023-05-11T11:09:13.000Z</updated>
-        <content type="html"><![CDATA[截至去年四季度末，微信及WeChat的合并月活跃账户数达到13.13亿，同比增长3.5%，毫无疑问，在国内社交软件中，微信已是当之无愧的王者。日前，有不少用户表示，微信状态现在可以进行评论了，与朋友圈评论不同的是，<strong>微信状态评论内容仅双方可见，更大程度上保证了好友间的隐私。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[谷歌首款平板Pixel Tablet发布：自研G2处理器、边框感人]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1359077.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1359077.htm"/>
@@ -142,10 +118,31 @@
         <content type="html"><![CDATA[2019年6月，Google宣布放弃平板电脑业务，两款尚未对外宣布的设备也一并取消。在今日凌晨举行的2023GoogleI/O开发者大会上，<strong>Google正式发布重新回归的首款平板电脑——Pixel Tablet，提供128GB、256GB两种版本，售价分别为499美元（约合3459元人民币）、599美元（约合4153元人民币），</strong>目前已在美国、加拿大、英国、德国、法国等地开启预售。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[微信又有新玩法：状态终于可以评论了 但仅双方可见]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359075.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359075.htm"/>
+        <updated>2023-05-11T11:09:13.000Z</updated>
+        <content type="html"><![CDATA[截至去年四季度末，微信及WeChat的合并月活跃账户数达到13.13亿，同比增长3.5%，毫无疑问，在国内社交软件中，微信已是当之无愧的王者。日前，有不少用户表示，微信状态现在可以进行评论了，与朋友圈评论不同的是，<strong>微信状态评论内容仅双方可见，更大程度上保证了好友间的隐私。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产芯片之殇：看了OPPO的泪 才知道华为的难]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359761.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359761.htm"/>
+        <updated>2023-05-16T05:38:35.877Z</updated>
+        <content type="html"><![CDATA[一夜之间，3000人团队原地解散。“面对全球经济、手机市场的不确定性，经过慎重考虑，公司决定终止ZEKU（哲库）业务。”在公司宣布关停2天后，昨晚OPPO哲库裁员会议的视频流出。<strong>视频中，哲库CEO刘君、哲库COO朱尚祖、高管李宗霖和基带射频部门负责人王泷四位高管出席。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“老公气我，喝！又老一岁，喝！”“五个女博士”已被立案调查]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1359445.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1359445.htm"/>
         <updated>2023-05-15T05:38:28.161Z</updated>
         <content type="html"><![CDATA[“老公气我，喝”“熬夜追剧，喝”“又老一岁，喝”，“喝五个女博士，都是你们逼的！”近日，一个名为“五个女博士”的品牌因电梯广告火了，广告中一位女性面目狰狞，握拳嘶喊。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术大牛陈皓（左耳朵耗子）心梗去世]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359677.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359677.htm"/>
+        <updated>2023-05-16T05:38:35.886Z</updated>
+        <content type="html"><![CDATA[5 月 15 日早晨，一则意外消息打得我们猝不及防：MegaEase CEO、知名架构师、CSDN 资深博主陈皓老师（网名：左耳朵耗子）老师因突发心梗于上周六晚间去世了。]]></content>
     </entry>
 </feed>
