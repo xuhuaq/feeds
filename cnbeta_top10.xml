@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-05-16T17:38:49.157Z</updated>
+    <updated>2023-05-17T05:38:26.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[5月10日消息，由于美国车牌号支持自定义，所以很多人就弄了一些自己喜好的字母，如果你走在美国街头，可能会看到一些很奇特的车牌，而且更为神奇的是，<strong>你可以一眼分辨出它的车主是不是中国人</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android 14发布 首批适配机型公布]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359093.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359093.htm"/>
-        <updated>2023-05-11T11:21:05.000Z</updated>
-        <content type="html"><![CDATA[Google在今天凌晨举行了I/O大会，<strong>本次发布会Google带来了自家的AI语言模型PaLM 2、GooglePixel Fold折叠屏、GooglePixel 7a手机，同时发布了Android 14操作系统。</strong>在这场发布会中，AI语言模型PaLM 2和折叠屏是重点。因此，Google没有大篇幅介绍Android 14系统，其更新主要是“小修小补”。]]></content>
+        <title type="html"><![CDATA[三年时间OPPO哲库到底“烧”了多少钱？究竟为何被放弃？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359589.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359589.htm"/>
+        <updated>2023-05-15T03:09:56.000Z</updated>
+        <content type="html"><![CDATA[5月12日，OPPO宣布全面终止旗下芯片设计公司哲库科技（ZEKU）的业务，这也引发了业内的巨大震动。对于为何突然毫无征兆的解散哲库科技的原因，外界也是众说纷纭。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[今天开始，AI接管了谷歌搜索]]></title>
@@ -27,11 +27,18 @@
         <content type="html"><![CDATA[据报道，作为网络搜索的代名词，谷歌今日在“谷歌I/O”开发者大会上向我们展示了搜索的未来。这当然少不了人工智能（AI），但可能并不是你想象的那样。谷歌搜索的未来是人工智能，但它并不是你想象的那样。谷歌并不完全热衷于人工智能（AI）聊天机器人，尽管该公司正在开发一款这样的产品“Bard”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三年时间OPPO哲库到底“烧”了多少钱？究竟为何被放弃？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359589.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359589.htm"/>
-        <updated>2023-05-15T03:09:56.000Z</updated>
-        <content type="html"><![CDATA[5月12日，OPPO宣布全面终止旗下芯片设计公司哲库科技（ZEKU）的业务，这也引发了业内的巨大震动。对于为何突然毫无征兆的解散哲库科技的原因，外界也是众说纷纭。]]></content>
+        <title type="html"><![CDATA[Android 14发布 首批适配机型公布]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359093.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359093.htm"/>
+        <updated>2023-05-11T11:21:05.000Z</updated>
+        <content type="html"><![CDATA[Google在今天凌晨举行了I/O大会，<strong>本次发布会Google带来了自家的AI语言模型PaLM 2、GooglePixel Fold折叠屏、GooglePixel 7a手机，同时发布了Android 14操作系统。</strong>在这场发布会中，AI语言模型PaLM 2和折叠屏是重点。因此，Google没有大篇幅介绍Android 14系统，其更新主要是“小修小补”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产芯片之殇：看了OPPO的泪 才知道华为的难]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359761.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359761.htm"/>
+        <updated>2023-05-16T05:38:35.877Z</updated>
+        <content type="html"><![CDATA[一夜之间，3000人团队原地解散。“面对全球经济、手机市场的不确定性，经过慎重考虑，公司决定终止ZEKU（哲库）业务。”在公司宣布关停2天后，昨晚OPPO哲库裁员会议的视频流出。<strong>视频中，哲库CEO刘君、哲库COO朱尚祖、高管李宗霖和基带射频部门负责人王泷四位高管出席。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 2023年5月更新终于带回了丢失的任务栏功能]]></title>
@@ -69,11 +76,18 @@
         <content type="html"><![CDATA[这两年，特斯拉的傲慢，肉眼可见。2021年5月，特斯拉全球副总裁陶琳的一句话，传遍了整个中国社交媒体。她的原话是这样说的：<strong>“在车辆的使用环节，可能要加强消费者的教育。”</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[对比SSD一身弱点 存储厂商：不出5年 机械硬盘将完全停售]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1358925.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1358925.htm"/>
-        <updated>2023-05-10T11:43:08.000Z</updated>
-        <content type="html"><![CDATA[固态硬盘（SSD）和机械硬盘（HDD）之争一直没消停过。日前，<strong>专业存储公司Pure Storage研发副总裁Shawn Rosemarin表示，压死机械硬盘的最后一根稻草将是耗电量。如果再考虑到SSD不断下降的每TB单价，他预言，2028年，机械硬盘将全面停售。</strong>]]></content>
+        <title type="html"><![CDATA[中性笔后面的神秘液体是什么？竟然大有用处]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1359469.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1359469.htm"/>
+        <updated>2023-05-16T05:38:35.874Z</updated>
+        <content type="html"><![CDATA[在无聊的课堂上祸害中性笔，这大概是很多人共有的童年回忆。<strong>在中性笔笔芯的末端，总有一截无色或是黄色的神秘液体。</strong>把长长的自动铅笔芯捅进去，然后再搅一搅，这个动作对不想听课的好奇宝宝似乎有着无限的吸引力。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软用全屏Windows 11升级提示轰炸Windows 10用户]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359625.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359625.htm"/>
+        <updated>2023-05-15T11:09:51.000Z</updated>
+        <content type="html"><![CDATA[Windows 10离支持期结束越来越近，微软希望存量用户尽快开始使用Windows 11。在Windows 10 2023年5月的累积更新之后，越来越多的用户告诉我们，他们看到了一个全屏弹出广告，提供升级到最新的操作系统。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[号称“不泄密” 微信键盘1.0.6发布：加入2项新功能]]></title>
@@ -83,6 +97,13 @@
         <content type="html"><![CDATA[微信键盘iOS版本发布了1.0.6正式版，各位用户已经可以在App Store进行下载更新。根据官方介绍，本次带来了两项全新的功能，分别是自定义工具栏和长按删除键时可上滑快速清空。更新之后可以点击键盘左上角的微信键盘 Logo图标，向左滑动菜单页面就可以看到新增了“定制工具栏”功能。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[释小龙给郝劭文当伴郎 两人神仙友谊勾起童年回忆]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1359759.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1359759.htm"/>
+        <updated>2023-05-17T05:38:26.215Z</updated>
+        <content type="html"><![CDATA[据新浪娱乐报道，郝劭文今日（15日）举行婚礼，他在微博晒出婚礼现场照，携妻子与亲友合照温馨热闹，释小龙作为伴郎惊喜现身。释小龙和郝劭文因为电影相识，合作了《旋风小子》《新乌龙院》《龙在少林》《十兄弟》等多部作品。持续多年的神仙友谊也令人羡慕。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[联想发布ThinkStation P3 Tiny迷你机 可选配半高专业显卡]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1359177.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1359177.htm"/>
@@ -90,11 +111,11 @@
         <content type="html"><![CDATA[联想发布了一款超迷你的专业工作站“<strong>ThinkStation P3 Tiny</strong>”，配置却不弱，尤其是显卡很少见。这台迷你机的体积为<strong>183x179×37毫米</strong>，体积只有1.2升，重量约1.4公斤，其中面积大约是标准尺寸Intel NUC的三倍，高度则几乎完全一致。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中性笔后面的神秘液体是什么？竟然大有用处]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1359469.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1359469.htm"/>
-        <updated>2023-05-16T05:38:35.874Z</updated>
-        <content type="html"><![CDATA[在无聊的课堂上祸害中性笔，这大概是很多人共有的童年回忆。<strong>在中性笔笔芯的末端，总有一截无色或是黄色的神秘液体。</strong>把长长的自动铅笔芯捅进去，然后再搅一搅，这个动作对不想听课的好奇宝宝似乎有着无限的吸引力。]]></content>
+        <title type="html"><![CDATA[谷歌首款平板Pixel Tablet发布：自研G2处理器、边框感人]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359077.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359077.htm"/>
+        <updated>2023-05-11T11:10:39.000Z</updated>
+        <content type="html"><![CDATA[2019年6月，Google宣布放弃平板电脑业务，两款尚未对外宣布的设备也一并取消。在今日凌晨举行的2023GoogleI/O开发者大会上，<strong>Google正式发布重新回归的首款平板电脑——Pixel Tablet，提供128GB、256GB两种版本，售价分别为499美元（约合3459元人民币）、599美元（约合4153元人民币），</strong>目前已在美国、加拿大、英国、德国、法国等地开启预售。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT大更新：联网/插件功能无需排队 Plus用户下周即可体验]]></title>
@@ -111,13 +132,6 @@
         <content type="html"><![CDATA[5月11日，一度被贴上董明珠“接班人”标签的孟羽童在社交媒体上发布了一则视频表示自己已经从格力电器离职，<strong>“顺利毕业了”，未来将会继续读书，申请研究生。</strong>此事一出，立马引起了网友广泛的关注。当当网创始人李国庆随后谈及了孟羽童辞职一事。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谷歌首款平板Pixel Tablet发布：自研G2处理器、边框感人]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359077.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359077.htm"/>
-        <updated>2023-05-11T11:10:39.000Z</updated>
-        <content type="html"><![CDATA[2019年6月，Google宣布放弃平板电脑业务，两款尚未对外宣布的设备也一并取消。在今日凌晨举行的2023GoogleI/O开发者大会上，<strong>Google正式发布重新回归的首款平板电脑——Pixel Tablet，提供128GB、256GB两种版本，售价分别为499美元（约合3459元人民币）、599美元（约合4153元人民币），</strong>目前已在美国、加拿大、英国、德国、法国等地开启预售。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微信又有新玩法：状态终于可以评论了 但仅双方可见]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1359075.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1359075.htm"/>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[截至去年四季度末，微信及WeChat的合并月活跃账户数达到13.13亿，同比增长3.5%，毫无疑问，在国内社交软件中，微信已是当之无愧的王者。日前，有不少用户表示，微信状态现在可以进行评论了，与朋友圈评论不同的是，<strong>微信状态评论内容仅双方可见，更大程度上保证了好友间的隐私。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国产芯片之殇：看了OPPO的泪 才知道华为的难]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359761.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359761.htm"/>
-        <updated>2023-05-16T05:38:35.877Z</updated>
-        <content type="html"><![CDATA[一夜之间，3000人团队原地解散。“面对全球经济、手机市场的不确定性，经过慎重考虑，公司决定终止ZEKU（哲库）业务。”在公司宣布关停2天后，昨晚OPPO哲库裁员会议的视频流出。<strong>视频中，哲库CEO刘君、哲库COO朱尚祖、高管李宗霖和基带射频部门负责人王泷四位高管出席。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“老公气我，喝！又老一岁，喝！”“五个女博士”已被立案调查]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359445.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359445.htm"/>
-        <updated>2023-05-15T05:38:28.161Z</updated>
-        <content type="html"><![CDATA[“老公气我，喝”“熬夜追剧，喝”“又老一岁，喝”，“喝五个女博士，都是你们逼的！”近日，一个名为“五个女博士”的品牌因电梯广告火了，广告中一位女性面目狰狞，握拳嘶喊。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术大牛陈皓（左耳朵耗子）心梗去世]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359677.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359677.htm"/>
-        <updated>2023-05-16T05:38:35.886Z</updated>
-        <content type="html"><![CDATA[5 月 15 日早晨，一则意外消息打得我们猝不及防：MegaEase CEO、知名架构师、CSDN 资深博主陈皓老师（网名：左耳朵耗子）老师因突发心梗于上周六晚间去世了。]]></content>
+        <title type="html"><![CDATA[同事曝孟羽童系被格力开除：多次违反纪律 旷工接私活]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359947.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359947.htm"/>
+        <updated>2023-05-17T05:38:26.230Z</updated>
+        <content type="html"><![CDATA[前不久，格力确认董明珠秘书孟羽童离职，后其本人也确认从格力“毕业”，下一步继续读书、打算考研。也许是有MCN机构推波助澜，孟羽童离职前后的诸多话题登上热搜榜。]]></content>
     </entry>
 </feed>
