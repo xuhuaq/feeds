@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-05-20T17:38:23.060Z</updated>
+    <updated>2023-05-21T05:39:19.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[一夜之间，3000人团队原地解散。“面对全球经济、手机市场的不确定性，经过慎重考虑，公司决定终止ZEKU（哲库）业务。”在公司宣布关停2天后，昨晚OPPO哲库裁员会议的视频流出。<strong>视频中，哲库CEO刘君、哲库COO朱尚祖、高管李宗霖和基带射频部门负责人王泷四位高管出席。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[同事曝孟羽童系被格力开除：多次违反纪律 旷工接私活]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359947.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359947.htm"/>
-        <updated>2023-05-17T05:38:26.230Z</updated>
-        <content type="html"><![CDATA[前不久，格力确认董明珠秘书孟羽童离职，后其本人也确认从格力“毕业”，下一步继续读书、打算考研。也许是有MCN机构推波助澜，孟羽童离职前后的诸多话题登上热搜榜。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[成立一年的日本芯片公司Rapidus已搞定EUV光刻机 计划2025年试产2nm工艺]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1360153.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1360153.htm"/>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[原本已经落后的日本半导体制造行业近年来加快了追赶速度，去年8月份索尼、丰田等8家企业出资成立了Rapidus，计划2025年试产2nm工艺，而且很快就筹备了EUV光刻机。日本当前的逻辑工艺还在28nm以上，但是Rapidus公司选择跳过中间的工艺，直接搞2nm工艺，而5nm以下的工艺都离不开EUV光刻机，不论研发还是制造都要先买设备。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[徐雷还想走老路 刘强东直接换新人]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359391.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359391.htm"/>
-        <updated>2023-05-15T05:38:28.128Z</updated>
-        <content type="html"><![CDATA[去年，京东CEO徐雷还在感叹，2022年是京东19年来最艰难的一次“618”，但今年徐雷却不必再为之烦神，因为就在618前夕，他“退休”了。5月11日，京东集团宣布原CEO徐雷因个人原因将退休，原CFO许冉将升任CEO，并向京东集团董事会及主席刘强东先生汇报。]]></content>
+        <title type="html"><![CDATA[同事曝孟羽童系被格力开除：多次违反纪律 旷工接私活]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359947.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359947.htm"/>
+        <updated>2023-05-17T05:38:26.230Z</updated>
+        <content type="html"><![CDATA[前不久，格力确认董明珠秘书孟羽童离职，后其本人也确认从格力“毕业”，下一步继续读书、打算考研。也许是有MCN机构推波助澜，孟羽童离职前后的诸多话题登上热搜榜。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[安卓用户正在加速逃离：为何买苹果手机的人越来越多了？]]></title>
@@ -60,13 +53,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1360427.htm"/>
         <updated>2023-05-19T05:38:51.702Z</updated>
         <content type="html"><![CDATA[选安卓，还是选苹果，用户用真金白银给出了答案。下面这张图，直观反应了用户的购机选择走势。<strong>这四年来，iPhone的市占份额，正在以肉眼可见的速度直线上升。</strong>此消彼长，买苹果的人多，买安卓的自然就少了。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软用全屏Windows 11升级提示轰炸Windows 10用户]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359625.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359625.htm"/>
-        <updated>2023-05-15T11:09:51.000Z</updated>
-        <content type="html"><![CDATA[Windows 10离支持期结束越来越近，微软希望存量用户尽快开始使用Windows 11。在Windows 10 2023年5月的累积更新之后，越来越多的用户告诉我们，他们看到了一个全屏弹出广告，提供升级到最新的操作系统。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI发布iOS版ChatGPT 可免费使用]]></title>
@@ -77,25 +63,25 @@
  Store下载。OpenAI说它首先在美国推出该应用，并将在"未来几周"扩展到其他国家。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新的DNA研究动摇了长期以来所有人类物种起源于非洲的学说]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1360441.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1360441.htm"/>
+        <updated>2023-05-21T05:39:18.218Z</updated>
+        <content type="html"><![CDATA[在测试非洲当前人口的遗传物质并与那里的早期智人人口的现有化石证据进行比较时，研究人员发现了一个新的人类进化模型，这推翻了以前关于一个非洲人口产生了所有人类的学说。这项新研究于5月17日发表在《自然》杂志上。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软用全屏Windows 11升级提示轰炸Windows 10用户]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1359625.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1359625.htm"/>
+        <updated>2023-05-15T11:09:51.000Z</updated>
+        <content type="html"><![CDATA[Windows 10离支持期结束越来越近，微软希望存量用户尽快开始使用Windows 11。在Windows 10 2023年5月的累积更新之后，越来越多的用户告诉我们，他们看到了一个全屏弹出广告，提供升级到最新的操作系统。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[释小龙给郝劭文当伴郎 两人神仙友谊勾起童年回忆]]></title>
         <id>https://hot.cnbeta.com.tw/articles/movie/1359759.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/movie/1359759.htm"/>
         <updated>2023-05-17T05:38:26.215Z</updated>
         <content type="html"><![CDATA[据新浪娱乐报道，郝劭文今日（15日）举行婚礼，他在微博晒出婚礼现场照，携妻子与亲友合照温馨热闹，释小龙作为伴郎惊喜现身。释小龙和郝劭文因为电影相识，合作了《旋风小子》《新乌龙院》《龙在少林》《十兄弟》等多部作品。持续多年的神仙友谊也令人羡慕。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中性笔后面的神秘液体是什么？竟然大有用处]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1359469.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1359469.htm"/>
-        <updated>2023-05-16T05:38:35.874Z</updated>
-        <content type="html"><![CDATA[在无聊的课堂上祸害中性笔，这大概是很多人共有的童年回忆。<strong>在中性笔笔芯的末端，总有一截无色或是黄色的神秘液体。</strong>把长长的自动铅笔芯捅进去，然后再搅一搅，这个动作对不想听课的好奇宝宝似乎有着无限的吸引力。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傲慢的特斯拉屈服了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359489.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359489.htm"/>
-        <updated>2023-05-14T07:50:10.000Z</updated>
-        <content type="html"><![CDATA[这两年，特斯拉的傲慢，肉眼可见。2021年5月，特斯拉全球副总裁陶琳的一句话，传遍了整个中国社交媒体。她的原话是这样说的：<strong>“在车辆的使用环节，可能要加强消费者的教育。”</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉公布全新车型 新一代平台打造 不用任何稀土]]></title>
@@ -105,11 +91,18 @@
         <content type="html"><![CDATA[今天凌晨特斯拉举行了股东大会，会上也是给出了不少的看点，其中就包含了新一代平台打造的车型。大会上，<strong>特斯拉直接公布了新一代平台车型的侧影图，看起来很像之前传闻中的那款“Model 2/Model Q车型”，据说售价2.5万美元，约合人民币17万左右。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT大更新：联网/插件功能无需排队 Plus用户下周即可体验]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1359417.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1359417.htm"/>
-        <updated>2023-05-15T05:38:28.147Z</updated>
-        <content type="html"><![CDATA[好消息，ChatGPT的联网和插件功能不用等了！OpenAI刚刚宣布，<strong>ChatGPT Plus用户，下周开始不用排队，直接就能用上这些新功能</strong>。具体来说，在最新的联网和插件Beta版中，ChatGPT会在设置里增加这样一个界面：]]></content>
+        <title type="html"><![CDATA[PC微信占用100多GB空间？解决办法来了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1360665.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1360665.htm"/>
+        <updated>2023-05-20T01:17:25.000Z</updated>
+        <content type="html"><![CDATA[这几天微信吃内存的话题又上热搜了，作为一款10亿+用户的国民级APP，微信的真是让人又爱又恨，不用几乎不可能，用起来槽点又多，光是磁盘占用就是个头疼的问题。不论是工作还是日常沟通，微信里面的文件及语音、视频都会很多，时间长了就会占用大量空间，手机上占用100多GB很常见，电脑版微信同样也会吃掉大量空间，如果是装到C盘中，那很容易导致C盘占满，出现卡顿等问题。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国高铁首次出海 雅万高铁全线接触网一次送电成功]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1360579.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1360579.htm"/>
+        <updated>2023-05-21T05:39:18.264Z</updated>
+        <content type="html"><![CDATA[据中国铁路官方消息，印度尼西亚当地时间5月18日22时30分（北京时间23时30分），<strong>雅万高铁哈利姆、卡拉旺、瓦立尼、德卡鲁尔4座牵引变电所27.5千伏馈线相继合闸，接触网一次送电成功，标志着雅万高铁实现全线接触网送电。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[贝佐斯5亿美元豪华游艇首次出海 女友性感比基尼抢眼]]></title>
@@ -120,6 +113,13 @@
 Sanchez)终于乘坐他们的全新超级游艇起航了。当地时间周一下午，这对情侣被拍到在这艘价值5亿美元的游艇上度假，当时他们正沿着西班牙海岸航行。现年59岁的贝佐斯穿着淡蓝色泳裤和奶油色的拉链夹克，53岁的桑切斯穿着粉色比基尼和白色罩衫，展示了她性感的身材。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SpaceX披露星际飞船第二次升空测试的发射时间表]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1360257.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1360257.htm"/>
+        <updated>2023-05-20T05:38:33.160Z</updated>
+        <content type="html"><![CDATA[在经历了上个月末"星舰"火箭的一次轰动全球的发射尝试和随后的爆炸之后，SpaceX公司渴望很快进行下一次尝试。就其推力和有效载荷能力而言，"星舰"是世界上最大的火箭，SpaceX公司在其位于德克萨斯州博卡奇卡的设施中开发它已经有一段时间了。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[老外上网课最喜欢用的电脑 现在却变成了电子垃圾]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1359809.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1359809.htm"/>
@@ -127,11 +127,11 @@ Sanchez)终于乘坐他们的全新超级游艇起航了。当地时间周一下
         <content type="html"><![CDATA[最近我看到了几个关于谷歌 Chromebook 笔记本电脑的新闻，看了还是挺让人唏嘘的。简单来讲，就是在海外市场本来卖得不错的 Chromebook ，如今却沦为了电子垃圾。一开始我觉得还挺不可思议的，因为前两年因为疫情导致教育需求大增，随后 Chromebook 就直接卖爆了，销量甚至超过果子哥的 MacBook 。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX披露星际飞船第二次升空测试的发射时间表]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1360257.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1360257.htm"/>
-        <updated>2023-05-20T05:38:33.160Z</updated>
-        <content type="html"><![CDATA[在经历了上个月末"星舰"火箭的一次轰动全球的发射尝试和随后的爆炸之后，SpaceX公司渴望很快进行下一次尝试。就其推力和有效载荷能力而言，"星舰"是世界上最大的火箭，SpaceX公司在其位于德克萨斯州博卡奇卡的设施中开发它已经有一段时间了。]]></content>
+        <title type="html"><![CDATA[联想2023款ThinkPad X1 Carbon国内发布]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1360419.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1360419.htm"/>
+        <updated>2023-05-21T05:39:18.315Z</updated>
+        <content type="html"><![CDATA[联想在国内市场正式发布ThinkPad X1 Carbon 2023款，即家族第11代，<strong>这一次小黑旗舰升级13代酷睿vPro处理器</strong>。据悉，X1C 2023款采用酷睿i7-1360P处理器，12核16线程设计（4个P核+8个E核），Intel 7nm工艺，3.7GHz~5GHz，28W准标压家族，整机Intel Evo平台认证。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA、AMD显卡中国区大降价 部分型号几乎腰斩]]></title>
