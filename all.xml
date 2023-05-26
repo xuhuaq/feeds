@@ -2,22 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-26T05:39:05.178Z</updated>
+    <updated>2023-05-26T17:38:35.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[安卓用户正在加速逃离：为何买苹果手机的人越来越多了？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360427.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360427.htm"/>
-        <updated>2023-05-19T05:38:51.702Z</updated>
-        <content type="html"><![CDATA[选安卓，还是选苹果，用户用真金白银给出了答案。下面这张图，直观反应了用户的购机选择走势。<strong>这四年来，iPhone的市占份额，正在以肉眼可见的速度直线上升。</strong>此消彼长，买苹果的人多，买安卓的自然就少了。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的DNA研究动摇了长期以来所有人类物种起源于非洲的学说 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1360441.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1360441.htm"/>
-        <updated>2023-05-21T05:39:18.218Z</updated>
-        <content type="html"><![CDATA[在测试非洲当前人口的遗传物质并与那里的早期智人人口的现有化石证据进行比较时，研究人员发现了一个新的人类进化模型，这推翻了以前关于一个非洲人口产生了所有人类的学说。这项新研究于5月17日发表在《自然》杂志上。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[PC微信占用100多GB空间？解决办法来了 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1360665.htm</id>
@@ -33,12 +19,11 @@
         <content type="html"><![CDATA[<strong>近日，话题“微信吃内存”登上微博热搜，引起网友热议，</strong>网友纷纷晒出自己手机的微信所占空间截图，几十GB到上百GB都有。其实，关于微信占用空间太大的吐槽早已有之，曾经还出现过“<strong>微信安装包11年膨胀575倍</strong>”“<strong>微信中真正实现聊天的代码只占0.1%</strong>”等观点。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI发布iOS版ChatGPT 可免费使用 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360465.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360465.htm"/>
-        <updated>2023-05-19T01:27:53.000Z</updated>
-        <content type="html"><![CDATA[OpenAI已经推出了ChatGPT的iOS应用，并承诺Android版本"很快"就会推出。该应用可免费使用，可与网络同步聊天记录，并具有语音输入功能，由OpenAI的开源语音识别模型Whisper支持。这款应用可以在iPhone和iPad上使用，可以从App
- Store下载。OpenAI说它首先在美国推出该应用，并将在"未来几周"扩展到其他国家。]]></content>
+        <title type="html"><![CDATA[越南打工人不加班 一天只干5小时逼急中国老板 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361185.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361185.htm"/>
+        <updated>2023-05-25T17:38:43.798Z</updated>
+        <content type="html"><![CDATA[各种加班内卷，甚至是996/007，对于职场上的国人来说早已经习以为常，生存压力实在是太大了。但不是每个地方都如此。旅行者“花总丢了金箍棒”近日公布了自己的最新纪录片《出海》，讲述中国老板从国内大厂出来，到越南创业淘金的故事。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网易1.5折甩卖暴雪“分手遗产” 有人狂抢4箱转卖 (cnbeta一周点击排行)]]></title>
@@ -62,11 +47,11 @@
         <content type="html"><![CDATA[<strong>自本周三起，全球多地华硕路由器的用户反馈，他们的设备突然莫名其妙地死机，然后在反复重启后，每隔几分钟就会因为设备内存耗尽而停止工作</strong>。据了解，华硕服务器推送了错误的固件，导致华硕路由器系统内存溢出。从而极大影响路由器性能，甚至出现断网的情况。这一问题从出现到被解决，大约历时48小时，引发用户不满。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[越南打工人不加班 一天只干5小时逼急中国老板 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361185.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361185.htm"/>
-        <updated>2023-05-25T17:38:43.798Z</updated>
-        <content type="html"><![CDATA[各种加班内卷，甚至是996/007，对于职场上的国人来说早已经习以为常，生存压力实在是太大了。但不是每个地方都如此。旅行者“花总丢了金箍棒”近日公布了自己的最新纪录片《出海》，讲述中国老板从国内大厂出来，到越南创业淘金的故事。]]></content>
+        <title type="html"><![CDATA[微软宣布Windows 11 "Moment 3" 更新 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361275.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361275.htm"/>
+        <updated>2023-05-25T17:38:43.801Z</updated>
+        <content type="html"><![CDATA[Windows 11用户终于等来了该操作系统的最新功能。在Windows Insider计划中经过几个月的测试，Windows 11"Moment 3"更新已经准备好在2023年5月24日公开发布。Windows 11的最新功能更新没有正式名称（类似"秋季创意者更新"的命名更是没有必要），所以爱好者称其为"Moment 3"，该版本不是我们所见过的升级幅度最大版本，但它仍然包含了一些出色的变化和新功能。以下是亮点列表：]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新款特斯拉Model Y海外下线 15分钟从11％充电至71％ (cnbeta一周点击排行)]]></title>
@@ -76,11 +61,11 @@
         <content type="html"><![CDATA[据德国媒体报道，配备了比亚迪刀片电池的特斯拉Model Y后驱标准续航版终于德国柏林超级工厂下线了，<strong>该车电池容量55千瓦时，续航里程为440公里</strong>。这是特斯拉柏林超级工厂首次使用中国品牌的电池，也是特斯拉在欧洲市场推出的第一款采用磷酸铁锂电池的车，目前从中国上海工厂出口到欧洲的Model Y基础版采用了宁德时代的磷酸铁锂电池，电池容量为60kWh，续航里程为455公里。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软宣布Windows 11 "Moment 3" 更新 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361275.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361275.htm"/>
-        <updated>2023-05-25T17:38:43.801Z</updated>
-        <content type="html"><![CDATA[Windows 11用户终于等来了该操作系统的最新功能。在Windows Insider计划中经过几个月的测试，Windows 11"Moment 3"更新已经准备好在2023年5月24日公开发布。Windows 11的最新功能更新没有正式名称（类似"秋季创意者更新"的命名更是没有必要），所以爱好者称其为"Moment 3"，该版本不是我们所见过的升级幅度最大版本，但它仍然包含了一些出色的变化和新功能。以下是亮点列表：]]></content>
+        <title type="html"><![CDATA[锐龙7 7800X3D开盖运行60秒 惨烈一幕出现 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1360865.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1360865.htm"/>
+        <updated>2023-05-23T17:38:42.411Z</updated>
+        <content type="html"><![CDATA[芯片大神Fritzhens Fritz最近研究了AMD锐龙7 7800X3D，除了拍摄红外照片，还尝试了无散热器“裸奔”，结果相当惨烈。锐龙7 7800X3D和它的前辈锐龙7 5800X3D一样被奉为“游戏神U”，因为它们集成了64MB 3D V-Cache，对于提升游戏性能大有裨益。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Intel将精简x86 CPU架构：转向纯血64位 (cnbeta一周点击排行)]]></title>
@@ -90,11 +75,11 @@
         <content type="html"><![CDATA[x86是当前高性能桌面、移动及服务器平台的主力架构，一大优势就是兼容过往的指令集，但是这种兼容性也让x86付出了代价，架构复杂，成本提升，Intel计划来一波大的，未来的CPU将支持纯血64位模式。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[锐龙7 7800X3D开盖运行60秒 惨烈一幕出现 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360865.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360865.htm"/>
-        <updated>2023-05-23T17:38:42.411Z</updated>
-        <content type="html"><![CDATA[芯片大神Fritzhens Fritz最近研究了AMD锐龙7 7800X3D，除了拍摄红外照片，还尝试了无散热器“裸奔”，结果相当惨烈。锐龙7 7800X3D和它的前辈锐龙7 5800X3D一样被奉为“游戏神U”，因为它们集成了64MB 3D V-Cache，对于提升游戏性能大有裨益。]]></content>
+        <title type="html"><![CDATA[世界上最大和最高效的飞机发动机：罗-罗UltraFan通过了首次测试 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361025.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361025.htm"/>
+        <updated>2023-05-25T17:38:43.806Z</updated>
+        <content type="html"><![CDATA[罗尔斯-罗伊斯公司已经完成了对其巨大的UltraFan发动机的首次地面测试，声称其效率比目前正在使用的任何其他大型航空发动机至少高出10%。这种碳/钛元素的结合将在2030年代在客机上推出。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国高铁首次出海 雅万高铁全线接触网一次送电成功 (cnbeta一周点击排行)]]></title>
@@ -104,18 +89,11 @@
         <content type="html"><![CDATA[据中国铁路官方消息，印度尼西亚当地时间5月18日22时30分（北京时间23时30分），<strong>雅万高铁哈利姆、卡拉旺、瓦立尼、德卡鲁尔4座牵引变电所27.5千伏馈线相继合闸，接触网一次送电成功，标志着雅万高铁实现全线接触网送电。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[世界上最大和最高效的飞机发动机：罗-罗UltraFan通过了首次测试 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361025.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361025.htm"/>
-        <updated>2023-05-25T17:38:43.806Z</updated>
-        <content type="html"><![CDATA[罗尔斯-罗伊斯公司已经完成了对其巨大的UltraFan发动机的首次地面测试，声称其效率比目前正在使用的任何其他大型航空发动机至少高出10%。这种碳/钛元素的结合将在2030年代在客机上推出。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想2023款ThinkPad X1 Carbon国内发布 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360419.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360419.htm"/>
-        <updated>2023-05-21T05:39:18.315Z</updated>
-        <content type="html"><![CDATA[联想在国内市场正式发布ThinkPad X1 Carbon 2023款，即家族第11代，<strong>这一次小黑旗舰升级13代酷睿vPro处理器</strong>。据悉，X1C 2023款采用酷睿i7-1360P处理器，12核16线程设计（4个P核+8个E核），Intel 7nm工艺，3.7GHz~5GHz，28W准标压家族，整机Intel Evo平台认证。]]></content>
+        <title type="html"><![CDATA[GPT-4版Windows炸场 整个系统就是一个对话机器人 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361323.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361323.htm"/>
+        <updated>2023-05-24T10:19:44.000Z</updated>
+        <content type="html"><![CDATA[Windows的GPT时刻到来，变革PC行业。今日凌晨，Windows迎来了GPT-4时刻！在2023微软Build大会上，微软总裁萨蒂亚·纳德拉（Satya Nadella）宣布推出Windows Copilot，将GPT-4大模型嵌入Windows PC操作系统。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软必应成取代百度中国第一大桌面搜索引擎 (cnbeta一周点击排行)]]></title>
@@ -144,5 +122,27 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1360963.htm"/>
         <updated>2023-05-25T17:38:43.824Z</updated>
         <content type="html"><![CDATA[美国美满电子科技公司（Marvell）宣布在越南胡志明市成立“世界领先”的集成电路设计中心。报道称，该中心的前身是位于胡志明市第七郡新顺出口加工区的美满（越南）技术有限责任公司。通过此次升级，美满（越南）将成为美满集团在世界上四大研发中心之一，将成为越南技术工程师的理想工作场所。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11"Moment 3"更新现已可供下载 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361487.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361487.htm"/>
+        <updated>2023-05-25T01:25:14.000Z</updated>
+        <content type="html"><![CDATA[微软已经开始推出其桌面操作系统的最新功能更新。该版本被称为"Moment 3"，它带来了几个显著的变化、长期以来被要求的功能以及各种生活质量的改进。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一款Android应用在Google Play上架近一年后开始秘密记录用户的信息 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361561.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361561.htm"/>
+        <updated>2023-05-25T10:21:49.000Z</updated>
+        <content type="html"><![CDATA[据Ars Technica详细报道，一款名为iRecorder Screen 
+Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录音应用，但在首次发布近一年后就变得邪恶了。这款应用在2021年9月首次推出，但在次年8月的一次更新后，它开始每15分钟录制一分钟的音频，并通过加密链接将这些录音转发给开发者的服务器。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳一大厦异响振动居民被疏散：官方已启动调查 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1360593.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1360593.htm"/>
+        <updated>2023-05-26T17:38:34.781Z</updated>
+        <content type="html"><![CDATA[5月19日消息了，“深圳龙岗发布”官方发布了“情况通报”，称：5月18日23时30分许，<strong>龙岗街道百富兴大厦居民报警称楼体有异响和振动</strong>。接报后，市、区相关部门及街道办立即赶赴现场处置。该楼栋居民已全部安全疏散。相关部门组织专家第一时间启动房屋结构风险监测及安全评估，有关原因正在调查中。]]></content>
     </entry>
 </feed>
