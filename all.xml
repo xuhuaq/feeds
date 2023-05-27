@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-27T05:39:04.849Z</updated>
+    <updated>2023-05-27T17:39:01.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[PC微信占用100多GB空间？解决办法来了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360665.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360665.htm"/>
-        <updated>2023-05-20T01:17:25.000Z</updated>
-        <content type="html"><![CDATA[这几天微信吃内存的话题又上热搜了，作为一款10亿+用户的国民级APP，微信的真是让人又爱又恨，不用几乎不可能，用起来槽点又多，光是磁盘占用就是个头疼的问题。不论是工作还是日常沟通，微信里面的文件及语音、视频都会很多，时间长了就会占用大量空间，手机上占用100多GB很常见，电脑版微信同样也会吃掉大量空间，如果是装到C盘中，那很容易导致C盘占满，出现卡顿等问题。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[狂吃“内存” 微信为何越用越大？ (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1361031.htm</id>
@@ -26,11 +19,19 @@
         <content type="html"><![CDATA[各种加班内卷，甚至是996/007，对于职场上的国人来说早已经习以为常，生存压力实在是太大了。但不是每个地方都如此。旅行者“花总丢了金箍棒”近日公布了自己的最新纪录片《出海》，讲述中国老板从国内大厂出来，到越南创业淘金的故事。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网易1.5折甩卖暴雪“分手遗产” 有人狂抢4箱转卖 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1360701.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1360701.htm"/>
-        <updated>2023-05-20T11:10:57.000Z</updated>
-        <content type="html"><![CDATA[<strong>近日，有认证为网易员工的用户在社交平台发帖称，网易杭州公司园区内正以1.5折甩卖暴雪遗留周边，并晒出排队火爆的现场照片，引发关注。</strong>该动态评论区中，有网易员工称广州园区也有暴雪周边甩卖活动。]]></content>
+        <title type="html"><![CDATA[一款Android应用在Google Play上架近一年后开始秘密记录用户的信息 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361561.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361561.htm"/>
+        <updated>2023-05-25T10:21:49.000Z</updated>
+        <content type="html"><![CDATA[据Ars Technica详细报道，一款名为iRecorder Screen 
+Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录音应用，但在首次发布近一年后就变得邪恶了。这款应用在2021年9月首次推出，但在次年8月的一次更新后，它开始每15分钟录制一分钟的音频，并通过加密链接将这些录音转发给开发者的服务器。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软宣布Windows 11 "Moment 3" 更新 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361275.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361275.htm"/>
+        <updated>2023-05-25T17:38:43.801Z</updated>
+        <content type="html"><![CDATA[Windows 11用户终于等来了该操作系统的最新功能。在Windows Insider计划中经过几个月的测试，Windows 11"Moment 3"更新已经准备好在2023年5月24日公开发布。Windows 11的最新功能更新没有正式名称（类似"秋季创意者更新"的命名更是没有必要），所以爱好者称其为"Moment 3"，该版本不是我们所见过的升级幅度最大版本，但它仍然包含了一些出色的变化和新功能。以下是亮点列表：]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“挖呀挖”黄老师开始转型：素颜遭吐槽 “丑”局长解围 (cnbeta一周点击排行)]]></title>
@@ -47,13 +48,6 @@
         <content type="html"><![CDATA[<strong>自本周三起，全球多地华硕路由器的用户反馈，他们的设备突然莫名其妙地死机，然后在反复重启后，每隔几分钟就会因为设备内存耗尽而停止工作</strong>。据了解，华硕服务器推送了错误的固件，导致华硕路由器系统内存溢出。从而极大影响路由器性能，甚至出现断网的情况。这一问题从出现到被解决，大约历时48小时，引发用户不满。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软宣布Windows 11 "Moment 3" 更新 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361275.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361275.htm"/>
-        <updated>2023-05-25T17:38:43.801Z</updated>
-        <content type="html"><![CDATA[Windows 11用户终于等来了该操作系统的最新功能。在Windows Insider计划中经过几个月的测试，Windows 11"Moment 3"更新已经准备好在2023年5月24日公开发布。Windows 11的最新功能更新没有正式名称（类似"秋季创意者更新"的命名更是没有必要），所以爱好者称其为"Moment 3"，该版本不是我们所见过的升级幅度最大版本，但它仍然包含了一些出色的变化和新功能。以下是亮点列表：]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新款特斯拉Model Y海外下线 15分钟从11％充电至71％ (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1360993.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1360993.htm"/>
@@ -68,13 +62,6 @@
         <content type="html"><![CDATA[芯片大神Fritzhens Fritz最近研究了AMD锐龙7 7800X3D，除了拍摄红外照片，还尝试了无散热器“裸奔”，结果相当惨烈。锐龙7 7800X3D和它的前辈锐龙7 5800X3D一样被奉为“游戏神U”，因为它们集成了64MB 3D V-Cache，对于提升游戏性能大有裨益。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel将精简x86 CPU架构：转向纯血64位 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360767.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360767.htm"/>
-        <updated>2023-05-22T05:39:21.700Z</updated>
-        <content type="html"><![CDATA[x86是当前高性能桌面、移动及服务器平台的主力架构，一大优势就是兼容过往的指令集，但是这种兼容性也让x86付出了代价，架构复杂，成本提升，Intel计划来一波大的，未来的CPU将支持纯血64位模式。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[世界上最大和最高效的飞机发动机：罗-罗UltraFan通过了首次测试 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1361025.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1361025.htm"/>
@@ -82,11 +69,11 @@
         <content type="html"><![CDATA[罗尔斯-罗伊斯公司已经完成了对其巨大的UltraFan发动机的首次地面测试，声称其效率比目前正在使用的任何其他大型航空发动机至少高出10%。这种碳/钛元素的结合将在2030年代在客机上推出。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国高铁首次出海 雅万高铁全线接触网一次送电成功 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360579.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360579.htm"/>
-        <updated>2023-05-21T05:39:18.264Z</updated>
-        <content type="html"><![CDATA[据中国铁路官方消息，印度尼西亚当地时间5月18日22时30分（北京时间23时30分），<strong>雅万高铁哈利姆、卡拉旺、瓦立尼、德卡鲁尔4座牵引变电所27.5千伏馈线相继合闸，接触网一次送电成功，标志着雅万高铁实现全线接触网送电。</strong>]]></content>
+        <title type="html"><![CDATA[Intel将精简x86 CPU架构：转向纯血64位 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1360767.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1360767.htm"/>
+        <updated>2023-05-22T05:39:21.700Z</updated>
+        <content type="html"><![CDATA[x86是当前高性能桌面、移动及服务器平台的主力架构，一大优势就是兼容过往的指令集，但是这种兼容性也让x86付出了代价，架构复杂，成本提升，Intel计划来一波大的，未来的CPU将支持纯血64位模式。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4版Windows炸场 整个系统就是一个对话机器人 (cnbeta一周点击排行)]]></title>
@@ -96,18 +83,18 @@
         <content type="html"><![CDATA[Windows的GPT时刻到来，变革PC行业。今日凌晨，Windows迎来了GPT-4时刻！在2023微软Build大会上，微软总裁萨蒂亚·纳德拉（Satya Nadella）宣布推出Windows Copilot，将GPT-4大模型嵌入Windows PC操作系统。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Windows 11"Moment 3"更新现已可供下载 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361487.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361487.htm"/>
+        <updated>2023-05-25T01:25:14.000Z</updated>
+        <content type="html"><![CDATA[微软已经开始推出其桌面操作系统的最新功能更新。该版本被称为"Moment 3"，它带来了几个显著的变化、长期以来被要求的功能以及各种生活质量的改进。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微软必应成取代百度中国第一大桌面搜索引擎 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1360941.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1360941.htm"/>
         <updated>2023-05-22T11:01:55.000Z</updated>
         <content type="html"><![CDATA[中国搜索引擎变天了！来自StatCounter的数据显示，在中国内地桌面搜索市场，<strong>2023年4月，微软的必应搜索的份额创出历史新高，达到37.4%，取代百度成为中国第一大桌面搜索引擎。</strong>百度搜索的市场份额降至27.01%，与必应有10个百分点的差距。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯自主CPU供不应求 偷偷进口x86 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360655.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360655.htm"/>
-        <updated>2023-05-24T17:40:16.421Z</updated>
-        <content type="html"><![CDATA[俄乌冲突以来，西方国家纷纷制裁俄罗斯，科技企业也先后退出俄罗斯市场，给俄罗斯的发展造成了很大麻烦。在处理器方面，俄罗斯其实一直在发展自主产品，做得比较好的是Baikal Electronics、MCST。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网红三千哥直播PK饮酒过量去世 友人：喝了至少四瓶 (cnbeta一周点击排行)]]></title>
@@ -124,25 +111,38 @@
         <content type="html"><![CDATA[美国美满电子科技公司（Marvell）宣布在越南胡志明市成立“世界领先”的集成电路设计中心。报道称，该中心的前身是位于胡志明市第七郡新顺出口加工区的美满（越南）技术有限责任公司。通过此次升级，美满（越南）将成为美满集团在世界上四大研发中心之一，将成为越南技术工程师的理想工作场所。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11"Moment 3"更新现已可供下载 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361487.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361487.htm"/>
-        <updated>2023-05-25T01:25:14.000Z</updated>
-        <content type="html"><![CDATA[微软已经开始推出其桌面操作系统的最新功能更新。该版本被称为"Moment 3"，它带来了几个显著的变化、长期以来被要求的功能以及各种生活质量的改进。]]></content>
+        <title type="html"><![CDATA[女子为骗男友结婚 定制深度美颜假身份证 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1360763.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1360763.htm"/>
+        <updated>2023-05-27T17:39:00.959Z</updated>
+        <content type="html"><![CDATA[为和男友结婚，女子竟定制“高P照骗”、上海户籍假身份证！近日，长寿路派出所民警在日常检查中，查获嫌疑人吴某有两张伪造的身份证，其中一张的照片还是深度美颜了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一款Android应用在Google Play上架近一年后开始秘密记录用户的信息 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361561.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361561.htm"/>
-        <updated>2023-05-25T10:21:49.000Z</updated>
-        <content type="html"><![CDATA[据Ars Technica详细报道，一款名为iRecorder Screen 
-Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录音应用，但在首次发布近一年后就变得邪恶了。这款应用在2021年9月首次推出，但在次年8月的一次更新后，它开始每15分钟录制一分钟的音频，并通过加密链接将这些录音转发给开发者的服务器。]]></content>
+        <title type="html"><![CDATA[Android/鸿蒙系统被发现高危漏洞：指纹识别可被暴力破解 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361143.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361143.htm"/>
+        <updated>2023-05-23T10:16:02.000Z</updated>
+        <content type="html"><![CDATA[近日，腾讯安全玄武实验室和浙江大学的研究人员，发现在安卓与鸿蒙系统中，存在着一个高危漏洞。该漏洞能够绕开手机指纹识别的次数限制，<strong>从而无限次的进行指纹图像提交，通过暴力穷举的方式破解指纹识别。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[深圳一大厦异响振动居民被疏散：官方已启动调查 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360593.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360593.htm"/>
-        <updated>2023-05-26T17:38:34.781Z</updated>
-        <content type="html"><![CDATA[5月19日消息了，“深圳龙岗发布”官方发布了“情况通报”，称：5月18日23时30分许，<strong>龙岗街道百富兴大厦居民报警称楼体有异响和振动</strong>。接报后，市、区相关部门及街道办立即赶赴现场处置。该楼栋居民已全部安全疏散。相关部门组织专家第一时间启动房屋结构风险监测及安全评估，有关原因正在调查中。]]></content>
+        <title type="html"><![CDATA[我们看腻了的电视剧 却在东南亚成了顶流 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1360899.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1360899.htm"/>
+        <updated>2023-05-22T01:12:23.000Z</updated>
+        <content type="html"><![CDATA[<strong>你可能想不到，&nbsp;2021&nbsp;年，马来西亚、泰国、越南下载量最大的流媒体应用，是爱奇艺。</strong>2022&nbsp;年，泰国流媒体市场占比排名第二，印度尼西亚市场排名第三的是腾讯视频的海外版&nbsp;WeTV&nbsp;。而且你仔细看， WeTV 在泰国的市占率，仅比排行第一的 Netflix 低了 2%&nbsp;而已。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果国内开卖M2版Mac mini翻新机：3819元起 比全新还贵 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361637.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361637.htm"/>
+        <updated>2023-05-27T17:39:00.969Z</updated>
+        <content type="html"><![CDATA[从苹果中国官网获悉，目前，2023款Mac mini翻新机已正式开卖，<strong>提供M2芯片和M2 Pro芯片两种机型，售价分别为3819元和8499元。</strong>苹果官网在售的全新机型售价为4499元、9999元，虽然翻新机比官网便宜一些，但相比其他平台，翻新机的价格还是不够香。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[i9/i7/i5被Ultra+数字取代 Intel酷睿处理器命名大改 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361367.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361367.htm"/>
+        <updated>2023-05-24T10:54:11.000Z</updated>
+        <content type="html"><![CDATA[Intel早前确认下半年会推出14代酷睿，代号Meteor Lake，会首发Intel 4及EUV工艺，架构也会大改，但更重要的一点是这一代会改变命名体系，用了十多年的酷睿i+数字命名会被放弃。]]></content>
     </entry>
 </feed>
