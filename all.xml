@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-29T05:38:39.663Z</updated>
+    <updated>2023-05-29T17:38:45.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[一款Android应用在Google Play上架近一年后开始秘密记录用户的信息 (cnbeta一周点击排行)]]></title>
@@ -27,18 +27,18 @@ Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录�
         <content type="html"><![CDATA[各种加班内卷，甚至是996/007，对于职场上的国人来说早已经习以为常，生存压力实在是太大了。但不是每个地方都如此。旅行者“花总丢了金箍棒”近日公布了自己的最新纪录片《出海》，讲述中国老板从国内大厂出来，到越南创业淘金的故事。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[马化腾罕见公开露面 身形暴瘦一圈 一眼认不出 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1362135.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1362135.htm"/>
+        <updated>2023-05-29T17:38:44.640Z</updated>
+        <content type="html"><![CDATA[5月28日消息，在近日举行的腾讯股东大会上，腾讯董事会主席马化腾公开现身。从网传照片来看，相比于以往大家的印象，这一次马化腾瘦了不少，让不少人直呼已快认不出来了。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微软宣布Windows 11 "Moment 3" 更新 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1361275.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1361275.htm"/>
         <updated>2023-05-25T17:38:43.801Z</updated>
         <content type="html"><![CDATA[Windows 11用户终于等来了该操作系统的最新功能。在Windows Insider计划中经过几个月的测试，Windows 11"Moment 3"更新已经准备好在2023年5月24日公开发布。Windows 11的最新功能更新没有正式名称（类似"秋季创意者更新"的命名更是没有必要），所以爱好者称其为"Moment 3"，该版本不是我们所见过的升级幅度最大版本，但它仍然包含了一些出色的变化和新功能。以下是亮点列表：]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“挖呀挖”黄老师开始转型：素颜遭吐槽 “丑”局长解围 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360861.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360861.htm"/>
-        <updated>2023-05-22T05:39:21.735Z</updated>
-        <content type="html"><![CDATA[近日，凭借一首洗脑儿歌“挖呀挖”走红的黄老师与随州曾都区文旅局长解伟同框，推广随州美好乡村生活节，再次引发广泛关注。在活动中，黄老师身穿白色连衣裙，王某一身黑色西装，两人手牵手在随州洛阳镇的一处景点前合影，相互送上520的祝福。<strong>黄老师还改编了她的“成名作”，将歌词改成“在炎帝故里的土地上，挖呀挖呀挖”。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新款特斯拉Model Y海外下线 15分钟从11％充电至71％ (cnbeta一周点击排行)]]></title>
@@ -48,11 +48,11 @@ Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录�
         <content type="html"><![CDATA[据德国媒体报道，配备了比亚迪刀片电池的特斯拉Model Y后驱标准续航版终于德国柏林超级工厂下线了，<strong>该车电池容量55千瓦时，续航里程为440公里</strong>。这是特斯拉柏林超级工厂首次使用中国品牌的电池，也是特斯拉在欧洲市场推出的第一款采用磷酸铁锂电池的车，目前从中国上海工厂出口到欧洲的Model Y基础版采用了宁德时代的磷酸铁锂电池，电池容量为60kWh，续航里程为455公里。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[锐龙7 7800X3D开盖运行60秒 惨烈一幕出现 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360865.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360865.htm"/>
-        <updated>2023-05-23T17:38:42.411Z</updated>
-        <content type="html"><![CDATA[芯片大神Fritzhens Fritz最近研究了AMD锐龙7 7800X3D，除了拍摄红外照片，还尝试了无散热器“裸奔”，结果相当惨烈。锐龙7 7800X3D和它的前辈锐龙7 5800X3D一样被奉为“游戏神U”，因为它们集成了64MB 3D V-Cache，对于提升游戏性能大有裨益。]]></content>
+        <title type="html"><![CDATA[Windows 11"Moment 3"更新现已可供下载 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361487.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361487.htm"/>
+        <updated>2023-05-25T01:25:14.000Z</updated>
+        <content type="html"><![CDATA[微软已经开始推出其桌面操作系统的最新功能更新。该版本被称为"Moment 3"，它带来了几个显著的变化、长期以来被要求的功能以及各种生活质量的改进。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[世界上最大和最高效的飞机发动机：罗-罗UltraFan通过了首次测试 (cnbeta一周点击排行)]]></title>
@@ -62,11 +62,11 @@ Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录�
         <content type="html"><![CDATA[罗尔斯-罗伊斯公司已经完成了对其巨大的UltraFan发动机的首次地面测试，声称其效率比目前正在使用的任何其他大型航空发动机至少高出10%。这种碳/钛元素的结合将在2030年代在客机上推出。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11"Moment 3"更新现已可供下载 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361487.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361487.htm"/>
-        <updated>2023-05-25T01:25:14.000Z</updated>
-        <content type="html"><![CDATA[微软已经开始推出其桌面操作系统的最新功能更新。该版本被称为"Moment 3"，它带来了几个显著的变化、长期以来被要求的功能以及各种生活质量的改进。]]></content>
+        <title type="html"><![CDATA[发布22年后 Windows XP正版密钥算法被破解 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361909.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361909.htm"/>
+        <updated>2023-05-28T17:38:37.543Z</updated>
+        <content type="html"><![CDATA[还记得Windows XP系统吗？发布于2001年的它，在自己的第22个年头迎来历史性时刻，激活算法宣告破解。<strong>黑客在tinyapps上宣告，微软用来验证Windows XP正版密钥的算法被破解并逆向工程出名为xp_activate32.exe的工具，现在可以在完全离线的状态下生成Windows XP的有效激活码。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4版Windows炸场 整个系统就是一个对话机器人 (cnbeta一周点击排行)]]></title>
@@ -76,11 +76,11 @@ Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录�
         <content type="html"><![CDATA[Windows的GPT时刻到来，变革PC行业。今日凌晨，Windows迎来了GPT-4时刻！在2023微软Build大会上，微软总裁萨蒂亚·纳德拉（Satya Nadella）宣布推出Windows Copilot，将GPT-4大模型嵌入Windows PC操作系统。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软必应成取代百度中国第一大桌面搜索引擎 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1360941.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1360941.htm"/>
-        <updated>2023-05-22T11:01:55.000Z</updated>
-        <content type="html"><![CDATA[中国搜索引擎变天了！来自StatCounter的数据显示，在中国内地桌面搜索市场，<strong>2023年4月，微软的必应搜索的份额创出历史新高，达到37.4%，取代百度成为中国第一大桌面搜索引擎。</strong>百度搜索的市场份额降至27.01%，与必应有10个百分点的差距。]]></content>
+        <title type="html"><![CDATA[Windows 宣布将原生支持.rar格式文件 WinRAR主创回应 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361917.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361917.htm"/>
+        <updated>2023-05-28T17:38:37.542Z</updated>
+        <content type="html"><![CDATA[在本周的Build 2023大会上，<strong>微软宣布，Windows 11即将原生支持rar、7z等主流的压缩文件格式</strong>。随后，一些网友惊呼，那今后不用再买正版付费的WinRAR了。对于这件事，WinRAR背后的德国公司win.rar GmbH销售团队成员Louise Cusworth大方回应媒体关切。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克吹了三年的“锂电之光”4680 竟然还不如普通电池？ (cnbeta一周点击排行)]]></title>
@@ -90,18 +90,11 @@ Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录�
         <content type="html"><![CDATA[不得不说，续航焦虑对于现在的电车来说真的<strong>越来越不是个事儿</strong>了。能用 15 分钟就把电池充满的 800V 架构就不提了，前两天，极氪给自家 001 车型增加了一个名为 “ 千里续航套装 ” 的选配。花个 10 万，就能把车上的电池换成 140 度的麒麟电池，<strong>纸面续航直接拉到了 1032 公里</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 宣布将原生支持.rar格式文件 WinRAR主创回应 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361917.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361917.htm"/>
-        <updated>2023-05-28T17:38:37.542Z</updated>
-        <content type="html"><![CDATA[在本周的Build 2023大会上，<strong>微软宣布，Windows 11即将原生支持rar、7z等主流的压缩文件格式</strong>。随后，一些网友惊呼，那今后不用再买正版付费的WinRAR了。对于这件事，WinRAR背后的德国公司win.rar GmbH销售团队成员Louise Cusworth大方回应媒体关切。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发布22年后 Windows XP正版密钥算法被破解 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361909.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361909.htm"/>
-        <updated>2023-05-28T17:38:37.543Z</updated>
-        <content type="html"><![CDATA[还记得Windows XP系统吗？发布于2001年的它，在自己的第22个年头迎来历史性时刻，激活算法宣告破解。<strong>黑客在tinyapps上宣告，微软用来验证Windows XP正版密钥的算法被破解并逆向工程出名为xp_activate32.exe的工具，现在可以在完全离线的状态下生成Windows XP的有效激活码。</strong>]]></content>
+        <title type="html"><![CDATA[苹果国内开卖M2版Mac mini翻新机：3819元起 比全新还贵 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361637.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361637.htm"/>
+        <updated>2023-05-27T17:39:00.969Z</updated>
+        <content type="html"><![CDATA[从苹果中国官网获悉，目前，2023款Mac mini翻新机已正式开卖，<strong>提供M2芯片和M2 Pro芯片两种机型，售价分别为3819元和8499元。</strong>苹果官网在售的全新机型售价为4499元、9999元，虽然翻新机比官网便宜一些，但相比其他平台，翻新机的价格还是不够香。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[消息称美芯片巨头Marvell撤出中国 研发团队全部被裁 在越南成立新中心 (cnbeta一周点击排行)]]></title>
@@ -111,13 +104,6 @@ Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录�
         <content type="html"><![CDATA[美国美满电子科技公司（Marvell）宣布在越南胡志明市成立“世界领先”的集成电路设计中心。报道称，该中心的前身是位于胡志明市第七郡新顺出口加工区的美满（越南）技术有限责任公司。通过此次升级，美满（越南）将成为美满集团在世界上四大研发中心之一，将成为越南技术工程师的理想工作场所。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果国内开卖M2版Mac mini翻新机：3819元起 比全新还贵 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1361637.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1361637.htm"/>
-        <updated>2023-05-27T17:39:00.969Z</updated>
-        <content type="html"><![CDATA[从苹果中国官网获悉，目前，2023款Mac mini翻新机已正式开卖，<strong>提供M2芯片和M2 Pro芯片两种机型，售价分别为3819元和8499元。</strong>苹果官网在售的全新机型售价为4499元、9999元，虽然翻新机比官网便宜一些，但相比其他平台，翻新机的价格还是不够香。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android/鸿蒙系统被发现高危漏洞：指纹识别可被暴力破解 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1361143.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1361143.htm"/>
@@ -125,11 +111,11 @@ Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录�
         <content type="html"><![CDATA[近日，腾讯安全玄武实验室和浙江大学的研究人员，发现在安卓与鸿蒙系统中，存在着一个高危漏洞。该漏洞能够绕开手机指纹识别的次数限制，<strong>从而无限次的进行指纹图像提交，通过暴力穷举的方式破解指纹识别。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我们看腻了的电视剧 却在东南亚成了顶流 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1360899.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1360899.htm"/>
-        <updated>2023-05-22T01:12:23.000Z</updated>
-        <content type="html"><![CDATA[<strong>你可能想不到，&nbsp;2021&nbsp;年，马来西亚、泰国、越南下载量最大的流媒体应用，是爱奇艺。</strong>2022&nbsp;年，泰国流媒体市场占比排名第二，印度尼西亚市场排名第三的是腾讯视频的海外版&nbsp;WeTV&nbsp;。而且你仔细看， WeTV 在泰国的市占率，仅比排行第一的 Netflix 低了 2%&nbsp;而已。]]></content>
+        <title type="html"><![CDATA[迪士尼《小美人鱼》上映首日票房仅123万 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1361781.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1361781.htm"/>
+        <updated>2023-05-26T10:51:45.000Z</updated>
+        <content type="html"><![CDATA[5月26日消息，迪士尼真人版电影《小美人鱼》今日正式在中国内地上映，该片由奥斯卡金牌团队打造，改编自1989年迪士尼经典同名动画。据猫眼专业版数据显示，截稿前，<strong>该片票房仅为123.9万，累计综合票房也才126.3万，</strong>上映首日票房扑街的迪士尼电影实属少见。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[i9/i7/i5被Ultra+数字取代 Intel酷睿处理器命名大改 (cnbeta一周点击排行)]]></title>
@@ -139,10 +125,24 @@ Recorder的Android录音应用一开始时是看似是一款无辜的屏幕录�
         <content type="html"><![CDATA[Intel早前确认下半年会推出14代酷睿，代号Meteor Lake，会首发Intel 4及EUV工艺，架构也会大改，但更重要的一点是这一代会改变命名体系，用了十多年的酷睿i+数字命名会被放弃。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[迪士尼《小美人鱼》上映首日票房仅123万 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1361781.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1361781.htm"/>
-        <updated>2023-05-26T10:51:45.000Z</updated>
-        <content type="html"><![CDATA[5月26日消息，迪士尼真人版电影《小美人鱼》今日正式在中国内地上映，该片由奥斯卡金牌团队打造，改编自1989年迪士尼经典同名动画。据猫眼专业版数据显示，截稿前，<strong>该片票房仅为123.9万，累计综合票房也才126.3万，</strong>上映首日票房扑街的迪士尼电影实属少见。]]></content>
+        <title type="html"><![CDATA[宝德暴芯x86处理器现身GeekBench 5：坐实就是i3-10105 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361843.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361843.htm"/>
+        <updated>2023-05-29T17:38:44.725Z</updated>
+        <content type="html"><![CDATA[5月7月，宝德计算(PowerLeader)，正式发布了基于x86架构的暴芯(Powerstar)处理器，同步还推出了台式机、工作站、工控机、瘦客户端等相关整机产品。宝德称，该处理器的号称<strong>年销售目标为150万片</strong>，同时打造暴芯芯片研发制造基地，涵盖制造封装测试、晶圆测试及打磨、产业应用发展等产业链环节，还将继续致力于电源、内存、SSD、显卡等产品的宝德化。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15系列四款机模上手：全系USB-C 接口、标配灵动岛 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1361953.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1361953.htm"/>
+        <updated>2023-05-27T11:08:23.000Z</updated>
+        <content type="html"><![CDATA[不出意外的话，苹果将会在今年9月份发布iPhone 15系列手机。这一代依然是四款同发，与上一代产品线保持一致，<strong>分别有iPhone 15、iPhone 15&nbsp;Plus、iPhone 15 Pro&nbsp;和iPhone 15 Pro Max。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一理想车主雨天高速路躺平开车：用饮料瓶欺骗汽车“自动驾驶” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1362107.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1362107.htm"/>
+        <updated>2023-05-28T11:22:12.000Z</updated>
+        <content type="html"><![CDATA[随着越来越多的车装配有高阶辅助驾驶功能，随之而来的是各种作死的车主。近日，有博主上传了一条理想车主高速驾车的视频，得到了很多网友的吐槽和批评。从画面看，该车驾驶员开着一台理想L系SUV跑在高速路上，从频频工作的雨刷看，<strong>外边的雨量并不小</strong>，但没想到的是，该驾驶员竟然在“躺平”开车。]]></content>
     </entry>
 </feed>
