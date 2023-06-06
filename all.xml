@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-06T05:38:25.039Z</updated>
+    <updated>2023-06-06T17:39:08.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Android用户纷纷逃离：越来越多人买iPhone的原因找到了 (cnbeta一周点击排行)]]></title>
@@ -12,27 +12,11 @@
         <content type="html"><![CDATA[过去一年，安卓用户转向iPhone比例创5年来新高。近日，消费者情报研究伙伴（CIRP）发布的一项报告揭示了安卓用户转向使用iPhone的原因。<strong>首要原因就是安卓的体验问题。</strong>超过53%的受访者表示，他们转而使用iPhone是因为之前的安卓手机出现体验问题，比如旧的安卓手机无法提供服务、系统老化、维修，以及其它缺陷影响了他们的用户体验。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11 22H2 Moment 3的性能有了很大提升 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362343.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362343.htm"/>
-        <updated>2023-05-31T17:39:05.873Z</updated>
-        <content type="html"><![CDATA[上周三，微软发布了Windows 11 KB5026446 Moment 
-3。这个累积性更新是可选的，有许多改进，包括通过Windows配置更新带来的Moment 
-3功能。它还附带了一个显著的性能提升。新功能中包括支持任务栏系统托盘时钟中的秒数，重新设计的应用内语音访问命令帮助页面，以及任务管理器的实时内核内存转储（LKD）收集。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想买特斯拉Model 3的朋友：能等一等就等一等 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362275.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362275.htm"/>
-        <updated>2023-05-30T17:38:32.510Z</updated>
-        <content type="html"><![CDATA[特斯拉最先进智能驾驶车型要来了。搭载特斯拉最新智能驾驶套件HW4.0的Model Y，现已开启交付。Model 3估计也快了。因为特斯拉上海工厂近期被曝：<strong>停工升级产线，即将投产新款Model 3。</strong>根据之前的爆料，最新硬件HW4.0上车后——自动驾驶芯片、摄像头的性能均有所提升，毫米波雷达被请回来，马斯克还评价说“比人类安全500%或600%”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[取代C++！3.6万行Rust代码改写Windows内核 最早竟用来修电梯 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362283.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362283.htm"/>
-        <updated>2023-05-30T17:38:32.488Z</updated>
-        <content type="html"><![CDATA[取代C++，Rust真的要重写万物了！在得到Linux、谷歌、亚马逊云等大厂青睐后，最近的爆炸消息——<strong>微软已经用3.6万行Rust代码改写了Windows内核。</strong>而且推进速度相当快，4月剧透消息，过了两周，Windows 11内部预览版已经用上了。]]></content>
+        <title type="html"><![CDATA[苹果宣布推出Vision Pro头显 无缝融合虚拟和现实世界 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363653.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363653.htm"/>
+        <updated>2023-06-06T02:38:29.000Z</updated>
+        <content type="html"><![CDATA[<strong>苹果公司发布了一款名为Apple Vision Pro的增强现实头显，它能"无缝"地融合现实和数字世界。</strong>首席执行官蒂姆-库克在谈到这款看起来像一副滑雪镜的设备时说："这是第一款你能够看穿苹果产品"。正如传闻所说，它有一个独立的电池组，可以用眼睛、手和语音控制。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RTX 5090性能有望提升1.6倍 4.2插槽巨无霸散热器准备好了 (cnbeta一周点击排行)]]></title>
@@ -56,13 +40,6 @@
         <content type="html"><![CDATA[龙芯是国产自主研发CPU的代表，并且推出了100%自主的龙架构（LoongArch）指令集，今年还会推出新一代CPU龙芯3A6000系列，官方表示其性能可对标7nm的AMD的Zen 2，相当于Intel第十代酷睿的水平。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“人民代步车”五菱海外卖疯日本车在东南亚面临崩盘？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363027.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363027.htm"/>
-        <updated>2023-06-04T17:38:49.031Z</updated>
-        <content type="html"><![CDATA[五菱的神车，突然不那么“神”了。2022年，五菱宏光MINI EV还卖出了55.4万台，今年前4个月，销量大约只有8.8万台（乘联会数据），同比降了两成多。这款2020年上市的电动小车，一度以“老头乐终结者”的光环风靡一时，也有年轻人视其为电动出行玩具。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[高温下的广东特斯拉车主：草帽、报纸、凉席、雨伞全用上 (cnbeta一周点击排行)]]></title>
         <id>https://hot.cnbeta.com.tw/articles/funny/1362897.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/funny/1362897.htm"/>
@@ -70,13 +47,11 @@
         <content type="html"><![CDATA[近期广东迎来了入夏以来的高温天气，多地突破了5月当地历史最高温，<strong>多地逼近40度</strong>，着实离谱。这种天气下，一些开新能源汽车的车主可真是遭老罪了，很多新能源车给了一整块天幕，但并没有给遮阳帘，于是驾驶这样的车在这样的天气里出门，整个就是“头皮发麻”，虽然开空调能够缓解炎热，但并不防晒，于是车主们开始想出各种办法“自救”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[贾跃亭终于收割了美国富豪们 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362819.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362819.htm"/>
-        <updated>2023-06-01T11:05:11.000Z</updated>
-        <content type="html"><![CDATA[<strong>220万元</strong>——这不是阿斯顿·马丁的新车售价，而是贾跃亭造的豪车最终要价。造车九年，赴美六年，贾跃亭的英语水平肉眼可见的提升。在5月31日的终极发布会上，他用全英语的PPT介绍了Faraday
- Future（以下简称FF）首款车型FF 
-91，在产品和技术层面的最新表现，以及限量版车型的最终售价——30.9万美元（约220万元），全球限量300台。]]></content>
+        <title type="html"><![CDATA[“人民代步车”五菱海外卖疯日本车在东南亚面临崩盘？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363027.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363027.htm"/>
+        <updated>2023-06-04T17:38:49.031Z</updated>
+        <content type="html"><![CDATA[五菱的神车，突然不那么“神”了。2022年，五菱宏光MINI EV还卖出了55.4万台，今年前4个月，销量大约只有8.8万台（乘联会数据），同比降了两成多。这款2020年上市的电动小车，一度以“老头乐终结者”的光环风靡一时，也有年轻人视其为电动出行玩具。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[16TB机械硬盘跌破千元 国内电商秒杀亚马逊 (cnbeta一周点击排行)]]></title>
@@ -93,6 +68,22 @@
         <content type="html"><![CDATA[不论是Chrome还是FF火狐，亦或者微软的Edge浏览器，不装插件的话意义少一半，装插件不装Tampermonkey还会再少一半，这个脚本管理插件才是精华。Tampermonkey以前被称为油猴，<strong>然而网友发现Tampermonkey官网现在有了正式的中文名，叫做篡改猴</strong>，这个中文名不知道是哪个大神定的，倒是很符合Tampermonkey的意义，就是名字有些负面，还不如叫修改猴呢。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[日本玩家玩手机路子有多野 你根本想象不到 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363323.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363323.htm"/>
+        <updated>2023-06-04T11:16:31.000Z</updated>
+        <content type="html"><![CDATA[日本手机市场，一直是个神奇存在。每当他们厂商捣鼓出什么脑洞大开的玩意，我都不会太惊讶。如果光有厂商整活，没有用户接招，那也白搭。So，如果我们将目光转向日本电子产品用户，也会发现一些趣事。比如，他们会有些奇怪的坚守，或者说执着？]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贾跃亭终于收割了美国富豪们 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1362819.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1362819.htm"/>
+        <updated>2023-06-01T11:05:11.000Z</updated>
+        <content type="html"><![CDATA[<strong>220万元</strong>——这不是阿斯顿·马丁的新车售价，而是贾跃亭造的豪车最终要价。造车九年，赴美六年，贾跃亭的英语水平肉眼可见的提升。在5月31日的终极发布会上，他用全英语的PPT介绍了Faraday
+ Future（以下简称FF）首款车型FF 
+91，在产品和技术层面的最新表现，以及限量版车型的最终售价——30.9万美元（约220万元），全球限量300台。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“越南李佳琦” 快被中国人造出来了 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1362925.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1362925.htm"/>
@@ -100,11 +91,11 @@
         <content type="html"><![CDATA[“像胡志明这样的大城市，到处都看得见快递小哥。越南是摩托车王国，他们骑着摩托车去送货、提货，很方便。”新媒体“中越plus”越南区负责人刘生对霞光社说道。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[戴尔出货暴跌50% 华为份额升至中国PC市场第二 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362811.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362811.htm"/>
-        <updated>2023-06-01T11:01:11.000Z</updated>
-        <content type="html"><![CDATA[对于华为重返中国PC市场前三这件事，该公司消费者BG战略Marketing部副总裁李昌竹表示，迟早做到第一。之前，市场调研机构Canalys日前发布的最新数据，今年一季度，华为PC国内市场出货量同比增长34.1%，以10.7%的份额升至行业第二。]]></content>
+        <title type="html"><![CDATA[苹果Vision Pro技术、体验几乎完美 但是一根线毁所有 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363679.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363679.htm"/>
+        <updated>2023-06-06T04:24:09.000Z</updated>
+        <content type="html"><![CDATA[VR虚拟现实、AR增强现实、MR混合现实，它们共同构成了一个XR扩展现实世界。在诸多科幻作品中，XR构成了一个奇妙的未来世界，而为了实现这个愿景，整个行业一直都在努力着，甚至有HTC这样的企业孤注一掷全力投入。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[早买享折扣！特斯拉Model 3优惠2万清库存：新的要来了 (cnbeta一周点击排行)]]></title>
@@ -112,6 +103,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1363061.htm"/>
         <updated>2023-06-04T17:38:49.080Z</updated>
         <content type="html"><![CDATA[新款HW4.0版特斯拉上市在即，老款开始疯狂打折清库存了！国内国外，Model 3库存车比新车便宜了近<strong>2万元</strong>。包括老款Model Y/X/S在内，也出现了不同程度的打折清库存。再加上马斯克近日到访中国，被曝在上海工厂重点看的就是：<strong>改款后的Model 3</strong>——代号“高地”版本，搭载全新车载计算机系统，还会新增4D毫米波雷达。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戴尔出货暴跌50% 华为份额升至中国PC市场第二 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1362811.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1362811.htm"/>
+        <updated>2023-06-01T11:01:11.000Z</updated>
+        <content type="html"><![CDATA[对于华为重返中国PC市场前三这件事，该公司消费者BG战略Marketing部副总裁李昌竹表示，迟早做到第一。之前，市场调研机构Canalys日前发布的最新数据，今年一季度，华为PC国内市场出货量同比增长34.1%，以10.7%的份额升至行业第二。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4变笨引爆舆论 OpenAI刚刚回应了降本减料质疑 (cnbeta一周点击排行)]]></title>
@@ -135,17 +133,19 @@
         <content type="html"><![CDATA[“广阔天地，大有可为。”在杭州阿里园区1号门口，一位在职员工如此安慰身旁“提前毕业”的友人。5月24日下午，处于舆论风暴中心的阿里园区和平时有些不一样，一场场离别正在上演。就在前一天，阿里有业务部门被曝开始进行组织岗位和人员优化，整体比例约7%。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日本玩家玩手机路子有多野 你根本想象不到 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363323.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363323.htm"/>
-        <updated>2023-06-04T11:16:31.000Z</updated>
-        <content type="html"><![CDATA[日本手机市场，一直是个神奇存在。每当他们厂商捣鼓出什么脑洞大开的玩意，我都不会太惊讶。如果光有厂商整活，没有用户接招，那也白搭。So，如果我们将目光转向日本电子产品用户，也会发现一些趣事。比如，他们会有些奇怪的坚守，或者说执着？]]></content>
+        <title type="html"><![CDATA[特斯拉超充站充电 吃完饭下来“罚款”500 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363461.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363461.htm"/>
+        <updated>2023-06-05T10:16:13.000Z</updated>
+        <content type="html"><![CDATA[特斯拉超级充电桩的超时收费标准，是真的贵，如果充完电没及时挪车的话，分分钟超时费就会超过充电费。有网友在社交平台上发文称“特斯拉go die吧”，坐朋友车一起在杭州办事，车子在杭州龙湖西溪天街特斯拉超充站充电，他们吃完饭下来，发现车子“罚款”500元。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[两名男子入职亚马逊 只为盗取游戏提前游玩《王国之泪》 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1362851.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1362851.htm"/>
-        <updated>2023-06-05T17:38:38.668Z</updated>
-        <content type="html"><![CDATA[据日本杂志Shūkan Bunshun一篇报道称，在本月早些时候，《塞尔达传说：王国之泪》还发售之前，两名亚马逊的员工从仓库中盗取了实体游戏以及周边商品，用于个人游玩和转卖获利。]]></content>
+        <title type="html"><![CDATA[苹果Mac三大新品国行价格汇总：巅峰顶配9.7万元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363687.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363687.htm"/>
+        <updated>2023-06-06T05:32:59.000Z</updated>
+        <content type="html"><![CDATA[WWDC 2023开发者大会上，苹果不但按惯例更新了iOS 7、iPadOS 17、macOS 14 Sonoma、watchOS 
+10、tvOS 17五大操作系统，还带来了顶级的M2 Ultra处理器，以及四款全新的硬件产品。现在，新款Mac Pro、Mac 
+Studio、MacBook Air的国行价格均已公布，就等Vision Pro了。]]></content>
     </entry>
 </feed>
