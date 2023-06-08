@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-08T05:38:35.347Z</updated>
+    <updated>2023-06-08T17:39:01.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Android用户纷纷逃离：越来越多人买iPhone的原因找到了 (cnbeta一周点击排行)]]></title>
@@ -19,13 +19,6 @@
         <content type="html"><![CDATA[<strong>苹果公司发布了一款名为Apple Vision Pro的增强现实头显，它能"无缝"地融合现实和数字世界。</strong>首席执行官蒂姆-库克在谈到这款看起来像一副滑雪镜的设备时说："这是第一款你能够看穿苹果产品"。正如传闻所说，它有一个独立的电池组，可以用眼睛、手和语音控制。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RTX 5090性能有望提升1.6倍 4.2插槽巨无霸散热器准备好了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362895.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362895.htm"/>
-        <updated>2023-06-03T17:38:25.215Z</updated>
-        <content type="html"><![CDATA[如今的高端显卡功耗发热很疯狂，RTX 4090 FE公版都做到了3.5插槽的庞大体积。非公版散热设计就更加疯狂了，4插槽也有不少。台北电脑展上，微星更是展示了4.2插槽的巨无霸显卡散热设计。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[QQ空间18周岁 第一代美女网红鼻祖露面：16年没变样 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1363761.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1363761.htm"/>
@@ -33,11 +26,18 @@
         <content type="html"><![CDATA[QQ空间于今日迎来了自己的18周岁生日，腾讯QQ官方也为我们带来了一波回忆杀，“第一代网红鼻祖”的露面，让不少网友直呼“逝去的青春回来了”。QQ空间于2005年6月6日上线，18年来一直是年轻人分享生活的精神属地。他们在这里连载自己的故事和记忆，也造就、影响了QQ空间的潮流文化——火星文、网络音乐、语C、Y2K、校园墙等。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WinRAR作者在Twitter上发"This is fine"梗图自嘲 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362735.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362735.htm"/>
-        <updated>2023-06-02T17:38:54.858Z</updated>
-        <content type="html"><![CDATA[上周在Build 2023上，微软提到它将在Windows 11中增加对打开多种格式文件的支持，包括打开RAR文件。此举是如此出人意料，科技媒体因此将目光聚集在了流行的文件存档程序WinRAR背后的公司RARLab。]]></content>
+        <title type="html"><![CDATA[离开中国，黄仁勋头也不回？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363853.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363853.htm"/>
+        <updated>2023-06-08T17:39:00.528Z</updated>
+        <content type="html"><![CDATA[飞机飞过天空，夹克战神黄仁勋结束了中国台湾之行，朝着太平洋另一端离去，头也不回。据6月5日最新消息，英伟达CEO黄仁勋现在已返回美国：在此前报道中，黄仁勋将于6月6日抵达中国大陆，拜访腾讯、浪潮等企业高管，甚至将研究开立新的中国GPU研发分部，各个假消息互相印证，传得煞有其事。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 5090性能有望提升1.6倍 4.2插槽巨无霸散热器准备好了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1362895.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1362895.htm"/>
+        <updated>2023-06-03T17:38:25.215Z</updated>
+        <content type="html"><![CDATA[如今的高端显卡功耗发热很疯狂，RTX 4090 FE公版都做到了3.5插槽的庞大体积。非公版散热设计就更加疯狂了，4插槽也有不少。台北电脑展上，微星更是展示了4.2插槽的巨无霸显卡散热设计。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[高温下的广东特斯拉车主：草帽、报纸、凉席、雨伞全用上 (cnbeta一周点击排行)]]></title>
@@ -89,22 +89,6 @@
         <content type="html"><![CDATA[不论是Chrome还是FF火狐，亦或者微软的Edge浏览器，不装插件的话意义少一半，装插件不装Tampermonkey还会再少一半，这个脚本管理插件才是精华。Tampermonkey以前被称为油猴，<strong>然而网友发现Tampermonkey官网现在有了正式的中文名，叫做篡改猴</strong>，这个中文名不知道是哪个大神定的，倒是很符合Tampermonkey的意义，就是名字有些负面，还不如叫修改猴呢。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[贾跃亭终于收割了美国富豪们 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362819.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362819.htm"/>
-        <updated>2023-06-01T11:05:11.000Z</updated>
-        <content type="html"><![CDATA[<strong>220万元</strong>——这不是阿斯顿·马丁的新车售价，而是贾跃亭造的豪车最终要价。造车九年，赴美六年，贾跃亭的英语水平肉眼可见的提升。在5月31日的终极发布会上，他用全英语的PPT介绍了Faraday
- Future（以下简称FF）首款车型FF 
-91，在产品和技术层面的最新表现，以及限量版车型的最终售价——30.9万美元（约220万元），全球限量300台。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“越南李佳琦” 快被中国人造出来了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362925.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362925.htm"/>
-        <updated>2023-06-03T17:38:25.226Z</updated>
-        <content type="html"><![CDATA[“像胡志明这样的大城市，到处都看得见快递小哥。越南是摩托车王国，他们骑着摩托车去送货、提货，很方便。”新媒体“中越plus”越南区负责人刘生对霞光社说道。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[苹果 Vision Pro 现场真机首秀：混合现实的未来（几乎）就在这里 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1363675.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1363675.htm"/>
@@ -112,25 +96,11 @@
         <content type="html"><![CDATA[苹果刚刚发布的 Vision Pro 长什么样？ 想象以下一副滑雪护目镜。 您见过的最奇特、最科幻的滑雪护目镜，对，就是这样。苹果刚刚在其 WWDC 开发者大会上发布了 Vision Pro 头显，在此期间，高管们花了很长时间详细介绍了硬件的工作原理以及您打算如何使用它。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[早买享折扣！特斯拉Model 3优惠2万清库存：新的要来了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363061.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363061.htm"/>
-        <updated>2023-06-04T17:38:49.080Z</updated>
-        <content type="html"><![CDATA[新款HW4.0版特斯拉上市在即，老款开始疯狂打折清库存了！国内国外，Model 3库存车比新车便宜了近<strong>2万元</strong>。包括老款Model Y/X/S在内，也出现了不同程度的打折清库存。再加上马斯克近日到访中国，被曝在上海工厂重点看的就是：<strong>改款后的Model 3</strong>——代号“高地”版本，搭载全新车载计算机系统，还会新增4D毫米波雷达。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戴尔出货暴跌50% 华为份额升至中国PC市场第二 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362811.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362811.htm"/>
-        <updated>2023-06-01T11:01:11.000Z</updated>
-        <content type="html"><![CDATA[对于华为重返中国PC市场前三这件事，该公司消费者BG战略Marketing部副总裁李昌竹表示，迟早做到第一。之前，市场调研机构Canalys日前发布的最新数据，今年一季度，华为PC国内市场出货量同比增长34.1%，以10.7%的份额升至行业第二。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4变笨引爆舆论 OpenAI刚刚回应了降本减料质疑 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363067.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363067.htm"/>
-        <updated>2023-06-04T17:38:49.051Z</updated>
-        <content type="html"><![CDATA[大模型天花板GPT-4，它是不是……变笨了？先是少数用户提出质疑，随后大量网友表示自己也注意到了，还贴出不少证据。有人反馈，<strong>把GPT-4的3小时25条对话额度一口气用完了，都没解决自己的代码问题。</strong>无奈切换到GPT-3.5，反倒解决了。]]></content>
+        <title type="html"><![CDATA[“越南李佳琦” 快被中国人造出来了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1362925.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1362925.htm"/>
+        <updated>2023-06-03T17:38:25.226Z</updated>
+        <content type="html"><![CDATA[“像胡志明这样的大城市，到处都看得见快递小哥。越南是摩托车王国，他们骑着摩托车去送货、提货，很方便。”新媒体“中越plus”越南区负责人刘生对霞光社说道。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果Mac三大新品国行价格汇总：巅峰顶配9.7万元 (cnbeta一周点击排行)]]></title>
@@ -142,10 +112,41 @@
 Studio、MacBook Air的国行价格均已公布，就等Vision Pro了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[暴芯处理器被指复制x86 宝德发声：联合英特尔定制 从未申请补贴 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362831.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362831.htm"/>
-        <updated>2023-06-01T11:22:53.000Z</updated>
-        <content type="html"><![CDATA[5月初宝德计算(PowerLeader)发布了基于x86架构的暴芯(Powerstar)处理器，每年还要出货150万片，但是这款处理器随后也引发争议，因为GK5测试显示它其实是i3-10105翻版。此后有关暴芯处理器复制x86、骗取补贴的争议不断，<strong>现在宝德公司站出来发声了，称暴芯首款CPU系在英特尔公司支持下推出的一款定制CPU产品。</strong>]]></content>
+        <title type="html"><![CDATA[早买享折扣！特斯拉Model 3优惠2万清库存：新的要来了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363061.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363061.htm"/>
+        <updated>2023-06-04T17:38:49.080Z</updated>
+        <content type="html"><![CDATA[新款HW4.0版特斯拉上市在即，老款开始疯狂打折清库存了！国内国外，Model 3库存车比新车便宜了近<strong>2万元</strong>。包括老款Model Y/X/S在内，也出现了不同程度的打折清库存。再加上马斯克近日到访中国，被曝在上海工厂重点看的就是：<strong>改款后的Model 3</strong>——代号“高地”版本，搭载全新车载计算机系统，还会新增4D毫米波雷达。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4变笨引爆舆论 OpenAI刚刚回应了降本减料质疑 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363067.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363067.htm"/>
+        <updated>2023-06-04T17:38:49.051Z</updated>
+        <content type="html"><![CDATA[大模型天花板GPT-4，它是不是……变笨了？先是少数用户提出质疑，随后大量网友表示自己也注意到了，还贴出不少证据。有人反馈，<strong>把GPT-4的3小时25条对话额度一口气用完了，都没解决自己的代码问题。</strong>无奈切换到GPT-3.5，反倒解决了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉开清库存 Model 3优惠2万甩卖，新款真的要来了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363481.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363481.htm"/>
+        <updated>2023-06-05T10:25:12.000Z</updated>
+        <content type="html"><![CDATA[新款Model 3真的要来了！现款车型已经开始让路。特斯拉北美官网显示，库存Model 3车型的价格为42060美元（约29.9万元人民币），比新订购的车型便宜2680美元（人民币约1.9万元）。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顾客打印身份证后怕泄露隐私 顺手把老板电脑系统重装了 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1363475.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1363475.htm"/>
+        <updated>2023-06-05T10:22:23.000Z</updated>
+        <content type="html"><![CDATA[去打印店打印个人文件，为保护个人隐私，顺手把店老板电脑系统都重装了，这谨慎程度估计“柯南看了都服”。日前，一打印店老板上传视频显示，一位顾客来他店里打印身份证，<strong>打印完后顾客怕他个人信息泄露，顺手就把他的电脑系统重做了；</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布15英寸MacBook Air 号称世界上最薄的15英寸笔记本 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363629.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363629.htm"/>
+        <updated>2023-06-06T01:16:57.000Z</updated>
+        <content type="html"><![CDATA[苹果公司在其 2023 年全球开发者大会上发布了新款 15 英寸 MacBook Air。 新型号的厚度为 11.5 
+毫米，苹果表示这是世界上最薄的 15 英寸笔记本电脑。 机身提供两个 USB-C Thunderbolt 端口、一个 MagSafe 
+充电接口和一个耳机插孔。 它的 15.3 英寸屏幕亮度为 500 尼特，配备 1080p 网络摄像头，电池续航时间为 18 小时。 配备 
+Apple 的 M2 芯片。]]></content>
     </entry>
 </feed>
