@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-09T05:38:39.065Z</updated>
+    <updated>2023-06-09T17:38:51.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Android用户纷纷逃离：越来越多人买iPhone的原因找到了 (cnbeta一周点击排行)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1363243.htm"/>
         <updated>2023-06-04T17:38:49.017Z</updated>
         <content type="html"><![CDATA[过去一年，安卓用户转向iPhone比例创5年来新高。近日，消费者情报研究伙伴（CIRP）发布的一项报告揭示了安卓用户转向使用iPhone的原因。<strong>首要原因就是安卓的体验问题。</strong>超过53%的受访者表示，他们转而使用iPhone是因为之前的安卓手机出现体验问题，比如旧的安卓手机无法提供服务、系统老化、维修，以及其它缺陷影响了他们的用户体验。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[离开中国，黄仁勋头也不回？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363853.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363853.htm"/>
+        <updated>2023-06-08T17:39:00.528Z</updated>
+        <content type="html"><![CDATA[飞机飞过天空，夹克战神黄仁勋结束了中国台湾之行，朝着太平洋另一端离去，头也不回。据6月5日最新消息，英伟达CEO黄仁勋现在已返回美国：在此前报道中，黄仁勋将于6月6日抵达中国大陆，拜访腾讯、浪潮等企业高管，甚至将研究开立新的中国GPU研发分部，各个假消息互相印证，传得煞有其事。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果宣布推出Vision Pro头显 无缝融合虚拟和现实世界 (cnbeta一周点击排行)]]></title>
@@ -26,25 +33,11 @@
         <content type="html"><![CDATA[QQ空间于今日迎来了自己的18周岁生日，腾讯QQ官方也为我们带来了一波回忆杀，“第一代网红鼻祖”的露面，让不少网友直呼“逝去的青春回来了”。QQ空间于2005年6月6日上线，18年来一直是年轻人分享生活的精神属地。他们在这里连载自己的故事和记忆，也造就、影响了QQ空间的潮流文化——火星文、网络音乐、语C、Y2K、校园墙等。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[离开中国，黄仁勋头也不回？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363853.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363853.htm"/>
-        <updated>2023-06-08T17:39:00.528Z</updated>
-        <content type="html"><![CDATA[飞机飞过天空，夹克战神黄仁勋结束了中国台湾之行，朝着太平洋另一端离去，头也不回。据6月5日最新消息，英伟达CEO黄仁勋现在已返回美国：在此前报道中，黄仁勋将于6月6日抵达中国大陆，拜访腾讯、浪潮等企业高管，甚至将研究开立新的中国GPU研发分部，各个假消息互相印证，传得煞有其事。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTX 5090性能有望提升1.6倍 4.2插槽巨无霸散热器准备好了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362895.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362895.htm"/>
-        <updated>2023-06-03T17:38:25.215Z</updated>
-        <content type="html"><![CDATA[如今的高端显卡功耗发热很疯狂，RTX 4090 FE公版都做到了3.5插槽的庞大体积。非公版散热设计就更加疯狂了，4插槽也有不少。台北电脑展上，微星更是展示了4.2插槽的巨无霸显卡散热设计。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高温下的广东特斯拉车主：草帽、报纸、凉席、雨伞全用上 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1362897.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1362897.htm"/>
-        <updated>2023-06-03T17:38:25.222Z</updated>
-        <content type="html"><![CDATA[近期广东迎来了入夏以来的高温天气，多地突破了5月当地历史最高温，<strong>多地逼近40度</strong>，着实离谱。这种天气下，一些开新能源汽车的车主可真是遭老罪了，很多新能源车给了一整块天幕，但并没有给遮阳帘，于是驾驶这样的车在这样的天气里出门，整个就是“头皮发麻”，虽然开空调能够缓解炎热，但并不防晒，于是车主们开始想出各种办法“自救”。]]></content>
+        <title type="html"><![CDATA[芯片封锁升级，国内的光刻胶够不够用？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363921.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363921.htm"/>
+        <updated>2023-06-07T11:55:22.000Z</updated>
+        <content type="html"><![CDATA[<strong>国内半导体行业的压力更大了。</strong>5月23日，日本经济产业省发布出口贸易管制令征求意见稿结果，明确对6大类23项半导体设备限制出口，具体为3项清洗设备、11项成膜设备、1项热处理设备、4项曝光设备、3项蚀刻设备、1项测试设备。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果Vision Pro技术、体验几乎完美 但是一根线毁所有 (cnbeta一周点击排行)]]></title>
@@ -54,39 +47,11 @@
         <content type="html"><![CDATA[VR虚拟现实、AR增强现实、MR混合现实，它们共同构成了一个XR扩展现实世界。在诸多科幻作品中，XR构成了一个奇妙的未来世界，而为了实现这个愿景，整个行业一直都在努力着，甚至有HTC这样的企业孤注一掷全力投入。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“人民代步车”五菱海外卖疯日本车在东南亚面临崩盘？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363027.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363027.htm"/>
-        <updated>2023-06-04T17:38:49.031Z</updated>
-        <content type="html"><![CDATA[五菱的神车，突然不那么“神”了。2022年，五菱宏光MINI EV还卖出了55.4万台，今年前4个月，销量大约只有8.8万台（乘联会数据），同比降了两成多。这款2020年上市的电动小车，一度以“老头乐终结者”的光环风靡一时，也有年轻人视其为电动出行玩具。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特斯拉超充站充电 吃完饭下来“罚款”500 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1363461.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1363461.htm"/>
         <updated>2023-06-05T10:16:13.000Z</updated>
         <content type="html"><![CDATA[特斯拉超级充电桩的超时收费标准，是真的贵，如果充完电没及时挪车的话，分分钟超时费就会超过充电费。有网友在社交平台上发文称“特斯拉go die吧”，坐朋友车一起在杭州办事，车子在杭州龙湖西溪天街特斯拉超充站充电，他们吃完饭下来，发现车子“罚款”500元。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16TB机械硬盘跌破千元 国内电商秒杀亚马逊 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362995.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362995.htm"/>
-        <updated>2023-06-02T10:45:40.000Z</updated>
-        <content type="html"><![CDATA[这个618，终于实现“硬盘自由”了！随着固态硬盘价格的“崩盘”，机械硬盘也迎来了前所未有的低价。<strong>拼多多平台，16TB机械硬盘已经跌破千元</strong>，只要900多就能买到全新的16TB机械硬盘，而且包邮。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本玩家玩手机路子有多野 你根本想象不到 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363323.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363323.htm"/>
-        <updated>2023-06-04T11:16:31.000Z</updated>
-        <content type="html"><![CDATA[日本手机市场，一直是个神奇存在。每当他们厂商捣鼓出什么脑洞大开的玩意，我都不会太惊讶。如果光有厂商整活，没有用户接招，那也白搭。So，如果我们将目光转向日本电子产品用户，也会发现一些趣事。比如，他们会有些奇怪的坚守，或者说执着？]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome、Firefox浏览器必装神器 油猴插件有了中文名“篡改猴” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363085.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363085.htm"/>
-        <updated>2023-06-05T17:38:38.656Z</updated>
-        <content type="html"><![CDATA[不论是Chrome还是FF火狐，亦或者微软的Edge浏览器，不装插件的话意义少一半，装插件不装Tampermonkey还会再少一半，这个脚本管理插件才是精华。Tampermonkey以前被称为油猴，<strong>然而网友发现Tampermonkey官网现在有了正式的中文名，叫做篡改猴</strong>，这个中文名不知道是哪个大神定的，倒是很符合Tampermonkey的意义，就是名字有些负面，还不如叫修改猴呢。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果 Vision Pro 现场真机首秀：混合现实的未来（几乎）就在这里 (cnbeta一周点击排行)]]></title>
@@ -96,11 +61,25 @@
         <content type="html"><![CDATA[苹果刚刚发布的 Vision Pro 长什么样？ 想象以下一副滑雪护目镜。 您见过的最奇特、最科幻的滑雪护目镜，对，就是这样。苹果刚刚在其 WWDC 开发者大会上发布了 Vision Pro 头显，在此期间，高管们花了很长时间详细介绍了硬件的工作原理以及您打算如何使用它。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“越南李佳琦” 快被中国人造出来了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1362925.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1362925.htm"/>
-        <updated>2023-06-03T17:38:25.226Z</updated>
-        <content type="html"><![CDATA[“像胡志明这样的大城市，到处都看得见快递小哥。越南是摩托车王国，他们骑着摩托车去送货、提货，很方便。”新媒体“中越plus”越南区负责人刘生对霞光社说道。]]></content>
+        <title type="html"><![CDATA[Intel处理器被“切割” 无法使用macOS Sonoma部分功能 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363949.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363949.htm"/>
+        <updated>2023-06-07T00:21:15.000Z</updated>
+        <content type="html"><![CDATA[在昨天，苹果正式公布了搭载M2 Ultra芯片的Mac Pro，宣告Mac全产品线不再使用Intel处理器。与此同时，有用户发现，<strong>在新的macOS Sonoma系统中，存在部分仅有Apple Silicon能够使用的新功能。也就是说，此前搭载Intel处理器的Mac，虽然能够升级新的系统版本，但在功能性上，却存在缺陷。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome、Firefox浏览器必装神器 油猴插件有了中文名“篡改猴” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363085.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363085.htm"/>
+        <updated>2023-06-05T17:38:38.656Z</updated>
+        <content type="html"><![CDATA[不论是Chrome还是FF火狐，亦或者微软的Edge浏览器，不装插件的话意义少一半，装插件不装Tampermonkey还会再少一半，这个脚本管理插件才是精华。Tampermonkey以前被称为油猴，<strong>然而网友发现Tampermonkey官网现在有了正式的中文名，叫做篡改猴</strong>，这个中文名不知道是哪个大神定的，倒是很符合Tampermonkey的意义，就是名字有些负面，还不如叫修改猴呢。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本玩家玩手机路子有多野 你根本想象不到 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363323.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363323.htm"/>
+        <updated>2023-06-04T11:16:31.000Z</updated>
+        <content type="html"><![CDATA[日本手机市场，一直是个神奇存在。每当他们厂商捣鼓出什么脑洞大开的玩意，我都不会太惊讶。如果光有厂商整活，没有用户接招，那也白搭。So，如果我们将目光转向日本电子产品用户，也会发现一些趣事。比如，他们会有些奇怪的坚守，或者说执着？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果Mac三大新品国行价格汇总：巅峰顶配9.7万元 (cnbeta一周点击排行)]]></title>
@@ -112,11 +91,11 @@
 Studio、MacBook Air的国行价格均已公布，就等Vision Pro了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[早买享折扣！特斯拉Model 3优惠2万清库存：新的要来了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363061.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363061.htm"/>
-        <updated>2023-06-04T17:38:49.080Z</updated>
-        <content type="html"><![CDATA[新款HW4.0版特斯拉上市在即，老款开始疯狂打折清库存了！国内国外，Model 3库存车比新车便宜了近<strong>2万元</strong>。包括老款Model Y/X/S在内，也出现了不同程度的打折清库存。再加上马斯克近日到访中国，被曝在上海工厂重点看的就是：<strong>改款后的Model 3</strong>——代号“高地”版本，搭载全新车载计算机系统，还会新增4D毫米波雷达。]]></content>
+        <title type="html"><![CDATA[新款特斯拉Model 3实车曝光：全新大灯、辅助驾驶能力再升级 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363923.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363923.htm"/>
+        <updated>2023-06-07T11:55:54.000Z</updated>
+        <content type="html"><![CDATA[日前马斯克访华参观特斯拉上海超级工厂时，据称其考察了新款Model 3的产线和试产品，不过该车具体样式依旧未知。近日消息，电动汽车爱好者The Kilowatts在加州发现了新款Model 3的路试车，一些具体的新变化也更为明显。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4变笨引爆舆论 OpenAI刚刚回应了降本减料质疑 (cnbeta一周点击排行)]]></title>
@@ -124,6 +103,13 @@ Studio、MacBook Air的国行价格均已公布，就等Vision Pro了。]]></con
         <link href="https://www.cnbeta.com.tw/articles/tech/1363067.htm"/>
         <updated>2023-06-04T17:38:49.051Z</updated>
         <content type="html"><![CDATA[大模型天花板GPT-4，它是不是……变笨了？先是少数用户提出质疑，随后大量网友表示自己也注意到了，还贴出不少证据。有人反馈，<strong>把GPT-4的3小时25条对话额度一口气用完了，都没解决自己的代码问题。</strong>无奈切换到GPT-3.5，反倒解决了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软Windows 12明年发布 英特尔AMD已做好准备 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363943.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363943.htm"/>
+        <updated>2023-06-07T00:12:56.000Z</updated>
+        <content type="html"><![CDATA[微软的Windows 11系统已经上市一年半了，但份额距离Windows 10还差很远，后者依然占据70%以上的市场，而且它也没机会追了，因为2024年微软就要推出Win12系统了，改进非常多。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉开清库存 Model 3优惠2万甩卖，新款真的要来了 (cnbeta一周点击排行)]]></title>
@@ -148,5 +134,20 @@ Studio、MacBook Air的国行价格均已公布，就等Vision Pro了。]]></con
 毫米，苹果表示这是世界上最薄的 15 英寸笔记本电脑。 机身提供两个 USB-C Thunderbolt 端口、一个 MagSafe 
 充电接口和一个耳机插孔。 它的 15.3 英寸屏幕亮度为 500 尼特，配备 1080p 网络摄像头，电池续航时间为 18 小时。 配备 
 Apple 的 M2 芯片。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乘客雨中候车 高铁站台为什么不能打伞上热搜：官方说明 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363537.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363537.htm"/>
+        <updated>2023-06-09T17:38:50.411Z</updated>
+        <content type="html"><![CDATA[这两天一条“<strong>高铁站台不能打伞</strong>”的话题登上微博热搜，据悉，在某地高铁站，一群乘客在高铁站台上等车时遭遇大雨，大家挤在站台中央，即便被淋湿，却依旧无人打伞。而据“科普”称：高铁站台上是不可以打伞的，因为列车快速经过时产生的气流，容易吹走雨伞，造成妄全隐患。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《暗黑4》实战36款显卡：10年前的画质水平 4K 270帧+无压力 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1363259.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1363259.htm"/>
+        <updated>2023-06-09T17:38:50.414Z</updated>
+        <content type="html"><![CDATA[暴雪2023年最受期待的大作《暗黑4》已经有土豪玩家率先体验，大部分人还要到6月6日才能进入游戏，这代的评价不错，MC均分88。《暗黑4》需要什么样的游戏平台才能流畅运行？暴雪之前公布的配置需求表中，最低要求酷睿i5-2500K/AMD
+ FX-8350、GTX 660或R9 280显卡，8GB RAM。]]></content>
     </entry>
 </feed>
