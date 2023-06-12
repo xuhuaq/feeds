@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-12T05:38:23.815Z</updated>
+    <updated>2023-06-12T17:39:08.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[能实现“榴莲自由”吗？首批国产榴莲预计本月上市 (cnbeta一周点击排行)]]></title>
@@ -33,6 +33,13 @@
         <content type="html"><![CDATA[<strong>苹果公司发布了一款名为Apple Vision Pro的增强现实头显，它能"无缝"地融合现实和数字世界。</strong>首席执行官蒂姆-库克在谈到这款看起来像一副滑雪镜的设备时说："这是第一款你能够看穿苹果产品"。正如传闻所说，它有一个独立的电池组，可以用眼睛、手和语音控制。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[芯片封锁升级，国内的光刻胶够不够用？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363921.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363921.htm"/>
+        <updated>2023-06-07T11:55:22.000Z</updated>
+        <content type="html"><![CDATA[<strong>国内半导体行业的压力更大了。</strong>5月23日，日本经济产业省发布出口贸易管制令征求意见稿结果，明确对6大类23项半导体设备限制出口，具体为3项清洗设备、11项成膜设备、1项热处理设备、4项曝光设备、3项蚀刻设备、1项测试设备。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[QQ空间18周岁 第一代美女网红鼻祖露面：16年没变样 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1363761.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1363761.htm"/>
@@ -40,11 +47,11 @@
         <content type="html"><![CDATA[QQ空间于今日迎来了自己的18周岁生日，腾讯QQ官方也为我们带来了一波回忆杀，“第一代网红鼻祖”的露面，让不少网友直呼“逝去的青春回来了”。QQ空间于2005年6月6日上线，18年来一直是年轻人分享生活的精神属地。他们在这里连载自己的故事和记忆，也造就、影响了QQ空间的潮流文化——火星文、网络音乐、语C、Y2K、校园墙等。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[芯片封锁升级，国内的光刻胶够不够用？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363921.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363921.htm"/>
-        <updated>2023-06-07T11:55:22.000Z</updated>
-        <content type="html"><![CDATA[<strong>国内半导体行业的压力更大了。</strong>5月23日，日本经济产业省发布出口贸易管制令征求意见稿结果，明确对6大类23项半导体设备限制出口，具体为3项清洗设备、11项成膜设备、1项热处理设备、4项曝光设备、3项蚀刻设备、1项测试设备。]]></content>
+        <title type="html"><![CDATA[美夫妇在地下室发现百万枚铜币 银行拒绝兑换 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1364577.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1364577.htm"/>
+        <updated>2023-06-11T17:38:38.776Z</updated>
+        <content type="html"><![CDATA[6月10日消息，天降横财，却成为了甜蜜的负担。据海外媒体报道，近日，美国加利福尼亚的一对夫妇在打扫卫生时，意外的在自家地下室里发现了<strong>100万枚铜币</strong>，其面额为1美分，换算下就是10000美元，而且由于这些钱币是铜制成的，价格会更高。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[诺基亚成国产手机噩梦 一年收百亿专利费 (cnbeta一周点击排行)]]></title>
@@ -75,27 +82,11 @@
         <content type="html"><![CDATA[在昨天，苹果正式公布了搭载M2 Ultra芯片的Mac Pro，宣告Mac全产品线不再使用Intel处理器。与此同时，有用户发现，<strong>在新的macOS Sonoma系统中，存在部分仅有Apple Silicon能够使用的新功能。也就是说，此前搭载Intel处理器的Mac，虽然能够升级新的系统版本，但在功能性上，却存在缺陷。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉超充站充电 吃完饭下来“罚款”500 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363461.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363461.htm"/>
-        <updated>2023-06-05T10:16:13.000Z</updated>
-        <content type="html"><![CDATA[特斯拉超级充电桩的超时收费标准，是真的贵，如果充完电没及时挪车的话，分分钟超时费就会超过充电费。有网友在社交平台上发文称“特斯拉go die吧”，坐朋友车一起在杭州办事，车子在杭州龙湖西溪天街特斯拉超充站充电，他们吃完饭下来，发现车子“罚款”500元。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新款特斯拉Model 3实车曝光：全新大灯、辅助驾驶能力再升级 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1363923.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1363923.htm"/>
         <updated>2023-06-07T11:55:54.000Z</updated>
         <content type="html"><![CDATA[日前马斯克访华参观特斯拉上海超级工厂时，据称其考察了新款Model 3的产线和试产品，不过该车具体样式依旧未知。近日消息，电动汽车爱好者The Kilowatts在加州发现了新款Model 3的路试车，一些具体的新变化也更为明显。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果Mac三大新品国行价格汇总：巅峰顶配9.7万元 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363687.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363687.htm"/>
-        <updated>2023-06-06T05:32:59.000Z</updated>
-        <content type="html"><![CDATA[WWDC 2023开发者大会上，苹果不但按惯例更新了iOS 7、iPadOS 17、macOS 14 Sonoma、watchOS 
-10、tvOS 17五大操作系统，还带来了顶级的M2 Ultra处理器，以及四款全新的硬件产品。现在，新款Mac Pro、Mac 
-Studio、MacBook Air的国行价格均已公布，就等Vision Pro了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软Windows 12明年发布 英特尔AMD已做好准备 (cnbeta一周点击排行)]]></title>
@@ -105,18 +96,13 @@ Studio、MacBook Air的国行价格均已公布，就等Vision Pro了。]]></con
         <content type="html"><![CDATA[微软的Windows 11系统已经上市一年半了，但份额距离Windows 10还差很远，后者依然占据70%以上的市场，而且它也没机会追了，因为2024年微软就要推出Win12系统了，改进非常多。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美夫妇在地下室发现百万枚铜币 银行拒绝兑换 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1364577.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1364577.htm"/>
-        <updated>2023-06-11T17:38:38.776Z</updated>
-        <content type="html"><![CDATA[6月10日消息，天降横财，却成为了甜蜜的负担。据海外媒体报道，近日，美国加利福尼亚的一对夫妇在打扫卫生时，意外的在自家地下室里发现了<strong>100万枚铜币</strong>，其面额为1美分，换算下就是10000美元，而且由于这些钱币是铜制成的，价格会更高。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[顾客打印身份证后怕泄露隐私 顺手把老板电脑系统重装了 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1363475.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1363475.htm"/>
-        <updated>2023-06-05T10:22:23.000Z</updated>
-        <content type="html"><![CDATA[去打印店打印个人文件，为保护个人隐私，顺手把店老板电脑系统都重装了，这谨慎程度估计“柯南看了都服”。日前，一打印店老板上传视频显示，一位顾客来他店里打印身份证，<strong>打印完后顾客怕他个人信息泄露，顺手就把他的电脑系统重做了；</strong>]]></content>
+        <title type="html"><![CDATA[苹果Mac三大新品国行价格汇总：巅峰顶配9.7万元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363687.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363687.htm"/>
+        <updated>2023-06-06T05:32:59.000Z</updated>
+        <content type="html"><![CDATA[WWDC 2023开发者大会上，苹果不但按惯例更新了iOS 7、iPadOS 17、macOS 14 Sonoma、watchOS 
+10、tvOS 17五大操作系统，还带来了顶级的M2 Ultra处理器，以及四款全新的硬件产品。现在，新款Mac Pro、Mac 
+Studio、MacBook Air的国行价格均已公布，就等Vision Pro了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果发布15英寸MacBook Air 号称世界上最薄的15英寸笔记本 (cnbeta一周点击排行)]]></title>
@@ -129,24 +115,42 @@ Studio、MacBook Air的国行价格均已公布，就等Vision Pro了。]]></con
 Apple 的 M2 芯片。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[乘客雨中候车 高铁站台为什么不能打伞上热搜：官方说明 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363537.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363537.htm"/>
-        <updated>2023-06-09T17:38:50.411Z</updated>
-        <content type="html"><![CDATA[这两天一条“<strong>高铁站台不能打伞</strong>”的话题登上微博热搜，据悉，在某地高铁站，一群乘客在高铁站台上等车时遭遇大雨，大家挤在站台中央，即便被淋湿，却依旧无人打伞。而据“科普”称：高铁站台上是不可以打伞的，因为列车快速经过时产生的气流，容易吹走雨伞，造成妄全隐患。]]></content>
+        <title type="html"><![CDATA[梅西带错护照机场办手续画面曝光 网友：主打一个“老实巴交” (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1364647.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1364647.htm"/>
+        <updated>2023-06-11T11:38:27.000Z</updated>
+        <content type="html"><![CDATA[阿根廷国家足球队的中国行，是由梅西将带领阿根廷国家队在北京与澳大利亚进行一场友谊赛，比赛将于6月15日晚8:00在北京工人体育场举行。6月10日上午，梅西乘坐的私人飞机已经在北京落地，梅西将开启个人第七次访华之旅，一同到达的还有迪马利亚、恩佐、德保罗、帕雷德斯。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉开清库存 Model 3优惠2万甩卖，新款真的要来了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363481.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363481.htm"/>
-        <updated>2023-06-05T10:25:12.000Z</updated>
-        <content type="html"><![CDATA[新款Model 3真的要来了！现款车型已经开始让路。特斯拉北美官网显示，库存Model 3车型的价格为42060美元（约29.9万元人民币），比新订购的车型便宜2680美元（人民币约1.9万元）。]]></content>
+        <title type="html"><![CDATA[苹果M2 Ultra GPU性能展示：RTX 4080/RX 6900 XT蒙羞 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1364569.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1364569.htm"/>
+        <updated>2023-06-12T17:39:07.468Z</updated>
+        <content type="html"><![CDATA[M2 Ultra处理器的全新推出，苹果把Mac Pro上的Intel至强工作站处理器和Radeon Pro显卡一并消灭，实现了Apple Silicon对Mac产品线的大一统。CPU性能此前我们已经做过分析，因为24核24线程的设计，GeekBench 5多核跑分已经能够超越Intel酷睿i9-13900K和锐龙9 7950X。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克北京首日晚宴多少钱？22人“吃”掉4.5万元 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1363367.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1363367.htm"/>
-        <updated>2023-06-11T17:38:38.780Z</updated>
-        <content type="html"><![CDATA[早些时候，特斯拉CEO马斯克时隔三年访华，在国内的首次晚宴受到了广泛关注，菜单也很快曝光。现在，这份晚宴菜单对应的小票曝光，<strong>“马斯克北京首日的晚宴究竟花了多少钱？”这一问题的答案，终于浮出水面。</strong>]]></content>
+        <title type="html"><![CDATA[李冰冰版艾达王妆面是自己画的：好莱坞化妆师让我看不到希望 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1364279.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1364279.htm"/>
+        <updated>2023-06-09T01:10:49.000Z</updated>
+        <content type="html"><![CDATA[今天热门一个李冰冰的采访被挖了出来，在这段采访中，她提到拍当年《生化危机5》艾达王的妆是自己画的。“好莱坞的化妆师画了她觉得不好看不适合亚洲人，换了一个化妆师还是一样“完全看不到希望”，就自己画了”然后半夜睡不着就直接起来练习贴假睫毛……解决了化妆师问题。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克发梗图讽刺人工智能炒作：什么“机器学习” 其实就是统计 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1364695.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1364695.htm"/>
+        <updated>2023-06-12T17:39:07.470Z</updated>
+        <content type="html"><![CDATA[特斯拉CEO埃隆·马斯克周六在推特上发布了一张图片，似乎是在讽刺当前关于“人工智能”的炒作现象。在这张图片中，一位路人询问戴着“机器学习”（marchine
+ 
+learning）面罩的人工智能：“嗨，人工智能。为什么你总是戴着那个面罩？”一边说一边动手揭开了那个面罩，结果看到里面是另一幅面孔，写着“统计”（statistics）。路人急忙放下面罩，说：“还是戴着吧。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Siri被砍 iOS 17首个测试版发布 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1363685.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1363685.htm"/>
+        <updated>2023-06-06T05:32:49.000Z</updated>
+        <content type="html"><![CDATA[北京时间凌晨01:00，一年一度的苹果WWDC23开发者大会正式开幕，带来了M2 Ultra版Mac Pro和Mac 
+Studio、新款MacBook Air、首款头显Vision Pro等新品，同时还发布了iOS 17、watch OS10、iPadOS 
+17等新系统。]]></content>
     </entry>
 </feed>
