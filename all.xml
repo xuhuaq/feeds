@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-21T05:38:41.683Z</updated>
+    <updated>2023-06-21T17:38:30.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[马云与汪涵聚餐明显发福变胖 差点认不出来 (cnbeta一周点击排行)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1365701.htm"/>
         <updated>2023-06-18T17:38:46.669Z</updated>
         <content type="html"><![CDATA[如今的马云异常低调，很少出现在公众视野中，近日曝出了与湖南卫视主持人汪涵等人聚餐的情景。据悉，<strong>这次聚会就在马云的家中</strong>，马云与多位好友围坐在一张超长的餐桌前，桌子上摆满了几十道小菜，非常精致。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个电铃在牛津大学响了180多年 电池成分却至今未知 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1366019.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1366019.htm"/>
+        <updated>2023-06-19T01:45:42.000Z</updated>
+        <content type="html"><![CDATA[这个设备是一个电铃，类似我们以前上下课的那种钟铃，它摆在牛津大学克拉伦登实验室门厅附近的走廊中。<strong>这个设备从1840年开始就安装在那里了，它是由牧师兼物理学家罗伯特·沃克（Robert Walker）收藏和购买的第一批仪器，被称为“牛津电铃”。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[国产“水果之王”来了：首批国产榴莲6月上市开卖 (cnbeta一周点击排行)]]></title>
@@ -40,18 +47,18 @@
         <content type="html"><![CDATA[最近这几天，一位&nbsp;“&nbsp;俄罗斯人&nbsp;”&nbsp;保尔&nbsp;·&nbsp;柯察铁火了。有多火呢？<strong>仅 2 个月左右就吸粉 30&nbsp;多万。</strong>下图的数据也许更为直观，透过这动辄十几万的喜欢，应该能感受到视频有多受欢迎吧？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[盗版Windows 10 ISO镜像被黑客下马 攻击手法罕见 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1365717.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1365717.htm"/>
-        <updated>2023-06-18T17:38:46.687Z</updated>
-        <content type="html"><![CDATA[很多网友下载安装Windows系统习惯从网上找ISO镜像，然而这种方式也被别有用心的黑客盯上了，通过在ISO镜像种下木马，盗窃用户的数字资产，普通人容易中招。安全厂商Doctor Web前不久在一家客户的Windows 10电脑中发现了问题，<strong>后者被种上了名为Clipper的木马程序及其他恶意程序。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[南京大学才女瞒着家里当主播 榜一大哥竟是自己爸爸 (cnbeta一周点击排行)]]></title>
         <id>https://hot.cnbeta.com.tw/articles/movie/1366083.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/movie/1366083.htm"/>
         <updated>2023-06-19T10:19:21.000Z</updated>
         <content type="html"><![CDATA[6月19日消息，昨天是父亲节，直播领域也出现了一件关于父爱的小插曲，非常应景。据报道，<strong>南京大学才女鲁韦彤是新起步的小主播，直播间的榜一大哥不断与她积极互动、送礼，鼓励着她继续直播。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盗版Windows 10 ISO镜像被黑客下马 攻击手法罕见 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1365717.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1365717.htm"/>
+        <updated>2023-06-18T17:38:46.687Z</updated>
+        <content type="html"><![CDATA[很多网友下载安装Windows系统习惯从网上找ISO镜像，然而这种方式也被别有用心的黑客盯上了，通过在ISO镜像种下木马，盗窃用户的数字资产，普通人容易中招。安全厂商Doctor Web前不久在一家客户的Windows 10电脑中发现了问题，<strong>后者被种上了名为Clipper的木马程序及其他恶意程序。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[江西通报“鼠头鸭脖事件”调查处理结果 认定饭菜中异物是鼠头 (cnbeta一周点击排行)]]></title>
@@ -61,25 +68,11 @@
         <content type="html"><![CDATA[6月17日，江西工业职业技术学院“6·1”食品安全事件调查结果公布，针对江西工业职业技术学院“6·1”食品安全事件，江西省教育厅、省公安厅、省国资委、省市场监督管理局组成的联合调查组，本着实事求是原则开展调查，现将有关情况通报如下。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一辆特斯拉Model Y在上海电力大学被完全拆解 沉浸教学“三电”原理 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1365219.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1365219.htm"/>
-        <updated>2023-06-14T11:37:09.000Z</updated>
-        <content type="html"><![CDATA[<strong>全球首台特斯拉官方授权的Model Y 3D解构示教平台，落地上海电力大学临港校区。</strong>现场可以看到，一辆Model Y悬空而挂，完全“拆解”，最大化呈现车身结构细节，揭开特斯拉低能耗、高效率的秘密。特斯拉官方表示，<strong>该一体化教学模式，实现了电动车三电原理沉浸式教学，让书本知识走进现实。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI，正在疯狂污染中文互联网 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1365947.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1365947.htm"/>
         <updated>2023-06-18T00:59:40.000Z</updated>
         <content type="html"><![CDATA[污染中文互联网，AI成了“罪魁祸首”之一。事情是这样的。最近大家不是都热衷于向AI咨询嘛，有位网友就问了Bing这么一个问题：象鼻山是否有缆车？Bing也是有问必答，给出了看似挺靠谱的答案：在给出肯定的答复之后，Bing还贴心地附带上了票价、营业时间等细节信息。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李想：同行在干什么自己都知道 搞了18年互联网太容易了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1365253.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1365253.htm"/>
-        <updated>2023-06-16T17:38:27.432Z</updated>
-        <content type="html"><![CDATA[理想汽车CEO李想今日晒出了自己公司的舆情系统。6月12日的“舆情日报”显示，内容包括关于理想汽车报道的文章数量，敏感内容占比，正面议题，敏感议题等等。这个舆情系统还会提醒“疑似水军转发”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[外媒：不带偏见去看 中国相机镜头已开始超越日本厂商 (cnbeta一周点击排行)]]></title>
@@ -89,25 +82,11 @@
         <content type="html"><![CDATA[Digita lCamera World发布了一篇评价中国相机镜头的文章，<strong>其中认为中国所生产的相机镜头和其它光学产品，已经开始超越日本本土厂商。</strong>目前，专业的相机厂商主要集中在日本和德国，包括索尼、佳能、尼康、富士、松下、徕卡等等。其中，日本相机厂商则占据了主流地位。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上海机场联络线开通在即 虹桥到浦东只要40分钟 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1365065.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1365065.htm"/>
-        <updated>2023-06-16T17:38:27.435Z</updated>
-        <content type="html"><![CDATA[海机场联络线离开通日期越来越近，现在模型车也首次亮相。从上海申铁官方放出的照片来看，<strong>这辆车采用蓝白涂装，头部如同鸟喙，非常尖锐，搭配车玻璃的“大眼”，炯炯有神。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI警告微软：必应的AI反应很怪异 整合GPT-4要谨慎 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1365121.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1365121.htm"/>
-        <updated>2023-06-18T17:38:46.678Z</updated>
-        <content type="html"><![CDATA[据报道，OpenAI警告微软在将GPT-4整合到其必应搜索引擎上时动作慢一点，以避免其推出的反应不准确和不可预测。《华尔街日报》报道，OpenAI团队警告说，过早推送基于未发布的GPT-4版本的聊天机器人会带来负面的风险。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个电铃在牛津大学响了180多年 电池成分却至今未知 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1366019.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1366019.htm"/>
-        <updated>2023-06-19T01:45:42.000Z</updated>
-        <content type="html"><![CDATA[这个设备是一个电铃，类似我们以前上下课的那种钟铃，它摆在牛津大学克拉伦登实验室门厅附近的走廊中。<strong>这个设备从1840年开始就安装在那里了，它是由牧师兼物理学家罗伯特·沃克（Robert Walker）收藏和购买的第一批仪器，被称为“牛津电铃”。</strong>]]></content>
+        <title type="html"><![CDATA[BBA集体宣布放弃低端车型 十几万买豪车将成历史 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1366161.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1366161.htm"/>
+        <updated>2023-06-21T17:38:29.966Z</updated>
+        <content type="html"><![CDATA[快科技6月19日消息，近两年来，<strong>BBA三大豪华车厂纷纷宣布将取消品牌旗下的低端车型，奔驰A级，宝马1系，奥迪A1纷纷被安排进了下架名单。</strong>近日有消息传出，<strong>宝马将与今年的7月、9月分别停产三厢1系和X2这两款国产入门车型。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[固态硬盘价格杀疯了 怎么机械硬盘却还稳如泰山？ (cnbeta一周点击排行)]]></title>
@@ -125,11 +104,11 @@
         <content type="html"><![CDATA[如今的马云已经基本消失在公众视野中，闲云野鹤，优哉游哉，还经常与好友聚会。据媒体报道，阿里巴巴集团欧洲区的总裁迈克尔·埃文斯(J. Michael Evans)在接受采访时，就被问到了马云的近况。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果MacBook Air 15发售日就暴降1千多 8949元起 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1365129.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1365129.htm"/>
-        <updated>2023-06-20T17:38:53.154Z</updated>
-        <content type="html"><![CDATA[<strong>日前苹果MacBook Air 15已经正式开启了首销，官方起售价10499元。</strong>这个定价可以说是和良心完全不沾边了，因为这么一款上万售价的笔记本，竟然只给了8GB内存+256GB硬盘空间，根本不够日常使用，别说存储资料了，连安装软件都费劲。]]></content>
+        <title type="html"><![CDATA[日本互联网“起风了” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1366089.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1366089.htm"/>
+        <updated>2023-06-19T10:23:18.000Z</updated>
+        <content type="html"><![CDATA[上周四下午，日本NGA集团创始人王沁在结束公司的工作后，紧接着赶往当地创投方举办的“桑拿演讲”（虎嗅注：当地特色创投活动）。这类活动在最近非常频繁，每天都会有各种形式的创业峰会、活动散落在东京的各个角落。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[运营22年的霏凡论坛宣布关闭 (cnbeta一周点击排行)]]></title>
@@ -139,10 +118,31 @@
         <content type="html"><![CDATA[与现在微博、短视频不同，刷BBS曾经是早期网民的必备技能，20多年前活跃着很多论坛，然而强大如天涯、猫扑、西祠这样的论坛都不得不关站，现在又一个20多年历史的论坛宣布关站。霏凡论坛日前发布公告，霏凡论坛走过了二十多年，风风雨雨走到了今天，不得不告诉大家，霏凡论坛也走到了最后，不是我们不想坚持，是整个大环境实在无法再坚持。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国商务部再将31家中企列入“实体清单” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1365055.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1365055.htm"/>
-        <updated>2023-06-20T17:38:53.161Z</updated>
-        <content type="html"><![CDATA[当地时间6月12日，美国商务部工业与安全局（BIS）在《联邦公报》网站上公布了一份定于6月14日正式生效的“实体清单”更新，准备将43个实体添加到出口管制的“实体清单”当中。其中，有31家实体的总部在中国，包括多家航空相关企业以及隶属于上海超级计算中心的上海超算科技有限公司。]]></content>
+        <title type="html"><![CDATA[阿根廷教练组来中国买扫地机器人：大包小包拿到手软 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1365671.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1365671.htm"/>
+        <updated>2023-06-21T17:38:29.981Z</updated>
+        <content type="html"><![CDATA[昨晚，阿根廷男足国家队与澳大利亚男足国家队在北京新工体举行了一场友谊赛，最终，阿根廷以2:0的比分赢下比赛。小红书有网友比赛前在北京偶遇了阿根廷男足国家队教练组，从照片来看，<strong>阿根廷教练组直接在国内开启了“进货”模式，大包小包拿到手软。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网友吐槽“高考后还要被防沉迷” ：腾讯游戏官方高情商回应 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1365775.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1365775.htm"/>
+        <updated>2023-06-17T10:52:52.000Z</updated>
+        <content type="html"><![CDATA[“<strong>我都已经考完高考了，能不能提前解开防沉迷？</strong>”这是不少准大学生们的灵魂发问。就上述问题，<strong>腾讯官方回应称，“因为你是个宝贝”。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子突发奇想将甜瓜和西瓜嫁接 这是嫁接还是焊接？ (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1365661.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1365661.htm"/>
+        <updated>2023-06-21T17:38:29.985Z</updated>
+        <content type="html"><![CDATA[甜瓜西瓜嫁接在一块，这会是怎样的情景？<strong>近日，有男子突发奇想将甜瓜西瓜嫁接在一起，结果长成了两不像，这是怎么回事。</strong>有网友看后直呼，这简直不是嫁接，这就是焊接啊。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[价值一万多的白金卡50万积分一夜清零 演员胡兵向东航维权失败 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1365931.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1365931.htm"/>
+        <updated>2023-06-18T00:45:16.000Z</updated>
+        <content type="html"><![CDATA[经常坐飞机的朋友知道，航空公司的积分十分重要，不仅可以兑换升舱、贵宾室等多种权益，还能直接在商城购买商品。而个人账户上50多万的积分，被一夜之间清零，想必每个人都很难接受。近日，演员胡兵向东航发起多次维权失败，无奈之下发视频表述整个事件的经过，此事引起网友热议关注。]]></content>
     </entry>
 </feed>
