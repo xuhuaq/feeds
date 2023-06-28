@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-28T05:40:05.037Z</updated>
+    <updated>2023-06-28T17:38:50.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[美父子躲过“泰坦号”观光潜艇之灾：最后一分钟打了退堂鼓 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1367449.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1367449.htm"/>
+        <updated>2023-06-27T17:38:15.581Z</updated>
+        <content type="html"><![CDATA[这可能是美国这对父子距离死神最近的时候！据海外媒体报道，一个名叫布鲁姆的美国投资富豪接受采访时透露，“泰坦”号深潜观光项目的运营公司老板拉什曾<strong>力邀他带着20岁的儿子参加深潜之旅</strong>。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为天才少年左鹏飞实现重大突破：发起项目节省上亿成本 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1366763.htm</id>
@@ -17,13 +24,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1367047.htm"/>
         <updated>2023-06-24T11:35:12.000Z</updated>
         <content type="html"><![CDATA[网络聊天需谨慎，不要随意发表情，轻则引发误会，重则官司缠身。据媒体报道，一男子就因为在微信上发了一个“OK”的表情，没想到成了被告，而且一点都不冤。根据江西法院通报，2022年12月22日，郭某某在微信上与刘某云商量其子刘某伟借款的还款事宜，郭某某要求刘某云成为刘某伟借款事务的债务担保人。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美父子躲过“泰坦号”观光潜艇之灾：最后一分钟打了退堂鼓 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367449.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367449.htm"/>
-        <updated>2023-06-27T17:38:15.581Z</updated>
-        <content type="html"><![CDATA[这可能是美国这对父子距离死神最近的时候！据海外媒体报道，一个名叫布鲁姆的美国投资富豪接受采访时透露，“泰坦”号深潜观光项目的运营公司老板拉什曾<strong>力邀他带着20岁的儿子参加深潜之旅</strong>。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[你的电脑会越来越流畅 因为 Intel终于想通了 (cnbeta一周点击排行)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[小时候调皮，有一次一个人偷偷去水库游泳，游了一会儿后我爬上一个竹排休息，不知道怎么回事突然感觉四周无比的寂静，只听到一些鸟叫声。<strong>然后自己就不自觉地往水里看，水库的水比较深，不见底的那种，而且十分平静。</strong>这一看一下子一种莫名的恐惧涌上心头，吓得我脑子一片空白，赶紧拉着竹排的绳子往岸上靠。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么手机不再使用可拆卸电池？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1366399.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1366399.htm"/>
-        <updated>2023-06-26T17:39:10.115Z</updated>
-        <content type="html"><![CDATA[近日，欧盟各国对手机、笔记本和平板等电子产品的电池易于更换法案进行了投票，最终以587票赞成，9票反对，20票弃权，以绝大多数赞成通过了法案。这意味着手机可拆卸电池可能要回归了。然而，如今绝大多数只能手机都采用了封闭式电池，这种电池无法被用户自行更换。那么，为什么手机不再使用可拆卸电池呢？]]></content>
+        <title type="html"><![CDATA[iPhone 15细节曝光：苹果要干掉用了16年静音键 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1367375.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1367375.htm"/>
+        <updated>2023-06-26T11:32:16.000Z</updated>
+        <content type="html"><![CDATA[对于习惯了iPhone用户来说，如果把单独的静音键给拿去，那是相当不舒服的。<strong>据外媒最新消息称，苹果可能要干掉用了16年的静音按键，而从曝光的保护壳看，其确实在这么走了。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[实测30天，ROG掌机确实赢了 但Steam Deck好像也没输 (cnbeta一周点击排行)]]></title>
@@ -75,20 +75,6 @@
         <content type="html"><![CDATA[几天前一艘载着5位大佬前往深海泰坦尼克残骸观光潜艇失事，目前发现潜艇残骸5位大佬基本无生还可能，各路段子手主播纷纷出没嘲讽花费巨额船票（每位25万刀）前往送死，本可以轻轻松松坐家里看录像，不过有媒体扒出，早在17年前的经典动画《辛普森一家》或许早已预言了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[卷也没用的618：消费主义的泡沫破裂得挺安详 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1366531.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1366531.htm"/>
-        <updated>2023-06-21T10:31:40.000Z</updated>
-        <content type="html"><![CDATA[业界说这是最卷的一届618.但在消费者看来，这或许是卷也没用的一届618.前者没有错，因为这的确算得上有史以来电商平台们出血出得最简单粗暴朴实无华的一届618.连送红包的活动都比前两年精简得多，乱七八糟的活动纷纷返璞归真，淘宝以前用来放大牌直播间的焦点位置都给了“好价”频道，京东则干脆喊了“买贵赔双倍”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 15细节曝光：苹果要干掉用了16年静音键 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367375.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367375.htm"/>
-        <updated>2023-06-26T11:32:16.000Z</updated>
-        <content type="html"><![CDATA[对于习惯了iPhone用户来说，如果把单独的静音键给拿去，那是相当不舒服的。<strong>据外媒最新消息称，苹果可能要干掉用了16年的静音按键，而从曝光的保护壳看，其确实在这么走了。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[梁家辉亲自认证“马自达不塞车” (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1367175.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1367175.htm"/>
@@ -101,13 +87,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1367069.htm"/>
         <updated>2023-06-26T17:39:11.134Z</updated>
         <content type="html"><![CDATA[一张神秘截图，曝光了还未推出的<strong>ChatGPT新功能</strong> （至少3个）。甚至对应的客户端源代码也被扒了出来，还有人专门建了GitHub仓库来追踪代码的变化。根据他观察，相关部分代码正在加紧更新完善，也许离正式发布也不远了……]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加首款折叠屏手机外观首曝：直角中框、后置哈苏三摄 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1366449.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1366449.htm"/>
-        <updated>2023-06-24T17:38:53.277Z</updated>
-        <content type="html"><![CDATA[一加曾宣布其首款折叠屏新机将于今年三季度正式上市，随着发布了时间的临近，有关该机的消息也越来越多。海外博主“OnLeaks”公布了一加折叠屏手机OnePlus V Fold渲染图。<strong>可以看出，新机与OPPO Find X6一样，配有圆形相机模块，内置三颗镜头，还有哈苏调校。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4创造力竟全面碾压人类 最新创造力测试GPT4排名前1% (cnbeta一周点击排行)]]></title>
@@ -124,20 +103,11 @@
         <content type="html"><![CDATA[考察“泰坦尼克”号邮轮残骸的美国深海潜水器“泰坦号”由于在下潜过程中发生“灾难性内爆”，导致5名乘员全部死亡。事故发生后，潜艇的内部构造引发外界关注。据报道，<strong>这艘名为“泰坦号”的小型潜艇，是美国海底勘探公司海洋之门为旅游观光所设计，号称是世界上唯一能够搭载5人的碳纤维潜水器。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[德国电信：将继续购买华为5G设备 挑战欧盟不合理规则 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1366543.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1366543.htm"/>
-        <updated>2023-06-21T10:41:58.000Z</updated>
-        <content type="html"><![CDATA[据通信类媒体lightreading报道，德国最大的电信公司德国电信（Deutsche 
-Telekom）老板Höttges认为欧盟排斥华为构建5G网络的政策不合理，除非德国政府施压，否则将会继续和华为合作。他在一个小组会议上花了几分钟时间向地区政策制定者提问，并争辩说美国子公司
- T-Mobile US是他整个业务中最好和最具创新性的板块。他将挑战欧盟的某些法规。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更换CEO，马云刘强东嗅到了危险信号 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1366467.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1366467.htm"/>
-        <updated>2023-06-23T17:39:36.102Z</updated>
-        <content type="html"><![CDATA[6月20日消息，阿里巴巴集团宣布，张勇将于今年9月10日卸任董事会主席兼CEO职务，专职担任阿里云智能集团董事长兼CEO；同时，阿里执行副主席蔡崇信将出任董事会主席，淘天集团董事长吴泳铭出任阿里CEO。消息并不让人感到意外。此前，有媒体已放出马云重新介入经营的消息。]]></content>
+        <title type="html"><![CDATA[特斯拉L3能力藏不住了：无需手扶方向盘 966公里0提醒接管 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1367183.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1367183.htm"/>
+        <updated>2023-06-25T10:59:04.000Z</updated>
+        <content type="html"><![CDATA[特斯拉L3模式被黑客发现了！代号<strong>“一龙模式”</strong>，在此模式下，开启自动驾驶后不需手扶方向盘了。要知道，正常情况下，FSD要求驾驶员双手不能离开方向盘，且目光要保持专注。一旦系统检测到手离方向盘或视线偏离，会发出安全提醒，提醒达5次后将失去测试资格。然而这次破解之后，黑客脱手开了600英里（约966公里），没有收到一次安全提醒。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7999元起 国人买iPhone 14 Pro需9.5%年收入引热议 (cnbeta一周点击排行)]]></title>
@@ -145,5 +115,35 @@ Telekom）老板Höttges认为欧盟排斥华为构建5G网络的政策不合理
         <link href="https://www.cnbeta.com.tw/articles/tech/1366839.htm"/>
         <updated>2023-06-25T17:39:02.882Z</updated>
         <content type="html"><![CDATA[今日，<strong>一则“国人买iPhone 14 Pro需9.5%年收入”的话题登上微博热搜，</strong>引来众多网友热议，截稿前，话题今日阅读量已达9949.8万，2053条讨论。据了解，World of Statistics网站日前分享了全球购买iPhone 14 Pro 128GB版本需要花多少钱，并与当地平均年收入进行对比数据。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为供应链称已向Mate 60旗舰手机供货 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1367259.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1367259.htm"/>
+        <updated>2023-06-28T17:38:49.305Z</updated>
+        <content type="html"><![CDATA[去年9月份，华为发布了“捅破天”的Mate50，之后又在今年3月份发布了P60系列，虽然5G依然受限，但已经回归了高端旗舰阵营。从目前的节奏来说，华为的产品规划已经走上了正轨，将继续维持一年双旗舰的战略。按之前爆料，华为Mate60将会在今年9-10月份登场，与iPhone 15系列正面交锋。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鱼越养越少 园区放干水库里发现真凶：一条50斤鳄雀鳝 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1366773.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1366773.htm"/>
+        <updated>2023-06-22T11:28:19.000Z</updated>
+        <content type="html"><![CDATA[6月22日消息，园区里的鱼越养越少，工作人员不经意间看到真凶，最终选择放干水库里的水才将其捉拿归案。据媒体报道，本月20日，在广东中山树木园内，藏匿于园区水库一年多的鳄雀鳝被捕获，<strong>这条鳄雀鳝重50斤，体长一米三四</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄仁勋家族图首曝光 苏姿丰喊他表舅 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1366901.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1366901.htm"/>
+        <updated>2023-06-23T10:59:57.000Z</updated>
+        <content type="html"><![CDATA[显卡圈就是这么小，英伟达虽说一家独大，但创始人跟AMD现任CEO也有着巧妙的关系，所以你还指望显卡会大降价嘛....<strong>现在一张英伟达黄仁勋家族图首次在网上曝光，其中可以看清楚的看到，按照辈份来看，尽管黄仁勋才大苏姿丰六岁，但苏姿丰却要喊黄仁勋一声表舅。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[松下高端空调生产撤回日本 给国产空调压缩机技术提了个醒 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1367159.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1367159.htm"/>
+        <updated>2023-06-25T10:39:38.000Z</updated>
+        <content type="html"><![CDATA[日前，根据日本产经新闻报道，在日本国内销售的松下空调，约 9 成是在松下广州工厂生产。但从 2023 
+年起，松下的高端空调将悉数在日本本土生产。2024 年开始，松下的中端空调也将改为在日本滋贺县的草津工厂等地生产。这意味着松下空调的产能约 4 
+成回归了日本本土。]]></content>
     </entry>
 </feed>
