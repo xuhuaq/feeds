@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-07-02T05:38:33.737Z</updated>
+    <updated>2023-07-02T17:38:28.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -34,11 +34,26 @@
         <content type="html"><![CDATA[不知道大家有没有听说过 “ 洋垃圾 ” 这个词？这里我说的洋垃圾并不是字面意思上的垃圾，而是特指那些漂洋过海而来的国外品牌二手机，由于它们配置不俗并且价格低廉，所以挺受搞机党欢迎。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[挣扎18分钟 泰坦号潜水器失事前水下短信通信记录曝光]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1368387.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1368387.htm"/>
+        <updated>2023-07-01T10:33:59.000Z</updated>
+        <content type="html"><![CDATA[美国一艘名为“泰坦号”的小型观光潜水器发生事故。原计划是下潜到泰坦尼克号乘船的位置参观，结果却在3000多米的位置失联。目前部分残骸已经被打捞上来，从残骸来基本可以确认是发生了内爆，潜水器内5人全部遇难，无生还可能。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[国产操作系统，要变天了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1367767.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1367767.htm"/>
         <updated>2023-06-28T10:28:55.000Z</updated>
         <content type="html"><![CDATA[2003年7月，中国建设银行陕西省分行接到了一个重要任务——启动“国产Linux系统在金融领域的重大应用示范”课题的试点。课题目标是在建行陕西省分行用国产Linux操作系统替代业务中使用的SCO Unix 操作系统。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge送出5GB免费内置VPN流量以增强用户隐私]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1368139.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1368139.htm"/>
+        <updated>2023-07-01T17:38:18.139Z</updated>
+        <content type="html"><![CDATA[当您使用个人 Microsoft 帐户登录 Microsoft Edge 时，流行的 Web 浏览器 Microsoft Edge 现在每月提供
+ 5GB 免费内置 VPN 流量。 Edge 附带由 CloudFlare 提供支持的一键式 VPN 服务，旨在为用户提供额外的隐私层。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 15细节曝光：苹果要干掉用了16年静音键]]></title>
@@ -55,11 +70,11 @@
         <content type="html"><![CDATA[小时候调皮，有一次一个人偷偷去水库游泳，游了一会儿后我爬上一个竹排休息，不知道怎么回事突然感觉四周无比的寂静，只听到一些鸟叫声。<strong>然后自己就不自觉地往水里看，水库的水比较深，不见底的那种，而且十分平静。</strong>这一看一下子一种莫名的恐惧涌上心头，吓得我脑子一片空白，赶紧拉着竹排的绳子往岸上靠。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[真的要打？马斯克练习格斗照片曝光：漂亮的过肩摔]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367773.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367773.htm"/>
-        <updated>2023-06-28T10:30:34.000Z</updated>
-        <content type="html"><![CDATA[日前马斯克和扎克伯格约架的消息有了新一步的进展，就在今日，播客主持人Lex Fridman放出两条与马斯克练习格斗的照片，此前Fridman还曾放出与扎克伯格一起练习柔术的视频。从曝光的照片看，马斯克确实在很认真地练习，<strong>使用一记漂亮的过肩摔之后，将对手压到了身下并锁死</strong>，主持人介绍马斯克的力量和技巧给自己留下了深刻的印象。]]></content>
+        <title type="html"><![CDATA[因为四个字 Kindle彻底告别中国 说真的我有点难过]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1368361.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1368361.htm"/>
+        <updated>2023-07-01T02:30:40.000Z</updated>
+        <content type="html"><![CDATA[6 月 30 日，亚马逊正式关闭了中国地区的 Kindle 电子书店。<strong>曾号称是颠覆纸质书存在 Kindle ，在国内又要成为一颗时代的眼泪了。</strong>其实电子书店要关门这事，早在去年六月份亚马逊就提前预告了，只是没想到这一年时间过的如此之快。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 15 Pro 手机壳图片揭示了细微的设计变化]]></title>
@@ -67,13 +82,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1367617.htm"/>
         <updated>2023-06-30T05:38:44.804Z</updated>
         <content type="html"><![CDATA[iPhone 15 Pro型号将会有一些微小的设计改变，其中包括重新安置的电源和音量按钮等，根据新发布的预发布配件图片显示。这些图片中的一些是在微博上发布的，显示iPhone 15 Pro的电源和音量按钮的位置会比iPhone 14 Pro型号稍微降低。取代当前型号上的Lightning接口的iPhone 15 Pro的USB-C接口似乎也需要更大的底部切口。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰坦尼克残骸观光潜艇失事成定局 17年前《辛普森一家》早已预言]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/comic/1367219.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/comic/1367219.htm"/>
-        <updated>2023-06-26T17:39:11.134Z</updated>
-        <content type="html"><![CDATA[几天前一艘载着5位大佬前往深海泰坦尼克残骸观光潜艇失事，目前发现潜艇残骸5位大佬基本无生还可能，各路段子手主播纷纷出没嘲讽花费巨额船票（每位25万刀）前往送死，本可以轻轻松松坐家里看录像，不过有媒体扒出，早在17年前的经典动画《辛普森一家》或许早已预言了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韦伯望远镜发回让人惊叹的土星原始图像]]></title>
@@ -84,47 +92,18 @@
  Feed网站上找到，虽然它们并不像我们期待官方团队发布的最终处理过的图像那样丰富多彩，但在原始照片库中，有几个相当令人震撼的作品。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[梁家辉亲自认证“马自达不塞车”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367175.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367175.htm"/>
-        <updated>2023-06-25T10:52:37.000Z</updated>
-        <content type="html"><![CDATA[世纪大和解，官方盖章印证！若论哪位演员跟马自达的关系颇为紧密，非梁家辉莫属，在电影《黑金》里，他饰演的“周大哥”对迟到的老板说的一句话火爆至今：“我们坐的都是奔驰，劳斯莱斯，你坐马自达，怪不得你会塞车！你坐马自达，根本就没有资格开这个会哦。”]]></content>
+        <title type="html"><![CDATA[真的要打？马斯克练习格斗照片曝光：漂亮的过肩摔]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1367773.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1367773.htm"/>
+        <updated>2023-06-28T10:30:34.000Z</updated>
+        <content type="html"><![CDATA[日前马斯克和扎克伯格约架的消息有了新一步的进展，就在今日，播客主持人Lex Fridman放出两条与马斯克练习格斗的照片，此前Fridman还曾放出与扎克伯格一起练习柔术的视频。从曝光的照片看，马斯克确实在很认真地练习，<strong>使用一记漂亮的过肩摔之后，将对手压到了身下并锁死</strong>，主持人介绍马斯克的力量和技巧给自己留下了深刻的印象。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Edge送出5GB免费内置VPN流量以增强用户隐私]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368139.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368139.htm"/>
-        <updated>2023-07-01T17:38:18.139Z</updated>
-        <content type="html"><![CDATA[当您使用个人 Microsoft 帐户登录 Microsoft Edge 时，流行的 Web 浏览器 Microsoft Edge 现在每月提供
- 5GB 免费内置 VPN 流量。 Edge 附带由 CloudFlare 提供支持的一键式 VPN 服务，旨在为用户提供额外的隐私层。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉L3能力藏不住了：无需手扶方向盘 966公里0提醒接管]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367183.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367183.htm"/>
-        <updated>2023-06-25T10:59:04.000Z</updated>
-        <content type="html"><![CDATA[特斯拉L3模式被黑客发现了！代号<strong>“一龙模式”</strong>，在此模式下，开启自动驾驶后不需手扶方向盘了。要知道，正常情况下，FSD要求驾驶员双手不能离开方向盘，且目光要保持专注。一旦系统检测到手离方向盘或视线偏离，会发出安全提醒，提醒达5次后将失去测试资格。然而这次破解之后，黑客脱手开了600英里（约966公里），没有收到一次安全提醒。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这一击160公里/时 9.5万元索尼镜头被棒球击中报废]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367567.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367567.htm"/>
-        <updated>2023-06-27T10:55:57.000Z</updated>
-        <content type="html"><![CDATA[最近<strong>摄影师Eric Seals在拍摄棒球比赛时，遭到一个棒球的意外“袭击”，他的索尼FE 400mm F/2.8 GM OSS镜头被直接正中，镜片碎了一地。</strong>当时，这个棒球属于界外球，时速达到160公里以上。镜头已无法修复，但保险并不包括这种事故的赔偿。当然更庆幸的是，击中镜头总比击中他的头要好！]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大众CEO承认车内采用触控按键是个错误决定 让不少车主感到沮丧]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367585.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367585.htm"/>
-        <updated>2023-06-27T11:46:52.000Z</updated>
-        <content type="html"><![CDATA[现如今，越来越多车企出于成本、设计以及智能化等多方面的考量，选择使用触控式按键，来代替此前的实体按键。但这一升级，并非能让所有司机满意，尤其是盲操作空调按键式，时常令人抓狂。对此，大众汽车方面有清晰的认识。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爸爸给女儿买RTX 4060 Ti显卡当生日礼物 小女孩表情亮了]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1367891.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1367891.htm"/>
-        <updated>2023-07-01T17:38:18.152Z</updated>
-        <content type="html"><![CDATA[今天一张给女儿买显卡当生日礼物的买家秀火了，网友纷纷围观。在某电商的RTX 4060 Ti金属大师OC显卡的评价中，一位网友晒出自己女儿手持这枚显卡的照片，并写道“送给宝贝的生日礼物，他很喜欢。”而照片中的小女孩，明显一脸无奈，似乎对这个所谓的“生日礼物”一点儿兴趣都没有。]]></content>
+        <title type="html"><![CDATA[物理学家称可能发现了外星飞船残骸 元素组合在地球上极不寻常]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1368093.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1368093.htm"/>
+        <updated>2023-07-02T17:38:27.508Z</updated>
+        <content type="html"><![CDATA[据报道，来自哈佛大学的顶级物理学家阿维·勒布教授日前宣布，他可能在太平洋海底发现了“外星飞船”的残骸。勒布在2011年至2020年期间担任哈佛大学天文系系主任，现在是常春藤联盟大学“寻找外星人”伽利略项目的负责人。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[赚不到钱的网约车司机 正在寻找下一个营生]]></title>
@@ -134,6 +113,28 @@
         <content type="html"><![CDATA[<strong>“中年失业，就去开网约车”这条路，如今恐怕已被堵死。</strong>截至2023年4月，全国共发放网约车驾驶员证540.6万本，东莞、温州多个城市相继发布网约车饱和预警，三亚、长沙暂停受理网约车运输证新增业务。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[大众CEO承认车内采用触控按键是个错误决定 让不少车主感到沮丧]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1367585.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1367585.htm"/>
+        <updated>2023-06-27T11:46:52.000Z</updated>
+        <content type="html"><![CDATA[现如今，越来越多车企出于成本、设计以及智能化等多方面的考量，选择使用触控式按键，来代替此前的实体按键。但这一升级，并非能让所有司机满意，尤其是盲操作空调按键式，时常令人抓狂。对此，大众汽车方面有清晰的认识。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这一击160公里/时 9.5万元索尼镜头被棒球击中报废]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1367567.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1367567.htm"/>
+        <updated>2023-06-27T10:55:57.000Z</updated>
+        <content type="html"><![CDATA[最近<strong>摄影师Eric Seals在拍摄棒球比赛时，遭到一个棒球的意外“袭击”，他的索尼FE 400mm F/2.8 GM OSS镜头被直接正中，镜片碎了一地。</strong>当时，这个棒球属于界外球，时速达到160公里以上。镜头已无法修复，但保险并不包括这种事故的赔偿。当然更庆幸的是，击中镜头总比击中他的头要好！]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最全爆料汇总来：苹果今年下半年可能会推出这些新品]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1368157.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1368157.htm"/>
+        <updated>2023-06-30T03:25:28.000Z</updated>
+        <content type="html"><![CDATA[<strong>在“Vision 
+Pro”落地后，外界对苹果MR头显的关注程度略微消退，智能手机等传统产品也重新回到了苹果投资者的关注重点上。</strong>行情显示，苹果股价连日走高，最新市值已经接近3万亿美元的关口，支撑这一走势的因素与公司将要公布的硬件阵容密不可分。美国投行Wedbush也发布报告称，这家科技巨头将在未来一年到一年半的时间里实现“增长复兴”。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一保洁嫌吵关掉实验室电源 25年研究成果毁于一旦]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1367705.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1367705.htm"/>
@@ -141,10 +142,10 @@
         <content type="html"><![CDATA[程序员删库跑路的新闻时而有之，下面这件事似乎有过之而无不及。据媒体报道，位于美国纽约州的伦斯勒理工学院起诉保洁公司，指责保洁工粗心大意导致实验室损失至少百万美元。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为供应链称已向Mate 60旗舰手机供货]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367259.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367259.htm"/>
-        <updated>2023-06-28T17:38:49.305Z</updated>
-        <content type="html"><![CDATA[去年9月份，华为发布了“捅破天”的Mate50，之后又在今年3月份发布了P60系列，虽然5G依然受限，但已经回归了高端旗舰阵营。从目前的节奏来说，华为的产品规划已经走上了正轨，将继续维持一年双旗舰的战略。按之前爆料，华为Mate60将会在今年9-10月份登场，与iPhone 15系列正面交锋。]]></content>
+        <title type="html"><![CDATA[爸爸给女儿买RTX 4060 Ti显卡当生日礼物 小女孩表情亮了]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1367891.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1367891.htm"/>
+        <updated>2023-07-01T17:38:18.152Z</updated>
+        <content type="html"><![CDATA[今天一张给女儿买显卡当生日礼物的买家秀火了，网友纷纷围观。在某电商的RTX 4060 Ti金属大师OC显卡的评价中，一位网友晒出自己女儿手持这枚显卡的照片，并写道“送给宝贝的生日礼物，他很喜欢。”而照片中的小女孩，明显一脸无奈，似乎对这个所谓的“生日礼物”一点儿兴趣都没有。]]></content>
     </entry>
 </feed>
