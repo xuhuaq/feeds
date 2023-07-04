@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-04T05:40:17.065Z</updated>
+    <updated>2023-07-04T17:39:41.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[美父子躲过“泰坦号”观光潜艇之灾：最后一分钟打了退堂鼓 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367449.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367449.htm"/>
-        <updated>2023-06-27T17:38:15.581Z</updated>
-        <content type="html"><![CDATA[这可能是美国这对父子距离死神最近的时候！据海外媒体报道，一个名叫布鲁姆的美国投资富豪接受采访时透露，“泰坦”号深潜观光项目的运营公司老板拉什曾<strong>力邀他带着20岁的儿子参加深潜之旅</strong>。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[因为四个字 Kindle彻底告别中国 说真的我有点难过 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1368361.htm</id>
@@ -41,21 +34,6 @@
  5GB 免费内置 VPN 流量。 Edge 附带由 CloudFlare 提供支持的一键式 VPN 服务，旨在为用户提供额外的隐私层。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韦伯望远镜发回让人惊叹的土星原始图像 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1367741.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1367741.htm"/>
-        <updated>2023-06-28T04:33:46.000Z</updated>
-        <content type="html"><![CDATA[一个来自詹姆斯-韦伯望远镜的原始资料让我们第一次看到了从这颗带有标志性光环的行星上拍摄的近红外光谱仪（NIRSpec）的图像，。这些原始图像都可以在非官方的JSWT
- Feed网站上找到，虽然它们并不像我们期待官方团队发布的最终处理过的图像那样丰富多彩，但在原始照片库中，有几个相当令人震撼的作品。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 15 Pro 手机壳图片揭示了细微的设计变化 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367617.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367617.htm"/>
-        <updated>2023-06-30T05:38:44.804Z</updated>
-        <content type="html"><![CDATA[iPhone 15 Pro型号将会有一些微小的设计改变，其中包括重新安置的电源和音量按钮等，根据新发布的预发布配件图片显示。这些图片中的一些是在微博上发布的，显示iPhone 15 Pro的电源和音量按钮的位置会比iPhone 14 Pro型号稍微降低。取代当前型号上的Lightning接口的iPhone 15 Pro的USB-C接口似乎也需要更大的底部切口。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[物理学家称可能发现了外星飞船残骸 元素组合在地球上极不寻常 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1368093.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1368093.htm"/>
@@ -77,6 +55,14 @@
         <content type="html"><![CDATA[最近高考分数及录取分数线陆续公布，考生们怎么选专业成为热点话题，考研指导老师张雪峰因为反对学生上新闻专业引发热议，同时很多人也很推崇张雪峰，认为他看好的专业有指导意义，尤其是就业赚钱上。张雪峰老师到底推荐哪些专业呢？<strong>日前“张雪峰老师推荐的十大高薪专业”这一话题引发大家关注，</strong>具体推荐的专业如下：]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[韦伯望远镜发回让人惊叹的土星原始图像 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1367741.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1367741.htm"/>
+        <updated>2023-06-28T04:33:46.000Z</updated>
+        <content type="html"><![CDATA[一个来自詹姆斯-韦伯望远镜的原始资料让我们第一次看到了从这颗带有标志性光环的行星上拍摄的近红外光谱仪（NIRSpec）的图像，。这些原始图像都可以在非官方的JSWT
+ Feed网站上找到，虽然它们并不像我们期待官方团队发布的最终处理过的图像那样丰富多彩，但在原始照片库中，有几个相当令人震撼的作品。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[真的要打？马斯克练习格斗照片曝光：漂亮的过肩摔 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1367773.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1367773.htm"/>
@@ -84,11 +70,12 @@
         <content type="html"><![CDATA[日前马斯克和扎克伯格约架的消息有了新一步的进展，就在今日，播客主持人Lex Fridman放出两条与马斯克练习格斗的照片，此前Fridman还曾放出与扎克伯格一起练习柔术的视频。从曝光的照片看，马斯克确实在很认真地练习，<strong>使用一记漂亮的过肩摔之后，将对手压到了身下并锁死</strong>，主持人介绍马斯克的力量和技巧给自己留下了深刻的印象。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大众CEO承认车内采用触控按键是个错误决定 让不少车主感到沮丧 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367585.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367585.htm"/>
-        <updated>2023-06-27T11:46:52.000Z</updated>
-        <content type="html"><![CDATA[现如今，越来越多车企出于成本、设计以及智能化等多方面的考量，选择使用触控式按键，来代替此前的实体按键。但这一升级，并非能让所有司机满意，尤其是盲操作空调按键式，时常令人抓狂。对此，大众汽车方面有清晰的认识。]]></content>
+        <title type="html"><![CDATA[山姆大泡面桶已被炒至1999元一桶 黄牛放狠话：不包邮不议价 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1368659.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1368659.htm"/>
+        <updated>2023-07-03T11:09:59.000Z</updated>
+        <content type="html"><![CDATA[7月3日消息，一桶泡面遭到疯狂热炒，持续加价到1999元，这场面你见过没？据报道，近日，深圳最大的山姆旗舰店（Sam's 
+Club）开业，限量售卖一款名为“合味道泡面桶”的商品，这款泡面桶造型夸张，高达45厘米，售价168元，每人限购2桶，随即引发疯抢，在二手平台上，<strong>该泡面桶甚至被炒至1999元一桶</strong>，仍有不少消费者表示想要，而且黄牛还很硬气：不议价、不包邮！]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[越南一位老人50年没睡觉 可24小时不间断工作 (cnbeta一周点击排行)]]></title>
@@ -96,13 +83,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1368453.htm"/>
         <updated>2023-07-03T17:39:01.913Z</updated>
         <content type="html"><![CDATA[7月1日消息，《走近科学》里曾讲述过这样一个故事：<strong>一农村老太太号称从来不睡觉，已持续40年</strong>，且精力旺盛，不会感觉到疲倦，后来通过检查，发现了真相，至于是什么，这里先卖个关子。其实不止是这位老太，在越南，<strong>一位名叫Thai Ngoc的老人已经连续50年没睡过觉</strong>，报道称，老人出生于1942年，从20多岁开始就常常失眠，31岁那年，突然严重高烧，1个月之后体温才降下去，自此之后，他就再也无法像正常人那般进入梦乡。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赚不到钱的网约车司机 正在寻找下一个营生 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367959.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367959.htm"/>
-        <updated>2023-06-29T11:19:19.000Z</updated>
-        <content type="html"><![CDATA[<strong>“中年失业，就去开网约车”这条路，如今恐怕已被堵死。</strong>截至2023年4月，全国共发放网约车驾驶员证540.6万本，东莞、温州多个城市相继发布网约车饱和预警，三亚、长沙暂停受理网约车运输证新增业务。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[最全爆料汇总来：苹果今年下半年可能会推出这些新品 (cnbeta一周点击排行)]]></title>
@@ -113,11 +93,18 @@
 Pro”落地后，外界对苹果MR头显的关注程度略微消退，智能手机等传统产品也重新回到了苹果投资者的关注重点上。</strong>行情显示，苹果股价连日走高，最新市值已经接近3万亿美元的关口，支撑这一走势的因素与公司将要公布的硬件阵容密不可分。美国投行Wedbush也发布报告称，这家科技巨头将在未来一年到一年半的时间里实现“增长复兴”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这一击160公里/时 9.5万元索尼镜头被棒球击中报废 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1367567.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1367567.htm"/>
-        <updated>2023-06-27T10:55:57.000Z</updated>
-        <content type="html"><![CDATA[最近<strong>摄影师Eric Seals在拍摄棒球比赛时，遭到一个棒球的意外“袭击”，他的索尼FE 400mm F/2.8 GM OSS镜头被直接正中，镜片碎了一地。</strong>当时，这个棒球属于界外球，时速达到160公里以上。镜头已无法修复，但保险并不包括这种事故的赔偿。当然更庆幸的是，击中镜头总比击中他的头要好！]]></content>
+        <title type="html"><![CDATA[赚不到钱的网约车司机 正在寻找下一个营生 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1367959.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1367959.htm"/>
+        <updated>2023-06-29T11:19:19.000Z</updated>
+        <content type="html"><![CDATA[<strong>“中年失业，就去开网约车”这条路，如今恐怕已被堵死。</strong>截至2023年4月，全国共发放网约车驾驶员证540.6万本，东莞、温州多个城市相继发布网约车饱和预警，三亚、长沙暂停受理网约车运输证新增业务。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员开源项目停更 理由很奇特：为追妹子要去玩《原神》 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1367987.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1367987.htm"/>
+        <updated>2023-06-29T00:23:41.000Z</updated>
+        <content type="html"><![CDATA[Github上有很多程序员提供的开源项目，有些更新一段时间后就停更了，多数都是项目自身的问题，但是有位大神的停更理由非常奇特，他是为了追妹子而不得不去玩《原神》等二次元游戏。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[爸爸给女儿买RTX 4060 Ti显卡当生日礼物 小女孩表情亮了 (cnbeta一周点击排行)]]></title>
@@ -141,11 +128,24 @@ Pro”落地后，外界对苹果MR头显的关注程度略微消退，智能手
         <content type="html"><![CDATA[程序员删库跑路的新闻时而有之，下面这件事似乎有过之而无不及。据媒体报道，位于美国纽约州的伦斯勒理工学院起诉保洁公司，指责保洁工粗心大意导致实验室损失至少百万美元。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[东进世美肯计划研发新一代极紫外光刻胶 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1367465.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1367465.htm"/>
-        <updated>2023-07-03T17:39:01.928Z</updated>
-        <content type="html"><![CDATA[<code>在三星电子尝试重构EUV光刻胶供应链的推动下，东进世美肯所研发的极紫外光刻胶，已在去年年底被用于他们的一条量产工艺线。而相关媒体最新的报道显示，所研发的极紫外光刻胶已进入三星电子量产线的东进世美肯，也在准备为下一代的极紫外光刻机，也就是高数值孔径的极紫外光刻机（high-NA
- EUV）研发光刻胶。</code>]]></content>
+        <title type="html"><![CDATA[3名前员工偷游戏源代码自立门户 半年赚了1.5亿 界面长这模样 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1368237.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1368237.htm"/>
+        <updated>2023-06-30T11:08:13.000Z</updated>
+        <content type="html"><![CDATA[近日某网络科技有限公司在上海市报案称，网上出现了一款与该公司开发的某款策略类网络手机游戏极其雷同的疑似“盗版”游戏，怀疑该公司的源代码泄露，造成巨额经济损失。警方立即成立了专案组，从游戏代码、服务器着手，聘请专业电子数据司法鉴定所对两款游戏相似性进行比对。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信支付1000、2000元提现免费券回归：免手续费 可多次使用 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1368545.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1368545.htm"/>
+        <updated>2023-07-04T17:39:40.281Z</updated>
+        <content type="html"><![CDATA[由于每个身份证终身只有1000元的微信免费提现额度，因此超出后就要按提现金额的0.1%收取服务费，单笔最低0.1元/笔。同时，官方提供通过兑换提现免费券的方式获得免费额度，包括支付有优惠、收款有礼积分兑换两种。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4全线接入Windows 11重新定义操作系统 Copilot抢先上手 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1368461.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1368461.htm"/>
+        <updated>2023-07-04T17:39:40.282Z</updated>
+        <content type="html"><![CDATA[5月开发者大会上，微软预告了Windows Copilot将在6月上线。果然，6月的最后一天，微软的承诺兑现了！5月底，微软在开发者大会上，向全世界宣布：从6月开始，一打开Windows，你的GPT助手就会立马蹦出，任你吩咐。]]></content>
     </entry>
 </feed>
