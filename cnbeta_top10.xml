@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-07-07T05:40:12.788Z</updated>
+    <updated>2023-07-07T17:38:48.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[美国一艘名为“泰坦号”的小型观光潜水器发生事故。原计划是下潜到泰坦尼克号乘船的位置参观，结果却在3000多米的位置失联。目前部分残骸已经被打捞上来，从残骸来基本可以确认是发生了内爆，潜水器内5人全部遇难，无生还可能。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[物理学家称可能发现了外星飞船残骸 元素组合在地球上极不寻常]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1368093.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1368093.htm"/>
-        <updated>2023-07-02T17:38:27.508Z</updated>
-        <content type="html"><![CDATA[据报道，来自哈佛大学的顶级物理学家阿维·勒布教授日前宣布，他可能在太平洋海底发现了“外星飞船”的残骸。勒布在2011年至2020年期间担任哈佛大学天文系系主任，现在是常春藤联盟大学“寻找外星人”伽利略项目的负责人。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[张雪峰老师推荐十大高薪专业引发热议：计算机类霸榜 文科中仅法语入围]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1368463.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1368463.htm"/>
@@ -34,19 +27,18 @@
         <content type="html"><![CDATA[最近高考分数及录取分数线陆续公布，考生们怎么选专业成为热点话题，考研指导老师张雪峰因为反对学生上新闻专业引发热议，同时很多人也很推崇张雪峰，认为他看好的专业有指导意义，尤其是就业赚钱上。张雪峰老师到底推荐哪些专业呢？<strong>日前“张雪峰老师推荐的十大高薪专业”这一话题引发大家关注，</strong>具体推荐的专业如下：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Edge送出5GB免费内置VPN流量以增强用户隐私]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368139.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368139.htm"/>
-        <updated>2023-07-01T17:38:18.139Z</updated>
-        <content type="html"><![CDATA[当您使用个人 Microsoft 帐户登录 Microsoft Edge 时，流行的 Web 浏览器 Microsoft Edge 现在每月提供
- 5GB 免费内置 VPN 流量。 Edge 附带由 CloudFlare 提供支持的一键式 VPN 服务，旨在为用户提供额外的隐私层。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[硕士毕业生盗取全校学生个人信息 制作颜值打分网站供人查看]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1368551.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1368551.htm"/>
         <updated>2023-07-03T17:39:01.901Z</updated>
         <content type="html"><![CDATA[日前，“人大泄露信息”话题登上热搜，引发广泛关注。7月1日，北京，有网友发文称，中国人民大学一硕士毕业生盗取全校学生个人信息，<strong>制作颜值打分网站供人查看，被泄露的信息包含学号、姓名、学院、家乡、生日等。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻省理工学院发明一种兆瓦级电机 有望彻底改变航空旅行]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1369047.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1369047.htm"/>
+        <updated>2023-07-05T05:30:40.000Z</updated>
+        <content type="html"><![CDATA[麻省理工学院研究人员的一项新发明可以帮助航空业极大地缩减其碳足迹。这项发明将最终使大型飞机能够充分利用马达，而这在以前只有小型全电动飞机才能实现。这是因为在不使飞机超载的情况下，很难制造出使大型飞机离地所需的兆瓦级电机。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[北科大用“5G钢”做录取通知书 厚度最薄可达0.07mm]]></title>
@@ -64,13 +56,6 @@
 Club）开业，限量售卖一款名为“合味道泡面桶”的商品，这款泡面桶造型夸张，高达45厘米，售价168元，每人限购2桶，随即引发疯抢，在二手平台上，<strong>该泡面桶甚至被炒至1999元一桶</strong>，仍有不少消费者表示想要，而且黄牛还很硬气：不议价、不包邮！]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[越南一位老人50年没睡觉 可24小时不间断工作]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368453.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368453.htm"/>
-        <updated>2023-07-03T17:39:01.913Z</updated>
-        <content type="html"><![CDATA[7月1日消息，《走近科学》里曾讲述过这样一个故事：<strong>一农村老太太号称从来不睡觉，已持续40年</strong>，且精力旺盛，不会感觉到疲倦，后来通过检查，发现了真相，至于是什么，这里先卖个关子。其实不止是这位老太，在越南，<strong>一位名叫Thai Ngoc的老人已经连续50年没睡过觉</strong>，报道称，老人出生于1942年，从20多岁开始就常常失眠，31岁那年，突然严重高烧，1个月之后体温才降下去，自此之后，他就再也无法像正常人那般进入梦乡。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Pixel 8 Pro真机上手图片泄露]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1368855.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1368855.htm"/>
@@ -78,12 +63,11 @@ Club）开业，限量售卖一款名为“合味道泡面桶”的商品，这�
         <content type="html"><![CDATA[科技公司不喜欢泄密，而Google近年来一直是受泄密影响最大的公司之一，今天，Reddit上泄露了几张图片，又展示了Pixel 8 Pro的原型。这些图片后来被删除了，甚至连发布这些图片的账户也被连根拔掉，而这通常表明我们在这里看到的不是假货。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最全爆料汇总来：苹果今年下半年可能会推出这些新品]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368157.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368157.htm"/>
-        <updated>2023-06-30T03:25:28.000Z</updated>
-        <content type="html"><![CDATA[<strong>在“Vision 
-Pro”落地后，外界对苹果MR头显的关注程度略微消退，智能手机等传统产品也重新回到了苹果投资者的关注重点上。</strong>行情显示，苹果股价连日走高，最新市值已经接近3万亿美元的关口，支撑这一走势的因素与公司将要公布的硬件阵容密不可分。美国投行Wedbush也发布报告称，这家科技巨头将在未来一年到一年半的时间里实现“增长复兴”。]]></content>
+        <title type="html"><![CDATA[越南一位老人50年没睡觉 可24小时不间断工作]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1368453.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1368453.htm"/>
+        <updated>2023-07-03T17:39:01.913Z</updated>
+        <content type="html"><![CDATA[7月1日消息，《走近科学》里曾讲述过这样一个故事：<strong>一农村老太太号称从来不睡觉，已持续40年</strong>，且精力旺盛，不会感觉到疲倦，后来通过检查，发现了真相，至于是什么，这里先卖个关子。其实不止是这位老太，在越南，<strong>一位名叫Thai Ngoc的老人已经连续50年没睡过觉</strong>，报道称，老人出生于1942年，从20多岁开始就常常失眠，31岁那年，突然严重高烧，1个月之后体温才降下去，自此之后，他就再也无法像正常人那般进入梦乡。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[回国指导阿里后马云又开始周游世界 最新现身巴基斯坦]]></title>
@@ -93,6 +77,13 @@ Pro”落地后，外界对苹果MR头显的关注程度略微消退，智能手
         <content type="html"><![CDATA[马云前不久回国指导阿里巴巴工作之后，就开始了周游世界的旅程。此前考察了孟加拉国和尼泊尔，而近日则现身于身巴基斯坦，<strong>当地前国务部长、 NutShell集团的创始人阿兹法尔·阿赫桑还在社交平台上晒出了和马云的合照。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[物理学家证明平行世界不可能彼此之间截然不同]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1368891.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1368891.htm"/>
+        <updated>2023-07-04T11:32:38.000Z</updated>
+        <content type="html"><![CDATA[筑波大学通过数学证明，正如理论物理学中的超弦理论所预测的那样，平行世界在某些条件下也会经历同样的极端变化（“爆炸”）。 这项研究进一步证实了这两个世界（A 侧和 B 侧）的相互关联性，强调了这些理论结构中镜像对称的一个重要方面。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全新体验版Windows QQ发布：64位NT架构、全新UI界面]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1368779.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1368779.htm"/>
@@ -100,11 +91,12 @@ Pro”落地后，外界对苹果MR头显的关注程度略微消退，智能手
         <content type="html"><![CDATA[腾讯QQ宣布<a href="https://im.qq.com/pcqq/index.shtml" target="_blank" textvalue="全新体验版Windows QQ登场">全新体验版Windows QQ登场</a>。官方介绍新增64位版本支持，基于NT架构，正式实现macOS、Linux、Windows三端统一。此外，采用全新UI界面、支持表情分类和黄脸超级表情、夜间模式一键开启等。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3名前员工偷游戏源代码自立门户 半年赚了1.5亿 界面长这模样]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1368237.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1368237.htm"/>
-        <updated>2023-06-30T11:08:13.000Z</updated>
-        <content type="html"><![CDATA[近日某网络科技有限公司在上海市报案称，网上出现了一款与该公司开发的某款策略类网络手机游戏极其雷同的疑似“盗版”游戏，怀疑该公司的源代码泄露，造成巨额经济损失。警方立即成立了专案组，从游戏代码、服务器着手，聘请专业电子数据司法鉴定所对两款游戏相似性进行比对。]]></content>
+        <title type="html"><![CDATA[三星Galaxy Z Fold 5真机图片浮出水面 手机在折叠时终于严丝合缝]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1368755.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1368755.htm"/>
+        <updated>2023-07-07T17:38:48.099Z</updated>
+        <content type="html"><![CDATA[不出所料，Galaxy Z Fold 
+5已成为今年被泄露最多的设备之一，而且理由很充分。三星即将推出的旗舰可折叠手机有很大的发展空间，因为市场格局已经发生了巨大的变化，而且在这个领域还有其他几个参与者。我们已经在非官方和官方渲染图中无数次看到这款手机的外观，今天，我们又有了一些真机照，它似乎解决了许多用户吐槽的问题。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[长江存储CEO陈南翔：全球化被破坏 设备不让买不让用 回购才公平]]></title>
@@ -135,6 +127,13 @@ Pro”落地后，外界对苹果MR头显的关注程度略微消退，智能手
         <content type="html"><![CDATA[RTX 4090率先引入了全新的12VHPWR 
 16针供电接口，最高供电能力达600W，但因为至今无人承认的原因，多次出现烧毁事件，甚至还有烧坏电源接口的。虽然后续的RTX 
 4080等显卡随着功耗降低，没再出现烧毁，但很显然，12VHPWR接口存在重大缺陷，不适合高功耗顶级显卡。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国女网红直播睡觉月入1447万 躺着就把钱赚了]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1369153.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1369153.htm"/>
+        <updated>2023-07-07T17:38:48.114Z</updated>
+        <content type="html"><![CDATA[现在网络上大家都知道网红赚钱容易，但是没有想到是这么容易，有人直播睡觉就能月入1447万。美国媒体报道，知名女网红凯特琳自称直播睡觉短短几小时就能赚1.5万美元（约人民币11万元）的可观收入，若再加上其它工作内容，每月收入高达200万美元（约人民币1447万元）。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[又见车内打伞 特斯拉、蔚来均中招：为何就是不配遮阳帘？]]></title>
