@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-11T05:39:04.147Z</updated>
+    <updated>2023-07-11T17:39:03.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[麻省理工学院发明一种兆瓦级电机 有望彻底改变航空旅行 (cnbeta一周点击排行)]]></title>
@@ -10,13 +10,6 @@
         <link href="https://www.cnbeta.com.tw/articles/science/1369047.htm"/>
         <updated>2023-07-05T05:30:40.000Z</updated>
         <content type="html"><![CDATA[麻省理工学院研究人员的一项新发明可以帮助航空业极大地缩减其碳足迹。这项发明将最终使大型飞机能够充分利用马达，而这在以前只有小型全电动飞机才能实现。这是因为在不使飞机超载的情况下，很难制造出使大型飞机离地所需的兆瓦级电机。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 8 Pro真机上手图片泄露 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368855.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368855.htm"/>
-        <updated>2023-07-04T11:06:45.000Z</updated>
-        <content type="html"><![CDATA[科技公司不喜欢泄密，而Google近年来一直是受泄密影响最大的公司之一，今天，Reddit上泄露了几张图片，又展示了Pixel 8 Pro的原型。这些图片后来被删除了，甚至连发布这些图片的账户也被连根拔掉，而这通常表明我们在这里看到的不是假货。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[30TB只卖700块 什么存储这么便宜？ (cnbeta一周点击排行)]]></title>
@@ -27,26 +20,11 @@
 2TB版为例，目前在致态（ZhiTai）长江存储京东自营旗舰店上售价为859元，折合429.5元每TB。而主流机械硬盘（4TB及以上）基本已经降低到了100-200元每TB。虽然机械硬盘看起来已经很便宜了，但市面上其实还有一种比机械硬盘还便宜的存储设备，那就是磁带了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北科大用“5G钢”做录取通知书 厚度最薄可达0.07mm (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368949.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368949.htm"/>
-        <updated>2023-07-05T17:39:44.253Z</updated>
-        <content type="html"><![CDATA[7月4日消息，高校新生录取工作陆续展开后，各种各样的新生录取通知书纷纷亮相，有的通知书内藏硬核技术，有的则是文化、艺术设计拉满。据北京科技大学官微介绍，今年北京科技大学本科录取通知书迎来全新改版，<strong>采用全球首创的“5G钢”，厚度最薄可达0.07mm，可以说是薄如蝉翼了。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理学家证明平行世界不可能彼此之间截然不同 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1368891.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1368891.htm"/>
-        <updated>2023-07-04T11:32:38.000Z</updated>
-        <content type="html"><![CDATA[筑波大学通过数学证明，正如理论物理学中的超弦理论所预测的那样，平行世界在某些条件下也会经历同样的极端变化（“爆炸”）。 这项研究进一步证实了这两个世界（A 侧和 B 侧）的相互关联性，强调了这些理论结构中镜像对称的一个重要方面。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy Z Fold 5真机图片浮出水面 手机在折叠时终于严丝合缝 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368755.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368755.htm"/>
-        <updated>2023-07-07T17:38:48.099Z</updated>
-        <content type="html"><![CDATA[不出所料，Galaxy Z Fold 
-5已成为今年被泄露最多的设备之一，而且理由很充分。三星即将推出的旗舰可折叠手机有很大的发展空间，因为市场格局已经发生了巨大的变化，而且在这个领域还有其他几个参与者。我们已经在非官方和官方渲染图中无数次看到这款手机的外观，今天，我们又有了一些真机照，它似乎解决了许多用户吐槽的问题。]]></content>
+        <title type="html"><![CDATA[逆天“魔法”正式解禁 GPT-4以来最强应用“代码解释器”上线 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1369867.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1369867.htm"/>
+        <updated>2023-07-10T17:39:14.352Z</updated>
+        <content type="html"><![CDATA[一个prompt就能分析数据、创建图表、编辑文件、执行数学运算！一夜之间，无数打工人的岗位被颠覆了。今天，ChatGPT代码解释器测试版正式向所有Plus用户开放，这或许是GPT-4有史以来最强大的功能。有了它之后，即使不是程序员，只需要用自然语言向ChatGPT下达指令，也可以完成需要复杂编程技术的任务。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一加手机“没骨气”：从不将就到不讲究 只求销量丢了口碑 (cnbeta一周点击排行)]]></title>
@@ -54,13 +32,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1369249.htm"/>
         <updated>2023-07-06T10:13:29.000Z</updated>
         <content type="html"><![CDATA[一加，曾是小而美手机的代名词，也是中国手机品牌在海外高端市场的代表之一。但随着2021年回归OPPO，以前只做旗舰的它正在尝试向大众市场扩张，产品系列、品牌营销等都在发生着剧烈的变化。很显然，它的老粉丝们还在学着适应。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回国指导阿里后马云又开始周游世界 最新现身巴基斯坦 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368861.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368861.htm"/>
-        <updated>2023-07-04T11:08:37.000Z</updated>
-        <content type="html"><![CDATA[马云前不久回国指导阿里巴巴工作之后，就开始了周游世界的旅程。此前考察了孟加拉国和尼泊尔，而近日则现身于身巴基斯坦，<strong>当地前国务部长、 NutShell集团的创始人阿兹法尔·阿赫桑还在社交平台上晒出了和马云的合照。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1克燃料等于8吨石油 中核合作全球首个全高温超导核聚变实验装置 (cnbeta一周点击排行)]]></title>
@@ -78,25 +49,25 @@
  “相互宝” 业务，并依法补偿消费者利益。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[逆天“魔法”正式解禁 GPT-4以来最强应用“代码解释器”上线 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1369867.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1369867.htm"/>
-        <updated>2023-07-10T17:39:14.352Z</updated>
-        <content type="html"><![CDATA[一个prompt就能分析数据、创建图表、编辑文件、执行数学运算！一夜之间，无数打工人的岗位被颠覆了。今天，ChatGPT代码解释器测试版正式向所有Plus用户开放，这或许是GPT-4有史以来最强大的功能。有了它之后，即使不是程序员，只需要用自然语言向ChatGPT下达指令，也可以完成需要复杂编程技术的任务。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新体验版Windows QQ发布：64位NT架构、全新UI界面 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368779.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368779.htm"/>
-        <updated>2023-07-05T17:39:44.265Z</updated>
-        <content type="html"><![CDATA[腾讯QQ宣布<a href="https://im.qq.com/pcqq/index.shtml" target="_blank" textvalue="全新体验版Windows QQ登场">全新体验版Windows QQ登场</a>。官方介绍新增64位版本支持，基于NT架构，正式实现macOS、Linux、Windows三端统一。此外，采用全新UI界面、支持表情分类和黄脸超级表情、夜间模式一键开启等。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国将结束对蚂蚁金服集团的监管整顿 罚款至少80亿元人民币 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1369589.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1369589.htm"/>
         <updated>2023-07-09T17:38:45.469Z</updated>
         <content type="html"><![CDATA[直接了解此事的消息人士称，中国当局可能最快在周五宣布对蚂蚁金服集团处以至少80亿元人民币（11亿美元）的罚款，从而结束这家金融科技公司长达数年的监管整顿。消息人士告诉路透社，中国人民银行一直在推动蚂蚁金服的改革，因为其370亿美元的首次公开募股在2020年底被否决，预计将在未来几天披露罚款细节。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[花30万买新能源车 我却快被晒成人干了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1369913.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1369913.htm"/>
+        <updated>2023-07-10T01:53:04.000Z</updated>
+        <content type="html"><![CDATA[最近的天气是真的热啊！北京气温已经逼近 40&nbsp;℃，人在北京的同事，甚至表示要去吐鲁番避暑。这么热的天，不仅人受不了，车也遭不住。<strong>尤其是那些弄了全景天幕的新能源车，车内温度随随便便就能到 60&nbsp;多度。</strong>要是没办法遥控车子开空调，那就只能像这样给车扇扇风了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉Model 3降价4120美元 最低约合人民币20.7万元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1369819.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1369819.htm"/>
+        <updated>2023-07-09T11:40:20.000Z</updated>
+        <content type="html"><![CDATA[特斯拉降价的信号灯又亮起了。经查，<strong>北美Model 3后轮驱动版目前提供4120美元的优惠，加上美国联邦税收抵免以及部分地区的激励政策，最低可以约合人民币20.7万元的价格入手。</strong>这意味着，美国已经成为Model 3全球售价最低的地方。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国女网红直播睡觉月入1447万 躺着就把钱赚了 (cnbeta一周点击排行)]]></title>
@@ -106,32 +77,11 @@
         <content type="html"><![CDATA[现在网络上大家都知道网红赚钱容易，但是没有想到是这么容易，有人直播睡觉就能月入1447万。美国媒体报道，知名女网红凯特琳自称直播睡觉短短几小时就能赚1.5万美元（约人民币11万元）的可观收入，若再加上其它工作内容，每月收入高达200万美元（约人民币1447万元）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为防晒电动车主出奇招：车顶“绿了” (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1368939.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1368939.htm"/>
-        <updated>2023-07-08T17:39:01.321Z</updated>
-        <content type="html"><![CDATA[高温来袭，一些新能源车主可真的是体验到了“通透”的代价。为了保证车内视野，很多电车会配备一大块天幕，虽然号称可阻挡99%以上的紫外线，但在大太阳底下，<strong>车内的乘客还是免不了被晒得头皮发麻</strong>，因此很多人想出了各种应对方法，常见的如戴着草帽开车、乘车，还有人在车里撑起了遮阳伞，另有司机在天幕下面贴上了旧报纸等，目的只有一个：防止被太阳直射。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公众号文案毁三观：女生卖掉有好感男生送的演唱会门票创业 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368871.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368871.htm"/>
-        <updated>2023-07-04T11:13:46.000Z</updated>
-        <content type="html"><![CDATA[日前，苹果官方微信公众号“Apple”发布了一篇“用Mac的斜杠青年，杠上开了什么花”的文章，其中部分文案被网友吐槽毁三观。文章主要讲的是各行各业且拥有多重身份的年轻人使用Mac的经历，起初文案都还正常，但在介绍到一位拥有材料学硕士、文创品牌主理人、博主身份的女生时，文案突然转变风格。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我国一千年玻璃鸭是全球限量款：仅一件 用途成谜 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1369813.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1369813.htm"/>
-        <updated>2023-07-09T11:37:35.000Z</updated>
-        <content type="html"><![CDATA[我国文化传承历史悠久，古人制作的一些艺术品，或许至今我们还不能了解其背后的艺术形式以及实际用途。据报道，<strong>收藏在辽宁省博物馆的鸭形玻璃器，深埋地下1500多年，目前全世界仅出土一件。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男子107万提新车发现竟是翻新车 退一赔三获赔428万 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1369159.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1369159.htm"/>
-        <updated>2023-07-10T17:39:14.367Z</updated>
-        <content type="html"><![CDATA[买车过程中，如果遭到欺诈，可以拿起法律武器为自己维权。尤其是在跟平台方交易，如果对方欺诈成立，可获得退一赔三的惩罚性赔偿。而下文的罗先生，获得退一赔三补偿后，购车预算也由奔驰直接升级到了法拉利。据报道，<strong>罗某向启隆公司购买一台奔驰GLS 450平行进口汽车，金额为107万元。</strong>罗某与启隆公司签订合同，购车发票由通利华公司出具。]]></content>
+        <title type="html"><![CDATA[民间有大神 Windows 95/98/2000/XP都能打补丁了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1369917.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1369917.htm"/>
+        <updated>2023-07-10T01:54:22.000Z</updated>
+        <content type="html"><![CDATA[如果你还在使用老版本的Windows系统，由于微软官方早已停止支持，想通过官方渠道打补丁更新是不可能的了，但好在民间有决定高手，一个名为“<strong>Windows Update Restored</strong>”的项目已经开始登场。这个项目的目标就是<strong>为老系统重新打通Windows Update，让它们可以继续打补丁，修复Bug或者安全漏洞。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[悬赏1000万的狗已找到 主人只给了5000 (cnbeta一周点击排行)]]></title>
@@ -141,10 +91,59 @@
         <content type="html"><![CDATA[7月9日，一份“悬赏1000万人民币寻狗”的启事引发关注和热议。“郑州流浪动物领养中心”发布的这则启事称，狗主人走丢一只爱犬天狼，一只八岁半的雄性退役军犬，经过特殊训练，为国家做出过巨大贡献，绝对不会刻意伤害任何人。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国商务部决定对镓、锗相关物项实施出口管制 全球半导体产业将受影响 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1368771.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1368771.htm"/>
-        <updated>2023-07-10T17:39:14.370Z</updated>
-        <content type="html"><![CDATA[7月3日，商务部与海关总署发布公告，宣布对镓、锗相关物项实施出口管制。未经许可，不得出口。其中，<strong>镓类物项包括：金属镓、氮化镓、氧化镓、磷化镓、砷化镓、铟镓砷、硒化镓、锑化镓。锗类物项包括：金属锗、区熔锗锭、磷锗锌、锗外延生长衬底、二氧化锗、四氯化锗。</strong>]]></content>
+        <title type="html"><![CDATA[我国一千年玻璃鸭是全球限量款：仅一件 用途成谜 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1369813.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1369813.htm"/>
+        <updated>2023-07-09T11:37:35.000Z</updated>
+        <content type="html"><![CDATA[我国文化传承历史悠久，古人制作的一些艺术品，或许至今我们还不能了解其背后的艺术形式以及实际用途。据报道，<strong>收藏在辽宁省博物馆的鸭形玻璃器，深埋地下1500多年，目前全世界仅出土一件。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网曝李咏女儿法图麦将作为演员出道 精通五种语言 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1370017.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1370017.htm"/>
+        <updated>2023-07-11T17:39:01.824Z</updated>
+        <content type="html"><![CDATA[7月10日，有业内人士晒出李咏女儿法图麦的写真，并配文“欢迎我司新人演员——法图麦·李”，宣布李咏女儿法图麦将作为演员出道。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《暗黑破坏神4》第一赛季信息/新职业血骑士公布 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1369463.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1369463.htm"/>
+        <updated>2023-07-07T05:43:04.000Z</updated>
+        <content type="html"><![CDATA[暴雪日前在开发者直播#5节目中分享了关于《暗黑破坏神4》的更新消息，包括第一赛季前瞻，以及即将上线的游戏体验更新，还有新职业血骑士。首先是第一赛季的预告片。赛季标题是“Season of the Malignant”，将于2023年7月20日开始。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子107万提新车发现竟是翻新车 退一赔三获赔428万 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1369159.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1369159.htm"/>
+        <updated>2023-07-10T17:39:14.367Z</updated>
+        <content type="html"><![CDATA[买车过程中，如果遭到欺诈，可以拿起法律武器为自己维权。尤其是在跟平台方交易，如果对方欺诈成立，可获得退一赔三的惩罚性赔偿。而下文的罗先生，获得退一赔三补偿后，购车预算也由奔驰直接升级到了法拉利。据报道，<strong>罗某向启隆公司购买一台奔驰GLS 450平行进口汽车，金额为107万元。</strong>罗某与启隆公司签订合同，购车发票由通利华公司出具。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28年过去了 这个软件的40天试用期还没结束 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1369797.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1369797.htm"/>
+        <updated>2023-07-09T11:20:14.000Z</updated>
+        <content type="html"><![CDATA[各位记得这个图标么？WinRAR 。就那个压缩软件。前两天他们官推突然发了一个卑微的 meme 图。<strong>家都快烧没了，但狗依然淡定地坐椅子上，说了句：THIS IS FINE ……</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费可商用 阿里巴巴全新可变字体发布 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1369103.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1369103.htm"/>
+        <updated>2023-07-05T11:04:55.000Z</updated>
+        <content type="html"><![CDATA[阿里巴巴又推出三款全新字体，<strong>分别为阿里妈妈方圆体、阿里妈妈灵动体、阿里妈妈刀隶体。其中阿里妈妈方圆体为双轴可变字体，阿里妈妈灵动体为四轴可变字体，全部永久免费正版商用。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歌手CoCo李玟于家中轻生 与世长辞 终年48岁 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/music/1369213.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/music/1369213.htm"/>
+        <updated>2023-07-11T17:39:02.863Z</updated>
+        <content type="html"><![CDATA[歌后李玟早前经历婚变传闻，又受到脚伤困扰。今日（5日）突然传出死讯，终年48岁，其家姐Carol &amp; Nancy发出其离世消息。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烧光170亿，安徽造车新势力破产倒闭，9年只交付一台电驴 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1369373.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1369373.htm"/>
+        <updated>2023-07-11T17:39:02.864Z</updated>
+        <content type="html"><![CDATA[“练习”时长9年的造车新势力，倒闭了。最新信息显示，<strong>奇点汽车</strong>，现在被一众债权人申请<strong>破产审查</strong>。其实更早，奇点汽车就已经被曝大规模欠薪、资不抵债，被法院强制执行…创业9年，奇点最初被安徽铜陵、湖南株洲、江苏苏州等地方政府投资下注，还是老东家360周鸿祎投的第一家造车新势力，前前后后公开的融资一共170亿元。]]></content>
     </entry>
 </feed>
