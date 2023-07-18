@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-07-18T05:38:29.119Z</updated>
+    <updated>2023-07-18T17:38:36.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[特斯拉“纯电越野玩具车”国内将上市：售价1.19万 能跑12公里]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1370219.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1370219.htm"/>
-        <updated>2023-07-12T17:38:57.338Z</updated>
-        <content type="html"><![CDATA[特斯拉将在中国市场上市“纯电越野摩托”，这款车主要针对儿童而设计，形似ATV，全名为Cyberquad For Kids早在2021年底，特斯拉就在其海外官方商店上架了这款产品，<strong>其设计最高时速8km/h，内置锂离子电池，最大行驶里程为13km，售11990元</strong>。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[研究认为华为有望通过5G手机的回归突破美国禁令]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1370423.htm</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[<strong>路透社报道，据研究机构称，华为技术公司准备在今年年底前重新进入5G智能手机行业。这预示着该公司有可能卷土重来，美国的设备销售禁令此前使其消费电子业务遭受重创。</strong>消息人士称，华为能够利用其在半导体设计工具和中芯国际集成电路制造有限公司（SMIC）芯片制造方面的优势，在国内获得5G芯片。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星Galaxy Z Fold5外观曝光：厚度感人]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1370181.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1370181.htm"/>
-        <updated>2023-07-11T11:33:40.000Z</updated>
-        <content type="html"><![CDATA[<strong>三星Galaxy Z Fold5的真机照片最近在Reddit社区曝光，整体设计与上一代基本一致。</strong>从曝光的图片来看，Galaxy Z Fold5依旧显得厚重，较上一代没有太大变化，目前国产品牌的折叠屏手机的厚度已经完全将其碾压。]]></content>
+        <title type="html"><![CDATA[大众ID.3在德国卖4万欧 中国只卖1.5万欧 德国网友怒了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371191.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371191.htm"/>
+        <updated>2023-07-17T17:38:43.838Z</updated>
+        <content type="html"><![CDATA[作为欧洲最火的电动车，大众ID.3如今已连续多月霸占欧洲电动车销冠的称号。但在异常内卷的中国市场，大众ID.3却并没有那么受人追捧。统计数据显示，<strong>今年6月份，大众ID.3的销量仅为1819辆，</strong>国内销量排名已经来到了200名开外，所占上汽大众的厂商份额也只有1.93%。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国唯一稀土矿厂希望打破中国主导地位]]></title>
@@ -35,32 +28,18 @@
  万吨稀土氧化物（REO）当量，是越南、巴西或俄罗斯的两倍，相比之下美国则处于弱势。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[67岁比尔·盖茨与女友现身亿万富翁夏令营 一起听扎克伯格演讲]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371123.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371123.htm"/>
+        <updated>2023-07-16T10:35:48.000Z</updated>
+        <content type="html"><![CDATA[据《每日邮报》7月14日报道，7月12日，67岁的微软创始人比尔·盖茨与女友宝拉·赫德合体现身太阳谷的亿万富翁夏令营，一起听另一位科技大亨马克·扎克伯格演讲，晚些时候还被拍到与朋友们聚餐，度过了一段非常美好的时光。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[初代Windows 11即将寿终正寝]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1370281.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1370281.htm"/>
         <updated>2023-07-13T17:38:41.963Z</updated>
         <content type="html"><![CDATA[不久前，微软停止了Windows 10 21H2版本的支持服务，使22H2版本成为唯一受支持的Windows 10版本。尽管Windows 10的继任者仍然让人感觉又新鲜感，但现在是时候讨论它即将结束的生命了。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些既喝咖啡又喝茶的人、后来怎么样了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1370063.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1370063.htm"/>
-        <updated>2023-07-12T17:38:57.290Z</updated>
-        <content type="html"><![CDATA[如果评选当代人离不开的三大饮品，那可乐、奶茶、咖啡、茶的票选估计名列前茅。可乐和奶茶下肚，除了带来快乐，也可能带来肥胖、心血管问题。那么，<strong>当咖啡和茶被一饮而尽，又会如何？</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一年千亿研发 为什么华为专利费才收了不到40亿元？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371075.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371075.htm"/>
-        <updated>2023-07-17T17:38:43.825Z</updated>
-        <content type="html"><![CDATA[一部智能手机，集合了芯片、屏幕、电池、通讯等众多技术，历来是各种专利大战的重要战场。往远了说，有苹果、三星历时七年的“世纪大战”，双方均提出向对方索赔数十亿美元的专利诉讼；往近了说，前不久OPPO、vivo因为诺基亚的专利“狙击”，直接暂停了在德国的产品销售。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称比亚迪20亿出口订单要求印度先付全款]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1370565.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1370565.htm"/>
-        <updated>2023-07-16T17:38:55.194Z</updated>
-        <content type="html"><![CDATA[近日，《印度时报》等媒体的相关报道引起了多方关注，报道称今年上半年印度计划招标采购1000辆电动公交车，并和中国比亚迪公司进入谈判阶段，<strong>这批订单的总价格约为228亿卢比（约合人民币20亿</strong>）。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“不限速高速公路”年底开通 全长161公里]]></title>
@@ -70,6 +49,13 @@
         <content type="html"><![CDATA[7月15日消息，很多人都羡慕德国不限速高速，可以开着车在上面尽情体验速度与激情，不要着急，<strong>国内首条不限速高速将于今年底正式开通</strong>。据悉，该高速名称为起杭绍甬高速路，<strong>全场161公里，中途没有收费站，采用自有流收费方式</strong>，自由流收费方式相当于升级版的ETC，通过在高速上设置摄像头、传感器等，当车辆通过后便可记录，然后自行扣费。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一年千亿研发 为什么华为专利费才收了不到40亿元？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371075.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371075.htm"/>
+        <updated>2023-07-17T17:38:43.825Z</updated>
+        <content type="html"><![CDATA[一部智能手机，集合了芯片、屏幕、电池、通讯等众多技术，历来是各种专利大战的重要战场。往远了说，有苹果、三星历时七年的“世纪大战”，双方均提出向对方索赔数十亿美元的专利诉讼；往近了说，前不久OPPO、vivo因为诺基亚的专利“狙击”，直接暂停了在德国的产品销售。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows 11新版25905发布：内核重写 C/C++语言被Rust取代]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1370665.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1370665.htm"/>
@@ -77,11 +63,41 @@
         <content type="html"><![CDATA[今晨，微软面向Canary通道的Insider会员推送了Windows 11新预览版，操作系统版本号Build 25905。升级后，桌面右下角的水印恢复为RS_PRERELEASE。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大众ID.3在德国卖4万欧 中国只卖1.5万欧 德国网友怒了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371191.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371191.htm"/>
-        <updated>2023-07-17T17:38:43.838Z</updated>
-        <content type="html"><![CDATA[作为欧洲最火的电动车，大众ID.3如今已连续多月霸占欧洲电动车销冠的称号。但在异常内卷的中国市场，大众ID.3却并没有那么受人追捧。统计数据显示，<strong>今年6月份，大众ID.3的销量仅为1819辆，</strong>国内销量排名已经来到了200名开外，所占上汽大众的厂商份额也只有1.93%。]]></content>
+        <title type="html"><![CDATA[消息称比亚迪20亿出口订单要求印度先付全款]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1370565.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1370565.htm"/>
+        <updated>2023-07-16T17:38:55.194Z</updated>
+        <content type="html"><![CDATA[近日，《印度时报》等媒体的相关报道引起了多方关注，报道称今年上半年印度计划招标采购1000辆电动公交车，并和中国比亚迪公司进入谈判阶段，<strong>这批订单的总价格约为228亿卢比（约合人民币20亿</strong>）。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国电信App停办eSIM手表一号双终端等业务]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371153.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371153.htm"/>
+        <updated>2023-07-16T11:09:40.000Z</updated>
+        <content type="html"><![CDATA[此前中国联通和中国移动已经在部分地区暂停办理了eSIM手表业务，包括一号双终端、独立eSIM都不能新开卡了。近日，中国电信也已经跟进。中国电信App发布公告称：自2023年7月12日起，由于业务维护升级，<strong>本App暂停办理eSIM手表一号双终端与独立eSIM业务办理，恢复办理时间另行通知。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15 Pro Max手机壳曝光 摄像头竟然这么大？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1370497.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1370497.htm"/>
+        <updated>2023-07-16T17:38:55.265Z</updated>
+        <content type="html"><![CDATA[7月12日，iPhone 15 Pro Max的手机壳在网上曝光，从中可一窥新机的造型，它的设计应该和iPhone 14 Pro Max差不多。不过，曝光的iPhone 15 Pro Max手机壳有一点值得注意，<strong>那就是摄像头区域似乎变得更大了。</strong>目前，iPhone 15系列大概的尺寸、重量信息还不太明确，但从各种爆料来看，至少iPhone 15 Pro Max在这方面不会有很大的改善。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT的最大对手：谷歌Bard反击了 一张草图就能做网站]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1370989.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1370989.htm"/>
+        <updated>2023-07-15T01:41:24.000Z</updated>
+        <content type="html"><![CDATA[不知道大伙儿有没有觉得，自打这 ChatGPT 问世之后。除了上新过联网功能之外，好像就没啥大的更新了？跟风平浪静的 ChatGPT 
+比起来，其他的 AI 
+大模型反倒花样百出、争奇斗艳。前&nbsp;OpenAI&nbsp;的员工搞的&nbsp;Claude&nbsp;，不仅上新了文档上传功能，据说编码、数学和推理方面都有了不小的提升。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Li-Fi无线传输标准802.11bb正式发布：带宽高达224GB/s]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1370585.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1370585.htm"/>
+        <updated>2023-07-16T17:38:55.278Z</updated>
+        <content type="html"><![CDATA[大家对Wi-Fi可以说耳熟能详，最新标准已经演进到802.11be，即Wi-Fi 7，理论速率可达30Gbps。现在，更强的来了。<strong>IEEE今日正式签署802.11bb无线传输标准，即Li-Fi，基于光波的无线传输。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第九代丰田凯美瑞谍照曝光]]></title>
@@ -98,13 +114,6 @@
         <content type="html"><![CDATA[作为十亿级的国民APP，微信增加或者删除某些功能都会引发大家的关注，现在“如果微信显示已读的话”的话题也上了热搜，微信方面也回应了。<strong>针对这个话题，腾讯微信团队刚刚在官微回应：放心，没有“如果”。 </strong>这也意味着微信官方否认了做消息已读功能的可能性。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国产大飞机C919斩获海航30架订单]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1370667.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1370667.htm"/>
-        <updated>2023-07-15T17:38:43.289Z</updated>
-        <content type="html"><![CDATA[国产大飞机C919今年5月28日已经由东航正式投入商业运营，今年预计会接收5架C919，其他航空公司也在陆续跟进，海航航空今天宣布旗下子公司金鹏航空就签订了30架C919的协议。据海航公众号消息，2023年7月12日，海航航空集团有限公司与浦银金融租赁股份有限公司在海南签署战略合作框架协议。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Bard支持中文了 弱智吧实测结果在此]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1370931.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1370931.htm"/>
@@ -112,25 +121,27 @@
         <content type="html"><![CDATA[Claude 2发布之后，Google也按耐不住，立马官宣了Bard的全新版本。支持的语言变多了，其中就包括中文，让广大网友直接喜提新玩具。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 15 Pro Max手机壳曝光 摄像头竟然这么大？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1370497.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1370497.htm"/>
-        <updated>2023-07-16T17:38:55.265Z</updated>
-        <content type="html"><![CDATA[7月12日，iPhone 15 Pro Max的手机壳在网上曝光，从中可一窥新机的造型，它的设计应该和iPhone 14 Pro Max差不多。不过，曝光的iPhone 15 Pro Max手机壳有一点值得注意，<strong>那就是摄像头区域似乎变得更大了。</strong>目前，iPhone 15系列大概的尺寸、重量信息还不太明确，但从各种爆料来看，至少iPhone 15 Pro Max在这方面不会有很大的改善。]]></content>
+        <title type="html"><![CDATA[国产大飞机C919斩获海航30架订单]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1370667.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1370667.htm"/>
+        <updated>2023-07-15T17:38:43.289Z</updated>
+        <content type="html"><![CDATA[国产大飞机C919今年5月28日已经由东航正式投入商业运营，今年预计会接收5架C919，其他航空公司也在陆续跟进，海航航空今天宣布旗下子公司金鹏航空就签订了30架C919的协议。据海航公众号消息，2023年7月12日，海航航空集团有限公司与浦银金融租赁股份有限公司在海南签署战略合作框架协议。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Li-Fi无线传输标准802.11bb正式发布：带宽高达224GB/s]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1370585.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1370585.htm"/>
-        <updated>2023-07-16T17:38:55.278Z</updated>
-        <content type="html"><![CDATA[大家对Wi-Fi可以说耳熟能详，最新标准已经演进到802.11be，即Wi-Fi 7，理论速率可达30Gbps。现在，更强的来了。<strong>IEEE今日正式签署802.11bb无线传输标准，即Li-Fi，基于光波的无线传输。</strong>]]></content>
+        <title type="html"><![CDATA[杭州上空疑似出现马斯克的星链卫星：22个亮点连成一线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371223.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371223.htm"/>
+        <updated>2023-07-18T17:38:36.074Z</updated>
+        <content type="html"><![CDATA[来自杭州等地的多位网友在夜空中发现不明飞行物，最多22个亮点整齐地连成一线划过，速度很快，非常壮观。有网友认为是UFO，但更多网友怀疑是不是马斯克旗下SpaceX公司的星链卫星。对此，有天文爱好者表示，<strong>这很可能就是SpaceX公司的星链卫星，因为这些卫星处于近地轨道，特殊情况下肉眼就可以看到。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[67岁比尔·盖茨与女友现身亿万富翁夏令营 一起听扎克伯格演讲]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371123.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371123.htm"/>
-        <updated>2023-07-16T10:35:48.000Z</updated>
-        <content type="html"><![CDATA[据《每日邮报》7月14日报道，7月12日，67岁的微软创始人比尔·盖茨与女友宝拉·赫德合体现身太阳谷的亿万富翁夏令营，一起听另一位科技大亨马克·扎克伯格演讲，晚些时候还被拍到与朋友们聚餐，度过了一段非常美好的时光。]]></content>
+        <title type="html"><![CDATA[CentOS项目宣称"向所有人开放"]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371091.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371091.htm"/>
+        <updated>2023-07-18T17:38:36.076Z</updated>
+        <content type="html"><![CDATA[最近几周，红帽决定限制对RHEL源代码的访问，从而导致了AlmaLinux宣布运营方向改变，随后Rocky 
+Linux找到了获取源代码的新方法，甲骨文为此发表了有趣的声明，甚至SUSE也分叉了RHEL。现在公开的RHEL源代码基本上是CentOS 
+Stream的上游代码，未来的Red Hat Enterprise Linux版本最终将基于这些代码。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《奥本海默》首波口碑解禁：好评如潮 让人完全沉浸]]></title>
@@ -138,12 +149,5 @@
         <link href="https://hot.cnbeta.com.tw/articles/movie/1370495.htm"/>
         <updated>2023-07-14T17:38:57.607Z</updated>
         <content type="html"><![CDATA[《奥本海默》社交媒体口碑解禁！好评如潮，克里斯托弗·诺兰的执导大胆、震撼，令人完全沉浸。基里安·墨菲演技极佳，充满力量。《Total Film》Matt Maytum：太震撼了。基里安·墨菲表演非常棒。一部史诗般的历史片，诺兰对电影的感受力依旧：张力、结构、视角、令人惊叹的声音设计、非凡的视觉效果。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnePlus 12渲染图首次亮相 展示潜望式摄像头和与前代产品相同的设计]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1370501.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1370501.htm"/>
-        <updated>2023-07-17T17:38:43.869Z</updated>
-        <content type="html"><![CDATA[一加今年将推出多款令人期待的设备，包括其可折叠手机，虽然我们之前已经了解过这款手机，但关于经典机型的继任者OnePlus 12的消息并不多。今天我们终于有了这款即将推出的旗舰机的一些渲染图，证实了过去的一些传言，并最终带来了与其上一款手机感觉更加一致的设计。]]></content>
     </entry>
 </feed>
