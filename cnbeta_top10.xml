@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-07-24T05:39:06.453Z</updated>
+    <updated>2023-07-24T17:38:57.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[马斯克的火箭又把地球电离层穿了一个洞]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1372405.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1372405.htm"/>
+        <updated>2023-07-23T17:38:43.923Z</updated>
+        <content type="html"><![CDATA[据航天专家称，埃隆·马斯克的太空探索公司SpaceX最近的一次发射又在地球电离层上造成了一个暂时的空洞。SpaceX从加州范登堡太空部队基地发射的“猎鹰9号”火箭在天空中留下了微弱的红光，这是电离层出现空洞的标志。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拐弯突破美国禁令 长江存储神秘闪存曝光]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1371675.htm</id>
@@ -21,15 +28,6 @@ NAND闪存做到了232层堆叠，存储密度15.47Gb每平方毫米，而且传
         <content type="html"><![CDATA[日前，海外媒体在北美街头拍摄到了一组全新特斯拉Model 3的路试谍照。从最新的谍照中我们看到，该车与此前曝光的谍照基本一致，车头部分依旧被严实的覆盖。<strong>此前有消息透露，全新的特斯拉Model 3将与今年第三季度开始生产，但目前特斯拉官方并未对此事作出回应。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星3nm芯片被证实 中国公司尝螃蟹]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371869.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371869.htm"/>
-        <updated>2023-07-21T17:38:34.478Z</updated>
-        <content type="html"><![CDATA[在3nm工艺量产上，台积电与三星可谓一时瑜亮，苹果iPhone 
-15系列今年用的A17被认为是首个3nm芯片，但三星去年6月份就宣布3nm量产，现在终于有铁证可以证实。芯片行业的专业分析机构TechInsights日前发布了报告，证实Whatsminer
- M56S++加密货币矿机 ASIC 芯片中采用了<strong>来自三星的 3nm GAA 工艺，标志这 GAA 技术已经投入商业量产。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[仅169元！诺基亚全新125 2G功能机发布：扬声器致敬华为“星环”]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1372285.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1372285.htm"/>
@@ -37,11 +35,13 @@ NAND闪存做到了232层堆叠，存储密度15.47Gb每平方毫米，而且传
         <content type="html"><![CDATA[诺基亚手机今日宣布推出新款125功能机，支持大音量扬声器、配备“极为先进”的3.5mm耳机孔，<strong>甚至还有目前很多旗舰机都没有的无线外放收音机功能，预售到手价只要169元。</strong>诺基亚125背部采用纹理设计，具有一定的防滑作用。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 15系列模型机曝光：Pro版独享固态静音键、全系Type-C]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371367.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371367.htm"/>
-        <updated>2023-07-19T17:38:34.061Z</updated>
-        <content type="html"><![CDATA[iPhone 15系列目前进展十分顺利，供应链称将会在8月份投入批量生产，9月份如期发布。由于整体设计已经确定，很多配件商都已经拿到了新机的详细三围尺寸，以及新机的1:1模型，可以提前制作配件产品。]]></content>
+        <title type="html"><![CDATA[三星3nm芯片被证实 中国公司尝螃蟹]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371869.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371869.htm"/>
+        <updated>2023-07-21T17:38:34.478Z</updated>
+        <content type="html"><![CDATA[在3nm工艺量产上，台积电与三星可谓一时瑜亮，苹果iPhone 
+15系列今年用的A17被认为是首个3nm芯片，但三星去年6月份就宣布3nm量产，现在终于有铁证可以证实。芯片行业的专业分析机构TechInsights日前发布了报告，证实Whatsminer
+ M56S++加密货币矿机 ASIC 芯片中采用了<strong>来自三星的 3nm GAA 工艺，标志这 GAA 技术已经投入商业量产。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Chrome 115采用了类似于微软Edge的Windows 11 Mica外观]]></title>
@@ -74,13 +74,6 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <content type="html"><![CDATA[35万的宝马i3被调侃“工业垃圾”“杂牌电动”，但落地不到24万的宝马i3呢？最近，有车主晒出自己的订单<strong>，eDrive35L车型落地价只要23.48万元，包括裸车+保险+上牌</strong>，宝马第一次保险价格在万元以上，意味着裸车价只要22万多。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[杭州上空疑似出现马斯克的星链卫星：22个亮点连成一线]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371223.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371223.htm"/>
-        <updated>2023-07-18T17:38:36.074Z</updated>
-        <content type="html"><![CDATA[来自杭州等地的多位网友在夜空中发现不明飞行物，最多22个亮点整齐地连成一线划过，速度很快，非常壮观。有网友认为是UFO，但更多网友怀疑是不是马斯克旗下SpaceX公司的星链卫星。对此，有天文爱好者表示，<strong>这很可能就是SpaceX公司的星链卫星，因为这些卫星处于近地轨道，特殊情况下肉眼就可以看到。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微软Windows 11 23H2将集成AI助手 GPT4免费用]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1371561.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1371561.htm"/>
@@ -95,46 +88,11 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <content type="html"><![CDATA[埃隆·马斯克(Elon Musk)可能对特斯拉Cybertruck的定价做出了微妙的暗示，他表示其最有可能的竞争对手福特F-150 Lightning“有点贵”。而就在几小时前，该车价格下调了10000美元（约合人民币7.17万元）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[利润暴跌69%  华为净利近7年新低：靠收专利费“过冬”？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371941.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371941.htm"/>
-        <updated>2023-07-20T09:15:29.000Z</updated>
-        <content type="html"><![CDATA[与小米的专利纠纷悬而未决之时，华为再次放出了专利大招。日前，华为公布了其手机、Wi-Fi和物联网专利许可费率，这也意味着将专利收费对象进一步扩大，从手机拓展到了智能家居、智能工业等领域。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鼠标性能越好 Windows 11越卡顿？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371605.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371605.htm"/>
-        <updated>2023-07-20T17:38:22.782Z</updated>
-        <content type="html"><![CDATA[对于Windows 11系统，这一年多来大家的感受是一言难尽，反正时不时就曝出了莫名其妙的bug，7月份的周二补丁日中微软又修复了一个问题——玩家如果使用的鼠标性能指标越好，Windows 11可能就会越卡顿。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国加州一便利店诞生强力球彩票史上第三大奖金：10.8亿美元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372101.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372101.htm"/>
-        <updated>2023-07-23T17:38:43.848Z</updated>
-        <content type="html"><![CDATA[7月20日消息，很多人期待自己能够中大奖，这不，美国加州一名幸运儿就诞生了，他直接获得了10.8亿美元（约77.4亿元人民币）的大奖！当地时间7月19日，美国加州的一名强力球玩家购买彩票后喜中头奖，<strong>赢得了惊人的10.8亿美元，这是该彩票游戏历史上的第三大奖金</strong>。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[支付宝：外国朋友来中国可刷支付宝 只需2步]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1372211.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1372211.htm"/>
         <updated>2023-07-21T08:54:41.000Z</updated>
         <content type="html"><![CDATA[随着成都大运会、杭州亚运会的临近，越来越多的境外游客来到中国，衣食住行都少不了移动支付。对此，<strong>杭州亚运会官方支付合作伙伴支付宝在7月21日表示，此前已经完成了对境外用户在中国使用移动支付的支持。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克偷偷给工人涨工资？上海工厂员工奖金突然多了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371553.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371553.htm"/>
-        <updated>2023-07-18T10:07:06.000Z</updated>
-        <content type="html"><![CDATA[特斯拉上海工厂的几名员工表示，他们最近获得的第二季度绩效奖金大幅增加。其中三名员工向媒体透露，他们第二季度收到的奖金是月度基本工资的1.5倍，<strong>高于过去大多数员工因平均表现而获得的季度奖金（月薪的1.2倍）。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4“变笨”被斯坦福实锤 OpenAI已开始调查]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372043.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372043.htm"/>
-        <updated>2023-07-23T17:38:43.849Z</updated>
-        <content type="html"><![CDATA[GPT-4变笨，实锤了？？？来自斯坦福大学和UC伯克利大学的一篇最新论文显示：6月的GPT-4在一些任务上的表现客观上就是比3月的更差。比如他们用同样500道“判断给定整数是否为质数”的问题来测这两个版本，发现3月份的GPT-4答对了488个，而6月只对了12个……成功率直接从97.6%下降到2.4%！]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AMD新驱动让部分显卡游戏性能猛增60%以上 掀翻RTX 4080]]></title>
@@ -144,10 +102,52 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <content type="html"><![CDATA[AMD前几天发布了Adrenalin Edition显卡驱动23.7.1 WHQL驱动，主要内容以适配新的Vulkan API及修复bug为主，游戏性能及优化方面的内容没提。但是AMD这版驱动可能被低估了，实际表现可以说很惊人，<strong>部分游戏性能猛增30%到60%以上，甚至可以改变显卡市场竞争格局，RX 7900 XT显卡都可以超越RTX 4080显卡了。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克的火箭又把地球电离层穿了一个洞]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1372405.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1372405.htm"/>
-        <updated>2023-07-23T17:38:43.923Z</updated>
-        <content type="html"><![CDATA[据航天专家称，埃隆·马斯克的太空探索公司SpaceX最近的一次发射又在地球电离层上造成了一个暂时的空洞。SpaceX从加州范登堡太空部队基地发射的“猎鹰9号”火箭在天空中留下了微弱的红光，这是电离层出现空洞的标志。]]></content>
+        <title type="html"><![CDATA[利润暴跌69%  华为净利近7年新低：靠收专利费“过冬”？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371941.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371941.htm"/>
+        <updated>2023-07-20T09:15:29.000Z</updated>
+        <content type="html"><![CDATA[与小米的专利纠纷悬而未决之时，华为再次放出了专利大招。日前，华为公布了其手机、Wi-Fi和物联网专利许可费率，这也意味着将专利收费对象进一步扩大，从手机拓展到了智能家居、智能工业等领域。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国加州一便利店诞生强力球彩票史上第三大奖金：10.8亿美元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372101.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372101.htm"/>
+        <updated>2023-07-23T17:38:43.848Z</updated>
+        <content type="html"><![CDATA[7月20日消息，很多人期待自己能够中大奖，这不，美国加州一名幸运儿就诞生了，他直接获得了10.8亿美元（约77.4亿元人民币）的大奖！当地时间7月19日，美国加州的一名强力球玩家购买彩票后喜中头奖，<strong>赢得了惊人的10.8亿美元，这是该彩票游戏历史上的第三大奖金</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鼠标性能越好 Windows 11越卡顿？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371605.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371605.htm"/>
+        <updated>2023-07-20T17:38:22.782Z</updated>
+        <content type="html"><![CDATA[对于Windows 11系统，这一年多来大家的感受是一言难尽，反正时不时就曝出了莫名其妙的bug，7月份的周二补丁日中微软又修复了一个问题——玩家如果使用的鼠标性能指标越好，Windows 11可能就会越卡顿。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4“变笨”被斯坦福实锤 OpenAI已开始调查]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372043.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372043.htm"/>
+        <updated>2023-07-23T17:38:43.849Z</updated>
+        <content type="html"><![CDATA[GPT-4变笨，实锤了？？？来自斯坦福大学和UC伯克利大学的一篇最新论文显示：6月的GPT-4在一些任务上的表现客观上就是比3月的更差。比如他们用同样500道“判断给定整数是否为质数”的问题来测这两个版本，发现3月份的GPT-4答对了488个，而6月只对了12个……成功率直接从97.6%下降到2.4%！]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克偷偷给工人涨工资？上海工厂员工奖金突然多了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371553.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371553.htm"/>
+        <updated>2023-07-18T10:07:06.000Z</updated>
+        <content type="html"><![CDATA[特斯拉上海工厂的几名员工表示，他们最近获得的第二季度绩效奖金大幅增加。其中三名员工向媒体透露，他们第二季度收到的奖金是月度基本工资的1.5倍，<strong>高于过去大多数员工因平均表现而获得的季度奖金（月薪的1.2倍）。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[倪光南院士：中国已到全面用SSD等半导体存储时代]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372041.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372041.htm"/>
+        <updated>2023-07-24T17:38:56.638Z</updated>
+        <content type="html"><![CDATA[今日，中国工程院院士倪光南在2023世界半导体大会上表示，目前国内算力中心的存力相对不足，不能充分发挥投资效益。<strong>他表示，中国目前主要用机械硬盘存储，先进半导体存储技术滞后，而中国已经到了全面用半导体存储替代机械存储的时代，目前由于价格问题这一替代较慢。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌芯片，正在经历苹果时刻？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372229.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372229.htm"/>
+        <updated>2023-07-21T09:24:22.000Z</updated>
+        <content type="html"><![CDATA[2021年10月19日，一场秋季发布会上，搭载谷歌首款自研芯片 Tensor 的旗舰手机 Pixel 6 系列首次亮相，揭下了面纱的它不再神秘，却留下了更多让人遐想的空间。<strong>谷歌高级副总裁 Rick Osterloh 在发布会上表示，这款芯片是“公司历史上最大的移动硬件创新”，而谷歌CEO Sundar Pichai更是早早地在推特上晒出了Tensor芯片的照片，对于自研项目的自豪感溢于言表。</strong>]]></content>
     </entry>
 </feed>
