@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-25T05:38:25.678Z</updated>
+    <updated>2023-07-25T17:38:53.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[马斯克的火箭又把地球电离层穿了一个洞 (cnbeta一周点击排行)]]></title>
@@ -52,18 +52,18 @@ NAND闪存做到了232层堆叠，存储密度15.47Gb每平方毫米，而且传
 Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器的界面。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CNN：扎克伯格的晒娃照引发一个关键问题 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371521.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371521.htm"/>
-        <updated>2023-07-18T09:37:34.000Z</updated>
-        <content type="html"><![CDATA[扎克伯格最近在Instagram上发布了一张家庭合照（如图），并用表情包遮住了他5岁和7岁女儿的脸。此事在社交媒体上引发了不少负面评论，网友纷纷指责扎克伯格虚伪，因为其公司Meta在用户隐私保护方面的做法一直存在争议。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[给前女友送iPhone 14被抓包 网友控诉苹果商城bug (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1371967.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1371967.htm"/>
         <updated>2023-07-20T09:29:45.000Z</updated>
         <content type="html"><![CDATA[前不久苹果宣布Apple Store官方在线商店正式在微信小程序上线，所有产品免费送货，网友又多了一个购买渠道，然而这个事也给一位网友带来麻烦。<strong>V2EX网友爆料称这个小程序有重点bug，导致女朋友要和他分手。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉开放FSD转移 博主直呼中国用户成全球最大“冤种” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372569.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372569.htm"/>
+        <updated>2023-07-25T17:38:52.446Z</updated>
+        <content type="html"><![CDATA[7月22日早间，特斯拉中国发文表示，他们已经推出了FSD限时转移政策，<strong>如今特斯拉中国的用户可以进行FSD（完全自动驾驶能力）的转移。但是，此次的限时转移政策有不少要求。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[宝马i3落地不到24万 月销近5000创半年新高 网友：油改电我也认了 (cnbeta一周点击排行)]]></title>
@@ -73,11 +73,18 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <content type="html"><![CDATA[35万的宝马i3被调侃“工业垃圾”“杂牌电动”，但落地不到24万的宝马i3呢？最近，有车主晒出自己的订单<strong>，eDrive35L车型落地价只要23.48万元，包括裸车+保险+上牌</strong>，宝马第一次保险价格在万元以上，意味着裸车价只要22万多。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软Windows 11 23H2将集成AI助手 GPT4免费用 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371561.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371561.htm"/>
-        <updated>2023-07-18T10:11:10.000Z</updated>
-        <content type="html"><![CDATA[微软日前确认今年4季度推出Windows 11 23H2，这是Windows 11第二个年度更新。Windows 11 23H2具体有哪些功能升级，现在还不好说，但它会集成微软的Copilot，它很容易让人想到多年前的“曲别针”助手，<strong>但这次是AI技术加持的，Copilot就是Bing AI聊天的Windows桌面版，</strong>基于GPT-4打造，它可以帮助你自动化各种任务，包括复制粘贴、截图、管理多窗口等。]]></content>
+        <title type="html"><![CDATA[爆料称华为麒麟芯片不久后将回归 首发机型成悬念 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372783.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372783.htm"/>
+        <updated>2023-07-25T17:38:52.450Z</updated>
+        <content type="html"><![CDATA[由于众所周知的原因，在Mate 40系列之后，华为新机基本都是骁龙芯片，自家麒麟芯片几乎“绝版”，只有偶尔在官方部分翻新机上才能看见老款麒麟芯片的身影。麒麟芯片无法迭代，对华为手机业务确实造成了一些影响，不过，情况似乎在慢慢好起来，麒麟芯片或将重出江湖。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD新驱动让部分显卡游戏性能猛增60%以上 掀翻RTX 4080 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372215.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372215.htm"/>
+        <updated>2023-07-21T08:56:49.000Z</updated>
+        <content type="html"><![CDATA[AMD前几天发布了Adrenalin Edition显卡驱动23.7.1 WHQL驱动，主要内容以适配新的Vulkan API及修复bug为主，游戏性能及优化方面的内容没提。但是AMD这版驱动可能被低估了，实际表现可以说很惊人，<strong>部分游戏性能猛增30%到60%以上，甚至可以改变显卡市场竞争格局，RX 7900 XT显卡都可以超越RTX 4080显卡了。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克暗示特斯拉Cybertruck定价 这价格估计能卖爆 (cnbeta一周点击排行)]]></title>
@@ -94,11 +101,11 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <content type="html"><![CDATA[随着成都大运会、杭州亚运会的临近，越来越多的境外游客来到中国，衣食住行都少不了移动支付。对此，<strong>杭州亚运会官方支付合作伙伴支付宝在7月21日表示，此前已经完成了对境外用户在中国使用移动支付的支持。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD新驱动让部分显卡游戏性能猛增60%以上 掀翻RTX 4080 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372215.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372215.htm"/>
-        <updated>2023-07-21T08:56:49.000Z</updated>
-        <content type="html"><![CDATA[AMD前几天发布了Adrenalin Edition显卡驱动23.7.1 WHQL驱动，主要内容以适配新的Vulkan API及修复bug为主，游戏性能及优化方面的内容没提。但是AMD这版驱动可能被低估了，实际表现可以说很惊人，<strong>部分游戏性能猛增30%到60%以上，甚至可以改变显卡市场竞争格局，RX 7900 XT显卡都可以超越RTX 4080显卡了。</strong>]]></content>
+        <title type="html"><![CDATA[GPT-4“变笨”被斯坦福实锤 OpenAI已开始调查 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372043.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372043.htm"/>
+        <updated>2023-07-23T17:38:43.849Z</updated>
+        <content type="html"><![CDATA[GPT-4变笨，实锤了？？？来自斯坦福大学和UC伯克利大学的一篇最新论文显示：6月的GPT-4在一些任务上的表现客观上就是比3月的更差。比如他们用同样500道“判断给定整数是否为质数”的问题来测这两个版本，发现3月份的GPT-4答对了488个，而6月只对了12个……成功率直接从97.6%下降到2.4%！]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[利润暴跌69%  华为净利近7年新低：靠收专利费“过冬”？ (cnbeta一周点击排行)]]></title>
@@ -115,27 +122,6 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <content type="html"><![CDATA[7月20日消息，很多人期待自己能够中大奖，这不，美国加州一名幸运儿就诞生了，他直接获得了10.8亿美元（约77.4亿元人民币）的大奖！当地时间7月19日，美国加州的一名强力球玩家购买彩票后喜中头奖，<strong>赢得了惊人的10.8亿美元，这是该彩票游戏历史上的第三大奖金</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[鼠标性能越好 Windows 11越卡顿？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371605.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371605.htm"/>
-        <updated>2023-07-20T17:38:22.782Z</updated>
-        <content type="html"><![CDATA[对于Windows 11系统，这一年多来大家的感受是一言难尽，反正时不时就曝出了莫名其妙的bug，7月份的周二补丁日中微软又修复了一个问题——玩家如果使用的鼠标性能指标越好，Windows 11可能就会越卡顿。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4“变笨”被斯坦福实锤 OpenAI已开始调查 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372043.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372043.htm"/>
-        <updated>2023-07-23T17:38:43.849Z</updated>
-        <content type="html"><![CDATA[GPT-4变笨，实锤了？？？来自斯坦福大学和UC伯克利大学的一篇最新论文显示：6月的GPT-4在一些任务上的表现客观上就是比3月的更差。比如他们用同样500道“判断给定整数是否为质数”的问题来测这两个版本，发现3月份的GPT-4答对了488个，而6月只对了12个……成功率直接从97.6%下降到2.4%！]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克偷偷给工人涨工资？上海工厂员工奖金突然多了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371553.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371553.htm"/>
-        <updated>2023-07-18T10:07:06.000Z</updated>
-        <content type="html"><![CDATA[特斯拉上海工厂的几名员工表示，他们最近获得的第二季度绩效奖金大幅增加。其中三名员工向媒体透露，他们第二季度收到的奖金是月度基本工资的1.5倍，<strong>高于过去大多数员工因平均表现而获得的季度奖金（月薪的1.2倍）。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[倪光南院士：中国已到全面用SSD等半导体存储时代 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1372041.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1372041.htm"/>
@@ -148,5 +134,19 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <link href="https://www.cnbeta.com.tw/articles/tech/1372229.htm"/>
         <updated>2023-07-21T09:24:22.000Z</updated>
         <content type="html"><![CDATA[2021年10月19日，一场秋季发布会上，搭载谷歌首款自研芯片 Tensor 的旗舰手机 Pixel 6 系列首次亮相，揭下了面纱的它不再神秘，却留下了更多让人遐想的空间。<strong>谷歌高级副总裁 Rick Osterloh 在发布会上表示，这款芯片是“公司历史上最大的移动硬件创新”，而谷歌CEO Sundar Pichai更是早早地在推特上晒出了Tensor芯片的照片，对于自研项目的自豪感溢于言表。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M2版Mac mini高配版价格滑落到4529元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372665.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372665.htm"/>
+        <updated>2023-07-24T09:25:20.000Z</updated>
+        <content type="html"><![CDATA[前段时间M2版Mac mini入门版降价到3059元，这是可以最低成本形成苹果生态设备的Mac产品。不过，入门版8+256GB的配置让很多人下不去手，尤其是8GB内存在如今确实有些尴尬，随便开几个后台就满了。<strong>现在高配版本也便宜了，有需要的朋友可以选择。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国首个开源桌面系统开放麒麟1.0发布：兼容QQ、微信等60款Win应用 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371877.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371877.htm"/>
+        <updated>2023-07-25T17:38:52.498Z</updated>
+        <content type="html"><![CDATA[7月初，<strong>我国首个开源桌面操作系统“开放麒麟1.0”（openKylin）正式发布，</strong>标志着我国拥有了操作系统组件自主选型、操作系统独立构建的能力，填补了我国在这一领域的空白。今日，openKylin公众号发文称，openKylin 1.0版本新增Win生态兼容，软件商店上架60款Win应用。]]></content>
     </entry>
 </feed>
