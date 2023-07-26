@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-07-26T05:38:32.667Z</updated>
+    <updated>2023-07-26T17:38:34.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[国产电车的遮羞布，被高温撕掉了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1373013.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1373013.htm"/>
+        <updated>2023-07-26T17:38:34.026Z</updated>
+        <content type="html"><![CDATA[<strong>“怕热又怕冷是什么体质？”</strong>把这个问题打在百度搜索上，你会得到一个答案——<strong>肾虚体质</strong>。不过，今天我们要聊的不是人，而是新能源汽车畏寒畏热的“肾虚体质”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刀郎新歌《罗刹海市》火爆全网 “ChatGPT”都看出了其中的嘲讽]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/music/1372891.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/music/1372891.htm"/>
+        <updated>2023-07-25T08:43:15.000Z</updated>
+        <content type="html"><![CDATA[时隔多年，刀郎一首新歌《罗刹海市》上线，由于歌词极具内涵以及讽刺意味，瞬间炸翻了一群包括我在内的吃瓜群众，在网上引发热议，歌曲也是火爆全网。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克的火箭又把地球电离层穿了一个洞]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1372405.htm</id>
@@ -13,12 +27,11 @@
         <content type="html"><![CDATA[据航天专家称，埃隆·马斯克的太空探索公司SpaceX最近的一次发射又在地球电离层上造成了一个暂时的空洞。SpaceX从加州范登堡太空部队基地发射的“猎鹰9号”火箭在天空中留下了微弱的红光，这是电离层出现空洞的标志。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[拐弯突破美国禁令 长江存储神秘闪存曝光]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371675.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371675.htm"/>
-        <updated>2023-07-20T17:38:22.717Z</updated>
-        <content type="html"><![CDATA[长江存储已经将3D 
-NAND闪存做到了232层堆叠，存储密度15.47Gb每平方毫米，而且传输速度高达2400MT/s，妥妥的世界第一，结果被美国一直禁令给拦住了，死死限制在128层，但我们肯定不会坐以待毙。据报道，长江存储正在研发一种神秘的新型闪存，虽然很无奈，但也颇有“移花接木”的奇妙之处。]]></content>
+        <title type="html"><![CDATA[爆料称华为麒麟芯片不久后将回归 首发机型成悬念]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372783.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372783.htm"/>
+        <updated>2023-07-25T17:38:52.450Z</updated>
+        <content type="html"><![CDATA[由于众所周知的原因，在Mate 40系列之后，华为新机基本都是骁龙芯片，自家麒麟芯片几乎“绝版”，只有偶尔在官方部分翻新机上才能看见老款麒麟芯片的身影。麒麟芯片无法迭代，对华为手机业务确实造成了一些影响，不过，情况似乎在慢慢好起来，麒麟芯片或将重出江湖。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[内外全部升级 全新特斯拉Model 3亮相北美街头]]></title>
@@ -44,20 +57,11 @@ NAND闪存做到了232层堆叠，存储密度15.47Gb每平方毫米，而且传
  M56S++加密货币矿机 ASIC 芯片中采用了<strong>来自三星的 3nm GAA 工艺，标志这 GAA 技术已经投入商业量产。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Chrome 115采用了类似于微软Edge的Windows 11 Mica外观]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371733.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371733.htm"/>
-        <updated>2023-07-19T08:26:10.000Z</updated>
-        <content type="html"><![CDATA[Google Chrome 浏览器 115 正在推出，并将在未来几天内自动安装，但你今天就可以通过检查更新获得它。Chrome 115 
-的新功能并不多，更新的主要变化是支持 Topics API，它最终将取代跨站跟踪 Cookies。该版本中一个值得注意的隐藏变化是支持 
-Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器的界面。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给前女友送iPhone 14被抓包 网友控诉苹果商城bug]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371967.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371967.htm"/>
-        <updated>2023-07-20T09:29:45.000Z</updated>
-        <content type="html"><![CDATA[前不久苹果宣布Apple Store官方在线商店正式在微信小程序上线，所有产品免费送货，网友又多了一个购买渠道，然而这个事也给一位网友带来麻烦。<strong>V2EX网友爆料称这个小程序有重点bug，导致女朋友要和他分手。</strong>]]></content>
+        <title type="html"><![CDATA[一用户以不到10万的价格拿下Model 3 他是这么做的]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372765.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372765.htm"/>
+        <updated>2023-07-26T17:38:34.086Z</updated>
+        <content type="html"><![CDATA[一名加州居民购买了一辆全新特斯拉Model 3，<strong>税前仅需支付13620美元（约合人民币9.8万元）！</strong>该车主将其操作方法发布到推特上，解释他是如何做到的。特斯拉确实大幅削减了库存汽车的价格。但37000美元（约合人民币26.66万元）的售价和14000美元的到手价之间还是有很大的差距。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉开放FSD转移 博主直呼中国用户成全球最大“冤种”]]></title>
@@ -67,18 +71,18 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <content type="html"><![CDATA[7月22日早间，特斯拉中国发文表示，他们已经推出了FSD限时转移政策，<strong>如今特斯拉中国的用户可以进行FSD（完全自动驾驶能力）的转移。但是，此次的限时转移政策有不少要求。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[给前女友送iPhone 14被抓包 网友控诉苹果商城bug]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1371967.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1371967.htm"/>
+        <updated>2023-07-20T09:29:45.000Z</updated>
+        <content type="html"><![CDATA[前不久苹果宣布Apple Store官方在线商店正式在微信小程序上线，所有产品免费送货，网友又多了一个购买渠道，然而这个事也给一位网友带来麻烦。<strong>V2EX网友爆料称这个小程序有重点bug，导致女朋友要和他分手。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[宝马i3落地不到24万 月销近5000创半年新高 网友：油改电我也认了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1371835.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1371835.htm"/>
         <updated>2023-07-21T17:38:34.483Z</updated>
         <content type="html"><![CDATA[35万的宝马i3被调侃“工业垃圾”“杂牌电动”，但落地不到24万的宝马i3呢？最近，有车主晒出自己的订单<strong>，eDrive35L车型落地价只要23.48万元，包括裸车+保险+上牌</strong>，宝马第一次保险价格在万元以上，意味着裸车价只要22万多。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爆料称华为麒麟芯片不久后将回归 首发机型成悬念]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372783.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372783.htm"/>
-        <updated>2023-07-25T17:38:52.450Z</updated>
-        <content type="html"><![CDATA[由于众所周知的原因，在Mate 40系列之后，华为新机基本都是骁龙芯片，自家麒麟芯片几乎“绝版”，只有偶尔在官方部分翻新机上才能看见老款麒麟芯片的身影。麒麟芯片无法迭代，对华为手机业务确实造成了一些影响，不过，情况似乎在慢慢好起来，麒麟芯片或将重出江湖。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AMD新驱动让部分显卡游戏性能猛增60%以上 掀翻RTX 4080]]></title>
@@ -88,11 +92,19 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <content type="html"><![CDATA[AMD前几天发布了Adrenalin Edition显卡驱动23.7.1 WHQL驱动，主要内容以适配新的Vulkan API及修复bug为主，游戏性能及优化方面的内容没提。但是AMD这版驱动可能被低估了，实际表现可以说很惊人，<strong>部分游戏性能猛增30%到60%以上，甚至可以改变显卡市场竞争格局，RX 7900 XT显卡都可以超越RTX 4080显卡了。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克暗示特斯拉Cybertruck定价 这价格估计能卖爆]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371655.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371655.htm"/>
-        <updated>2023-07-21T17:38:34.493Z</updated>
-        <content type="html"><![CDATA[埃隆·马斯克(Elon Musk)可能对特斯拉Cybertruck的定价做出了微妙的暗示，他表示其最有可能的竞争对手福特F-150 Lightning“有点贵”。而就在几小时前，该车价格下调了10000美元（约合人民币7.17万元）。]]></content>
+        <title type="html"><![CDATA[M2版Mac mini高配版价格滑落到4529元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372665.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372665.htm"/>
+        <updated>2023-07-24T09:25:20.000Z</updated>
+        <content type="html"><![CDATA[前段时间M2版Mac mini入门版降价到3059元，这是可以最低成本形成苹果生态设备的Mac产品。不过，入门版8+256GB的配置让很多人下不去手，尤其是8GB内存在如今确实有些尴尬，随便开几个后台就满了。<strong>现在高配版本也便宜了，有需要的朋友可以选择。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼新款降噪耳塞WF-1000XM5终于问世 配备V2处理器与三麦克风]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372921.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372921.htm"/>
+        <updated>2023-07-25T09:53:45.000Z</updated>
+        <content type="html"><![CDATA[不出所料，索尼终于在几个小时前推出了 WF-1000XM5 ANC 真无线耳塞，不过不要把它与已经上市的 WH-1000XM5 
+混为一谈，后者是一款头戴耳机。据该公司自己称，这款新耳塞配备了"索尼有史以来最大的降噪技术"，这要归功于每个耳塞上的三个麦克风，包括双反馈麦克风，它们提高了低频降噪性能。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[支付宝：外国朋友来中国可刷支付宝 只需2步]]></title>
@@ -102,11 +114,25 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <content type="html"><![CDATA[随着成都大运会、杭州亚运会的临近，越来越多的境外游客来到中国，衣食住行都少不了移动支付。对此，<strong>杭州亚运会官方支付合作伙伴支付宝在7月21日表示，此前已经完成了对境外用户在中国使用移动支付的支持。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[倪光南院士：中国已到全面用SSD等半导体存储时代]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372041.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372041.htm"/>
+        <updated>2023-07-24T17:38:56.638Z</updated>
+        <content type="html"><![CDATA[今日，中国工程院院士倪光南在2023世界半导体大会上表示，目前国内算力中心的存力相对不足，不能充分发挥投资效益。<strong>他表示，中国目前主要用机械硬盘存储，先进半导体存储技术滞后，而中国已经到了全面用半导体存储替代机械存储的时代，目前由于价格问题这一替代较慢。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPT-4“变笨”被斯坦福实锤 OpenAI已开始调查]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1372043.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1372043.htm"/>
         <updated>2023-07-23T17:38:43.849Z</updated>
         <content type="html"><![CDATA[GPT-4变笨，实锤了？？？来自斯坦福大学和UC伯克利大学的一篇最新论文显示：6月的GPT-4在一些任务上的表现客观上就是比3月的更差。比如他们用同样500道“判断给定整数是否为质数”的问题来测这两个版本，发现3月份的GPT-4答对了488个，而6月只对了12个……成功率直接从97.6%下降到2.4%！]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刘洋：外太空黑不见底 万丈深渊都不足以形容]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1372597.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1372597.htm"/>
+        <updated>2023-07-26T17:38:34.108Z</updated>
+        <content type="html"><![CDATA[<strong>“四周特别黑，深不见底的黑，万丈深渊都不足以形容。”</strong>这句话是今年年初时，宇航员刘洋在接受央视《面对面》栏目采访说的。其实类似的话已经不是第一次从中国宇航员的口中说出来了，之前翟志刚对出舱活动也有类似的描述。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[利润暴跌69%  华为净利近7年新低：靠收专利费“过冬”？]]></title>
@@ -121,33 +147,5 @@ Windows 11 的 Mica，这是一种设计材料，可以刷新 Chrome 浏览器�
         <link href="https://www.cnbeta.com.tw/articles/tech/1372101.htm"/>
         <updated>2023-07-23T17:38:43.848Z</updated>
         <content type="html"><![CDATA[7月20日消息，很多人期待自己能够中大奖，这不，美国加州一名幸运儿就诞生了，他直接获得了10.8亿美元（约77.4亿元人民币）的大奖！当地时间7月19日，美国加州的一名强力球玩家购买彩票后喜中头奖，<strong>赢得了惊人的10.8亿美元，这是该彩票游戏历史上的第三大奖金</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[倪光南院士：中国已到全面用SSD等半导体存储时代]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372041.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372041.htm"/>
-        <updated>2023-07-24T17:38:56.638Z</updated>
-        <content type="html"><![CDATA[今日，中国工程院院士倪光南在2023世界半导体大会上表示，目前国内算力中心的存力相对不足，不能充分发挥投资效益。<strong>他表示，中国目前主要用机械硬盘存储，先进半导体存储技术滞后，而中国已经到了全面用半导体存储替代机械存储的时代，目前由于价格问题这一替代较慢。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌芯片，正在经历苹果时刻？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372229.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372229.htm"/>
-        <updated>2023-07-21T09:24:22.000Z</updated>
-        <content type="html"><![CDATA[2021年10月19日，一场秋季发布会上，搭载谷歌首款自研芯片 Tensor 的旗舰手机 Pixel 6 系列首次亮相，揭下了面纱的它不再神秘，却留下了更多让人遐想的空间。<strong>谷歌高级副总裁 Rick Osterloh 在发布会上表示，这款芯片是“公司历史上最大的移动硬件创新”，而谷歌CEO Sundar Pichai更是早早地在推特上晒出了Tensor芯片的照片，对于自研项目的自豪感溢于言表。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2版Mac mini高配版价格滑落到4529元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372665.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372665.htm"/>
-        <updated>2023-07-24T09:25:20.000Z</updated>
-        <content type="html"><![CDATA[前段时间M2版Mac mini入门版降价到3059元，这是可以最低成本形成苹果生态设备的Mac产品。不过，入门版8+256GB的配置让很多人下不去手，尤其是8GB内存在如今确实有些尴尬，随便开几个后台就满了。<strong>现在高配版本也便宜了，有需要的朋友可以选择。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国首个开源桌面系统开放麒麟1.0发布：兼容QQ、微信等60款Win应用]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1371877.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1371877.htm"/>
-        <updated>2023-07-25T17:38:52.498Z</updated>
-        <content type="html"><![CDATA[7月初，<strong>我国首个开源桌面操作系统“开放麒麟1.0”（openKylin）正式发布，</strong>标志着我国拥有了操作系统组件自主选型、操作系统独立构建的能力，填补了我国在这一领域的空白。今日，openKylin公众号发文称，openKylin 1.0版本新增Win生态兼容，软件商店上架60款Win应用。]]></content>
     </entry>
 </feed>
