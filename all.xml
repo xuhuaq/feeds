@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-31T05:38:26.696Z</updated>
+    <updated>2023-07-31T17:38:54.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[刀郎新歌《罗刹海市》火爆全网 “ChatGPT”都看出了其中的嘲讽 (cnbeta一周点击排行)]]></title>
@@ -26,11 +26,25 @@
         <content type="html"><![CDATA[昨天，整个互联网都被韩国室温超导的新闻刷屏了。韩国科学家表示，已经开发出临界温度大于等于400K（127摄氏度）的室温常压超导体，并称自己的研究将‘为人类带来一个新纪元’。当然，也有不少网友发现了‘华点’，同样的研究，居然在同一天发了2篇arxiv论文，这一操作也是看呆了吃瓜群众。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[直播复现室温超导 韩国团队回应：数据存在问题 但并非造假 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1373887.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1373887.htm"/>
+        <updated>2023-07-30T11:07:35.000Z</updated>
+        <content type="html"><![CDATA[这几天，韩国室温超导的新闻热度始终居高不下，所有人都屏息凝视，等待着实验的复现结果。而就在刚刚，第一波复现室温超导的网友，已经出结果了——]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微信一个手机可以注册两个账号引热议 网友半夜不睡觉注册“挤爆”微信 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1373533.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1373533.htm"/>
         <updated>2023-07-28T08:11:19.000Z</updated>
         <content type="html"><![CDATA[今天凌晨，一则“微信一个手机可以两个账号了”的话题突然在微博火了起来，看着话题是不是感到莫名其妙？<strong>其实这个话题说的是一个手机号可以注册两个账号，而且这也不是微信的新功能了，</strong>去年就已经多次内测，并在今年2月正式上线，不知为何今天又上了热搜，给人一种穿越的感觉。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女子因在地铁车厢喝水被开罚单 官方回应：喝水也是饮食的一种 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1372937.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1372937.htm"/>
+        <updated>2023-07-25T10:45:13.000Z</updated>
+        <content type="html"><![CDATA[出于公共卫生和影响等考虑，地铁上一般都会禁止饮食，但要是在地铁上喝水呢，也要被禁止吗？据报道，近日，江苏南京，一女子因在地铁车厢喝水被开罚单，引起网友关注。7月25日，南京地铁回应称，<strong>列车上禁止饮食，喝水也是饮的一种，发现后会做出相应处罚。</strong>主要考虑到在地铁上喝水、饮料等时如果水滴洒落到地面，容易使乘客滑倒，也担心会招来虫子咬断电路，影响行车安全。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[海南国产榴莲将首次上市 “树上熟”画面曝光 (cnbeta一周点击排行)]]></title>
@@ -45,13 +59,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1373395.htm"/>
         <updated>2023-07-27T00:24:03.000Z</updated>
         <content type="html"><![CDATA[据当地时间7月26日消息称，埃隆·马斯克的小儿子-现年3岁的X AE A-XII（简称：X娃），出现在意大利的波托菲诺小镇，在这个风景如画的旅游胜地开心地散步，个性十足的音乐人妈妈格莱姆斯（Grimes，原名：克莱尔·埃莉斯·鲍彻）陪伴在身边。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女子因在地铁车厢喝水被开罚单 官方回应：喝水也是饮食的一种 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372937.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372937.htm"/>
-        <updated>2023-07-25T10:45:13.000Z</updated>
-        <content type="html"><![CDATA[出于公共卫生和影响等考虑，地铁上一般都会禁止饮食，但要是在地铁上喝水呢，也要被禁止吗？据报道，近日，江苏南京，一女子因在地铁车厢喝水被开罚单，引起网友关注。7月25日，南京地铁回应称，<strong>列车上禁止饮食，喝水也是饮的一种，发现后会做出相应处罚。</strong>主要考虑到在地铁上喝水、饮料等时如果水滴洒落到地面，容易使乘客滑倒，也担心会招来虫子咬断电路，影响行车安全。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[爆料称华为麒麟芯片不久后将回归 首发机型成悬念 (cnbeta一周点击排行)]]></title>
@@ -89,18 +96,18 @@
         <content type="html"><![CDATA[这几天韩国公布的常温超导研究成果引发了全球关注，这个被称为LK-99的铅磷灰石，能够在127℃以下表现为超导体。这个研究要是能够证实，从哪方面来说都是改变物理学的重大发现，拿几个诺贝尔奖都很轻松，未来对人类各个领域的科技都是革命性提升。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[为什么被“腌”的总是鸭蛋？鸡蛋、鹅蛋不行吗？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1373939.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1373939.htm"/>
+        <updated>2023-07-31T17:38:53.320Z</updated>
+        <content type="html"><![CDATA[咸鸭蛋，相信很多人都喜欢吃，蛋白柔嫩、蛋黄流油、松沙可口……真是太美味了！就算没有菜，直接咸蛋黄拌饭，都能直接“炫”两碗。那为啥被“腌”的那个总是鸭蛋，咸鸡蛋、咸鹅蛋就比较少呢？今天这篇文章就来解答下。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一用户以不到10万的价格拿下Model 3 他是这么做的 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1372765.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1372765.htm"/>
         <updated>2023-07-26T17:38:34.086Z</updated>
         <content type="html"><![CDATA[一名加州居民购买了一辆全新特斯拉Model 3，<strong>税前仅需支付13620美元（约合人民币9.8万元）！</strong>该车主将其操作方法发布到推特上，解释他是如何做到的。特斯拉确实大幅削减了库存汽车的价格。但37000美元（约合人民币26.66万元）的售价和14000美元的到手价之间还是有很大的差距。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2版Mac mini高配版价格滑落到4529元 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372665.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372665.htm"/>
-        <updated>2023-07-24T09:25:20.000Z</updated>
-        <content type="html"><![CDATA[前段时间M2版Mac mini入门版降价到3059元，这是可以最低成本形成苹果生态设备的Mac产品。不过，入门版8+256GB的配置让很多人下不去手，尤其是8GB内存在如今确实有些尴尬，随便开几个后台就满了。<strong>现在高配版本也便宜了，有需要的朋友可以选择。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[索尼新款降噪耳塞WF-1000XM5终于问世 配备V2处理器与三麦克风 (cnbeta一周点击排行)]]></title>
@@ -111,25 +118,11 @@
 混为一谈，后者是一款头戴耳机。据该公司自己称，这款新耳塞配备了"索尼有史以来最大的降噪技术"，这要归功于每个耳塞上的三个麦克风，包括双反馈麦克风，它们提高了低频降噪性能。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉开放FSD转移 博主直呼中国用户成全球最大“冤种” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1372569.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1372569.htm"/>
-        <updated>2023-07-25T17:38:52.446Z</updated>
-        <content type="html"><![CDATA[7月22日早间，特斯拉中国发文表示，他们已经推出了FSD限时转移政策，<strong>如今特斯拉中国的用户可以进行FSD（完全自动驾驶能力）的转移。但是，此次的限时转移政策有不少要求。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[姐弟捡到31部总价超21万手机上交民警 全是iPhone 14 Pro (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1373219.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1373219.htm"/>
         <updated>2023-07-27T17:38:51.759Z</updated>
         <content type="html"><![CDATA[近日河南姐弟捡31部上交民警，被网友大力点赞。<strong>据报道，河南平顶山的柴女士和弟弟7月7日在小区垃圾桶内捡到31部手机，两人第一时间报警。</strong>民警很快找到失主，失主是一名快递员，前一天下午在整理货物时，不慎将5个分别装有10部手机的快递箱遗落在公交站牌旁的垃圾桶上。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刘洋：外太空黑不见底 万丈深渊都不足以形容 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1372597.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1372597.htm"/>
-        <updated>2023-07-26T17:38:34.108Z</updated>
-        <content type="html"><![CDATA[<strong>“四周特别黑，深不见底的黑，万丈深渊都不足以形容。”</strong>这句话是今年年初时，宇航员刘洋在接受央视《面对面》栏目采访说的。其实类似的话已经不是第一次从中国宇航员的口中说出来了，之前翟志刚对出舱活动也有类似的描述。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三代必出精品 大疆刚发的无人机堪称超级水桶 (cnbeta一周点击排行)]]></title>
@@ -139,12 +132,17 @@
         <content type="html"><![CDATA[这会儿想必有些朋友已经知道了，就在刚刚，大疆发布了一台全新的无人机 DJI Air 3，售价 6988 元起：有一说一啊，虽然大疆在无人机领域很早就已经实现了真正的制霸，放眼全球找不到像样一点的竞争对手。但人家是一点躺平摆烂的意思都没有，甚至还喜欢经常时不时背刺一下老用户。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[被喷2年后微软认错 Windows 11 23H2将不再强制合并任务栏 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1373265.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1373265.htm"/>
-        <updated>2023-07-28T17:38:46.870Z</updated>
-        <content type="html"><![CDATA[微软的Windows 11系统上市两年半了，去年9月份推出了Windows 11 22H2，这是首个年度重大更新，今年要推Windows 11 
-23H2了。在7月份的补丁日中，Windows 11 
-23H2的信息也被挖掘出来，一个名为“Microsoft-Windows-UpdateTargeting-ClientOS-SV2Moment4-EKB”“Microsoft-Windows-23H2Enablement-Package”的启用包被发现。]]></content>
+        <title type="html"><![CDATA[索尼Xperia 5 V曝光 无刘海、无挖孔的对称式全面屏 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1373117.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1373117.htm"/>
+        <updated>2023-07-26T09:20:41.000Z</updated>
+        <content type="html"><![CDATA[索尼Xperia 5 V宣传视频在社交平台上被泄露。如图所示，<strong>Xperia 5 V正面是无刘海、无挖孔的对称式全面屏设计，尺寸预计在6英寸左右，女生单手轻松掌控，是安卓阵营不可多得的小屏旗舰。</strong>背部是双摄像头，呈纵向排布，有多个配色可供选择。而且宣传片显示，索尼Xperia 5 V保留了3.5mm耳机孔，更是罕见。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6缸+后驱 全新一代马自达6曝光 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1373883.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1373883.htm"/>
+        <updated>2023-07-30T10:51:50.000Z</updated>
+        <content type="html"><![CDATA[近日，据海外媒体报道，<strong>全新马自达6预计将于2024年上半年正式首发，并于同年年底上市开售。</strong>此外，新车有望于明年在长安马自达旗下开启投产工作，预计将于下半年上市开售。该车上市后，将与丰田凯美瑞、日产天籁以及本田雅阁展开竞争。]]></content>
     </entry>
 </feed>
