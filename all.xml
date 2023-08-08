@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-08T05:39:01.170Z</updated>
+    <updated>2023-08-08T17:39:03.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[杭州动物园的马来熊在国外爆火：马斯克都来围观 (cnbeta一周点击排行)]]></title>
@@ -12,18 +12,11 @@
         <content type="html"><![CDATA[8月3日消息，近日杭州动物园的一只“黑熊”火了，很多游客慕名前来观看，导致园区人流量暴增，不仅如此，它还火出了国门，引起了很多老外的在线围观，<strong>就连马斯克也被吸引，并留下了“bears aren't real”的留言</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[常温常压超导首被证明理论可行：美顶尖实验室论文出炉 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1374311.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1374311.htm"/>
-        <updated>2023-08-01T17:38:39.671Z</updated>
-        <content type="html"><![CDATA[超算掐指一算，感觉超导有戏。就在全世界的科学家们争相做实验的同时，有人为最近韩国科研团队“常温常压超导”研究提供了理论方面的支持。几个小时前，<strong>美国劳伦斯伯克利国家实验室（LBNL）在 arXiv 上提交了一篇论文，其结果支持 LK-99 作为室温环境压力超导体</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首台28nm国产光刻机有望年底交付 华为已拿下EUV光刻专利 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1374325.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1374325.htm"/>
-        <updated>2023-08-02T17:38:40.154Z</updated>
-        <content type="html"><![CDATA[航空发动机曾经被普遍誉为“工业皇冠上的明珠”，但无论军用还是民用，我国航发都已经或正在取得重大突破，让这颗明珠“黯然失色”。在半导体行业，光刻机被很多人称为“半导体工业皇冠上的明珠”，但骨头再硬，也不是不能啃下来。]]></content>
+        <title type="html"><![CDATA[华为HarmonyOS NEXT不再兼容Android .apk应用 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1375343.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1375343.htm"/>
+        <updated>2023-08-07T07:44:32.000Z</updated>
+        <content type="html"><![CDATA[近日，华为举行2023年华为开发者大会（HDC.Together）上，<strong>除了发布HarmonyOS 4、全新升级的鸿蒙开发套件外，华为还带来了HarmonyOS NEXT开发者预览版。</strong>据了解，HarmonyOS NEXT开发者预览版8月面向合作企业开发者开放，2024年第一季度面向所有开发者开放。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[手机重返中国前五 小米“吃”下的华为用户正在“吐”出来 (cnbeta一周点击排行)]]></title>
@@ -49,13 +42,6 @@ mini。作为iPad家族中最“迷你”的成员，iPad
 mini需要提供更加强大的综合实力，例如轻薄、便携，性能强大。这也是消费者对这款iPad情有独钟的原因之一。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国镓、锗出口限制令生效 韩国稀有金属储备告急 锂仅够用5.8天 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1374715.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1374715.htm"/>
-        <updated>2023-08-03T08:56:15.000Z</updated>
-        <content type="html"><![CDATA[<strong>根据商务部、海关总署此前发布的《关于对镓、锗相关物项实施出口管制的公告》，8月1日起，对镓、锗相关物项实施出口管制。</strong>公告中指出，镓相关物项包含氮化镓、砷化镓、铟镓砷等；锗相关物项包含磷锗锌、锗外延生长衬底、二氧化锗等。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[安装Windows 11时用 no@thankyou.com 登录 就能跳过联网账户 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1375089.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1375089.htm"/>
@@ -65,11 +51,11 @@ no@thankyou.com 登录，即可跳过联网账户，轻松创建本地账户。�
 中，微软干掉了“我没有 Internet 连接”按钮，没登录不让你装系统。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国Taj Quantum公司声称发现室温超导材料 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1374155.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1374155.htm"/>
-        <updated>2023-08-02T17:38:40.174Z</updated>
-        <content type="html"><![CDATA[要说近日最大的科技热点，引起全球各个高校实验室尝试复现的，韩国团队发现的疑似室温超导材料绝对当仁不让。现在，一波未平一波又起，韩国团队公布的室温超导材料复现还没完成，<strong>就又有团队自称达成了室温超导。</strong>]]></content>
+        <title type="html"><![CDATA[中国镓、锗出口限制令生效 韩国稀有金属储备告急 锂仅够用5.8天 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1374715.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1374715.htm"/>
+        <updated>2023-08-03T08:56:15.000Z</updated>
+        <content type="html"><![CDATA[<strong>根据商务部、海关总署此前发布的《关于对镓、锗相关物项实施出口管制的公告》，8月1日起，对镓、锗相关物项实施出口管制。</strong>公告中指出，镓相关物项包含氮化镓、砷化镓、铟镓砷等；锗相关物项包含磷锗锌、锗外延生长衬底、二氧化锗等。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韩国LK-99作者发布新视频 样本室温25度悬浮：网友估算磁化率 (cnbeta一周点击排行)]]></title>
@@ -86,18 +72,25 @@ no@thankyou.com 登录，即可跳过联网账户，轻松创建本地账户。�
         <content type="html"><![CDATA[好家伙，“业余”网友连夜采购原材料，按照韩国团队论文“手搓超导体”——居然真的成功了？！在手搓超导体的第8.5天，大哥成功合成了LK-99晶体，重要的是，<strong>可以磁悬浮</strong>！无图无真相，这位网友大哥高喊手搓出了样品，还直接甩出视频：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为HarmonyOS NEXT不再兼容Android .apk应用 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1375343.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1375343.htm"/>
-        <updated>2023-08-07T07:44:32.000Z</updated>
-        <content type="html"><![CDATA[近日，华为举行2023年华为开发者大会（HDC.Together）上，<strong>除了发布HarmonyOS 4、全新升级的鸿蒙开发套件外，华为还带来了HarmonyOS NEXT开发者预览版。</strong>据了解，HarmonyOS NEXT开发者预览版8月面向合作企业开发者开放，2024年第一季度面向所有开发者开放。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[拿光刻机生产的电风扇 散热手段怎么能这么极限 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1375237.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1375237.htm"/>
         <updated>2023-08-06T10:18:31.000Z</updated>
         <content type="html"><![CDATA[在大众印象里，光刻机似乎非常高端，而且总是和芯片生产绑定。毕竟也没听说我们有什么其他东西被光刻机卡住了，不是？但光刻机说白了，其实就是一种非常精确的雕刻机：既然能雕刻芯片，自然也能雕刻些其他东西。比如说，下面这个……呃，散热器。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子走路姿势异常 一查竟然身绑68台苹果iPhone手机 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1374737.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1374737.htm"/>
+        <updated>2023-08-03T10:50:58.000Z</updated>
+        <content type="html"><![CDATA[近日，拱北海关所属青茂海关查获一起旅客绑藏68台旧手机进境案。7月31日21时，一名身穿藏蓝色短袖的旅客从青茂口岸旅检现场“无申报通道”进境，该名旅客走路姿势异常，步伐沉重僵硬，引起关员注意，将其拦截。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曾经的“跑马框”要说再见了 iPhone 15 Pro 1.5mm超窄边框效果图一览 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1375201.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1375201.htm"/>
+        <updated>2023-08-06T08:12:02.000Z</updated>
+        <content type="html"><![CDATA[<strong>iPhone曾经的“跑马框”要说再见了！</strong>综合目前已知爆料来看，iPhone 15系列将有7大升级。其中一个比较明显的直观变化是，新款iPhone全系边框都会更窄。<strong>iPhone 15 Pro、Pro Max的边框宽度仅为1.55mm，破历史记录。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[雷克萨斯GX换壳 全新丰田普拉多正式发布：约36万起售 (cnbeta一周点击排行)]]></title>
@@ -114,25 +107,21 @@ no@thankyou.com 登录，即可跳过联网账户，轻松创建本地账户。�
         <content type="html"><![CDATA[近日，网红狗头萝莉在微博上发出了一篇长文，针对网上关于她穿衣风格的争议进行了回应。<strong>狗头萝莉表示，她的穿衣风格是自己的选择，不需要别人的指责和评判，也不会因为别人的言论而改变自己。</strong>她还提醒网友们，网络世界有真有假，不要轻信一些不实的信息，等到她真正露出原形的时候再来骂她吧。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[东南大学教授复现“常温常压超导”全流程 初步结果：无超导，弱抗磁 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1374321.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1374321.htm"/>
-        <updated>2023-08-04T17:38:35.904Z</updated>
-        <content type="html"><![CDATA[备受全球物理界关注的常温常压超导，<strong>复现实验初步结果</strong>新鲜出炉！东南大学<strong>孙悦教授</strong>（B站Up主“科学调查局”）便将这一全流程公布了出来：]]></content>
+        <title type="html"><![CDATA[iPhone 15 Pro机模图片疑似泄露 显示加厚设计、USB-C 接口、动作按钮等 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1375379.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1375379.htm"/>
+        <updated>2023-08-07T08:28:28.000Z</updated>
+        <content type="html"><![CDATA[苹果公司将于下月推出 iPhone 15 和 iPhone 15 Pro 
+机型，时间可能在九月的第三周。我们已经听到了许多关于这两款设备的细节，从内部结构到制造质量不一而足。然而，我们从未真正见过 iPhone 15
+ 或"Pro"机型的真容。现在，网上出现了几张据称是 iPhone 15 Pro 的图片，旨在突出几个因素。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[男子走路姿势异常 一查竟然身绑68台苹果iPhone手机 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1374737.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1374737.htm"/>
-        <updated>2023-08-03T10:50:58.000Z</updated>
-        <content type="html"><![CDATA[近日，拱北海关所属青茂海关查获一起旅客绑藏68台旧手机进境案。7月31日21时，一名身穿藏蓝色短袖的旅客从青茂口岸旅检现场“无申报通道”进境，该名旅客走路姿势异常，步伐沉重僵硬，引起关员注意，将其拦截。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 15全系显示屏开始量产 京东方屏幕缺陷遭苹果放弃 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1374771.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1374771.htm"/>
-        <updated>2023-08-06T17:38:34.767Z</updated>
-        <content type="html"><![CDATA[据9to5mac报道，一份新的供应链报告显示，在三星显示面板获得苹果批准之后，iPhone 15的显示屏已于日前正式开始量产。据了解，<strong>一款iPhone从设计原型到成品之间，会经历四个阶段：EVT（工程验证测试）、DVT（设计验证测试）、PVT（产品验证测试）、大量生产。</strong>]]></content>
+        <title type="html"><![CDATA[iPhone 15 Ultra 保护壳照片泄露 显示出传闻中的"动作"按钮 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1375369.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1375369.htm"/>
+        <updated>2023-08-07T08:12:43.000Z</updated>
+        <content type="html"><![CDATA[iPhone 15 Ultra 
+最新手机壳的照片与苹果公司将用智能手机侧面的第三个"动作"按钮取代静音开关的传言不谋而合。有传言称，静音开关的时代已经一去不复返了，它将被多功能"动作"按钮取代。周日泄露的一张照片显示，即将推出的最高规格机型可能采用苹果手机外壳，这无疑与上述传言吻合。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉新款Model 3被曝10月交付：续航更长 售价20万左右 (cnbeta一周点击排行)]]></title>
@@ -142,10 +131,24 @@ no@thankyou.com 登录，即可跳过联网账户，轻松创建本地账户。�
         <content type="html"><![CDATA[作为特斯拉的重磅车型，新款Model 3已在路上，近期想买Model 3的朋友，买新还是买旧需要仔细掂量一番。日前，网上流出了疑似特斯拉工作人员的交流信息，<strong>群聊显示现款国产特斯拉Model 3将会在8月14日停产，而接下来新款将正式投产。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[欧美著名纯素食网红去世 年仅39岁 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1374345.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1374345.htm"/>
-        <updated>2023-08-06T17:38:34.763Z</updated>
-        <content type="html"><![CDATA[不吃肉真的能长寿，那么吃素呢？<strong>多家欧美媒体报道，欧美著名素食主义网红Zhanna D’art（真名Zhanna Samsonova，旅美俄罗斯人），平时只吃水果和葵花籽（大米和豆制品也不吃），提倡生食不加工，</strong>]]></content>
+        <title type="html"><![CDATA[年轻人最讨厌的表情包Top10：“死亡微笑”排第一 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1375521.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1375521.htm"/>
+        <updated>2023-08-08T17:39:02.109Z</updated>
+        <content type="html"><![CDATA[研究显示，在我国，每日表情包发送量为6亿次左右。以微信为例，表情包可以看作是线上文字交流的重要补充。相较于面对面的沟通，人们在线上文字对话时较难感知对方的状态或情绪，而发送表情包刚好可以弥补这一缺憾。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15全系显示屏开始量产 京东方屏幕缺陷遭苹果放弃 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1374771.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1374771.htm"/>
+        <updated>2023-08-06T17:38:34.767Z</updated>
+        <content type="html"><![CDATA[据9to5mac报道，一份新的供应链报告显示，在三星显示面板获得苹果批准之后，iPhone 15的显示屏已于日前正式开始量产。据了解，<strong>一款iPhone从设计原型到成品之间，会经历四个阶段：EVT（工程验证测试）、DVT（设计验证测试）、PVT（产品验证测试）、大量生产。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全世界40％ Arm服务器都在中国 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1374385.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1374385.htm"/>
+        <updated>2023-08-08T17:39:02.120Z</updated>
+        <content type="html"><![CDATA[近些年来，Arm、RISC-V两大架构都加强了对x86的挑战，但各有优劣。Arm架构的好处是应用广泛、生态成熟，开发适配都更方便。RISC-V架构的好处是完全免费、开源，可以自主把握，但还处于起步阶段。]]></content>
     </entry>
 </feed>
