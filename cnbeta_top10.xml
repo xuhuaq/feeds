@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-08-16T05:39:09.922Z</updated>
+    <updated>2023-08-16T17:39:00.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[中国卖家为了清库存给美国一名女子寄了100多个亚马逊包裹]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1375841.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1375841.htm"/>
-        <updated>2023-08-09T08:35:29.000Z</updated>
-        <content type="html"><![CDATA[来自美国弗吉尼亚州的Cindy Smith连日来收到了100多个莫名其妙的亚马逊包裹，但令人匪夷所思的是，她从未在亚马逊上买过这些东西，Cindy甚至怀疑自己陷入了某种骗局。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[华为开启了大反攻]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1376561.htm</id>
@@ -41,13 +34,6 @@
         <content type="html"><![CDATA[8月9日消息，近日，有媒体报道的“外国人不来了，成中国新问题”，引发关注。从可以获得的官方数据看，上半年入境外国游客的确恢复缓慢。对此，何小鹏发文分享自己和理发小哥的一些对话。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[首款Android 14旗舰 谷歌Pixel 8/8 Pro曝光]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1375741.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1375741.htm"/>
-        <updated>2023-08-09T17:38:22.545Z</updated>
-        <content type="html"><![CDATA[作为谷歌家的“亲儿子”，Pixel系列是首批获得Android大版本升级的手机，<strong>即将登场的Pixel 8和Pixel 8 Pro首发搭载Android 14系统。</strong>在Android 14上，谷歌增加了两项功能：锁屏时钟和快捷方式。<strong>用户可以在Android 14手机上自由设置锁屏内容，支持多种不同样式的时钟以及各种应用快捷方式。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[提前激活每台罚款20万 传苹果iPhone 15手机9月16日解封]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1376667.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1376667.htm"/>
@@ -62,11 +48,11 @@
         <content type="html"><![CDATA[<strong>苹果跳水王M2版Mac mini又降价了。根据京东官方百亿补贴频道显示，Mac mini 8+256GB入门版只要2888元了，</strong>比前不久的拼多多2959还低，刷新了这款电脑的史上最低价。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google 发布基于 VSCode 的全新人工智能代码编辑器 Project IDX]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1375843.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1375843.htm"/>
-        <updated>2023-08-09T08:41:45.000Z</updated>
-        <content type="html"><![CDATA[Google发布了一款新的基于云的集成开发环境（IDE），名为 Project IDX。这款新产品旨在改善软件开发人员的体验，为他们提供人工智能工具和功能，以更高效地构建应用程序。]]></content>
+        <title type="html"><![CDATA[iPhone SE 4用上新设计：首次刘海全面屏 换USB-C接口]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1376777.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1376777.htm"/>
+        <updated>2023-08-14T08:04:39.000Z</updated>
+        <content type="html"><![CDATA[<strong>随着iPhone 15全系换上灵动岛，iPhone SE系列又有了全新可用的方案——刘海屏。</strong>按照苹果的惯例，iPhone SE系列必然会使用“过时”的外观设计，配合上最新的芯片组合。根据最新爆料显示，全新的iPhone SE 4代有望在明年登场（最晚2025年），将基于iPhone 14来进行设计，首次引入OLED屏幕，尺寸与标准版的6.1英寸相同，这也是SE首次引入全面屏。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mac mini M2入门款跌破2900元 成性价比最高的苹果电脑]]></title>
@@ -76,11 +62,18 @@
         <content type="html"><![CDATA[此前我们曾报道过，此前苹果旗下的Mac mini M2芯片版台式电脑主机的价格一路下跌，7月14日，这款产品在部分电商渠道已经跌到了3050元左右，远远低于官方网站售价。但是，3050元并非Mac mini M2芯片版的底价。<strong>近日Mac mini M2芯片版再度跌破2900元，售价来到了2890元左右。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 15全系配置售价曝光 标准版和Pro版有啥区别]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1375911.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1375911.htm"/>
-        <updated>2023-08-11T17:38:48.609Z</updated>
-        <content type="html"><![CDATA[目前，多方消息指向，苹果公司的年度iPhone发布会预计将于今年9月12日星期二或9月13日星期三举行。按照苹果公司的惯例，<strong>新款iPhone的预订将于几天后的9月15日星期五开始，并于一周后的9月22日发布。</strong>]]></content>
+        <title type="html"><![CDATA[还是那句话，光刻机救不了中国半导体]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1377031.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1377031.htm"/>
+        <updated>2023-08-15T07:45:21.000Z</updated>
+        <content type="html"><![CDATA[<strong>还是那句话，光刻机救不了中国半导体。</strong>（注意：28nm光刻机，这个称呼本身并不太准确。因为光刻机大多数都是以光源类型来定义的，ASML最先进的光刻机并不叫3nm光刻机，而是叫EUV光刻机——EUV指的是它采用了波长仅为13.5nm的极紫外光源。不过，为了方便行文讨论，本文姑且就将能用于生产28nm制程芯片的光刻机称作“28nm光刻机”。）]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy S24超3倍变焦相机细节曝光 传感器更大 分辨率达5000万像素]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1376931.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1376931.htm"/>
+        <updated>2023-08-16T17:38:59.307Z</updated>
+        <content type="html"><![CDATA[一位爆料人分享了有关Galaxy S24 Ultra 的 3 倍变焦摄像头的大量细节，揭示了它不仅仅是一次迭代更新。据传，Galaxy S24 Ultra 的 5 倍数码变焦在图像质量上的损失可以忽略不计，这要归功于 3 倍摄像头的升级。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[高达15.8亿美元 美国史上第三大金额彩票大奖诞生]]></title>
@@ -90,13 +83,6 @@
         <content type="html"><![CDATA[据美国媒体当地时间9日报道，美国“超级百万”彩票8日晚开出头奖，金额高达15.8亿美元，为该国史上第三大金额彩票头奖。据美联社报道，8日晚，美国“超级百万”彩票揭晓中奖号码。中奖彩票由佛罗里达州海王星海滩市一家杂货店售出，目前还不清楚这名中奖者身份。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone SE 4用上新设计：首次刘海全面屏 换USB-C接口]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1376777.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1376777.htm"/>
-        <updated>2023-08-14T08:04:39.000Z</updated>
-        <content type="html"><![CDATA[<strong>随着iPhone 15全系换上灵动岛，iPhone SE系列又有了全新可用的方案——刘海屏。</strong>按照苹果的惯例，iPhone SE系列必然会使用“过时”的外观设计，配合上最新的芯片组合。根据最新爆料显示，全新的iPhone SE 4代有望在明年登场（最晚2025年），将基于iPhone 14来进行设计，首次引入OLED屏幕，尺寸与标准版的6.1英寸相同，这也是SE首次引入全面屏。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Defender更新提高了Windows 10/11性能并阻止AutoKMS激活工具]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1376701.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1376701.htm"/>
@@ -104,6 +90,20 @@
         <content type="html"><![CDATA[本周早些时候，微软发布了针对 Windows 10 (KB5029244) 和 Windows 11 (KB5029263/KB5029253)
  以及服务器版本的八月补丁星期二安全更新。更新最终修复了旧版本 Windows 10 上的英特尔 DirectX 
 问题。此外，也许有点奇怪的是，本月的补丁还默认启用了内核安全漏洞修复功能，而微软早在 6 月份就曾提醒过，这有可能会破坏你系统中的某些东西。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星公布256TB SSD硬盘 1000TB也不远了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1376453.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1376453.htm"/>
+        <updated>2023-08-15T17:38:43.934Z</updated>
+        <content type="html"><![CDATA[在两种硬盘类型中，HDD硬盘之前的优势是容量大，但是当前才26-28TB，100TB要到2030年才能实现，而SSD硬盘就没有限制了，前不久Solidigm才推出了61.44TB最大容量的，现在直接直接推进到256TB。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中秋节、国庆节放假安排已出炉：连休8天]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1376781.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1376781.htm"/>
+        <updated>2023-08-14T08:05:42.000Z</updated>
+        <content type="html"><![CDATA[马上就要进入9月份了，而在9月底我们将迎来今年最后一个放长假。据央视新闻客户端消息，<strong>目前中秋节、国庆节的放假安排已经出炉，9月29日-10月6日放假，共8天。</strong>今年的中秋节和国庆节中间只隔了一天，因此将会连在一起放假，有出行计划的朋友们有福了，可以有更充足的规划。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4发布仅5个月 OpenAI在中国申请注册“GPT-5”商标]]></title>
@@ -120,11 +120,13 @@
         <content type="html"><![CDATA[百年福特，在中国惨到这般田地。最新消息，福特电马官方微博账号关停，全国多地撤店，销售人员要么被裁、要么转入其他门店。甚至在公司内部，已经推出福特电马打折促销活动。原价至少25万的车，现在不到15万就能入手，降幅最高超过10.9万。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星公布256TB SSD硬盘 1000TB也不远了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1376453.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1376453.htm"/>
-        <updated>2023-08-15T17:38:43.934Z</updated>
-        <content type="html"><![CDATA[在两种硬盘类型中，HDD硬盘之前的优势是容量大，但是当前才26-28TB，100TB要到2030年才能实现，而SSD硬盘就没有限制了，前不久Solidigm才推出了61.44TB最大容量的，现在直接直接推进到256TB。]]></content>
+        <title type="html"><![CDATA[乐高价值200美元的协和飞机积木是对超音速客机的绝妙致敬]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1376251.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1376251.htm"/>
+        <updated>2023-08-15T17:38:43.936Z</updated>
+        <content type="html"><![CDATA[有史以来最美丽的飞机之一 - 超音速协和式飞机的最后一次飞行已经过去 20 年了，而你很快就能买到一架乐高形式的协和式飞机。售价 200 
+美元的乐高 Icons 协和式飞机长近 3.5 英尺，翼展 17 英寸（43 
+厘米），它不仅捕捉到了真实飞机的许多标志性曲线，还在内部隐藏了一个令人难以置信的乐高装置，只需扭动尾部的尾锥，就能升降起落架。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[车企放弃CarPlay，苹果错在哪里？]]></title>
@@ -135,13 +137,13 @@
 2022上，苹果表示美国98%的汽车都支持CarPlay，并且有79%的美国消费者称，只会购买支持CarPlay的车。苹果手机的市占率接近60%，这就意味着其中绝大部分的用户对高效的车机协同有一定的粘性。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[乐高价值200美元的协和飞机积木是对超音速客机的绝妙致敬]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1376251.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1376251.htm"/>
-        <updated>2023-08-15T17:38:43.936Z</updated>
-        <content type="html"><![CDATA[有史以来最美丽的飞机之一 - 超音速协和式飞机的最后一次飞行已经过去 20 年了，而你很快就能买到一架乐高形式的协和式飞机。售价 200 
-美元的乐高 Icons 协和式飞机长近 3.5 英尺，翼展 17 英寸（43 
-厘米），它不仅捕捉到了真实飞机的许多标志性曲线，还在内部隐藏了一个令人难以置信的乐高装置，只需扭动尾部的尾锥，就能升降起落架。]]></content>
+        <title type="html"><![CDATA[消息称三星将在发布两代Galaxy S24 Ultra之后升级显示屏]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1376925.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1376925.htm"/>
+        <updated>2023-08-16T17:38:59.331Z</updated>
+        <content type="html"><![CDATA[三星一直为其 Galaxy S 系列中的"Ultra"成员使用质量极高的面板，但这些规格几年来一直未变。值得庆幸的是，据一位爆料者称，今年 
+Galaxy S24 Ultra 将采用再次升级的显示屏。不幸的是，发布的信息非常含糊，因此我们稍作挖掘，看看这款即将推出的旗舰机与 2024 
+年初推出的其余两款机型有何不同。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI向所有用户开放ChatGPT“自定义指令”功能]]></title>
