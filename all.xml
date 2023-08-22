@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-22T05:38:52.913Z</updated>
+    <updated>2023-08-22T17:38:32.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[印度不再从中国进口手机：每年1.8亿支的订单没了 (cnbeta一周点击排行)]]></title>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[杭州亚运会即将进入倒计时一个月，8月17日，支付宝在2023合作伙伴大会上宣布，支付宝推出全新国际版，面向境外游客进一步优化支付全流程体验，陆续增加国内城市的更多服务功能。而中国商家也能更好地接待全球来华游客，增加获客机会。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[还是那句话，光刻机救不了中国半导体 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1377031.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1377031.htm"/>
-        <updated>2023-08-15T07:45:21.000Z</updated>
-        <content type="html"><![CDATA[<strong>还是那句话，光刻机救不了中国半导体。</strong>（注意：28nm光刻机，这个称呼本身并不太准确。因为光刻机大多数都是以光源类型来定义的，ASML最先进的光刻机并不叫3nm光刻机，而是叫EUV光刻机——EUV指的是它采用了波长仅为13.5nm的极紫外光源。不过，为了方便行文讨论，本文姑且就将能用于生产28nm制程芯片的光刻机称作“28nm光刻机”。）]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[苹果向用户发出警告：不要睡在正在充电的iPhone旁边 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1377933.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1377933.htm"/>
@@ -55,6 +48,13 @@
         <content type="html"><![CDATA[日前“摄影师用自己照片被视觉中国告侵权索赔8万”一事引发网络关注，此后视觉中国表示这是一场误会，但没有得到大家的认可。从网友的吐槽来看，遭遇过视觉中国版权诉讼的个人及机构太多了，过程也很相似，中国国家天文也吐槽了这一点，<strong>表示他们收到过类似电话，诸如美国NASA航天局发布公版图片都算做他们（视觉中国）的版权。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[抖音首个？那英一条抖音短视频评论破1000万 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/music/1378395.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/music/1378395.htm"/>
+        <updated>2023-08-22T17:38:31.080Z</updated>
+        <content type="html"><![CDATA[8月21日消息，<strong>歌手那英抖音账号的一条视频的评论突破1000万条</strong>，该视频或成抖音首个评论达到千万级的视频。在抖音，对于明星和网红而言，点赞过千万并不难，但评论过百万都是很罕见的。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[诺基亚推出G310手机：续航3天还能拆卸电池 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1377389.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1377389.htm"/>
@@ -62,19 +62,28 @@
         <content type="html"><![CDATA[今天，HMD Global在海外推出了诺基亚G310手机，它不仅有着最高3天的续航，甚至还支持用户自行拆卸更换配件。据悉，G310采用QuickFix设计，<strong>支持用户通过官方给出的支持手册进行拆卸，并更换电池或其他部件。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为 Mate 60 上手图片曝光 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1376961.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1376961.htm"/>
-        <updated>2023-08-19T17:38:36.400Z</updated>
-        <content type="html"><![CDATA[华为预计将于今年秋季推出 Mate 60 系列手机，现在我们通过微博上流传的一系列上手图片首次看到了 Mate 60 的真容。这些新照片描绘了 
-Mate 60 的双色背面，上半部分看起来像磨砂玻璃，下半部分为金属，之前泄露的圆形摄像头模组依然存在，并有三个摄像头打孔。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[由于采用了钛合金机身 Galaxy S24 Ultra将比S23 Ultra稍微轻一点 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1377701.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1377701.htm"/>
         <updated>2023-08-20T17:38:20.948Z</updated>
         <content type="html"><![CDATA[三星明年的 Galaxy S24 Ultra 可能会放弃使用铝和玻璃，转而使用钛合金。改用这种材料的一个好处是重量轻，但据一位爆料者称，即将推出的旗舰机与 Galaxy S23 Ultra 之间的差别几乎可以忽略不计。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy S24系列外观或更改：直角中框设计 类似iPhone和魅族20 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1378353.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1378353.htm"/>
+        <updated>2023-08-21T09:10:01.000Z</updated>
+        <content type="html"><![CDATA[年初，全新的三星Galaxy S23系列发布，包含Galaxy S23、Galaxy S23+和Galaxy S23 
+Ultra三个版本，全系搭载超频版骁龙8 Gen 2，极限性能更强。随着新一代旗舰芯片骁龙8 
+Gen3芯片即将亮相，大家对首批搭载该芯片的Galaxy 
+S24系列也给予了不少的期待，并且有多方透露称，三星自家的Exynos处理器也将在该系列上迎来回归，进一步让该机受到了更多的关注。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女子账户不分昼夜有钱转入 每次1分：原因哭笑不得 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1378263.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1378263.htm"/>
+        <updated>2023-08-22T17:38:31.085Z</updated>
+        <content type="html"><![CDATA[相信大家都梦想过躺着收钱，但如果有人不分昼夜给你转账，估计你高兴不起来。据媒体报道，近日，黑龙江哈尔滨的女子王芳(化名)就遇到一件怪事：<strong>从早到晚收到陌生人转账，但每次都只有1分钱。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[传闻三款iPhone 15将配备全速Thunderbolt/USB4 接口 (cnbeta一周点击排行)]]></title>
@@ -85,25 +94,25 @@ Mate 60 的双色背面，上半部分看起来像磨砂玻璃，下半部分为
  15 系列将从 Lightning 转换为 USB-C 连接器的长期传言还不够充分的话，那么欧盟要求尽快实现这一目标的要求就应该足够了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel 12代酷睿集体大降价 幅度相当不可思议 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1377013.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1377013.htm"/>
-        <updated>2023-08-15T01:21:02.000Z</updated>
-        <content type="html"><![CDATA[之前有德国媒体报道称，Intel 12/13代酷睿以及即将发布的14代酷睿，将会全面涨价。没想到，<strong>12代酷睿大降价了，幅度相当不可思议，不过至少目前仅限美国市场，新蛋、亚马逊、MicroCenter等大型零售商集体行动。</strong>]]></content>
+        <title type="html"><![CDATA[iPhone 15终于改成USB-C接口 但你可别高兴 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1378283.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1378283.htm"/>
+        <updated>2023-08-22T17:38:31.087Z</updated>
+        <content type="html"><![CDATA[不出意外，一年一度的&nbsp;“ 科技春晚 ”&nbsp;—— 苹果秋季发布会，在下个月就要来了。和往年一样啊，每次到临发布会之前，网上的消息就会铺天盖地的从各种的大小渠道，爆出最新一代 iPhone 的谍照、配置参数等信息。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从遥遥领先到月销三千，问界快被华为放弃了？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1377093.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1377093.htm"/>
-        <updated>2023-08-15T08:57:15.000Z</updated>
-        <content type="html"><![CDATA[<strong>时隔一年多，华为门店里终于要有新车了，但这次大概率不是问界。</strong>在上周末的华为开发者大会结束后，余总在微博上发了个 “ One More Thing 。 ” 公开了新款华为智选车，也就是会摆在华为门店里卖的那种。]]></content>
+        <title type="html"><![CDATA[美国芯片巨头重磅收购失败 美媒：中国反击芯片战有一重要利器 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1378183.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1378183.htm"/>
+        <updated>2023-08-20T10:01:22.000Z</updated>
+        <content type="html"><![CDATA[北京时间8月20日，美国芯片巨头英特尔本周宣布，放弃收购以色列高塔半导体(Tower Semiconductor)的交易。美国媒体指出，这笔重磅收购交易的失败表明，中国在反击美国芯片战时拥有一个重要利器。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比特币凌晨突发暴跌 一度击穿26000美元关口 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1377833.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1377833.htm"/>
-        <updated>2023-08-18T09:07:12.000Z</updated>
-        <content type="html"><![CDATA[大型加密货币在今日（8月18日）凌晨突然暴跌，比特币一度击穿26000美元关口，以太坊短线暴跌近200美元，1小时内全网爆仓量跃升至6.5亿美元。截至发稿，比特币报26662美元，跌幅7.27%；以太坊报1690.55美元，跌幅6.66%。]]></content>
+        <title type="html"><![CDATA[三星正研发无边框显示屏和屏下摄像头 可能会给手机行业带来革命性变化 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1377945.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1377945.htm"/>
+        <updated>2023-08-22T17:38:31.098Z</updated>
+        <content type="html"><![CDATA[三星显示器似乎正在研发一款无边框显示屏。目前，我们除了知道这种屏幕的研发工作已经开始，而且目前还处于概念阶段之外，还不知道其他更多的信息。但是，如果这件事真的实现了，而且功能齐全，那么我们开始看到完全无边框智能手机的那一天就不远了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[博主：华为Mate60样机将于下周发送 新机已蓄势待发 (cnbeta一周点击排行)]]></title>
@@ -111,6 +120,20 @@ Mate 60 的双色背面，上半部分看起来像磨砂玻璃，下半部分为
         <link href="https://www.cnbeta.com.tw/articles/tech/1377681.htm"/>
         <updated>2023-08-21T17:38:47.562Z</updated>
         <content type="html"><![CDATA[8月17日，有数码博主爆料称，华为Mate60系列的样机可能会在下周发出，看样子已经蓄势待发。该博主谈到，Mate60系列产线里被拍，和到部门体验，还是有差异的，这似乎是在暗示这部机子的外观没有那么简单。难道之前那么多有关外观的爆料都是错的？]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超导LK-99二十天后 韩国科学家又搞出一个大新闻 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1377977.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1377977.htm"/>
+        <updated>2023-08-19T07:56:32.000Z</updated>
+        <content type="html"><![CDATA[在七月底，围绕韩国团队超导材料LK-99的希望和炒作甚嚣尘上，带动相关概念股票大幅波动，也引发了全社会的高度关注。但目前看来，LK-99是室温超导体的希望极其渺茫。不过很快，大概也就二十天之后，韩国科学家又搞出一个大新闻。他们发布论文称，<strong>发现了一种“革命性新材料”大规模生产的技术。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币凌晨突发暴跌 一度击穿26000美元关口 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1377833.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1377833.htm"/>
+        <updated>2023-08-18T09:07:12.000Z</updated>
+        <content type="html"><![CDATA[大型加密货币在今日（8月18日）凌晨突然暴跌，比特币一度击穿26000美元关口，以太坊短线暴跌近200美元，1小时内全网爆仓量跃升至6.5亿美元。截至发稿，比特币报26662美元，跌幅7.27%；以太坊报1690.55美元，跌幅6.66%。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[泄密者认为动作按钮并不是升级到iPhone 15 Pro的最大理由 (cnbeta一周点击排行)]]></title>
@@ -122,20 +145,6 @@ Mate 60 的双色背面，上半部分看起来像磨砂玻璃，下半部分为
  iPhone 15 Pro 上把它变成一个动作按钮，可以执行大量任务。不过，一位泄密者表示，"动作按钮"并不足以构成应该考虑升级到新机型的理由。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超导LK-99二十天后 韩国科学家又搞出一个大新闻 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1377977.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1377977.htm"/>
-        <updated>2023-08-19T07:56:32.000Z</updated>
-        <content type="html"><![CDATA[在七月底，围绕韩国团队超导材料LK-99的希望和炒作甚嚣尘上，带动相关概念股票大幅波动，也引发了全社会的高度关注。但目前看来，LK-99是室温超导体的希望极其渺茫。不过很快，大概也就二十天之后，韩国科学家又搞出一个大新闻。他们发布论文称，<strong>发现了一种“革命性新材料”大规模生产的技术。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戴尔承认使其官网的高价显示器看起来像是在打折 被罚650万美元 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1377129.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1377129.htm"/>
-        <updated>2023-08-15T11:39:25.000Z</updated>
-        <content type="html"><![CDATA[澳大利亚竞争与消费者委员会（ACCC）今天宣布，戴尔澳大利亚分公司因"在其网站上对附加电脑显示器的折扣价格做出虚假和误导性陈述"而被处以 1000 万澳元（约合 649 万美元）的罚款。澳大利亚监管机构称，该公司以这种方式销售了 5300 台显示器。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[终究是微信替腾讯扛下了所有 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1377979.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1377979.htm"/>
@@ -143,12 +152,5 @@ Mate 60 的双色背面，上半部分看起来像磨砂玻璃，下半部分为
         <content type="html"><![CDATA[“审慎乐观。”腾讯董事会主席兼首席执行官马化腾与总裁刘炽平在 2023 上半年战略会上的意志传达，恰如其分投射到了最新财报里。8 月 16 
 日港股盘后，腾讯控股（00700.HK）向市场递上 2023Q2 成绩单：营收 1492.08 亿元，同比增长 11%，低于市场预期 
 1519.55 亿元；净利润 261.7 亿元，同比增长 41%；Non - IFRS 净利润 375.48 亿元，同比增长 33%。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 17正式版9月中下旬发布 iPhone XS后机型都能升 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1377523.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1377523.htm"/>
-        <updated>2023-08-17T07:54:07.000Z</updated>
-        <content type="html"><![CDATA[据多方爆料显示，<strong>iPhone 15系列将会在9月12日正式发布，并且在9月22日正式上市。而最新消息称，iOS 17正式版预计会在9月中下旬正式推出，应该会赶在9月22日之前，iPhone 15系列将作为首批预装机型。</strong>]]></content>
     </entry>
 </feed>
