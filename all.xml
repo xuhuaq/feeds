@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-29T05:38:21.336Z</updated>
+    <updated>2023-08-29T17:38:17.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[华为Mate60已大规模量产：真机外观揭晓 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1379959.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1379959.htm"/>
+        <updated>2023-08-28T10:59:35.000Z</updated>
+        <content type="html"><![CDATA[上周就有传闻称，华为Mate60系列已经开始量产，今天终于迎来一些“实锤”。博主二八同学在微博上曝光了疑似Mate60系列整机从产线上下来的实拍，<strong>虽然图片清晰度很差，但是从标志性的圆形后摄，以及与此前谍照相符的拼色设计来看，应该就是Mate60系列。</strong>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学的尽头是玄学？量子纠缠成像惊现太极图 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1379231.htm</id>
@@ -14,13 +21,6 @@
 Sciarrino）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星 Galaxy S24 Ultra 将打破亮度纪录并拥有相当厚的屏幕边框 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1379119.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1379119.htm"/>
-        <updated>2023-08-24T08:33:07.000Z</updated>
-        <content type="html"><![CDATA[三星即将推出的 Galaxy S24 Ultra 早已传出将改用平面屏幕--这在 Ultra 系列中尚属首次。我们从一向可靠的 Ice Universe 获得了有关 S24 Ultra 屏幕的更多消息。其中有好消息，也有坏消息，让我们从好消息开始。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5999元起、21项重大变化 iPhone 15系列售价配置全曝光 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1379749.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1379749.htm"/>
@@ -28,6 +28,13 @@ Sciarrino）。]]></content>
         <content type="html"><![CDATA[距离iPhone 15发布会只剩下半个月左右的时间，近期有关新机的爆料进入高潮期。MR近日根据名记的马克·古尔曼（Mark 
 Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming-Chi Kuo）等可靠来源的信息，汇总了iPhone 
 15 Pro版机型带来的21项重大变化。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星 Galaxy S24 Ultra 将打破亮度纪录并拥有相当厚的屏幕边框 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1379119.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1379119.htm"/>
+        <updated>2023-08-24T08:33:07.000Z</updated>
+        <content type="html"><![CDATA[三星即将推出的 Galaxy S24 Ultra 早已传出将改用平面屏幕--这在 Ultra 系列中尚属首次。我们从一向可靠的 Ice Universe 获得了有关 S24 Ultra 屏幕的更多消息。其中有好消息，也有坏消息，让我们从好消息开始。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[泄密者称苹果将于9月12日发布iPhone 15 Pro和第二代Apple Watch Ultra (cnbeta一周点击排行)]]></title>
@@ -58,25 +65,11 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
         <content type="html"><![CDATA[据TechInsights统计，中国自2005年成为全球最大IC消费市场以来一直保持地位，2021年达到峰值1773亿美元，但2022年将同比下降7.3%。除了2023年的1644亿美元外，由于全球经济放缓、中国新冠政策以及美国对中国半导体监管收紧的影响，预计2023年将萎缩18%至1350亿美元。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI CEO：当年马斯克骂我们都是蠢货 然后就离开了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1378605.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1378605.htm"/>
-        <updated>2023-08-22T08:32:53.000Z</updated>
-        <content type="html"><![CDATA[8月22日消息，人工智能研究公司OpenAI首席执行官萨姆·奥特曼（Sam Altman）最近接受采访时，谈及了埃隆·马斯克（Elon Musk）于2018年宣布退出带来的影响。奥特曼称，此举震惊了整个公司，他也不得不重新调整自己的生活和时间安排。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iPhone 15 Pro Max与14 Pro Max参数对比：升级巨大 价格更贵 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1378819.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1378819.htm"/>
         <updated>2023-08-23T07:56:25.000Z</updated>
         <content type="html"><![CDATA[MacRumors分享了iPhone 15 Pro Max与iPhone 14 Pro Max的参数对比。如表格所示，<strong>从外观材质到性能配置，iPhone 15 Pro Max全方位升级。</strong>工业设计上，<strong>iPhone 15 Pro Max是钛合金边框，屏幕边框只有1.55mm，是目前行业内边框最窄的机型，底部的充电接口升级为USB-C，传输速率提升至40GB/s。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多辆特斯拉被爆涉水“脱肛” 后保险杠翻出 画面尴尬 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1378839.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1378839.htm"/>
-        <updated>2023-08-23T08:16:00.000Z</updated>
-        <content type="html"><![CDATA[夏季雨水充沛，不少道路出现积水现象。近日，多名车主晒出自己的特斯拉因涉水导致“脱肛”的状况。多张爆料照片显示，特斯拉后保险杠底部直接翻出，卡在马路上，状况如出一辙。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米13T Pro真机曝光 后置徕卡三摄 预计9月初发布 (cnbeta一周点击排行)]]></title>
@@ -86,11 +79,11 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
         <content type="html"><![CDATA[8月24日，据外媒报道，小米将于下个月推出小米13T、小米13T Pro等新机。该机几周前已经获得了NBTC、EEC和TUV莱茵认证。<strong>现在，小米13T Pro真机出现在了NCC认证信息上。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为Mate60已大规模量产：真机外观揭晓 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1379959.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1379959.htm"/>
-        <updated>2023-08-28T10:59:35.000Z</updated>
-        <content type="html"><![CDATA[上周就有传闻称，华为Mate60系列已经开始量产，今天终于迎来一些“实锤”。博主二八同学在微博上曝光了疑似Mate60系列整机从产线上下来的实拍，<strong>虽然图片清晰度很差，但是从标志性的圆形后摄，以及与此前谍照相符的拼色设计来看，应该就是Mate60系列。</strong>]]></content>
+        <title type="html"><![CDATA[多辆特斯拉被爆涉水“脱肛” 后保险杠翻出 画面尴尬 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1378839.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1378839.htm"/>
+        <updated>2023-08-23T08:16:00.000Z</updated>
+        <content type="html"><![CDATA[夏季雨水充沛，不少道路出现积水现象。近日，多名车主晒出自己的特斯拉因涉水导致“脱肛”的状况。多张爆料照片显示，特斯拉后保险杠底部直接翻出，卡在马路上，状况如出一辙。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[藤壶可能有助于解答马航370航班命运的答案 (cnbeta一周点击排行)]]></title>
@@ -98,13 +91,6 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
         <link href="https://www.cnbeta.com.tw/articles/science/1379175.htm"/>
         <updated>2023-08-24T11:59:10.000Z</updated>
         <content type="html"><![CDATA[马航370航班在印度洋上空消失的谜团困扰了全世界9年之久，但现在，南佛罗里达大学的一位地球科学家可能已经找到了一种令人惊讶的方法，即利用藤壶来确定飞机残骸的位置。2014年3月8日，马来西亚航空公司370航班从吉隆坡起飞前往北京。大约38分钟后，这架载有227名乘客和12名机组人员的波音777-200ER客机在飞越中国南海上空时进行了最后一次无线电通讯。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[余承东透露9月12日有发布会：华为Mate 60稳了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1379645.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1379645.htm"/>
-        <updated>2023-08-28T17:38:17.651Z</updated>
-        <content type="html"><![CDATA[今天余承东现身成都车展，公布了问界新M7的预售价格25.8万起。现场，余承东强调这不是最终的价格，今天只是预发布，<strong>正式的发布会在9月12日的上海发布会上。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自动驾驶真不行？被无人出租车折磨一周后 加州人民肠子都悔青了 (cnbeta一周点击排行)]]></title>
@@ -115,11 +101,11 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
  CEO Kyle Vogt当场宣布，接下来6个月，将在旧金山投放数千辆支持L4级自动驾驶的出租车，为当地居民提供7×24小时服务。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[出自尼康Z9被称用华为手机拍摄 盗图把作者P掉还获影赛一等奖 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1378867.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1378867.htm"/>
-        <updated>2023-08-23T09:22:17.000Z</updated>
-        <content type="html"><![CDATA[近日，有网友发帖称，自己用相机拍摄的照片被人盗图，将自己P掉后参加了深圳某手机摄影大赛，最终还拿到了一等奖！他向主办方提出了抗议，并要求对方赔偿。目前，主办方已经取消了盗图者的一等奖，但双方尚未就赔偿细节达成一致。]]></content>
+        <title type="html"><![CDATA[余承东透露9月12日有发布会：华为Mate 60稳了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1379645.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1379645.htm"/>
+        <updated>2023-08-28T17:38:17.651Z</updated>
+        <content type="html"><![CDATA[今天余承东现身成都车展，公布了问界新M7的预售价格25.8万起。现场，余承东强调这不是最终的价格，今天只是预发布，<strong>正式的发布会在9月12日的上海发布会上。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[主板北桥芯片为何消失了？南桥消失了也不奇怪 (cnbeta一周点击排行)]]></title>
@@ -129,11 +115,11 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
         <content type="html"><![CDATA[说起主板的南桥和北桥芯片，这可能是一件暴露年龄的事，毕竟现在的主板上最大、最重要的那个芯片就是南桥了，根本没有北桥芯片的踪影，那么它去哪里了？答案很简单，被CPU和南桥芯片整合了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星Galaxy S24 Ultra渲染图曝光：钛金圆角边框 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1378531.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1378531.htm"/>
-        <updated>2023-08-27T17:38:32.009Z</updated>
-        <content type="html"><![CDATA[<strong>三星Galaxy S24系列将于明年上半年登场，新的泄露信息显示，三星S24系列将采用全新的设计。</strong>目前，<strong>三星Galaxy S24 Ultra的外观渲染图已经曝光，将采用钛圆角金属中框。</strong>这种新的设计方法与三星以往的设计大相径庭，但有望为S24 Ultra带来更时尚的美感。]]></content>
+        <title type="html"><![CDATA[出自尼康Z9被称用华为手机拍摄 盗图把作者P掉还获影赛一等奖 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1378867.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1378867.htm"/>
+        <updated>2023-08-23T09:22:17.000Z</updated>
+        <content type="html"><![CDATA[近日，有网友发帖称，自己用相机拍摄的照片被人盗图，将自己P掉后参加了深圳某手机摄影大赛，最终还拿到了一等奖！他向主办方提出了抗议，并要求对方赔偿。目前，主办方已经取消了盗图者的一等奖，但双方尚未就赔偿细节达成一致。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[首位AI港姐司仪诞生 系用过去50年港姐冠军合成 (cnbeta一周点击排行)]]></title>
@@ -143,10 +129,25 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
         <content type="html"><![CDATA[2023香港小姐竞选将于8月27日晚进行决赛。据TVB官方消息，今年港姐决赛打破传统，将人工智能（AI）元素融入选美，诞生了史上首位AI港姐司仪。大会近日公布透过综合过往50年港姐冠军的参赛片段，合成最接近完美的港姐冠军，成为史上首位AI港姐决赛大会司仪陈婉嫣（Evelyn ），名字由来也是AI根据历届冠军的中英文名资料生成，意思是聪明及迷人。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刀郎低调入驻抖音 一个作品未发 粉丝5天疯狂增长500万 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/music/1378555.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/music/1378555.htm"/>
-        <updated>2023-08-22T07:35:26.000Z</updated>
-        <content type="html"><![CDATA[8月22日消息，<strong>刀郎最近突然又火了，在涨粉界也是天花板，短短5天时间疯狂涨粉500万，这速度几乎无人能及。</strong>8月16日，刀郎正式入驻抖音平台，但并未大张旗鼓地宣传，这和他的新专辑《山歌廖哉》的问世一样低调，《山歌廖哉》一问世，不出10天就火遍全球，播放量超过300万。]]></content>
+        <title type="html"><![CDATA[特朗普被收押细节与大头照公布：身高6英尺3英寸 重215磅 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1379383.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1379383.htm"/>
+        <updated>2023-08-25T08:56:10.000Z</updated>
+        <content type="html"><![CDATA[据外媒消息，当地时间8月24日，美国前总统特朗普到佐治亚州富尔顿县监狱自首，警方给他拍摄了嫌犯大头照，并在自首后不到半小时获得保释。目前，特朗普已乘车离开富尔顿县监狱。<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港小姐10号"意难平"登热搜：这么好看都没进三甲 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1380029.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1380029.htm"/>
+        <updated>2023-08-29T17:38:16.319Z</updated>
+        <content type="html"><![CDATA[“2023香港小姐”前三甲诞生。15号选手庄子璇夺得冠军桂冠，来自江苏的4号选手王怡然获亚军和“最上镜小姐”，17号选手王敏慈摘得季军。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果可能为iPhone 15 Pro和Pro Max推出Thunderbolt电缆 测试装置已出现 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1379297.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1379297.htm"/>
+        <updated>2023-08-29T17:38:16.322Z</updated>
+        <content type="html"><![CDATA[iPhone 15 Pro 和 iPhone 15 Pro Max 可能会超越标准机型，因为它们将获得专用的高耐用性 Thunderbolt 
+线缆，而不是那些仅限于 USB 2.0 规范的线缆。有传言称，苹果公司正在为即将推出的高端机型测试这些高带宽配件，这些电缆的规格令人印象深刻。]]></content>
     </entry>
 </feed>
