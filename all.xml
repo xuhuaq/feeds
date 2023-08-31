@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-31T05:38:43.259Z</updated>
+    <updated>2023-08-31T17:38:29.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[华为Mate60已大规模量产：真机外观揭晓 (cnbeta一周点击排行)]]></title>
@@ -12,15 +12,6 @@
         <content type="html"><![CDATA[上周就有传闻称，华为Mate60系列已经开始量产，今天终于迎来一些“实锤”。博主二八同学在微博上曝光了疑似Mate60系列整机从产线上下来的实拍，<strong>虽然图片清晰度很差，但是从标志性的圆形后摄，以及与此前谍照相符的拼色设计来看，应该就是Mate60系列。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[科学的尽头是玄学？量子纠缠成像惊现太极图 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1379231.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1379231.htm"/>
-        <updated>2023-08-25T17:38:32.002Z</updated>
-        <content type="html"><![CDATA[8月14日，《自然光子学（Nature Photonics）》上更新了一篇论文，研究人员展示了更加清晰的量子纠缠成像，竟然神似太极图。据了解， 
-这项研究出自于加拿大渥太华大学的研究人员与罗马萨皮恩扎大学的达尼洛·齐亚（Danilo Zia）和法比奥·夏里诺（Fabio 
-Sciarrino）。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5999元起、21项重大变化 iPhone 15系列售价配置全曝光 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1379749.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1379749.htm"/>
@@ -28,13 +19,6 @@ Sciarrino）。]]></content>
         <content type="html"><![CDATA[距离iPhone 15发布会只剩下半个月左右的时间，近期有关新机的爆料进入高潮期。MR近日根据名记的马克·古尔曼（Mark 
 Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming-Chi Kuo）等可靠来源的信息，汇总了iPhone 
 15 Pro版机型带来的21项重大变化。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星 Galaxy S24 Ultra 将打破亮度纪录并拥有相当厚的屏幕边框 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1379119.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1379119.htm"/>
-        <updated>2023-08-24T08:33:07.000Z</updated>
-        <content type="html"><![CDATA[三星即将推出的 Galaxy S24 Ultra 早已传出将改用平面屏幕--这在 Ultra 系列中尚属首次。我们从一向可靠的 Ice Universe 获得了有关 S24 Ultra 屏幕的更多消息。其中有好消息，也有坏消息，让我们从好消息开始。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[泄密者称苹果将于9月12日发布iPhone 15 Pro和第二代Apple Watch Ultra (cnbeta一周点击排行)]]></title>
@@ -65,19 +49,27 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
         <content type="html"><![CDATA[8月24日，据外媒报道，小米将于下个月推出小米13T、小米13T Pro等新机。该机几周前已经获得了NBTC、EEC和TUV莱茵认证。<strong>现在，小米13T Pro真机出现在了NCC认证信息上。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[藤壶可能有助于解答马航370航班命运的答案 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1379175.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1379175.htm"/>
-        <updated>2023-08-24T11:59:10.000Z</updated>
-        <content type="html"><![CDATA[马航370航班在印度洋上空消失的谜团困扰了全世界9年之久，但现在，南佛罗里达大学的一位地球科学家可能已经找到了一种令人惊讶的方法，即利用藤壶来确定飞机残骸的位置。2014年3月8日，马来西亚航空公司370航班从吉隆坡起飞前往北京。大约38分钟后，这架载有227名乘客和12名机组人员的波音777-200ER客机在飞越中国南海上空时进行了最后一次无线电通讯。]]></content>
+        <title type="html"><![CDATA[2023上半年全球手机销量前10：iPhone 14遥遥领先 一个国产都没有 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1380181.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1380181.htm"/>
+        <updated>2023-08-29T10:17:50.000Z</updated>
+        <content type="html"><![CDATA[<strong>专业机构Omdia汇总市场数据，公布出了2023上半年（1-6月）全球销量最高的10款智能手机。分别是：</strong>iPhone14
+ Pro Max、iPhone14 Pro、iPhone14、iPhone13、三星Galaxy A14、三星Galaxy S23 
+Ultra、三星Galaxy A14 5G、三星Galaxy A54 5G、三星Galaxy A34 5G、iPhone11。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[自动驾驶真不行？被无人出租车折磨一周后 加州人民肠子都悔青了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1379157.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1379157.htm"/>
-        <updated>2023-08-24T10:16:01.000Z</updated>
-        <content type="html"><![CDATA[北京时间8月11日，美国最保守的地区加州召开了一场听证会，主题是无人驾驶出租车能否合法上路。经过长达6个小时的辩论后，最终无人驾驶支持者以3:1投票的压倒性优势取得胜利。网约车公司Cruise
- CEO Kyle Vogt当场宣布，接下来6个月，将在旧金山投放数千辆支持L4级自动驾驶的出租车，为当地居民提供7×24小时服务。]]></content>
+        <title type="html"><![CDATA[苹果发布会邀请函确认新配色：iPhone 15 Pro新增深蓝色、泰坦灰 金色取消 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1380447.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1380447.htm"/>
+        <updated>2023-08-30T10:26:14.000Z</updated>
+        <content type="html"><![CDATA[<strong>苹果将于北京时间9月13日凌晨1点召开新品发布会，</strong>邀请函还是一如既往的空空如也，没有展示任何产品有关的直接信息。不过苹果惯例会在logo中隐藏消息，<strong>这次的logo采用了深蓝色和灰色双拼，这与爆料中iPhone Pro这次全新的配色完全一致，基本就算是实锤了。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港小姐10号"意难平"登热搜：这么好看都没进三甲 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1380029.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1380029.htm"/>
+        <updated>2023-08-29T17:38:16.319Z</updated>
+        <content type="html"><![CDATA[“2023香港小姐”前三甲诞生。15号选手庄子璇夺得冠军桂冠，来自江苏的4号选手王怡然获亚军和“最上镜小姐”，17号选手王敏慈摘得季军。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[余承东透露9月12日有发布会：华为Mate 60稳了 (cnbeta一周点击排行)]]></title>
@@ -94,11 +86,11 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
         <content type="html"><![CDATA[说起主板的南桥和北桥芯片，这可能是一件暴露年龄的事，毕竟现在的主板上最大、最重要的那个芯片就是南桥了，根本没有北桥芯片的踪影，那么它去哪里了？答案很简单，被CPU和南桥芯片整合了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[香港小姐10号"意难平"登热搜：这么好看都没进三甲 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1380029.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1380029.htm"/>
-        <updated>2023-08-29T17:38:16.319Z</updated>
-        <content type="html"><![CDATA[“2023香港小姐”前三甲诞生。15号选手庄子璇夺得冠军桂冠，来自江苏的4号选手王怡然获亚军和“最上镜小姐”，17号选手王敏慈摘得季军。]]></content>
+        <title type="html"><![CDATA[俄罗斯客机SJ-100首飞成功：全面放弃欧美元件 发动机自产 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1380293.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1380293.htm"/>
+        <updated>2023-08-31T17:38:29.024Z</updated>
+        <content type="html"><![CDATA[在民用客机市场上，除了波音、空客及新加入的中国商飞之外，俄罗斯也是一股不容忽视的力量，大名鼎鼎的苏霍伊之前联合法国等研发了SSJ-100支线客机，但是随着欧美的退出，现在已经全面转向俄罗斯自研。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[科学家成功转移长寿基因 为延长人类寿命铺平道路 (cnbeta一周点击排行)]]></title>
@@ -108,11 +100,11 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
         <content type="html"><![CDATA[罗切斯特大学（University of Rochester）的科学家们通过一项开创性的努力，成功地将裸鼹鼠的长寿基因转移到了小鼠身上，从而增强了小鼠的健康，延长了小鼠的寿命。裸鼹鼠以其长寿和对老年性疾病的超强抵抗力而闻名，长期以来一直吸引着科学界的关注。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普被收押细节与大头照公布：身高6英尺3英寸 重215磅 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1379383.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1379383.htm"/>
-        <updated>2023-08-25T08:56:10.000Z</updated>
-        <content type="html"><![CDATA[据外媒消息，当地时间8月24日，美国前总统特朗普到佐治亚州富尔顿县监狱自首，警方给他拍摄了嫌犯大头照，并在自首后不到半小时获得保释。目前，特朗普已乘车离开富尔顿县监狱。<br>]]></content>
+        <title type="html"><![CDATA[苹果“改造”iPad Pro：进一步PC化 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1380155.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1380155.htm"/>
+        <updated>2023-08-29T10:01:56.000Z</updated>
+        <content type="html"><![CDATA[iPad Pro 已经很久没有“亮眼”的更新了：外观设计从 2018 款以来就没有什么变化，只是多有些镜头；核心规格还是在稳步前进，处理器更强大、屏幕更好；台前调度之后，iPadOS 也没有带来更多的重大更新。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[传日本更可能实施对光刻/薄膜沉积设备的出口管制 (cnbeta一周点击排行)]]></title>
@@ -123,19 +115,18 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
  Research分析师Eric Chen表示，对光刻和薄膜沉积设备的限制更有可能实施，从而影响中国先进的半导体制造。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[首位AI港姐司仪诞生 系用过去50年港姐冠军合成 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1379173.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1379173.htm"/>
-        <updated>2023-08-24T11:28:59.000Z</updated>
-        <content type="html"><![CDATA[2023香港小姐竞选将于8月27日晚进行决赛。据TVB官方消息，今年港姐决赛打破传统，将人工智能（AI）元素融入选美，诞生了史上首位AI港姐司仪。大会近日公布透过综合过往50年港姐冠军的参赛片段，合成最接近完美的港姐冠军，成为史上首位AI港姐决赛大会司仪陈婉嫣（Evelyn ），名字由来也是AI根据历届冠军的中英文名资料生成，意思是聪明及迷人。]]></content>
+        <title type="html"><![CDATA[特朗普被收押细节与大头照公布：身高6英尺3英寸 重215磅 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1379383.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1379383.htm"/>
+        <updated>2023-08-25T08:56:10.000Z</updated>
+        <content type="html"><![CDATA[据外媒消息，当地时间8月24日，美国前总统特朗普到佐治亚州富尔顿县监狱自首，警方给他拍摄了嫌犯大头照，并在自首后不到半小时获得保释。目前，特朗普已乘车离开富尔顿县监狱。<br>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果可能为iPhone 15 Pro和Pro Max推出Thunderbolt电缆 测试装置已出现 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1379297.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1379297.htm"/>
-        <updated>2023-08-29T17:38:16.322Z</updated>
-        <content type="html"><![CDATA[iPhone 15 Pro 和 iPhone 15 Pro Max 可能会超越标准机型，因为它们将获得专用的高耐用性 Thunderbolt 
-线缆，而不是那些仅限于 USB 2.0 规范的线缆。有传言称，苹果公司正在为即将推出的高端机型测试这些高带宽配件，这些电缆的规格令人印象深刻。]]></content>
+        <title type="html"><![CDATA[量子计算机以千亿亿次的慢镜头揭示化学反应 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1380287.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1380287.htm"/>
+        <updated>2023-08-31T17:38:29.032Z</updated>
+        <content type="html"><![CDATA[量子计算机可以处理传统计算机无法处理的计算，而现在，澳大利亚的科学家们利用这种技术观察到了肉眼通常无法看到的太快的东西。研究小组成功地将分子相互作用的速度放慢了1000亿倍，从而观察到了普通化学反应中的真实情况。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[刻在石头上的历史：科学家揭开马来西亚古代岩画的悲伤故事 (cnbeta一周点击排行)]]></title>
@@ -145,6 +136,14 @@ Gurman）、DSCC的罗斯·杨（Ross Young）、苹果分析师郭明錤（Ming
         <content type="html"><![CDATA[格里菲斯社会与文化研究中心（Griffith Centre for Social and Cultural 
 Research）的研究人员与沙捞越博物馆部（The Sarawak Museum Department）合作，首次对沙捞越瓜西雷洞穴（Gua 
 Sireh Cave）的图画进行了测绘，并在测绘过程中发现了一个悲惨的冲突故事。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果可能为iPhone 15 Pro和Pro Max推出Thunderbolt电缆 测试装置已出现 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1379297.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1379297.htm"/>
+        <updated>2023-08-29T17:38:16.322Z</updated>
+        <content type="html"><![CDATA[iPhone 15 Pro 和 iPhone 15 Pro Max 可能会超越标准机型，因为它们将获得专用的高耐用性 Thunderbolt 
+线缆，而不是那些仅限于 USB 2.0 规范的线缆。有传言称，苹果公司正在为即将推出的高端机型测试这些高带宽配件，这些电缆的规格令人印象深刻。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S24 Ultra渲染图曝光：全系直屏+79mm机身宽度 (cnbeta一周点击排行)]]></title>
