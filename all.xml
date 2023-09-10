@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-10T05:38:16.138Z</updated>
+    <updated>2023-09-10T17:38:14.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[9月13日苹果发布会新品全曝光：iPhone 15系列5999元起、21项重大升级 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381279.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381279.htm"/>
-        <updated>2023-09-04T17:38:19.214Z</updated>
-        <content type="html"><![CDATA[<strong>苹果官方已经定于北京时间9月13日凌晨1点举办新品发布会，主题为“好奇心上头”</strong>，届时iPhone 15系列将如约登场。据悉，此次发布会和去年一样采用提前录制的形式。当然，苹果依然会邀请媒体到Apple Park现场， 提供新品体验区。用户可以通过苹果官方网站，iPhone，iPad，Mac和Apple TV上的电视应用程序观看。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[新疆三文鱼远销上海大连等地：离海最远的地方为啥盛产“海鲜”？ (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1381615.htm</id>
@@ -41,27 +34,11 @@ Pro。据外媒实测，该手机网速与苹果最新款iPhone基本相同，�
         <content type="html"><![CDATA[EUV光刻技术的推进相当困难，光刻机龙头ASML也是举步维艰，一点点改进。<strong>ASML宣布，将在今年底发货第一台支持高NA(数值孔径)的EUV极紫外光刻机，型号“Twinscan EXE:5000”。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全球销量最好的10个汽车品牌：比亚迪排名第五 第一遥遥领先 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381317.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381317.htm"/>
-        <updated>2023-09-05T17:38:47.596Z</updated>
-        <content type="html"><![CDATA[大家都知道，比亚迪是中国销量最好的汽车品牌。如果放到全球市场，到底是什么水平呢？TrendForce集邦发布最新研报显示，据统计，2023年7月全球37个销售市场汽车销量合计为544万辆，在6月份基期较高的情况下，7月份汽车销量月减10%。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鸿蒙不兼容安卓应用还要有PC版 华为自研系统发大招 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381421.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381421.htm"/>
-        <updated>2023-09-04T10:34:32.000Z</updated>
-        <content type="html"><![CDATA[王成录透露，华为自主研发的操作系统鸿蒙将登陆PC，其实这一点也不奇怪，为什么这么说？<strong>其实在这之前，有鸿蒙生态企业鸿湖万联的工程师完成了OpenHarmony对PC的初步适配（x86），基于OpenHarmony 3.2 Beta3版本以及惠普某型号办公笔记本。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软提醒：Windows 12和下一代 Windows 11中将不可使用TLS 1.0和1.1 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1381231.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1381231.htm"/>
-        <updated>2023-09-03T04:06:43.000Z</updated>
-        <content type="html"><![CDATA[微软今天发布了一份标题为"TLS 1.0 和 TLS 1.1 将在未来的 Windows 操作系统中禁用"的通知，提醒用户在即将发布的 
-Windows 版本中即将淘汰 TLS（传输层安全）协议 1.0 和 1.1 版本。这是该公司本周第二次发出此类重要提醒，此前它曾表示，使用 
-Windows 11 21H2 的用户电脑将很快被强制升级。]]></content>
+        <title type="html"><![CDATA[iPhone 15 Pro将以128GB存储容量起售 配备8GB内存 非Max型号不涨价 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1382465.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1382465.htm"/>
+        <updated>2023-09-08T11:27:26.000Z</updated>
+        <content type="html"><![CDATA[根据台湾研究机构 TrendForce 今天分享的信息，苹果即将发布的 iPhone 15 Pro 和 iPhone 15 Pro Max 将拥有与 iPhone 14 Pro 机型相同的 128GB、256GB、512GB 和 1TB 存储容量选择。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国商务部对华为Mate 60 Pro使用的7纳米芯片发起正式调查 (cnbeta一周点击排行)]]></title>
@@ -69,6 +46,13 @@ Windows 11 21H2 的用户电脑将很快被强制升级。]]></content>
         <link href="https://www.cnbeta.com.tw/articles/tech/1382469.htm"/>
         <updated>2023-09-08T11:32:36.000Z</updated>
         <content type="html"><![CDATA[华为低调推出新手机 Mate 60 Pro ，引发市场高度关注，外界好奇在美国制裁下华为如何突破重围获取关键芯片，以及制裁是否真的有效等讨论。对此，美国商务部表示已开始正式着手调查华为 Mate 60 Pro 中的中国制先进芯片。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙不兼容安卓应用还要有PC版 华为自研系统发大招 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1381421.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1381421.htm"/>
+        <updated>2023-09-04T10:34:32.000Z</updated>
+        <content type="html"><![CDATA[王成录透露，华为自主研发的操作系统鸿蒙将登陆PC，其实这一点也不奇怪，为什么这么说？<strong>其实在这之前，有鸿蒙生态企业鸿湖万联的工程师完成了OpenHarmony对PC的初步适配（x86），基于OpenHarmony 3.2 Beta3版本以及惠普某型号办公笔记本。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 15 Pro将于下周发布 预计带来以下12项变化 (cnbeta一周点击排行)]]></title>
@@ -80,12 +64,29 @@ Windows 11 21H2 的用户电脑将很快被强制升级。]]></content>
 机型预计还将增加许多功能，包括钛金属边框、可定制的动作按钮、A17 仿生芯片、支持 Wi-Fi 6E 等。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ASML CEO：拿光刻机孤立中国毫无意义 他们能找到解决办法 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1382545.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1382545.htm"/>
+        <updated>2023-09-09T17:38:15.819Z</updated>
+        <content type="html"><![CDATA[当地时间9月6日，全球光刻机龙头大厂ASML首席执行官Peter 
+Wennink接受荷兰新闻电视节采访时，强调了知识移民的必要性，并警告孤立中国的经济后果。Peter 
+Wennink认为，排除知识移民和美国施加的出口限制可能会削弱荷兰。Peter 
+Wennink对知识移民的立场很明确：“他们对荷兰经济不可或缺。”]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[华为Mate X5突然开启预售 10秒内被抢光 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1382431.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1382431.htm"/>
         <updated>2023-09-08T10:39:16.000Z</updated>
         <content type="html"><![CDATA[9月8日，华为推出折叠屏机型Mate X5和Mate X5典藏版，Mate 
 X5系列还是供不应求，不到十秒官网显示“暂时缺货”。据了解，这将是华为史上最强悍的折叠屏机型。目前来看，官网并未透露其价格，该机拥有四个版本，分别为12GB+512GB、16GB+512GB、16GB+512GB典藏版、16GB+1TB典藏版。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“存储空间”超大 一女子电单车藏1040根SSD入境被查 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1382443.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1382443.htm"/>
+        <updated>2023-09-08T10:56:05.000Z</updated>
+        <content type="html"><![CDATA[9月8日消息，一些好携带、价值高的电脑配件总会成为走私目标，但即使有一万种藏匿方式，我国海关工作人员也能将其识破。据海关总署官方信息平台“海关发布”公众号介绍，近日，经专业机构鉴定，<strong>深圳海关所属沙头角海关在中英街查获的一批电子配件为固态硬盘，共计1040根。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows文件资源管理器中的用户误按键无意中提高了性能 (cnbeta一周点击排行)]]></title>
@@ -102,13 +103,6 @@ X5系列还是供不应求，不到十秒官网显示“暂时缺货”。据了
         <content type="html"><![CDATA[苹果已经预告了，9月13日（北京时间凌晨1点）将会举行新品发布会，至于主角不用多说，就是传闻多时的iPhone 15系列了。还有差不多不到两周时间就要发布了，现在也是有网友在网上曝光了所谓iPhone 15系列的包装盒，看来已经有经销商陆续收到货了？！]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉Model Y降价后销量猛增 交付日期延长至6-8周 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381537.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381537.htm"/>
-        <updated>2023-09-06T17:38:15.354Z</updated>
-        <content type="html"><![CDATA[日前，据特斯拉官网显示，<strong>Model Y长续航版车型预计交付日期已由2-6周延长至6-8周。</strong>而此次延期交付很有可能与之前的降价活动有关。<strong>8月14日，特斯拉宣布，Model Y长续航版起售价由31.39万元调整至29.99万元，降幅1.4万元；Model Y高性能版售价由36.39万元调整至34.99万元，降幅同样为1.4万元。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EUV光刻的新“救星” (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1381779.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1381779.htm"/>
@@ -116,14 +110,25 @@ X5系列还是供不应求，不到十秒官网显示“暂时缺货”。据了
         <content type="html"><![CDATA[从全球晶圆代工市场份额看，韩国三星电子公司的市占率排名第二（约18%左右），中国台湾省台积电公司是当之无愧的老大（约55%）。在7nm以下的先进芯片代工方面，台积电的市场占有率更是超过90%。其客户包括苹果、英伟达、AMD、高通、联发科等。比如，苹果公司的A17仿生芯片就是采用台积电的3nm工艺生产。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASML CEO：拿光刻机孤立中国毫无意义 他们能找到解决办法 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1382545.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1382545.htm"/>
-        <updated>2023-09-09T17:38:15.819Z</updated>
-        <content type="html"><![CDATA[当地时间9月6日，全球光刻机龙头大厂ASML首席执行官Peter 
-Wennink接受荷兰新闻电视节采访时，强调了知识移民的必要性，并警告孤立中国的经济后果。Peter 
-Wennink认为，排除知识移民和美国施加的出口限制可能会削弱荷兰。Peter 
-Wennink对知识移民的立场很明确：“他们对荷兰经济不可或缺。”]]></content>
+        <title type="html"><![CDATA[特斯拉Model Y降价后销量猛增 交付日期延长至6-8周 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1381537.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1381537.htm"/>
+        <updated>2023-09-06T17:38:15.354Z</updated>
+        <content type="html"><![CDATA[日前，据特斯拉官网显示，<strong>Model Y长续航版车型预计交付日期已由2-6周延长至6-8周。</strong>而此次延期交付很有可能与之前的降价活动有关。<strong>8月14日，特斯拉宣布，Model Y长续航版起售价由31.39万元调整至29.99万元，降幅1.4万元；Model Y高性能版售价由36.39万元调整至34.99万元，降幅同样为1.4万元。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比Python快6.8万倍 新语言Mojo首次开放下载 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/soft/1382541.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/soft/1382541.htm"/>
+        <updated>2023-09-10T17:38:14.016Z</updated>
+        <content type="html"><![CDATA[什么编程语言，敢号称是高性能版的“Python++”？新语言Mojo，来自LLVM之父和Swift之父Chris Lattner，性能可达到目前版本Python的68000倍。你没看错，几个月前团队还宣称是35000倍，换了台机器测评就成了68000倍。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂向开发者秘密展示Switch 2：终于有了NVIDIA的“大力水手” (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1382571.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1382571.htm"/>
+        <updated>2023-09-10T17:38:14.017Z</updated>
+        <content type="html"><![CDATA[整个行业一直在期待任天堂的第二代Switch，而根据外媒曝料，上月底的德国科隆游戏展期间，任天堂向部分游戏开发者闭门展示了新一代Switch。据称，<strong>任天堂这次演示了运行于新掌机的一个虚幻引擎5 DEMO Matrix Awakens(黑客帝国觉醒)，也曾经在PS5、Xbox Series X上演示过。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[App备案新规已经适用于除苹果App Store以外的所有中国应用商店 (cnbeta一周点击排行)]]></title>
@@ -134,25 +139,18 @@ Wennink对知识移民的立场很明确：“他们对荷兰经济不可或缺�
 月份出台了新规定，要求移动应用制造商在通过在线市场销售之前向政府备案。虽然有些公司已经开始执行新规定，但苹果公司似乎还没有引入这些变化。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[图+视频]Google公布Pixel 8外观 整体更圆润 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1382437.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1382437.htm"/>
+        <updated>2023-09-08T10:47:58.000Z</updated>
+        <content type="html"><![CDATA[谷歌公布了Pixel 8系列的外观，<strong>其整体延续了Pixel 7的设计语言。跟上一代对比，Pixel 8 Pro的R角更大，整机更为圆润。</strong>与此同时，<strong>Pixel 8 Pro配色更加清新活泼。对此，有网友发帖表示，谷歌Pixel 8 Pro比iPhone 15系列更好看。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone 15 Pro Max潜望镜相机规格资料曝光 揭示1/1.9英寸传感器 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1381993.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1381993.htm"/>
         <updated>2023-09-08T17:38:58.932Z</updated>
         <content type="html"><![CDATA[苹果公司计划在不到一周的时间内举行专门的发布会发布 iPhone 15 系列，因此出现大量的泄密信息也就不足为奇了。这次，围绕 iPhone 
 15 Pro Max 的潜望镜变焦摄像头的疑似官网资料信息已经出现，提供了有关苹果旗舰机的更多细节，这将是今年阵容中唯一配备这一升级的机型。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博主实测华为Mate 60 Pro 成功实现卫星通话 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381209.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381209.htm"/>
-        <updated>2023-09-08T17:38:58.925Z</updated>
-        <content type="html"><![CDATA[博主科技小辛测试了<strong>华为Mate 60 Pro的卫星通话功能，成功连接卫星。手机不仅可以卫星通话，也可以卫星短信。</strong>据悉，<strong>华为Mate 60 Pro是全球首款支持卫星通话的大众智能手机，遥遥领先整个手机行业。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丰田世纪SUV全球首发 售价约124万元 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381997.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381997.htm"/>
-        <updated>2023-09-09T17:38:15.832Z</updated>
-        <content type="html"><![CDATA[终于，<strong>丰田世纪首款SUV</strong>车型正式全球首发，配备了专属的凤凰标，在日本，每月销量供应30台，<strong>该车起售价位2500万日元，约合124万元人民币。</strong>该车整体设计确实有点劳斯莱斯库里南的感觉，采用了非常方正硬朗的设计，尤其是车头部分，中网样式独特，拥有很强的立体感，同时采用了渐变式设计，很是新颖，分体式大灯样式同样独特，内置了四颗LED更著，同时配有四个L型日行灯。]]></content>
     </entry>
 </feed>
