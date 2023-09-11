@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-11T05:38:29.794Z</updated>
+    <updated>2023-09-11T17:38:21.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[新疆三文鱼远销上海大连等地：离海最远的地方为啥盛产“海鲜”？ (cnbeta一周点击排行)]]></title>
@@ -27,18 +27,18 @@ Pro。据外媒实测，该手机网速与苹果最新款iPhone基本相同，�
         <content type="html"><![CDATA[中国规定中央政府办公人员不得使用 iPhone 工作，也不得将其带入大楼。此举是政府的一项升级举措。过去十年来，iPhone 在政府办公场所的使用一直受到一些限制，而最新举措只是加大了对使用外国设计的技术的打击力度。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASML今年发货第一台高NA EUV光刻机：成本逼近30亿元 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1382271.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1382271.htm"/>
-        <updated>2023-09-08T17:38:58.885Z</updated>
-        <content type="html"><![CDATA[EUV光刻技术的推进相当困难，光刻机龙头ASML也是举步维艰，一点点改进。<strong>ASML宣布，将在今年底发货第一台支持高NA(数值孔径)的EUV极紫外光刻机，型号“Twinscan EXE:5000”。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iPhone 15 Pro将以128GB存储容量起售 配备8GB内存 非Max型号不涨价 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1382465.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1382465.htm"/>
         <updated>2023-09-08T11:27:26.000Z</updated>
         <content type="html"><![CDATA[根据台湾研究机构 TrendForce 今天分享的信息，苹果即将发布的 iPhone 15 Pro 和 iPhone 15 Pro Max 将拥有与 iPhone 14 Pro 机型相同的 128GB、256GB、512GB 和 1TB 存储容量选择。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASML今年发货第一台高NA EUV光刻机：成本逼近30亿元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1382271.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1382271.htm"/>
+        <updated>2023-09-08T17:38:58.885Z</updated>
+        <content type="html"><![CDATA[EUV光刻技术的推进相当困难，光刻机龙头ASML也是举步维艰，一点点改进。<strong>ASML宣布，将在今年底发货第一台支持高NA(数值孔径)的EUV极紫外光刻机，型号“Twinscan EXE:5000”。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国商务部对华为Mate 60 Pro使用的7纳米芯片发起正式调查 (cnbeta一周点击排行)]]></title>
@@ -48,11 +48,11 @@ Pro。据外媒实测，该手机网速与苹果最新款iPhone基本相同，�
         <content type="html"><![CDATA[华为低调推出新手机 Mate 60 Pro ，引发市场高度关注，外界好奇在美国制裁下华为如何突破重围获取关键芯片，以及制裁是否真的有效等讨论。对此，美国商务部表示已开始正式着手调查华为 Mate 60 Pro 中的中国制先进芯片。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[鸿蒙不兼容安卓应用还要有PC版 华为自研系统发大招 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381421.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381421.htm"/>
-        <updated>2023-09-04T10:34:32.000Z</updated>
-        <content type="html"><![CDATA[王成录透露，华为自主研发的操作系统鸿蒙将登陆PC，其实这一点也不奇怪，为什么这么说？<strong>其实在这之前，有鸿蒙生态企业鸿湖万联的工程师完成了OpenHarmony对PC的初步适配（x86），基于OpenHarmony 3.2 Beta3版本以及惠普某型号办公笔记本。</strong>]]></content>
+        <title type="html"><![CDATA[首发5级钛 iPhone 15 Pro重量、尺寸信息汇总 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1382791.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1382791.htm"/>
+        <updated>2023-09-10T11:08:33.000Z</updated>
+        <content type="html"><![CDATA[距离苹果发布会只剩2天（北京时间9月13日凌晨1点），<strong>MR拿到了iPhone 15、one 15 Pro、iPhone 15 Pro Max的确切尺寸和重量信息。iPhone 15的尺寸和重量与iPhone 14相似，保持与后者完全相同的厚度</strong>，设备的长度和宽度变化可以忽略不计。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 15 Pro将于下周发布 预计带来以下12项变化 (cnbeta一周点击排行)]]></title>
@@ -96,25 +96,25 @@ X5系列还是供不应求，不到十秒官网显示“暂时缺货”。据了
         <content type="html"><![CDATA[在 Windows 文件资源管理器中发现了一个看似 BUG 的问题，它实际上在激活后可以提高程序的性能。Windows 文件资源管理器并不能提供最流畅的体验。有些人抱怨说，与 Windows 10 相比，Windows 11 中的问题更加严重。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网曝iPhone 15真机包装 提前激活罚款20万/台 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381469.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381469.htm"/>
-        <updated>2023-09-06T17:38:15.331Z</updated>
-        <content type="html"><![CDATA[苹果已经预告了，9月13日（北京时间凌晨1点）将会举行新品发布会，至于主角不用多说，就是传闻多时的iPhone 15系列了。还有差不多不到两周时间就要发布了，现在也是有网友在网上曝光了所谓iPhone 15系列的包装盒，看来已经有经销商陆续收到货了？！]]></content>
+        <title type="html"><![CDATA[为什么“28nm光刻机”多重曝光也做不到7nm？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1382851.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1382851.htm"/>
+        <updated>2023-09-11T17:38:20.297Z</updated>
+        <content type="html"><![CDATA[今天讨论的主题是：28nm光刻机为什么不能通过多曝工艺实现14nm，甚至7nm的曝光工艺？在了解这个复杂的半导体知识之前，还得先学习前置的知识点。今天知识点内容包括：第一、所谓28nm光刻机是什么？如何定义？第二，决定光刻机的最小精度有哪些因素？什么叫套刻精度？第三、晶体管的实际参数和定义；第四，多曝工艺/SAQP四曝工艺的详细图解。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EUV光刻的新“救星” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381779.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381779.htm"/>
-        <updated>2023-09-07T17:38:59.485Z</updated>
-        <content type="html"><![CDATA[从全球晶圆代工市场份额看，韩国三星电子公司的市占率排名第二（约18%左右），中国台湾省台积电公司是当之无愧的老大（约55%）。在7nm以下的先进芯片代工方面，台积电的市场占有率更是超过90%。其客户包括苹果、英伟达、AMD、高通、联发科等。比如，苹果公司的A17仿生芯片就是采用台积电的3nm工艺生产。]]></content>
+        <title type="html"><![CDATA[任天堂向开发者秘密展示Switch 2：终于有了NVIDIA的“大力水手” (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1382571.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1382571.htm"/>
+        <updated>2023-09-10T17:38:14.017Z</updated>
+        <content type="html"><![CDATA[整个行业一直在期待任天堂的第二代Switch，而根据外媒曝料，上月底的德国科隆游戏展期间，任天堂向部分游戏开发者闭门展示了新一代Switch。据称，<strong>任天堂这次演示了运行于新掌机的一个虚幻引擎5 DEMO Matrix Awakens(黑客帝国觉醒)，也曾经在PS5、Xbox Series X上演示过。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉Model Y降价后销量猛增 交付日期延长至6-8周 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381537.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381537.htm"/>
-        <updated>2023-09-06T17:38:15.354Z</updated>
-        <content type="html"><![CDATA[日前，据特斯拉官网显示，<strong>Model Y长续航版车型预计交付日期已由2-6周延长至6-8周。</strong>而此次延期交付很有可能与之前的降价活动有关。<strong>8月14日，特斯拉宣布，Model Y长续航版起售价由31.39万元调整至29.99万元，降幅1.4万元；Model Y高性能版售价由36.39万元调整至34.99万元，降幅同样为1.4万元。</strong>]]></content>
+        <title type="html"><![CDATA[[图+视频]Google公布Pixel 8外观 整体更圆润 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1382437.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1382437.htm"/>
+        <updated>2023-09-08T10:47:58.000Z</updated>
+        <content type="html"><![CDATA[谷歌公布了Pixel 8系列的外观，<strong>其整体延续了Pixel 7的设计语言。跟上一代对比，Pixel 8 Pro的R角更大，整机更为圆润。</strong>与此同时，<strong>Pixel 8 Pro配色更加清新活泼。对此，有网友发帖表示，谷歌Pixel 8 Pro比iPhone 15系列更好看。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[比Python快6.8万倍 新语言Mojo首次开放下载 (cnbeta一周点击排行)]]></title>
@@ -124,11 +124,11 @@ X5系列还是供不应求，不到十秒官网显示“暂时缺货”。据了
         <content type="html"><![CDATA[什么编程语言，敢号称是高性能版的“Python++”？新语言Mojo，来自LLVM之父和Swift之父Chris Lattner，性能可达到目前版本Python的68000倍。你没看错，几个月前团队还宣称是35000倍，换了台机器测评就成了68000倍。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[任天堂向开发者秘密展示Switch 2：终于有了NVIDIA的“大力水手” (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1382571.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1382571.htm"/>
-        <updated>2023-09-10T17:38:14.017Z</updated>
-        <content type="html"><![CDATA[整个行业一直在期待任天堂的第二代Switch，而根据外媒曝料，上月底的德国科隆游戏展期间，任天堂向部分游戏开发者闭门展示了新一代Switch。据称，<strong>任天堂这次演示了运行于新掌机的一个虚幻引擎5 DEMO Matrix Awakens(黑客帝国觉醒)，也曾经在PS5、Xbox Series X上演示过。</strong>]]></content>
+        <title type="html"><![CDATA[EUV光刻的新“救星” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1381779.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1381779.htm"/>
+        <updated>2023-09-07T17:38:59.485Z</updated>
+        <content type="html"><![CDATA[从全球晶圆代工市场份额看，韩国三星电子公司的市占率排名第二（约18%左右），中国台湾省台积电公司是当之无愧的老大（约55%）。在7nm以下的先进芯片代工方面，台积电的市场占有率更是超过90%。其客户包括苹果、英伟达、AMD、高通、联发科等。比如，苹果公司的A17仿生芯片就是采用台积电的3nm工艺生产。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[App备案新规已经适用于除苹果App Store以外的所有中国应用商店 (cnbeta一周点击排行)]]></title>
@@ -139,18 +139,17 @@ X5系列还是供不应求，不到十秒官网显示“暂时缺货”。据了
 月份出台了新规定，要求移动应用制造商在通过在线市场销售之前向政府备案。虽然有些公司已经开始执行新规定，但苹果公司似乎还没有引入这些变化。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[图+视频]Google公布Pixel 8外观 整体更圆润 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1382437.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1382437.htm"/>
-        <updated>2023-09-08T10:47:58.000Z</updated>
-        <content type="html"><![CDATA[谷歌公布了Pixel 8系列的外观，<strong>其整体延续了Pixel 7的设计语言。跟上一代对比，Pixel 8 Pro的R角更大，整机更为圆润。</strong>与此同时，<strong>Pixel 8 Pro配色更加清新活泼。对此，有网友发帖表示，谷歌Pixel 8 Pro比iPhone 15系列更好看。</strong>]]></content>
+        <title type="html"><![CDATA[男子河边用HRB400螺纹钢磨针 坚持2000多天 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1382651.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1382651.htm"/>
+        <updated>2023-09-09T10:34:22.000Z</updated>
+        <content type="html"><![CDATA[最近短视频平台上有一个男子用钢筋磨针突然被关注到，他每天都会记录自己磨钢筋的适配，已经坚持了持2000多天。不过，从视频来看他这个2000多天的坚持没有太大作用，<strong>甚至反而石头被磨出很深的印记，钢筋除了表面更光滑，连花纹都没有磨掉。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 15 Pro Max潜望镜相机规格资料曝光 揭示1/1.9英寸传感器 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381993.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381993.htm"/>
-        <updated>2023-09-08T17:38:58.932Z</updated>
-        <content type="html"><![CDATA[苹果公司计划在不到一周的时间内举行专门的发布会发布 iPhone 15 系列，因此出现大量的泄密信息也就不足为奇了。这次，围绕 iPhone 
-15 Pro Max 的潜望镜变焦摄像头的疑似官网资料信息已经出现，提供了有关苹果旗舰机的更多细节，这将是今年阵容中唯一配备这一升级的机型。]]></content>
+        <title type="html"><![CDATA[华为Mate 60 Pro+开售 和Mate 60/60 Pro有啥区别？一图对比 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1382459.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1382459.htm"/>
+        <updated>2023-09-08T11:23:47.000Z</updated>
+        <content type="html"><![CDATA[如此前爆料，华为Mate 60 Pro+又玩了一把零宣发上架。目前，华为官方商城已经秒光。<strong>此次华为Mate 60 Pro+并未公布售价，采用订金预售，订金1000元。有16GB+1TB、16GB+512GB两个版本。</strong>]]></content>
     </entry>
 </feed>
