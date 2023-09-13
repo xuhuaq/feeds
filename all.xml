@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-13T05:38:55.679Z</updated>
+    <updated>2023-09-13T17:38:44.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[首发5级钛 iPhone 15 Pro重量、尺寸信息汇总 (cnbeta一周点击排行)]]></title>
@@ -10,13 +10,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1382791.htm"/>
         <updated>2023-09-10T11:08:33.000Z</updated>
         <content type="html"><![CDATA[距离苹果发布会只剩2天（北京时间9月13日凌晨1点），<strong>MR拿到了iPhone 15、one 15 Pro、iPhone 15 Pro Max的确切尺寸和重量信息。iPhone 15的尺寸和重量与iPhone 14相似，保持与后者完全相同的厚度</strong>，设备的长度和宽度变化可以忽略不计。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国禁止在中央政府事务中使用iPhone (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1382039.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1382039.htm"/>
-        <updated>2023-09-07T17:38:59.400Z</updated>
-        <content type="html"><![CDATA[中国规定中央政府办公人员不得使用 iPhone 工作，也不得将其带入大楼。此举是政府的一项升级举措。过去十年来，iPhone 在政府办公场所的使用一直受到一些限制，而最新举措只是加大了对使用外国设计的技术的打击力度。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 15 Pro将以128GB存储容量起售 配备8GB内存 非Max型号不涨价 (cnbeta一周点击排行)]]></title>
@@ -40,6 +33,13 @@
         <content type="html"><![CDATA[EUV光刻技术的推进相当困难，光刻机龙头ASML也是举步维艰，一点点改进。<strong>ASML宣布，将在今年底发货第一台支持高NA(数值孔径)的EUV极紫外光刻机，型号“Twinscan EXE:5000”。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[苹果发布采用钛金属外壳的iPhone 15 Pro系列 加入动作按钮与5倍光学变焦 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1383461.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1383461.htm"/>
+        <updated>2023-09-13T02:00:37.000Z</updated>
+        <content type="html"><![CDATA[苹果公司今天发布了最新旗舰智能手机 iPhone 15 Pro 和 iPhone 15 Pro Max。这两款手机拥有一系列新变化，包括钛金属边框、A17 仿生芯片、较大机型的潜望式长焦摄像头等。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ASML CEO：拿光刻机孤立中国毫无意义 他们能找到解决办法 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1382545.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1382545.htm"/>
@@ -57,6 +57,13 @@ Wennink对知识移民的立场很明确：“他们对荷兰经济不可或缺�
         <content type="html"><![CDATA[今天讨论的主题是：28nm光刻机为什么不能通过多曝工艺实现14nm，甚至7nm的曝光工艺？在了解这个复杂的半导体知识之前，还得先学习前置的知识点。今天知识点内容包括：第一、所谓28nm光刻机是什么？如何定义？第二，决定光刻机的最小精度有哪些因素？什么叫套刻精度？第三、晶体管的实际参数和定义；第四，多曝工艺/SAQP四曝工艺的详细图解。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[苹果发布iPhone 15 全系加入“灵动岛”与USB-C (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1383451.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1383451.htm"/>
+        <updated>2023-09-13T01:42:41.000Z</updated>
+        <content type="html"><![CDATA[iPhone 15 已经到来。在今天于库比蒂诺举行的"Wonderlust"发布会上，苹果公司的第 17 代手机如期亮相。这款设备带来了许多熟悉的功能，包括现在全线推出的"灵动岛"打孔。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[华为Mate X5突然开启预售 10秒内被抢光 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1382431.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1382431.htm"/>
@@ -70,13 +77,6 @@ X5系列还是供不应求，不到十秒官网显示“暂时缺货”。据了
         <link href="https://www.cnbeta.com.tw/articles/tech/1382443.htm"/>
         <updated>2023-09-08T10:56:05.000Z</updated>
         <content type="html"><![CDATA[9月8日消息，一些好携带、价值高的电脑配件总会成为走私目标，但即使有一万种藏匿方式，我国海关工作人员也能将其识破。据海关总署官方信息平台“海关发布”公众号介绍，近日，经专业机构鉴定，<strong>深圳海关所属沙头角海关在中英街查获的一批电子配件为固态硬盘，共计1040根。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows文件资源管理器中的用户误按键无意中提高了性能 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1382051.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1382051.htm"/>
-        <updated>2023-09-08T17:38:58.890Z</updated>
-        <content type="html"><![CDATA[在 Windows 文件资源管理器中发现了一个看似 BUG 的问题，它实际上在激活后可以提高程序的性能。Windows 文件资源管理器并不能提供最流畅的体验。有些人抱怨说，与 Windows 10 相比，Windows 11 中的问题更加严重。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[图+视频]Google公布Pixel 8外观 整体更圆润 (cnbeta一周点击排行)]]></title>
@@ -93,20 +93,6 @@ X5系列还是供不应求，不到十秒官网显示“暂时缺货”。据了
         <content type="html"><![CDATA[受制于自身经济和科技条件，以及全球环境，俄罗斯最终无奈退出了中俄联合研发CR929远程客机项目，中国开始单干，名字也改成了C929。9月10日上午，在2023浦江创新论坛全体大会上，<strong>中国商飞公司董事长贺东风透露，C929正处于初步设计阶段。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[任天堂向开发者秘密展示Switch 2：终于有了NVIDIA的“大力水手” (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1382571.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1382571.htm"/>
-        <updated>2023-09-10T17:38:14.017Z</updated>
-        <content type="html"><![CDATA[整个行业一直在期待任天堂的第二代Switch，而根据外媒曝料，上月底的德国科隆游戏展期间，任天堂向部分游戏开发者闭门展示了新一代Switch。据称，<strong>任天堂这次演示了运行于新掌机的一个虚幻引擎5 DEMO Matrix Awakens(黑客帝国觉醒)，也曾经在PS5、Xbox Series X上演示过。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比Python快6.8万倍 新语言Mojo首次开放下载 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/soft/1382541.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/soft/1382541.htm"/>
-        <updated>2023-09-10T17:38:14.016Z</updated>
-        <content type="html"><![CDATA[什么编程语言，敢号称是高性能版的“Python++”？新语言Mojo，来自LLVM之父和Swift之父Chris Lattner，性能可达到目前版本Python的68000倍。你没看错，几个月前团队还宣称是35000倍，换了台机器测评就成了68000倍。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一图看懂iPhone 15系列：15/Plus/Pro/Pro Max有啥区别？ (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1382787.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1382787.htm"/>
@@ -116,11 +102,32 @@ Plus，以及Pro系列的iPhone 15 Pro以及iPhone 15 Pro
 Max。TrendForce集邦汇总了四款新机规格预测。硬件方面，受欧盟订定法案的限制，苹果也将于今年加入Type-C的行列，全新更换C口。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[任天堂向开发者秘密展示Switch 2：终于有了NVIDIA的“大力水手” (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1382571.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1382571.htm"/>
+        <updated>2023-09-10T17:38:14.017Z</updated>
+        <content type="html"><![CDATA[整个行业一直在期待任天堂的第二代Switch，而根据外媒曝料，上月底的德国科隆游戏展期间，任天堂向部分游戏开发者闭门展示了新一代Switch。据称，<strong>任天堂这次演示了运行于新掌机的一个虚幻引擎5 DEMO Matrix Awakens(黑客帝国觉醒)，也曾经在PS5、Xbox Series X上演示过。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小米手表2 Pro外形曝光：配旋钮表冠 机械感十足 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1382065.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1382065.htm"/>
         <updated>2023-09-12T17:38:31.251Z</updated>
         <content type="html"><![CDATA[据传小米将于11月发布新一代旗舰手表，定名“小米Watch 2 Pro”。现在国外科技媒体已经放出了这款手表的渲染图，<strong>配备1.43英寸圆形AMOLED屏幕，不锈钢表壳，搭配齿轮主题的表盘，机械感十足。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比Python快6.8万倍 新语言Mojo首次开放下载 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/soft/1382541.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/soft/1382541.htm"/>
+        <updated>2023-09-10T17:38:14.016Z</updated>
+        <content type="html"><![CDATA[什么编程语言，敢号称是高性能版的“Python++”？新语言Mojo，来自LLVM之父和Swift之父Chris Lattner，性能可达到目前版本Python的68000倍。你没看错，几个月前团队还宣称是35000倍，换了台机器测评就成了68000倍。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布新款智能手表Apple Watch Series 9 首次加入粉色机型 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1383445.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1383445.htm"/>
+        <updated>2023-09-13T01:18:22.000Z</updated>
+        <content type="html"><![CDATA[苹果公司正式发布了最新款可穿戴设备。在今天于库比蒂诺举行的"Wonderlust"活动上，Apple Watch Series 9 首次亮相。新款智能手表搭载了新的 S9 芯片，该公司称其速度提高了 60%，GPU 性能也提高了30%。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为Mate 60 Pro+开售 和Mate 60/60 Pro有啥区别？一图对比 (cnbeta一周点击排行)]]></title>
@@ -130,25 +137,17 @@ Max。TrendForce集邦汇总了四款新机规格预测。硬件方面，受欧�
         <content type="html"><![CDATA[如此前爆料，华为Mate 60 Pro+又玩了一把零宣发上架。目前，华为官方商城已经秒光。<strong>此次华为Mate 60 Pro+并未公布售价，采用订金预售，订金1000元。有16GB+1TB、16GB+512GB两个版本。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[男子河边用HRB400螺纹钢磨针 坚持2000多天 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1382651.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1382651.htm"/>
-        <updated>2023-09-09T10:34:22.000Z</updated>
-        <content type="html"><![CDATA[最近短视频平台上有一个男子用钢筋磨针突然被关注到，他每天都会记录自己磨钢筋的适配，已经坚持了持2000多天。不过，从视频来看他这个2000多天的坚持没有太大作用，<strong>甚至反而石头被磨出很深的印记，钢筋除了表面更光滑，连花纹都没有磨掉。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 15 Pro Max潜望镜相机规格资料曝光 揭示1/1.9英寸传感器 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1381993.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1381993.htm"/>
-        <updated>2023-09-12T17:38:31.268Z</updated>
-        <content type="html"><![CDATA[苹果公司计划在不到一周的时间内举行专门的发布会发布 iPhone 15 系列，因此出现大量的泄密信息也就不足为奇了。这次，围绕 iPhone 
-15 Pro Max 的潜望镜变焦摄像头的疑似官网资料信息已经出现，提供了有关苹果旗舰机的更多细节，这将是今年阵容中唯一配备这一升级的机型。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[荷兰光刻机巨头ASML CEO：中国14亿人聪明人很多 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1382825.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1382825.htm"/>
         <updated>2023-09-12T17:38:31.270Z</updated>
         <content type="html"><![CDATA[“孤立中国没有希望”。近日，荷兰光刻机巨头阿斯麦（ASML）CEO彼得·温宁克（Peter Wennink）在当地电视节目Nieuwsuur上表示，完全孤立中国是没有希望的。如果我们不分享技术，他们就会自己去研究。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子河边用HRB400螺纹钢磨针 坚持2000多天 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1382651.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1382651.htm"/>
+        <updated>2023-09-09T10:34:22.000Z</updated>
+        <content type="html"><![CDATA[最近短视频平台上有一个男子用钢筋磨针突然被关注到，他每天都会记录自己磨钢筋的适配，已经坚持了持2000多天。不过，从视频来看他这个2000多天的坚持没有太大作用，<strong>甚至反而石头被磨出很深的印记，钢筋除了表面更光滑，连花纹都没有磨掉。</strong>]]></content>
     </entry>
 </feed>
