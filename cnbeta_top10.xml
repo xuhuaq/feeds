@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-09-20T05:38:57.436Z</updated>
+    <updated>2023-09-20T17:38:27.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[<strong>今晚8点iPhone 15系列将在全网开启预定，起售价5999元，四款机型同步开始。</strong>从目前的数据来看，虽然大家嘴上都在吐槽苹果没诚意、挤牙膏，不断唱衰iPhone，但身体上却依然很诚实。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果发布采用钛金属外壳的iPhone 15 Pro系列 加入动作按钮与5倍光学变焦]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1383461.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1383461.htm"/>
-        <updated>2023-09-13T02:00:37.000Z</updated>
-        <content type="html"><![CDATA[苹果公司今天发布了最新旗舰智能手机 iPhone 15 Pro 和 iPhone 15 Pro Max。这两款手机拥有一系列新变化，包括钛金属边框、A17 仿生芯片、较大机型的潜望式长焦摄像头等。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iPhone 15的C口不能用安卓数据线？答案来了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1383973.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1383973.htm"/>
@@ -57,13 +50,6 @@ Watch。从评论区的反馈来看，大家对凌晨发布会似乎不太满意
 15系列即使用上了灵动岛设计，但Apple依旧不愿意将带有“Pro”标签的ProMotion高刷新率下放到数字系列的iPhone当中。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克回忆人生至暗时刻：与德普前妻分手 父亲搞了继女 特斯拉被空头包围]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1383783.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1383783.htm"/>
-        <updated>2023-09-14T09:50:04.000Z</updated>
-        <content type="html"><![CDATA[根据周二出版的马斯克传记，这位特斯拉CEO最大的成就之一发生在他所说的生命中最黑暗、最困难的时期。2017年7月，特斯拉刚刚推出了Model 3轿车，与之前的车型相比，这是一款价格更为适中的电动汽车。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[没有EUV光刻机，也造不了5nm、3nm，国产芯片如何突破？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1384545.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1384545.htm"/>
@@ -71,18 +57,11 @@ Watch。从评论区的反馈来看，大家对凌晨发布会似乎不太满意
         <content type="html"><![CDATA[潮流如暗流，迅猛而至，行业龙头也被冲击的手忙脚乱。当半导体加工的制程微缩游戏走到尽头，先进封装，逐渐成为芯片行业的胜负手。年初，任谁也料想不到，今年的半导体产业会如此的冰火两重天。在今年整个芯片行业由于去库存满目哀鸿遍野之际，英伟达的AI芯片却一颗难求，国内互联网大佬们亲自飞往英伟达总部加州，只为多求几颗A800和H800。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果发布iPhone 15 全系加入“灵动岛”与USB-C]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1383451.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1383451.htm"/>
-        <updated>2023-09-13T01:42:41.000Z</updated>
-        <content type="html"><![CDATA[iPhone 15 已经到来。在今天于库比蒂诺举行的"Wonderlust"发布会上，苹果公司的第 17 代手机如期亮相。这款设备带来了许多熟悉的功能，包括现在全线推出的"灵动岛"打孔。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果官网辫子客服形象“涉嫌辱华”？其实他是印第安人……]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1384433.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1384433.htm"/>
-        <updated>2023-09-18T17:38:46.786Z</updated>
-        <content type="html"><![CDATA[9月17日，近日有网友爆料，苹果官网Apple Watch Specialist专家一对一选购页面的一张客服人员的图片涉嫌辱华。消息一出引发了网民针对苹果的不满。]]></content>
+        <title type="html"><![CDATA[马斯克回忆人生至暗时刻：与德普前妻分手 父亲搞了继女 特斯拉被空头包围]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1383783.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1383783.htm"/>
+        <updated>2023-09-14T09:50:04.000Z</updated>
+        <content type="html"><![CDATA[根据周二出版的马斯克传记，这位特斯拉CEO最大的成就之一发生在他所说的生命中最黑暗、最困难的时期。2017年7月，特斯拉刚刚推出了Model 3轿车，与之前的车型相比，这是一款价格更为适中的电动汽车。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新款Model Y长这样？外媒称特斯拉已立项改款 或2024年十月亮相]]></title>
@@ -93,6 +72,13 @@ Watch。从评论区的反馈来看，大家对凌晨发布会似乎不太满意
 Y也传来了最新的改款信息，有媒体报道称，改款Model Y将于明年正式启动，新车最早会在明年10月和公众见面，该计划代号为“Juniper”。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[苹果官网辫子客服形象“涉嫌辱华”？其实他是印第安人……]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1384433.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1384433.htm"/>
+        <updated>2023-09-18T17:38:46.786Z</updated>
+        <content type="html"><![CDATA[9月17日，近日有网友爆料，苹果官网Apple Watch Specialist专家一对一选购页面的一张客服人员的图片涉嫌辱华。消息一出引发了网民针对苹果的不满。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone 15的最大卖点，要归功一家日本公司？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1383817.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1383817.htm"/>
@@ -100,13 +86,11 @@ Y也传来了最新的改款信息，有媒体报道称，改款Model Y将于明
         <content type="html"><![CDATA[北京时间9月13日凌晨，苹果秋季发布会如期而至。本场发布会的重心，自然是落在全新iPhone的配置及价格上。<strong>好消息是，iPhone15系列并没有如此前预期般的涨价；坏消息是，升级之处好像也“不那么明显”。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 15 USB-C接口推出几分钟后 苹果就开始淘汰Lightning配件]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1383493.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1383493.htm"/>
-        <updated>2023-09-13T04:23:05.000Z</updated>
-        <content type="html"><![CDATA[在宣布 iPhone 15 的全新 USB-C 升级后，苹果毫不张扬地取消了Lightning接口的 MagSafe 移动电源和 MagSafe
- Duo 充电器，尽管它们仍然适用于新设备。停止这些 MagSafe 配件的举措并不令人意外，因为与替代品相比，这两种产品都不够出色。 
-此外，用于为 iPhone 15 系列充电的 USB-C 的引入使得Lightning连接线的充电功能彻底失效。]]></content>
+        <title type="html"><![CDATA[任正非发声：美国的制裁是压力也是动力 华为基本上已建立自己的平台]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1385009.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1385009.htm"/>
+        <updated>2023-09-20T17:38:26.421Z</updated>
+        <content type="html"><![CDATA[近日ICPC（国际大学生程序设计竞赛）基金会主席及教练和世界计算机竞赛的金牌获得者来到华为考察。在此期间，ICPC竞赛团队与任正非展开现场对话。任正非在发言中表示，我们即将进入第四次工业革命，基础就是大算力。“今天的年青人，明天有可能就是第四次工业革命的领袖。我们支持竞赛的目的是要为年青人搭建一个绽放生命火花的舞台。”他说道。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为WATCH GT 4发布：独特“八角形” 1933元起]]></title>
@@ -114,13 +98,6 @@ Y也传来了最新的改款信息，有媒体报道称，改款Model Y将于明
         <link href="https://www.cnbeta.com.tw/articles/tech/1383993.htm"/>
         <updated>2023-09-16T17:38:30.049Z</updated>
         <content type="html"><![CDATA[<strong>今天华为在海外发布了华为WATCH GT 4系列手表，分为46mm、41mm两种尺寸，售价均为249欧元起</strong>（约合人民币1933元）。华为WATCH GT 4提供多达8种不同款式。其中，46mm包含了黑色、军绿色、灰色和棕色，41mm包含了亮金色、白色、银色和黑色。均提供皮质、橡胶等表带材质。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果发布新款智能手表Apple Watch Series 9 首次加入粉色机型]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1383445.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1383445.htm"/>
-        <updated>2023-09-13T01:18:22.000Z</updated>
-        <content type="html"><![CDATA[苹果公司正式发布了最新款可穿戴设备。在今天于库比蒂诺举行的"Wonderlust"活动上，Apple Watch Series 9 首次亮相。新款智能手表搭载了新的 S9 芯片，该公司称其速度提高了 60%，GPU 性能也提高了30%。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[时薪最低120元还想加薪40% 福特解雇600名没有罢工的汽车工人]]></title>
@@ -144,10 +121,33 @@ Y也传来了最新的改款信息，有媒体报道称，改款Model Y将于明
         <content type="html"><![CDATA[据路透社报道，北京时间9月13日，欧盟委员会主席乌尔苏拉·冯德莱恩（Ursula von der Leyen）在欧洲议会发表第四次“盟情咨文”时表示，欧盟委员会将启动对中国电动汽车反补贴调查。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iOS 17 正式版即将发布 回顾一下都有哪些新变化]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1384671.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1384671.htm"/>
+        <updated>2023-09-20T17:38:26.433Z</updated>
+        <content type="html"><![CDATA[在6月份，苹果宣布推出iOS 17，为iPhone带来了许多新功能和变化。经过三个多月的测试，这个免费的软件更新将于本周一，9月18日发布给iPhone XS以后设备的用户。在下面，我们总结了10个即将在iPhone上推出的iOS 17的重要功能，并将在今年晚些时候推出其他功能。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bose升级其 QuietComfort 降噪耳机系列产品 “Ultra”全面降临]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1384061.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1384061.htm"/>
         <updated>2023-09-15T10:17:30.000Z</updated>
         <content type="html"><![CDATA[Bose 已将其顶级 QuietComfort 无线耳机升级到时髦的 Ultra 型号。QuietComfort 700 系列耳机深受好评，但自上市以来已有四年时间，在消费电子产品当中寿命已经算是十分惊人了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 17可以更新了 网友实测炫酷值拉满 但续航嘛…]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1384969.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1384969.htm"/>
+        <updated>2023-09-20T17:38:26.436Z</updated>
+        <content type="html"><![CDATA[iOS 17终于来了，今天凌晨正式推送。有数码博主评价“实用性不高，但酷炫值拉满”（旺柴），可以说是一句话概括了。不过有测评发现，更新后续航掉依然的厉害，特别是iPhone XR，可得谨慎了。（还登上了微博热搜）]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15 机型配备"完全标准"的 USB-C 端口 配件不受限制]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1384233.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1384233.htm"/>
+        <updated>2023-09-20T17:38:26.438Z</updated>
+        <content type="html"><![CDATA[据 Ars Technica 的安德鲁-坎宁安（Andrew Cunningham）报道，苹果新款 iPhone 15、iPhone 15 
+Plus、iPhone 15 Pro 和 iPhone 15 Pro Max 配备了"完全标准"的 USB-C 
+端口，对线缆或配件没有任何性能上的限制。]]></content>
     </entry>
 </feed>
