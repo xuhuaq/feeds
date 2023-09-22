@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-09-22T05:38:55.868Z</updated>
+    <updated>2023-09-22T17:38:59.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -27,27 +27,11 @@
         <content type="html"><![CDATA[处于舆论风口的华为此时的任何表态都备受外界关注。在9月15日举行的2023世界计算大会上，华为技术有限公司副董事长、轮值董事长徐直军在一场演讲中透露了当下华为计算战略的最新进展以及对中国AI计算产业生态发展方向的判断。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 15 Pro京东预约总数逼近300万 遥遥领先]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1384163.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1384163.htm"/>
-        <updated>2023-09-16T17:38:29.998Z</updated>
-        <content type="html"><![CDATA[<strong>今晚8点iPhone 15系列将在全网开启预定，起售价5999元，四款机型同步开始。</strong>从目前的数据来看，虽然大家嘴上都在吐槽苹果没诚意、挤牙膏，不断唱衰iPhone，但身体上却依然很诚实。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[没有EUV光刻机，也造不了5nm、3nm，国产芯片如何突破？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1384545.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1384545.htm"/>
         <updated>2023-09-18T09:55:58.000Z</updated>
         <content type="html"><![CDATA[潮流如暗流，迅猛而至，行业龙头也被冲击的手忙脚乱。当半导体加工的制程微缩游戏走到尽头，先进封装，逐渐成为芯片行业的胜负手。年初，任谁也料想不到，今年的半导体产业会如此的冰火两重天。在今年整个芯片行业由于去库存满目哀鸿遍野之际，英伟达的AI芯片却一颗难求，国内互联网大佬们亲自飞往英伟达总部加州，只为多求几颗A800和H800。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 15的C口不能用安卓数据线？答案来了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1383973.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1383973.htm"/>
-        <updated>2023-09-15T17:39:34.422Z</updated>
-        <content type="html"><![CDATA[北京时间2023年9 月13日凌晨，Apple正式发布了iPhone 15系列手机与全新一代的Apple 
-Watch。从评论区的反馈来看，大家对凌晨发布会似乎不太满意：Apple Watch产品线的更新乏善可陈，全新的iPhone 
-15系列即使用上了灵动岛设计，但Apple依旧不愿意将带有“Pro”标签的ProMotion高刷新率下放到数字系列的iPhone当中。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新款Model Y长这样？外媒称特斯拉已立项改款 或2024年十月亮相]]></title>
@@ -56,6 +40,13 @@ Watch。从评论区的反馈来看，大家对凌晨发布会似乎不太满意
         <updated>2023-09-16T10:11:50.000Z</updated>
         <content type="html"><![CDATA[特斯拉Model 3已经可以下单了，Model Y还会远吗？就在新款Model 3正式亮相预售不久，特斯拉另一辆重磅车型Model 
 Y也传来了最新的改款信息，有媒体报道称，改款Model Y将于明年正式启动，新车最早会在明年10月和公众见面，该计划代号为“Juniper”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国就快生产出EUV光刻机了吗？冷静！]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1385037.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1385037.htm"/>
+        <updated>2023-09-21T17:38:43.090Z</updated>
+        <content type="html"><![CDATA[2021年2月，清华大学的唐传祥教授团队与德国科学家合作在《自然》上发表了一篇论文，报告了他们对基于被称为SSMB原理产生极深紫外光源的理论完成了一定的实验验证。但时隔两年后的今天，这一工作突然被一些自媒体炒作为中国将建立起EUV光刻机工厂。但是，独立制造一台光刻机，能有这么快吗？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果官网辫子客服形象“涉嫌辱华”？其实他是印第安人……]]></title>
@@ -79,25 +70,11 @@ Y也传来了最新的改款信息，有媒体报道称，改款Model Y将于明
         <content type="html"><![CDATA[iOS 17终于来了，今天凌晨正式推送。有数码博主评价“实用性不高，但酷炫值拉满”（旺柴），可以说是一句话概括了。不过有测评发现，更新后续航掉依然的厉害，特别是iPhone XR，可得谨慎了。（还登上了微博热搜）]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为WATCH GT 4发布：独特“八角形” 1933元起]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1383993.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1383993.htm"/>
-        <updated>2023-09-16T17:38:30.049Z</updated>
-        <content type="html"><![CDATA[<strong>今天华为在海外发布了华为WATCH GT 4系列手表，分为46mm、41mm两种尺寸，售价均为249欧元起</strong>（约合人民币1933元）。华为WATCH GT 4提供多达8种不同款式。其中，46mm包含了黑色、军绿色、灰色和棕色，41mm包含了亮金色、白色、银色和黑色。均提供皮质、橡胶等表带材质。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[时薪最低120元还想加薪40% 福特解雇600名没有罢工的汽车工人]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1384451.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1384451.htm"/>
         <updated>2023-09-19T17:38:26.324Z</updated>
         <content type="html"><![CDATA[据报道，美国汽车工人联合会（UAW）表示，在工会同时对通用汽车、福特汽车和克莱斯勒母公司Stellantis旗下的三家工厂发起罢工后，工会计划于周六恢复谈判。而在9月15日，因为美国三大车企没有和汽车工会达成协议，近13000名UAW成员在底特律三个工厂举行罢工：密歇根州、密苏里州和俄亥俄州工厂，分别属于福特、通用汽车和Stellantis。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国就快生产出EUV光刻机了吗？冷静！]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385037.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385037.htm"/>
-        <updated>2023-09-21T17:38:43.090Z</updated>
-        <content type="html"><![CDATA[2021年2月，清华大学的唐传祥教授团队与德国科学家合作在《自然》上发表了一篇论文，报告了他们对基于被称为SSMB原理产生极深紫外光源的理论完成了一定的实验验证。但时隔两年后的今天，这一工作突然被一些自媒体炒作为中国将建立起EUV光刻机工厂。但是，独立制造一台光刻机，能有这么快吗？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S24系列入网 小屏骁龙8 Gen3旗舰来了]]></title>
@@ -107,6 +84,13 @@ Y也传来了最新的改款信息，有媒体报道称，改款Model Y将于明
         <content type="html"><![CDATA[星Galaxy S24系列获得3C认证，新品将于明年1月份登场。根据3C认证公布的信息，Galaxy S24系列包含三款：<strong>Galaxy S24（SM-S9210）、Galaxy S24+（SM-S9260）和Galaxy S24 Ultra（SM-S9280），三者的有线快充功率分别是25W、45W和45W。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[中国健身房的天花板，塌了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1385173.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1385173.htm"/>
+        <updated>2023-09-22T17:38:58.234Z</updated>
+        <content type="html"><![CDATA[“我到现在还每天跑步上下班，每个月500公里，是中国企业家里跑得最快的！”这是一兆韦德创始人金宇晴曾在媒体前说的话。今年初，这句话变成了“虽然我是企业家里跑得最快的，但我绝对不会跑”。但8月22日，金宇晴的社交媒体账号被清空。此后，很多人开始无法联系上他，能够联系上他的人，不认为他已经跑路，但也表示：他可能已经不在国内了。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iOS 17 正式版即将发布 回顾一下都有哪些新变化]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1384671.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1384671.htm"/>
@@ -114,18 +98,11 @@ Y也传来了最新的改款信息，有媒体报道称，改款Model Y将于明
         <content type="html"><![CDATA[在6月份，苹果宣布推出iOS 17，为iPhone带来了许多新功能和变化。经过三个多月的测试，这个免费的软件更新将于本周一，9月18日发布给iPhone XS以后设备的用户。在下面，我们总结了10个即将在iPhone上推出的iOS 17的重要功能，并将在今年晚些时候推出其他功能。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[无需制裁，国产车在德国也卖不好？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1384497.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1384497.htm"/>
-        <updated>2023-09-19T17:38:26.333Z</updated>
-        <content type="html"><![CDATA[据路透社报道，北京时间9月13日，欧盟委员会主席乌尔苏拉·冯德莱恩（Ursula von der Leyen）在欧洲议会发表第四次“盟情咨文”时表示，欧盟委员会将启动对中国电动汽车反补贴调查。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bose升级其 QuietComfort 降噪耳机系列产品 “Ultra”全面降临]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1384061.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1384061.htm"/>
-        <updated>2023-09-15T10:17:30.000Z</updated>
-        <content type="html"><![CDATA[Bose 已将其顶级 QuietComfort 无线耳机升级到时髦的 Ultra 型号。QuietComfort 700 系列耳机深受好评，但自上市以来已有四年时间，在消费电子产品当中寿命已经算是十分惊人了。]]></content>
+        <title type="html"><![CDATA[“中国光刻机工厂”疯传 官方揭开真相：北京高能同步辐射光源]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1384795.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1384795.htm"/>
+        <updated>2023-09-19T02:56:50.000Z</updated>
+        <content type="html"><![CDATA[近日，网上疯传清华大学弯道超车，已经突破EUV光刻机项目，实现了光刻机的巨大化、工厂也已经在雄安新区落地，就是下图中这个样子：难道这真的是国产光刻机工厂？不，中国电子院对此做出了详细的解读：这是北京高能同步辐射光源项目（HEPS）！]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国商务部部长称没有证据表明中国能"大规模"生产先进芯片]]></title>
@@ -144,10 +121,31 @@ Plus、iPhone 15 Pro 和 iPhone 15 Pro Max 配备了"完全标准"的 USB-C
 端口，对线缆或配件没有任何性能上的限制。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“中国光刻机工厂”疯传 官方揭开真相：北京高能同步辐射光源]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1384795.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1384795.htm"/>
-        <updated>2023-09-19T02:56:50.000Z</updated>
-        <content type="html"><![CDATA[近日，网上疯传清华大学弯道超车，已经突破EUV光刻机项目，实现了光刻机的巨大化、工厂也已经在雄安新区落地，就是下图中这个样子：难道这真的是国产光刻机工厂？不，中国电子院对此做出了详细的解读：这是北京高能同步辐射光源项目（HEPS）！]]></content>
+        <title type="html"><![CDATA[无需制裁，国产车在德国也卖不好？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1384497.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1384497.htm"/>
+        <updated>2023-09-19T17:38:26.333Z</updated>
+        <content type="html"><![CDATA[据路透社报道，北京时间9月13日，欧盟委员会主席乌尔苏拉·冯德莱恩（Ursula von der Leyen）在欧洲议会发表第四次“盟情咨文”时表示，欧盟委员会将启动对中国电动汽车反补贴调查。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这画面不能忍 iPhone 15 Pro钛合金边框被吐槽指纹收集器]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1384339.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1384339.htm"/>
+        <updated>2023-09-22T17:38:58.245Z</updated>
+        <content type="html"><![CDATA[iPhone 15 Pro系列终于登场，粗看外观变化不大，细节上的改变其实还不少。<strong>首先是边框部分首次引入钛合金材质，采用5级钛金属，与火星探测器上的材质相同。</strong>边框经过了精密加工、打磨、刷光和喷砂，共打造了四款配色，分别是黑钛、白钛、蓝钛、天然钛。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米全屋路由发布：1母1子 5个千兆网口 首发499元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1385443.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1385443.htm"/>
+        <updated>2023-09-22T17:38:58.247Z</updated>
+        <content type="html"><![CDATA[<strong>小米推出了Xiaomi全屋路由，采用子母组合装，全屋Wi-Fi 6，无线有线千兆畅连，预售价599元，首发到手499元。</strong>Xiaomi全屋路由采用子母组合装，1母可拖多子，套装通电自动组网，子路由灵活扩展，轻松搞定复杂户型。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球首发Android 14：谷歌Pixel 8 Pro通过IMDA认证]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1384447.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1384447.htm"/>
+        <updated>2023-09-22T17:38:58.251Z</updated>
+        <content type="html"><![CDATA[谷歌此前官宣将在10月4日（美国当地时间）举行硬件发布会，前不久还发了两段视频来介绍要发布的新品，主要<strong>包括Pixel 8系列、Pixel Watch 2以及新款Pixel Buds Pro耳机</strong>等。据国外科技媒体The Tech Outlook报道，Pixel 8 Pro已经出现在新加坡IMDA认证网站上。网站显示型号为GC3VE，支持3G/4G/5G网络，同时支持UWB+NFC+WPT等功能。]]></content>
     </entry>
 </feed>
