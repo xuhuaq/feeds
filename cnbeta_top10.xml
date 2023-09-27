@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-09-27T05:38:35.996Z</updated>
+    <updated>2023-09-27T17:39:10.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[社交平台上曝光了华为Mate 60 RS真机照。如图所示，Mate 60 RS延续了上一代的八边形镜头设计，机身为陶瓷材质。包装盒显示，<strong>华为Mate 60 RS全名为Mate 60 RS ULTIMATE DESIGN，</strong><strong>配备了16GB内存和1TB存储，机身配色名为玄黑，型号为ALN-AL10，定位是“卫星移动终端”。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[华为宣布全新鸿蒙将发：原生应用全面启动 取消兼容安卓应用]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386221.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386221.htm"/>
+        <updated>2023-09-26T17:38:45.528Z</updated>
+        <content type="html"><![CDATA[在发布一系列新品后，华为还带来一个相当重磅的消息，鸿蒙原生应用全面启动。<strong>按照华为的说法，这是移动应用生态的新篇章。华为已培养数百万鸿蒙人才，将投入百亿资金支持伙伴发展，全面覆盖18个领域应用，为消费者带来更流畅、更智能、更安全的鸿蒙原生应用体验。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[华为9月25日秋季全场景新品发布会产品阵容全曝光 Mate60 RS UD来了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1385969.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1385969.htm"/>
         <updated>2023-09-25T17:38:28.589Z</updated>
         <content type="html"><![CDATA[<strong>9月25日14:30，华为将举办秋季全场景新品发布会。</strong>这场盛大的新品发布会，不仅是Mate 60系列大获成功最好的宣讲，更是华为突破封锁之后，首次对外展示一系列重大创新成果，期待值自然拉满。有博主曝光了一份明天发布会的流程图及新品汇总。该博主表示，<strong>发布会重点应该是放在了新品牌和智选车上。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国就快生产出EUV光刻机了吗？冷静！]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385037.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385037.htm"/>
-        <updated>2023-09-21T17:38:43.090Z</updated>
-        <content type="html"><![CDATA[2021年2月，清华大学的唐传祥教授团队与德国科学家合作在《自然》上发表了一篇论文，报告了他们对基于被称为SSMB原理产生极深紫外光源的理论完成了一定的实验验证。但时隔两年后的今天，这一工作突然被一些自媒体炒作为中国将建立起EUV光刻机工厂。但是，独立制造一台光刻机，能有这么快吗？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[刮痕、掉漆、镜头进灰 iPhone 15系列品控大翻车]]></title>
@@ -48,40 +48,12 @@
         <content type="html"><![CDATA[<strong>小米推出了Xiaomi全屋路由，采用子母组合装，全屋Wi-Fi 6，无线有线千兆畅连，预售价599元，首发到手499元。</strong>Xiaomi全屋路由采用子母组合装，1母可拖多子，套装通电自动组网，子路由灵活扩展，轻松搞定复杂户型。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为宣布全新鸿蒙将发：原生应用全面启动 取消兼容安卓应用]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386221.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386221.htm"/>
-        <updated>2023-09-26T17:38:45.528Z</updated>
-        <content type="html"><![CDATA[在发布一系列新品后，华为还带来一个相当重磅的消息，鸿蒙原生应用全面启动。<strong>按照华为的说法，这是移动应用生态的新篇章。华为已培养数百万鸿蒙人才，将投入百亿资金支持伙伴发展，全面覆盖18个领域应用，为消费者带来更流畅、更智能、更安全的鸿蒙原生应用体验。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[首次iPhone 15 Pro跌落测试 钛金属相比不锈钢表现如何？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1385695.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1385695.htm"/>
         <updated>2023-09-23T17:38:22.469Z</updated>
         <content type="html"><![CDATA[一位 YouTuber 远赴澳大利亚第一时间购买了 iPhone 15 Pro，以便为他的观众提供首次跌落测试。虽然苹果公司宣传说最新旗舰产品的
  5 级钛合金机身比 iPhone 14 Pro 的不锈钢机身更轻，但它的耐用性却值得怀疑，结果显示iPhone 15 Pro 在完成跌落测试后被摔成两截，相机外壳与机身分离。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国健身房的天花板，塌了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385173.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385173.htm"/>
-        <updated>2023-09-22T17:38:58.234Z</updated>
-        <content type="html"><![CDATA[“我到现在还每天跑步上下班，每个月500公里，是中国企业家里跑得最快的！”这是一兆韦德创始人金宇晴曾在媒体前说的话。今年初，这句话变成了“虽然我是企业家里跑得最快的，但我绝对不会跑”。但8月22日，金宇晴的社交媒体账号被清空。此后，很多人开始无法联系上他，能够联系上他的人，不认为他已经跑路，但也表示：他可能已经不在国内了。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆Mini 4 Pro无人机定档9月25日发布：史上最安全Mini]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385137.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385137.htm"/>
-        <updated>2023-09-20T10:04:20.000Z</updated>
-        <content type="html"><![CDATA[<strong>大疆创新官方放出预热海报，宣布将于9月25日21点发布新品，主题是：“小，成大作。”</strong>而这款新品，大概率就是大疆Mini 4 Pro无人机。海报中可以看到无人机的头部，亮光位置是侧向视觉避障系统，这也是大疆Mini 4 Pro无人机的主要升级点之一。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国商务部部长称没有证据表明中国能"大规模"生产先进芯片]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385075.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385075.htm"/>
-        <updated>2023-09-20T03:16:55.000Z</updated>
-        <content type="html"><![CDATA[美国商务部长吉娜-雷蒙多(Gina Raimondo)周二表示，没有证据表明中国制造商华为可以大批量生产采用先进芯片的智能手机。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[被阿里巴巴大楼上的吉祥物笑死：天猫晚上只剩两只大眼]]></title>
@@ -91,13 +63,6 @@
         <content type="html"><![CDATA[第19届亚运会正在杭州举办中，杭州是阿里巴巴的总部所在地，此次阿里大楼上也装饰了亚运会吉祥物。只见网友晒图中，中间是第19届亚运会三个吉祥物“琮琮”、“莲莲”、“宸宸”。“琮琮”代表世界遗产良渚古城遗址，“莲莲”代表世界遗产西湖，“宸宸”代表世界遗产京杭大运河。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[心腹被抓，许家印的钱袋子瘪了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385407.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385407.htm"/>
-        <updated>2023-09-23T17:38:22.460Z</updated>
-        <content type="html"><![CDATA[自中国恒大、恒大物业、恒大汽车资不抵债后，如今，恒大人寿被接管，前董事长失联，恒大财富被立案，现任总经理涉嫌犯罪被抓。恒大帝国的版图，一一崩塌。恒大财富目前尚有340亿资金未兑付，这些投资者，跟此前众多供应商、业主一样，沦为了许家印造富神话破灭后的牺牲者。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[据传Galaxy S24 Ultra的骁龙8 Gen 3因散热不良而降频 导致多核性能下降]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1385681.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1385681.htm"/>
@@ -105,11 +70,25 @@
         <content type="html"><![CDATA[据一则来自中国的传言称，三星可能会降低 Galaxy S24 Ultra 的成本，但可能是以一种最糟糕的方式。该公司可能会在明年的旗舰机上使用更小的热管，据说这会影响骁龙 8 Gen 3 的多核性能。最新传言称，骁龙 8 Gen 3 的降频保护意味着它的多核性能可能会下降 5-6%。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google将于明年停用基本HTML版Gmail]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386235.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386235.htm"/>
+        <updated>2023-09-27T17:39:09.193Z</updated>
+        <content type="html"><![CDATA[Google正计划停用其产品系列中的另一款产品，一款已经存在了很长时间的产品。从 2024 年 1 月起，专为传统浏览器或连接速度较慢的用户设计的基本 HTML 版 Gmail 将不再可用，届时它将在加载时自动切换到标准视图。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小狗越养越庞大 结果有87.5%灰狼基因]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1386007.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1386007.htm"/>
         <updated>2023-09-26T17:38:45.553Z</updated>
         <content type="html"><![CDATA[2019年，热播剧《权利游戏》完播的时候，由于长相和体型酷似剧中冰原狼，一只名为Yuki的巨型宠物狗大火了一把。关于Yuki，有一个非常有趣的故事，它的第一任主人养了它八个月，因为它长得太快了，8个月大时体型就远超其它宠物狗。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心腹被抓，许家印的钱袋子瘪了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1385407.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1385407.htm"/>
+        <updated>2023-09-23T17:38:22.460Z</updated>
+        <content type="html"><![CDATA[自中国恒大、恒大物业、恒大汽车资不抵债后，如今，恒大人寿被接管，前董事长失联，恒大财富被立案，现任总经理涉嫌犯罪被抓。恒大帝国的版图，一一崩塌。恒大财富目前尚有340亿资金未兑付，这些投资者，跟此前众多供应商、业主一样，沦为了许家印造富神话破灭后的牺牲者。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星S24 Ultra将放弃10倍光学变焦：焦距换像素 提升拍照质量]]></title>
@@ -121,6 +100,13 @@ Ultra以来，三星已经连续多年在自家旗舰手机上搭载1000万像�
  S24 Ultra可能会放弃这一标志性功能，不再配备这一支持10倍光学变焦的镜头。作为替代，<strong>S24 Ultra将配备一个5000万像素支持5倍变焦的新镜头</strong>，<strong>传感器规格为 1/2.52 英寸，像素为 0.7μm</strong>。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[国产大飞机C919第一次出国 这家航空公司只开中国飞机]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386013.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386013.htm"/>
+        <updated>2023-09-26T17:38:45.564Z</updated>
+        <content type="html"><![CDATA[据陕西天驹投资集团消息，在近日的第20届中国-东盟博览会上，<strong>中国商飞公司、文莱骐骥航空签订了《中国商飞与文莱骐骥航空国产大飞机购买意向书》。</strong>根据意向书，<strong>双方达成了30架飞机的采购协议，金额为20亿美元(约合人民币146亿元)</strong>，成为中国-东盟博览会有史以来的“最大贸易订单”。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微博网友同名昵称被收回 小米汽车真的要来了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1385375.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1385375.htm"/>
@@ -128,11 +114,13 @@ Ultra以来，三星已经连续多年在自家旗舰手机上搭载1000万像�
         <content type="html"><![CDATA[看来小米汽车真的要来了！就在今天，有博主“拉面师傅Design”发布微博称：<strong>“小米汽车”微博名字昨天被收回了，看来要进入宣发节奏了？</strong>大家不要误会这个博主，据他描述，不是恶意抢注，早在多年前叫“小米汽车”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国产大飞机C919第一次出国 这家航空公司只开中国飞机]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386013.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386013.htm"/>
-        <updated>2023-09-26T17:38:45.564Z</updated>
-        <content type="html"><![CDATA[据陕西天驹投资集团消息，在近日的第20届中国-东盟博览会上，<strong>中国商飞公司、文莱骐骥航空签订了《中国商飞与文莱骐骥航空国产大飞机购买意向书》。</strong>根据意向书，<strong>双方达成了30架飞机的采购协议，金额为20亿美元(约合人民币146亿元)</strong>，成为中国-东盟博览会有史以来的“最大贸易订单”。]]></content>
+        <title type="html"><![CDATA[马斯克说要买iPhone 15：“图片和视频之美令人难以置信”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386043.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386043.htm"/>
+        <updated>2023-09-25T09:49:44.000Z</updated>
+        <content type="html"><![CDATA[特斯拉CEO埃隆·马斯克周末发帖，称赞苹果新款智能手机iPhone 
+15的拍摄效果惊人，并在苹果CEO蒂姆·库克的帖子下留言称“我要买一部”。库克周六发帖，分享了一些由著名摄影师斯蒂芬·威尔克斯（Stephen 
+Wilkes）和鲁本·吴（Reuben Wu）用iPhone 15 Pro Max拍摄的照片。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开发者展示iPhone 15 Pro与显示器连接后变为台式电脑 但体验远非完美]]></title>
@@ -147,5 +135,21 @@ Ultra以来，三星已经连续多年在自家旗舰手机上搭载1000万像�
         <link href="https://www.cnbeta.com.tw/articles/tech/1385663.htm"/>
         <updated>2023-09-24T17:38:25.243Z</updated>
         <content type="html"><![CDATA[近日，海外媒体公布了全新一代丰田凯美瑞的假想图，<strong>新车有望在2024年发布。</strong>从此次公布的图片来看，<strong>新车可以说与现款凯美瑞有着天差地别。如此颠覆式的设计再一次刷新了大家对丰田的看法。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Moment 4 更新现已可供下载]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386495.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386495.htm"/>
+        <updated>2023-09-27T01:14:25.000Z</updated>
+        <content type="html"><![CDATA[2023 年 9 月 21 日，在纽约举行的一次特别活动中，微软宣布将于 9 月 26 日为 Windows 11 
+发布一个大型功能更新。这一天已经到来，这意味着使用稳定版 Windows 11 的用户可以下载并安装 Windows 11 Moment 4 
+更新。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel 8和8 Pro发布前夕 售价信息泄露]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386011.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386011.htm"/>
+        <updated>2023-09-27T17:39:09.242Z</updated>
+        <content type="html"><![CDATA[Google计划在下个月举行一年一度的 Pixel 发布会，届时该公司有望发布 Pixel 8 和 Pixel 8 Pro 智能手机。然而，Google似乎很难保守秘密，因为有关即将发布的智能手机的信息不断被泄露。]]></content>
     </entry>
 </feed>
