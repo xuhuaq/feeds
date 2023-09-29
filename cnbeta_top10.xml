@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-09-29T05:38:20.919Z</updated>
+    <updated>2023-09-29T17:39:05.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[<strong>9月25日14:30，华为将举办秋季全场景新品发布会。</strong>这场盛大的新品发布会，不仅是Mate 60系列大获成功最好的宣讲，更是华为突破封锁之后，首次对外展示一系列重大创新成果，期待值自然拉满。有博主曝光了一份明天发布会的流程图及新品汇总。该博主表示，<strong>发布会重点应该是放在了新品牌和智选车上。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刮痕、掉漆、镜头进灰 iPhone 15系列品控大翻车]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385981.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385981.htm"/>
-        <updated>2023-09-25T17:38:28.614Z</updated>
-        <content type="html"><![CDATA[掉漆、刮痕、镜头进灰，花1万多块钱买回来的手机出现一堆问题，iPhone15系列机型品控问题频发，作为业界标杆，这一次苹果又翻车了。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Moment 4 更新现已可供下载]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1386495.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1386495.htm"/>
@@ -50,19 +43,18 @@
 更新。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[首次iPhone 15 Pro跌落测试 钛金属相比不锈钢表现如何？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385695.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385695.htm"/>
-        <updated>2023-09-23T17:38:22.469Z</updated>
-        <content type="html"><![CDATA[一位 YouTuber 远赴澳大利亚第一时间购买了 iPhone 15 Pro，以便为他的观众提供首次跌落测试。虽然苹果公司宣传说最新旗舰产品的
- 5 级钛合金机身比 iPhone 14 Pro 的不锈钢机身更轻，但它的耐用性却值得怀疑，结果显示iPhone 15 Pro 在完成跌落测试后被摔成两截，相机外壳与机身分离。]]></content>
+        <title type="html"><![CDATA[刮痕、掉漆、镜头进灰 iPhone 15系列品控大翻车]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1385981.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1385981.htm"/>
+        <updated>2023-09-25T17:38:28.614Z</updated>
+        <content type="html"><![CDATA[掉漆、刮痕、镜头进灰，花1万多块钱买回来的手机出现一堆问题，iPhone15系列机型品控问题频发，作为业界标杆，这一次苹果又翻车了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[被阿里巴巴大楼上的吉祥物笑死：天猫晚上只剩两只大眼]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1386201.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1386201.htm"/>
-        <updated>2023-09-26T17:38:45.543Z</updated>
-        <content type="html"><![CDATA[第19届亚运会正在杭州举办中，杭州是阿里巴巴的总部所在地，此次阿里大楼上也装饰了亚运会吉祥物。只见网友晒图中，中间是第19届亚运会三个吉祥物“琮琮”、“莲莲”、“宸宸”。“琮琮”代表世界遗产良渚古城遗址，“莲莲”代表世界遗产西湖，“宸宸”代表世界遗产京杭大运河。]]></content>
+        <title type="html"><![CDATA[YouTube将取消无广告的Premium Lite订阅套餐]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/movie/1386365.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/movie/1386365.htm"/>
+        <updated>2023-09-28T17:38:31.049Z</updated>
+        <content type="html"><![CDATA[在 YouTube 花了两年时间试行 Premium Lite（一种在特定国家观看无广告视频的低成本订阅计划）之后，该平台将取消该套餐。YouTube 在发给用户的一封电子邮件中宣布，2023 年 10 月 25 日之后将不再提供 Premium Lite。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[欧洲首次实现5G卫星通话 并达成14Mbps传输速率]]></title>
@@ -79,11 +71,11 @@
         <content type="html"><![CDATA[Google正计划停用其产品系列中的另一款产品，一款已经存在了很长时间的产品。从 2024 年 1 月起，专为传统浏览器或连接速度较慢的用户设计的基本 HTML 版 Gmail 将不再可用，届时它将在加载时自动切换到标准视图。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[据传Galaxy S24 Ultra的骁龙8 Gen 3因散热不良而降频 导致多核性能下降]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385681.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385681.htm"/>
-        <updated>2023-09-24T17:38:25.241Z</updated>
-        <content type="html"><![CDATA[据一则来自中国的传言称，三星可能会降低 Galaxy S24 Ultra 的成本，但可能是以一种最糟糕的方式。该公司可能会在明年的旗舰机上使用更小的热管，据说这会影响骁龙 8 Gen 3 的多核性能。最新传言称，骁龙 8 Gen 3 的降频保护意味着它的多核性能可能会下降 5-6%。]]></content>
+        <title type="html"><![CDATA[被阿里巴巴大楼上的吉祥物笑死：天猫晚上只剩两只大眼]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1386201.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1386201.htm"/>
+        <updated>2023-09-26T17:38:45.543Z</updated>
+        <content type="html"><![CDATA[第19届亚运会正在杭州举办中，杭州是阿里巴巴的总部所在地，此次阿里大楼上也装饰了亚运会吉祥物。只见网友晒图中，中间是第19届亚运会三个吉祥物“琮琮”、“莲莲”、“宸宸”。“琮琮”代表世界遗产良渚古城遗址，“莲莲”代表世界遗产西湖，“宸宸”代表世界遗产京杭大运河。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小狗越养越庞大 结果有87.5%灰狼基因]]></title>
@@ -93,25 +85,11 @@
         <content type="html"><![CDATA[2019年，热播剧《权利游戏》完播的时候，由于长相和体型酷似剧中冰原狼，一只名为Yuki的巨型宠物狗大火了一把。关于Yuki，有一个非常有趣的故事，它的第一任主人养了它八个月，因为它长得太快了，8个月大时体型就远超其它宠物狗。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube将取消无广告的Premium Lite订阅套餐]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/movie/1386365.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/movie/1386365.htm"/>
-        <updated>2023-09-28T17:38:31.049Z</updated>
-        <content type="html"><![CDATA[在 YouTube 花了两年时间试行 Premium Lite（一种在特定国家观看无广告视频的低成本订阅计划）之后，该平台将取消该套餐。YouTube 在发给用户的一封电子邮件中宣布，2023 年 10 月 25 日之后将不再提供 Premium Lite。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[国产大飞机C919第一次出国 这家航空公司只开中国飞机]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1386013.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1386013.htm"/>
         <updated>2023-09-26T17:38:45.564Z</updated>
         <content type="html"><![CDATA[据陕西天驹投资集团消息，在近日的第20届中国-东盟博览会上，<strong>中国商飞公司、文莱骐骥航空签订了《中国商飞与文莱骐骥航空国产大飞机购买意向书》。</strong>根据意向书，<strong>双方达成了30架飞机的采购协议，金额为20亿美元(约合人民币146亿元)</strong>，成为中国-东盟博览会有史以来的“最大贸易订单”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新凯美瑞渲染图曝光 丰田再现颠覆式设计]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385663.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385663.htm"/>
-        <updated>2023-09-24T17:38:25.243Z</updated>
-        <content type="html"><![CDATA[近日，海外媒体公布了全新一代丰田凯美瑞的假想图，<strong>新车有望在2024年发布。</strong>从此次公布的图片来看，<strong>新车可以说与现款凯美瑞有着天差地别。如此颠覆式的设计再一次刷新了大家对丰田的看法。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开发者展示iPhone 15 Pro与显示器连接后变为台式电脑 但体验远非完美]]></title>
@@ -130,13 +108,6 @@
 Wilkes）和鲁本·吴（Reuben Wu）用iPhone 15 Pro Max拍摄的照片。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Pixel 8和8 Pro发布前夕 售价信息泄露]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386011.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386011.htm"/>
-        <updated>2023-09-27T17:39:09.242Z</updated>
-        <content type="html"><![CDATA[Google计划在下个月举行一年一度的 Pixel 发布会，届时该公司有望发布 Pixel 8 和 Pixel 8 Pro 智能手机。然而，Google似乎很难保守秘密，因为有关即将发布的智能手机的信息不断被泄露。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[骁龙8 Gen3最新曝光：3nm/4nm双版本 性能大幅提升50%]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1386413.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1386413.htm"/>
@@ -144,12 +115,43 @@ Wilkes）和鲁本·吴（Reuben Wu）用iPhone 15 Pro Max拍摄的照片。]]><
         <content type="html"><![CDATA[高通此前已经宣布2023年Snapdragon峰会将于10月24日至26日举行，预计到时候将会发布大家期待已久的全新一代骁龙8 Gen3芯片。近日，有爆料者公布了一份来自高通的内部资料，据文件显示，<strong>骁龙8 Gen3芯片虽然都是由台积电生产，但会有4nm和3nm两个不同版本</strong>。其实早在去年的时候台积电就宣布了量产3nm工艺，但是N3的成本实在太高，并且产能也比较低，三星此举或许也和这个因素有关。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11的下一个重大更新将于9月26日发布 提供Copilot、RAR支持等]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1385513.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1385513.htm"/>
-        <updated>2023-09-28T17:38:31.085Z</updated>
-        <content type="html"><![CDATA[微软将于 9 月 26 日发布下一个 Windows 11 重大更新 23H2。 此次更新将包括基于AI的 Windows Copilot 
-功能、重新设计的文件资源管理器、针对触笔用户的新 Ink Anywhere 功能、对画图应用程序的重大改进、原生 RAR 和 7-zip 
-文件支持、新的音量混合器等等。]]></content>
+        <title type="html"><![CDATA[Google Pixel 8和8 Pro发布前夕 售价信息泄露]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386011.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386011.htm"/>
+        <updated>2023-09-27T17:39:09.242Z</updated>
+        <content type="html"><![CDATA[Google计划在下个月举行一年一度的 Pixel 发布会，届时该公司有望发布 Pixel 8 和 Pixel 8 Pro 智能手机。然而，Google似乎很难保守秘密，因为有关即将发布的智能手机的信息不断被泄露。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网友在淘宝买整机 用了两年才发现风冷没撕膜]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1386159.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1386159.htm"/>
+        <updated>2023-09-29T17:39:04.226Z</updated>
+        <content type="html"><![CDATA[近日，一名图吧网友分享了自己遇到的离谱怪事：据他描述，他两年前淘宝买的整机，打了小会游戏感觉老是卡顿，退出来看了一下，发现cpu温度直接到了100度。本以为是散热接触不好，把散热拆开一看，发现整机商家居然没把风冷的膜撕掉……]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16 Pro、16 Pro Max将配备升级版四棱镜长焦相机 成本可能增加30%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386025.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386025.htm"/>
+        <updated>2023-09-25T03:04:48.000Z</updated>
+        <content type="html"><![CDATA[据报道，iPhone 15 Pro Max 的四棱镜长焦摄像头将于明年出现在 iPhone 16 Pro 和 iPhone 16 Pro Max
+ 上，但会有一些变化。但遗憾的是，随着需求回升，苹果提高镜头规格的做法可能会使生产成本提高 30%。目前，尚不清楚苹果是否会在 2024 
+年将这些增加的成本转嫁给客户。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTuber发现Instagram才是iPhone 15 Pro出现机身过热和电池耗尽/老化的原因]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386575.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386575.htm"/>
+        <updated>2023-09-27T10:35:18.000Z</updated>
+        <content type="html"><![CDATA[最初有人认为，iPhone 15 Pro 机型采用的新 A17 Pro 
+芯片会导致设备过热，损害电池健康。今天早些时候，著名分析师郭明錤（Mong-Chi Kuo）表示，A17 Pro 
+与过热问题无关，原因在于散热系统设计和钛金属表面处理。看来事实可能并非如此，因为一位 Youtuber 显示 Instagram 是 
+iPhone 15 Pro 过热问题背后的主要原因。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 23H2今天正式推送 带来哪些新亮点？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386609.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386609.htm"/>
+        <updated>2023-09-29T17:39:04.245Z</updated>
+        <content type="html"><![CDATA[<strong>Windows 11 23H2今天正式推送，加入了Windows人工智能Copilot（智能副驾）</strong>，强大的创作者工具可以让用户更轻松、快速地将想法变为现实。此外，新版还将带来更多功能，包括正在扩展语音访问功能，并为讲述人功能新增了新的自然语音，以保障在默认状态下Windows 11的无障碍化体验。]]></content>
     </entry>
 </feed>
