@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-02T05:39:09.898Z</updated>
+    <updated>2023-10-02T17:38:40.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[华为宣布全新鸿蒙将发：原生应用全面启动 取消兼容安卓应用 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386221.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386221.htm"/>
-        <updated>2023-09-26T17:38:45.528Z</updated>
-        <content type="html"><![CDATA[在发布一系列新品后，华为还带来一个相当重磅的消息，鸿蒙原生应用全面启动。<strong>按照华为的说法，这是移动应用生态的新篇章。华为已培养数百万鸿蒙人才，将投入百亿资金支持伙伴发展，全面覆盖18个领域应用，为消费者带来更流畅、更智能、更安全的鸿蒙原生应用体验。</strong>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Moment 4 更新现已可供下载 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1386495.htm</id>
@@ -35,62 +28,11 @@
         <content type="html"><![CDATA[9月24日，全球首个由卫星实现的5G通话成功在欧洲拨通，由AST SpaceMobile的卫星，以及电信运营商Vodafone（沃达丰）等共同实现。此外，此次测试还实现了14Mbps的数据传输速率。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google将于明年停用基本HTML版Gmail (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386235.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386235.htm"/>
-        <updated>2023-09-27T17:39:09.193Z</updated>
-        <content type="html"><![CDATA[Google正计划停用其产品系列中的另一款产品，一款已经存在了很长时间的产品。从 2024 年 1 月起，专为传统浏览器或连接速度较慢的用户设计的基本 HTML 版 Gmail 将不再可用，届时它将在加载时自动切换到标准视图。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被阿里巴巴大楼上的吉祥物笑死：天猫晚上只剩两只大眼 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1386201.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1386201.htm"/>
-        <updated>2023-09-26T17:38:45.543Z</updated>
-        <content type="html"><![CDATA[第19届亚运会正在杭州举办中，杭州是阿里巴巴的总部所在地，此次阿里大楼上也装饰了亚运会吉祥物。只见网友晒图中，中间是第19届亚运会三个吉祥物“琮琮”、“莲莲”、“宸宸”。“琮琮”代表世界遗产良渚古城遗址，“莲莲”代表世界遗产西湖，“宸宸”代表世界遗产京杭大运河。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[骁龙8 Gen3最新曝光：3nm/4nm双版本 性能大幅提升50% (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1386413.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1386413.htm"/>
         <updated>2023-09-28T17:38:31.081Z</updated>
         <content type="html"><![CDATA[高通此前已经宣布2023年Snapdragon峰会将于10月24日至26日举行，预计到时候将会发布大家期待已久的全新一代骁龙8 Gen3芯片。近日，有爆料者公布了一份来自高通的内部资料，据文件显示，<strong>骁龙8 Gen3芯片虽然都是由台积电生产，但会有4nm和3nm两个不同版本</strong>。其实早在去年的时候台积电就宣布了量产3nm工艺，但是N3的成本实在太高，并且产能也比较低，三星此举或许也和这个因素有关。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网友在淘宝买整机 用了两年才发现风冷没撕膜 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1386159.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1386159.htm"/>
-        <updated>2023-09-29T17:39:04.226Z</updated>
-        <content type="html"><![CDATA[近日，一名图吧网友分享了自己遇到的离谱怪事：据他描述，他两年前淘宝买的整机，打了小会游戏感觉老是卡顿，退出来看了一下，发现cpu温度直接到了100度。本以为是散热接触不好，把散热拆开一看，发现整机商家居然没把风冷的膜撕掉……]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小狗越养越庞大 结果有87.5%灰狼基因 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386007.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386007.htm"/>
-        <updated>2023-09-26T17:38:45.553Z</updated>
-        <content type="html"><![CDATA[2019年，热播剧《权利游戏》完播的时候，由于长相和体型酷似剧中冰原狼，一只名为Yuki的巨型宠物狗大火了一把。关于Yuki，有一个非常有趣的故事，它的第一任主人养了它八个月，因为它长得太快了，8个月大时体型就远超其它宠物狗。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产大飞机C919第一次出国 这家航空公司只开中国飞机 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386013.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386013.htm"/>
-        <updated>2023-09-26T17:38:45.564Z</updated>
-        <content type="html"><![CDATA[据陕西天驹投资集团消息，在近日的第20届中国-东盟博览会上，<strong>中国商飞公司、文莱骐骥航空签订了《中国商飞与文莱骐骥航空国产大飞机购买意向书》。</strong>根据意向书，<strong>双方达成了30架飞机的采购协议，金额为20亿美元(约合人民币146亿元)</strong>，成为中国-东盟博览会有史以来的“最大贸易订单”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[已有维修店主率先将iPhone 15 Pro 128G扩容成512G (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386917.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386917.htm"/>
-        <updated>2023-09-30T17:38:28.996Z</updated>
-        <content type="html"><![CDATA[<strong>一位维修店主将iPhone 15 Pro 128GB扩容至512GB，成功开机。</strong>目前在电商平台上，<strong>第三方提供了类似的扩容服务。某家店铺支持iPhone 15全系扩容服务，15 Pro扩容至512GB收费699元，店保12个月。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克说要买iPhone 15：“图片和视频之美令人难以置信” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386043.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386043.htm"/>
-        <updated>2023-09-25T09:49:44.000Z</updated>
-        <content type="html"><![CDATA[特斯拉CEO埃隆·马斯克周末发帖，称赞苹果新款智能手机iPhone 
-15的拍摄效果惊人，并在苹果CEO蒂姆·库克的帖子下留言称“我要买一部”。库克周六发帖，分享了一些由著名摄影师斯蒂芬·威尔克斯（Stephen 
-Wilkes）和鲁本·吴（Reuben Wu）用iPhone 15 Pro Max拍摄的照片。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT多模态解禁：拍图即生代码，古卷手稿一眼识别，图表总结超6 (cnbeta一周点击排行)]]></title>
@@ -100,20 +42,18 @@ Wilkes）和鲁本·吴（Reuben Wu）用iPhone 15 Pro Max拍摄的照片。]]><
         <content type="html"><![CDATA[这周三，OpenAI刚刚宣布解禁ChatGPT多模态能力。如今，一上线，网友们瞬间玩疯了。接下来，一起看看，ChatGPT的识图能力，究竟有多强？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 Pro、16 Pro Max将配备升级版四棱镜长焦相机 成本可能增加30% (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386025.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386025.htm"/>
-        <updated>2023-09-25T03:04:48.000Z</updated>
-        <content type="html"><![CDATA[据报道，iPhone 15 Pro Max 的四棱镜长焦摄像头将于明年出现在 iPhone 16 Pro 和 iPhone 16 Pro Max
- 上，但会有一些变化。但遗憾的是，随着需求回升，苹果提高镜头规格的做法可能会使生产成本提高 30%。目前，尚不清楚苹果是否会在 2024 
-年将这些增加的成本转嫁给客户。]]></content>
+        <title type="html"><![CDATA[已有维修店主率先将iPhone 15 Pro 128G扩容成512G (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386917.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386917.htm"/>
+        <updated>2023-09-30T17:38:28.996Z</updated>
+        <content type="html"><![CDATA[<strong>一位维修店主将iPhone 15 Pro 128GB扩容至512GB，成功开机。</strong>目前在电商平台上，<strong>第三方提供了类似的扩容服务。某家店铺支持iPhone 15全系扩容服务，15 Pro扩容至512GB收费699元，店保12个月。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Pixel 8和8 Pro发布前夕 售价信息泄露 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1386011.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1386011.htm"/>
-        <updated>2023-09-27T17:39:09.242Z</updated>
-        <content type="html"><![CDATA[Google计划在下个月举行一年一度的 Pixel 发布会，届时该公司有望发布 Pixel 8 和 Pixel 8 Pro 智能手机。然而，Google似乎很难保守秘密，因为有关即将发布的智能手机的信息不断被泄露。]]></content>
+        <title type="html"><![CDATA[苹果App Store政策重大调整：App上架必须有ICP备案号 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1387241.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1387241.htm"/>
+        <updated>2023-09-30T10:22:53.000Z</updated>
+        <content type="html"><![CDATA[日前，苹果App Store迎来重大调整，<strong>即日起中国大陆上架的App必须具备有效的互联网信息服务提供者（ICP）备案号。</strong>简单说，新App现在需要填写备案号才能提审，这就要求开发者应用需有备案号，另外，如果海外App不申请备案号，则无法在中国大陆上架。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果无法用华为充电器 客服称充不上电因不支持PD协议 (cnbeta一周点击排行)]]></title>
@@ -147,10 +87,73 @@ iPhone 15 Pro 过热问题背后的主要原因。]]></content>
         <content type="html"><![CDATA[<strong>Windows 11 23H2今天正式推送，加入了Windows人工智能Copilot（智能副驾）</strong>，强大的创作者工具可以让用户更轻松、快速地将想法变为现实。此外，新版还将带来更多功能，包括正在扩展语音访问功能，并为讲述人功能新增了新的自然语音，以保障在默认状态下Windows 11的无障碍化体验。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果App Store政策重大调整：App上架必须有ICP备案号 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1387241.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1387241.htm"/>
-        <updated>2023-09-30T10:22:53.000Z</updated>
-        <content type="html"><![CDATA[日前，苹果App Store迎来重大调整，<strong>即日起中国大陆上架的App必须具备有效的互联网信息服务提供者（ICP）备案号。</strong>简单说，新App现在需要填写备案号才能提审，这就要求开发者应用需有备案号，另外，如果海外App不申请备案号，则无法在中国大陆上架。]]></content>
+        <title type="html"><![CDATA[全新一代本田雅阁亮相日本 奥迪A7同款“大溜背” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386363.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386363.htm"/>
+        <updated>2023-10-02T17:38:39.924Z</updated>
+        <content type="html"><![CDATA[近日，2024款本田雅阁在日本首次亮相，<strong>新车的外形基本延续了现款车型的设计，与国产雅阁插混版保持一致。</strong>从图中可以看到，新车采用了本田经典的家族式设计，前脸造型十分简单，两侧犀利的大灯与熏黑中网相连，看上去简约大方。下方梯形的导流槽，又为新车增添了一丝运动气息。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果为所有 iPhone 和 iPad 发布 iOS 17.0.2 和 iPadOS 17.0.2 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386519.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386519.htm"/>
+        <updated>2023-09-27T04:15:35.000Z</updated>
+        <content type="html"><![CDATA[苹果公司今天发布了 iOS 17.0.2 和 iPadOS 17.0.2 更新，这两套修正版系统是在 iOS 17.0.1 和 iPadOS 
+17.0.1 发布五天后发布的。今天发布的 iOS 17.0.2 和 iPadOS 17.0.2 更新版本为 21A351，符合条件的 
+iPhone 和 iPad 用户可以通过"设置"&gt;"通用"&gt;"软件更新"进行OTA下载。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星 Galaxy S23 FE 售价曝光：599美元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386347.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386347.htm"/>
+        <updated>2023-10-02T17:38:39.925Z</updated>
+        <content type="html"><![CDATA[最近几周，三星即将发布的 Galaxy S23 FE 
+已被广泛泄露，以至于似乎一天都离不开新的消息。今天，最重要的细节之一被曝光了，那就是这款手机的价格。我们谈论的是它在美国的售价，这可能不会直接反映三星在其他地方的售价。在美国，今天的传言称建议零售价为
+ 599 美元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩托车界的“法拉利”售价腰斩 店员叹息“不降价，难保命” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386527.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386527.htm"/>
+        <updated>2023-09-27T09:42:47.000Z</updated>
+        <content type="html"><![CDATA[杜卡迪被业内尊称摩托车界“法拉利”。5折能买杜卡迪，放在以前谁敢信啊？！而如今，萧条的摩托车市场让这一切成为可能。近日，杜卡迪宣布降价，其中多款旧款车型折扣率达50%以上，售价直降超过十万元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi 5 发布 看起来比以往任何时候都"美味" (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386871.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386871.htm"/>
+        <updated>2023-10-02T17:38:39.926Z</updated>
+        <content type="html"><![CDATA[在 Raspberry Pi 4 发布四年后，Raspberry Pi 团队又推出了一款小而强大的新电脑--Raspberry Pi 
+5。它不愧为继任者，拥有更新的组件和更好的规格，甚至还包含一些定制的芯片。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度制造iPhone 15首次亮相 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386357.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386357.htm"/>
+        <updated>2023-10-02T17:38:39.927Z</updated>
+        <content type="html"><![CDATA[之前苹果已经表示，首批iPhone 
+15系列供应是按批次来的，并没有局限说限定哪个国家和地区生产的版本，所以理论上来说，国内用户当然有可能买到印度制造的。到底印度制造的iPhone
+ 15是什么样的？现在，印度当地多位名人发晒出了“印度制造”的iPhone 15，如果不看后面包装盒的标注，你根本看不出来有什么区别。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[骁龙8 Gen3旗舰小米14 Pro国内入网：支持120W快充 11月发布 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386555.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386555.htm"/>
+        <updated>2023-09-27T10:09:05.000Z</updated>
+        <content type="html"><![CDATA[如今iPhone 15系列、华为Mate 60系列已经双双发布，这个犹如科技春节一般的9月即将收尾。接下来就该静待骁龙8 Gen3发布之后的安卓旗舰大军了，<strong>按照以往的惯例来看，小米14系列大概率将首发新处理器。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成本降低40% 特斯拉上海工厂已采用一体化压铸技术 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386553.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386553.htm"/>
+        <updated>2023-09-27T10:08:33.000Z</updated>
+        <content type="html"><![CDATA[作为降低生产成本的利器，一体化压铸技术越来越受到车厂的推崇，而特斯拉又是最早使用这种技术的车企。近日，有媒体在上海浦东临港的特斯拉超级工厂看到，这里生产的特斯拉Model Y后底板总成系统，已经<strong>成功采用一体化压铸技术实现快速铸型</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果iOS 17.1测试版发布：再远都能用AirDrop了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1386899.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1386899.htm"/>
+        <updated>2023-10-02T17:38:39.943Z</updated>
+        <content type="html"><![CDATA[在iOS 17正式版推送没几天后，<strong>苹果向开发者发布了iOS 17.1第一个测试版</strong>。本次测试版本带来了一些WWDC23发布的新功能，同时还改进了一些现有功能。假如已经注册了开发者计划的话，那么可以按照以下步骤安装最新测试版：在手机上点击设置-通用-更新，等到更新出现后点击下载并安装，最后保证电量充足安装完成就可以了。]]></content>
     </entry>
 </feed>
