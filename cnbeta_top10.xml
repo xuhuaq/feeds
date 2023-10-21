@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-10-21T05:38:33.398Z</updated>
+    <updated>2023-10-21T17:38:32.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -11,6 +11,14 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1390439.htm"/>
         <updated>2023-10-17T10:59:37.000Z</updated>
         <content type="html"><![CDATA[今日雷军宣布，<strong>小米全新的操作系统——小米澎湃OS（Xiaomi HyperOS），正式版已完成封包。小米14系列将是第一款搭载新系统的手机，已交付工厂，正式开始生产。</strong><strong>从这一刻起，小米澎湃OS将逐步接替MIUI。 </strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员掷了35万次硬币 以确定概率是否真的是 50/50]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1391139.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1391139.htm"/>
+        <updated>2023-10-20T10:23:31.000Z</updated>
+        <content type="html"><![CDATA[人们普遍认为，掷硬币是一种快速、公平地解决随机纠纷的方法。当硬币被翻转时，有人会叫出正面或反面，硬币正面或反面的概率各占一半。但如果正面或反面的概率并不平均呢？阿姆斯特丹的一个由
+ 48 名研究人员组成的小组花了好几天时间掷硬币，发现这种随机机会游戏的结果可能并不像大多数人认为的那样随机。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华裔工程师妹子吐槽马斯克被监测到 5天后12年工龄的她被炒了]]></title>
@@ -49,15 +57,6 @@
         <content type="html"><![CDATA[美国周二发布最新芯片出口限制，英伟达（NVIDIA，美：NVDA）证实，新增3款高阶芯片被禁止向中国销售，包括英伟达为中国特制的人工智能芯片A800和H800，而该厂8月发布的顶级游戏芯片L40S也将被禁止向中国销售。英伟达周二美股股价一度失守430美元，全日跌4.7%，收报439.38美元。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国政府限制NVIDIA向中国出口H800和A800 AI GPU]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1390593.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1390593.htm"/>
-        <updated>2023-10-18T17:39:05.399Z</updated>
-        <content type="html"><![CDATA[<strong>为了遏制中国人工智能的快速增长，拜登政府已开始实施更加严厉的制裁，最新进展是<strong>NVIDIA为了绕过制裁微</strong>中国量身打造的H800 和 A800 
-GPU同样被禁售。</strong>在深入探讨之前，我们先来看看究竟是什么推动了美国政府采取这样的行动。 随着全球人工智能发展的涌入，阿里巴巴等中国公司在将 genAI 
-集成到主流应用程序方面处于领先地位。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[国行首款eSIM iPad发布 中国联通上网套餐上线：最高500元包年 500GB流量]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1390675.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1390675.htm"/>
@@ -65,11 +64,13 @@ GPU同样被禁售。</strong>在深入探讨之前，我们先来看看究竟�
         <content type="html"><![CDATA[昨日晚间，苹果推出第十代iPad无线局域网+蜂窝网络机型，加入了对eSIM的支持，这是苹果首次在国内推出支持eSIM的iPad，不过目前仅支持中国联通。中国联通App显示，目前联通已推出eSIM iPad上网套餐，<strong>提供300元/年、500元/年两档资费，前者包含300GB/年国内流量，后者为500GB/年国内流量，</strong>套餐关闭语音功能、短信功能。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉Cybertruck延迟交付原因：不锈钢太重、续航不达标]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1389915.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1389915.htm"/>
-        <updated>2023-10-16T17:38:48.711Z</updated>
-        <content type="html"><![CDATA[早在<strong>2019年特斯拉就发布了电动皮卡Cybertruck</strong>，然而四年过去了，这款车依旧没有交付，原定于今年9月交车也再次被“鸽”，究竟是什么原因？据海外媒体近日报道，由于供应商奥托昆普提供的<strong>不锈钢车身过重，影响车辆续航</strong>，最终导致交付一再延迟。]]></content>
+        <title type="html"><![CDATA[美国政府限制NVIDIA向中国出口H800和A800 AI GPU]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1390593.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1390593.htm"/>
+        <updated>2023-10-18T17:39:05.399Z</updated>
+        <content type="html"><![CDATA[<strong>为了遏制中国人工智能的快速增长，拜登政府已开始实施更加严厉的制裁，最新进展是<strong>NVIDIA为了绕过制裁微</strong>中国量身打造的H800 和 A800 
+GPU同样被禁售。</strong>在深入探讨之前，我们先来看看究竟是什么推动了美国政府采取这样的行动。 随着全球人工智能发展的涌入，阿里巴巴等中国公司在将 genAI 
+集成到主流应用程序方面处于领先地位。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[雷军晒出疑似小米14真机 首发澎湃OS]]></title>
@@ -86,11 +87,18 @@ GPU同样被禁售。</strong>在深入探讨之前，我们先来看看究竟�
         <content type="html"><![CDATA[Windows 11 23H2 被称为"Windows 11 2023 Update"，它可能在未来几周内作为可选更新开始推出。据一些与微软保持联系的零售合作伙伴透露，这家软件巨头正准备向公众发布最新版本的操作系统。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[许家印的五句话，恒大一句也没听]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1389979.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1389979.htm"/>
-        <updated>2023-10-15T10:33:22.000Z</updated>
-        <content type="html"><![CDATA[<strong>巅峰时期，恒大汽车考虑的是，核心技术买不到怎么办。而现在的恒大汽车考虑的是，资产不值钱，卖不出去怎么办。</strong>2019年11月12日，恒大新能源汽车全球战略合作伙伴峰会上，许家印脱稿演讲26分钟。]]></content>
+        <title type="html"><![CDATA[Windows 11 终于可以在安装过程中引入网卡驱动了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1391007.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1391007.htm"/>
+        <updated>2023-10-21T17:38:31.341Z</updated>
+        <content type="html"><![CDATA[Windows 11 build 25977 于 2023 年 10 月 18 日在Canary频道发布，包含多项与网络相关的更改，例如共享 Wi-Fi 密码和使用二维码连接热点、动画图标以及 SMB 改进。不过，还有一件事其实还挺重要。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最远跑713公里 全新特斯拉Model 3开售：25.99万起]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1390917.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1390917.htm"/>
+        <updated>2023-10-19T10:32:14.000Z</updated>
+        <content type="html"><![CDATA[据特斯拉官方消息，Model 3焕新版正式开启销售，<strong>其中后轮驱动版售价25.99万起，长须航全轮驱动板售价29.59万起</strong>。今年9月1日，新款Model 3正式发布，相比于现款，其更时尚，重新设计的头灯外壳更加锐利，用上新的LED日间行车灯，侧面轮廓保持不变，而后端具有突出的环绕C形尾灯，新增加了两种新颜色，Ultra Red和Stealth Gray。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米澎湃OS系统界面曝光：控制中心大变]]></title>
@@ -98,6 +106,13 @@ GPU同样被禁售。</strong>在深入探讨之前，我们先来看看究竟�
         <link href="https://www.cnbeta.com.tw/articles/tech/1390671.htm"/>
         <updated>2023-10-18T10:51:59.000Z</updated>
         <content type="html"><![CDATA[在小米官宣澎湃OS后，酷安上泄露了小米澎湃OS的软件包，部分发烧友用户提前感受到了澎湃OS的系统设计。感知最明显的是小米澎湃OS的控制中心，如图所示，<strong>在小米澎湃OS的控制中心界面里，小米妙享中心位置放在了正中央，说明它的优先级更高了。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[许家印的五句话，恒大一句也没听]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1389979.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1389979.htm"/>
+        <updated>2023-10-15T10:33:22.000Z</updated>
+        <content type="html"><![CDATA[<strong>巅峰时期，恒大汽车考虑的是，核心技术买不到怎么办。而现在的恒大汽车考虑的是，资产不值钱，卖不出去怎么办。</strong>2019年11月12日，恒大新能源汽车全球战略合作伙伴峰会上，许家印脱稿演讲26分钟。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[普林斯顿芝大惊人发现：GPT-4解决GitHub编程问题成功率为0]]></title>
@@ -119,13 +134,6 @@ Overflow今天不得已宣布裁员100多人，几乎占员工人数的1/3。]]>
 Pencil，而今天的传言是在有关苹果明天可能推出的产品的相互矛盾的报道之后出现的。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[要成绝版？英伟达RTX 4090遭全网下架]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1390833.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1390833.htm"/>
-        <updated>2023-10-20T17:38:57.897Z</updated>
-        <content type="html"><![CDATA[根据英伟达向美国证交会（SEC）提交的文件，受美政府新规影响，目前性能最好的消费级显卡RTX 4090被禁止在国内销售。根据新规，算力超过4090显卡的后续产品都要限制，这意味着后续达到或超过4090的新显卡（包括AMD显卡）也会被禁售。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新款Apple Pencil发布 配备隐藏式USB-C端口 无压感特性 售价79美元]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1390571.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1390571.htm"/>
@@ -136,11 +144,11 @@ Air（第四代和第五代）、iPad Pro 11 英寸（第一代、第二代、�
 英寸（第三代、第四代、第五代和第六代）以及 iPad mini（第六代）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最远跑713公里 全新特斯拉Model 3开售：25.99万起]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1390917.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1390917.htm"/>
-        <updated>2023-10-19T10:32:14.000Z</updated>
-        <content type="html"><![CDATA[据特斯拉官方消息，Model 3焕新版正式开启销售，<strong>其中后轮驱动版售价25.99万起，长须航全轮驱动板售价29.59万起</strong>。今年9月1日，新款Model 3正式发布，相比于现款，其更时尚，重新设计的头灯外壳更加锐利，用上新的LED日间行车灯，侧面轮廓保持不变，而后端具有突出的环绕C形尾灯，新增加了两种新颜色，Ultra Red和Stealth Gray。]]></content>
+        <title type="html"><![CDATA[要成绝版？英伟达RTX 4090遭全网下架]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1390833.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1390833.htm"/>
+        <updated>2023-10-20T17:38:57.897Z</updated>
+        <content type="html"><![CDATA[根据英伟达向美国证交会（SEC）提交的文件，受美政府新规影响，目前性能最好的消费级显卡RTX 4090被禁止在国内销售。根据新规，算力超过4090显卡的后续产品都要限制，这意味着后续达到或超过4090的新显卡（包括AMD显卡）也会被禁售。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为了自保，印尼给600万带货商家判了“死刑”]]></title>
@@ -148,12 +156,5 @@ Air（第四代和第五代）、iPad Pro 11 英寸（第一代、第二代、�
         <link href="https://www.cnbeta.com.tw/articles/tech/1390115.htm"/>
         <updated>2023-10-16T02:36:16.000Z</updated>
         <content type="html"><![CDATA[印尼的 TikTok 卖家，遭遇了一场&nbsp;“&nbsp;灭顶之灾&nbsp;”&nbsp;。上个月末，在大家都还美滋滋等放国庆假时，印尼颁布了 2023 年贸易部长第 31 号法规，直接给了各大电商平台当头一棒。这个禁令此次的目的也很明确，那就是<strong>限制直播社交平台搞电商。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 17.1将于10月24日发布]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1389841.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1389841.htm"/>
-        <updated>2023-10-14T01:33:17.000Z</updated>
-        <content type="html"><![CDATA[据法国监管组织 ANFR称，苹果即将推出的 iOS 17.1 更新将于 10 月 24 日向公众发布。 ANFR 网站在更新中分享了发布日期，概述了苹果解决 iPhone 12 辐射水平问题的计划。]]></content>
     </entry>
 </feed>
