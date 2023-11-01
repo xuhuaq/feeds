@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-01T05:38:37.173Z</updated>
+    <updated>2023-11-01T17:38:29.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[今夜，全球科技领域的三个顶尖华人站在一起 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1392033.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1392033.htm"/>
-        <updated>2023-10-25T02:41:38.000Z</updated>
-        <content type="html"><![CDATA[在今天凌晨举办的联想创新科技大会上，全球科技领域的三个顶尖华人“同框”合影。他们分别是：AMD董事长兼CEO苏姿丰、联想集团董事长兼CEO杨元庆、英伟达创始人黄仁勋。而画面中最左侧的为F1主席兼CEO 多梅尼卡利。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[美国商务部副部长：中国现有的先进半导体设备迟早会坏掉 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1392671.htm</id>
@@ -26,11 +19,11 @@
         <content type="html"><![CDATA[国产大飞机C919首架交付航空公司的消息一出，公众对飞机的关注越来越来高。那么，这样一具庞大的金属造物，是怎样诞生的呢？它是如何为我们提供安全舒适的航行体验的呢？相信大家一定会好奇吧。今天我们就从飞机庞大的机身是如何拼接起来的来聊一聊吧。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[长江存储再次实现突破 全球最先进的3D NAND存储芯片被发现 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1392211.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1392211.htm"/>
-        <updated>2023-10-26T17:39:56.397Z</updated>
-        <content type="html"><![CDATA[知名半导体行业观察机构TechInsights称，<strong>在一款消费电子产品中发现了世界上最先进的3D NAND存储芯片，它来自中国顶级的3D NAND制造商长江存储。</strong>据悉，TechInsights在2023年7月推出的致态SSD中发现了由长江存储制造的232层QLC 3D NAND芯片，<strong>这种新的QLC芯片具有19.8 Gb/mm2的商用NAND产品中最高的比特密度。</strong>]]></content>
+        <title type="html"><![CDATA[俄罗斯退出 中国双通道远程宽体客机C929正式立项 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1393021.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1393021.htm"/>
+        <updated>2023-10-30T03:10:38.000Z</updated>
+        <content type="html"><![CDATA[C919已经投入商业运营，C929也越来越近了！C929原名CR929，是中俄联合研发的双通道远程宽体客机，但因为某些原因，俄罗斯已经退出，成为中国自己的项目，名字自然也就变成了C929。<strong>根据中国商飞总经理周新民最新透露，C929已经正式立项！</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[索尼本田社长称中国电动汽车毫无技术可言 不会收回这观点 (cnbeta一周点击排行)]]></title>
@@ -40,32 +33,11 @@
         <content type="html"><![CDATA[之前公开吐槽中国新能源汽车没有技术含量，索尼本田社长川西泉重申，自己说的话没有错。<strong>长川西泉重申自己不会收回观点，中国电动汽车制造商发展速度“有势头”，但信息技术方面，只是排列智能手机图标，目前没有技术惊喜。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[俄罗斯退出 中国双通道远程宽体客机C929正式立项 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1393021.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1393021.htm"/>
-        <updated>2023-10-30T03:10:38.000Z</updated>
-        <content type="html"><![CDATA[C919已经投入商业运营，C929也越来越近了！C929原名CR929，是中俄联合研发的双通道远程宽体客机，但因为某些原因，俄罗斯已经退出，成为中国自己的项目，名字自然也就变成了C929。<strong>根据中国商飞总经理周新民最新透露，C929已经正式立项！</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国7个人狂推微信二维码 覆盖率一年由30%提升到75% (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1392195.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1392195.htm"/>
-        <updated>2023-10-26T17:39:56.449Z</updated>
-        <content type="html"><![CDATA[微信官方透露，<strong>过去一年，访韩游客重点商圈的物料覆盖率由30%提升到了75%。</strong>如果你现在去韩国，大街小巷会发现越来越多的微信二维码。据了解，这是地推服务商M公司干的，这家公司7个人，只做一件事：将微信二维码贴满韩国门店。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国航司获批再增中美航班 中美航线票价“腰斩” (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1392847.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1392847.htm"/>
         <updated>2023-10-29T17:38:27.538Z</updated>
         <content type="html"><![CDATA[美国允许中国航司在11月9日起进一步增班到每周35对，中美航线票价有望进一步下降。当地时间8月10日，美国交通部发布最新通告，批准了中国的航空公司可进一步增加中美直飞航班。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一退出中国，跨国车企就支棱起来了？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1392599.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1392599.htm"/>
-        <updated>2023-10-27T10:21:54.000Z</updated>
-        <content type="html"><![CDATA[“曾经30万排队买，如今10万无人问。”这，就是广汽三菱——这家成立于2012年的跨国合资汽车公司在中国划下的命运弧线。10月24日，这条弧线终于轰然坠地：广汽集团分别以1元对价受让三菱自动车工业株式会社、三菱商事株式会社持有的广汽三菱30%、20%股权，受让完成后，广汽三菱将成为广汽集团全资子公司。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米14开机动画显示澎湃OS仍基于Android (cnbeta一周点击排行)]]></title>
@@ -75,20 +47,11 @@
         <content type="html"><![CDATA[小米14、澎湃OS等一大波新品已经正式登场，小米这场新品发布会有你喜欢想要购买的吗？<strong>澎湃OS发布前，不少人都争论，它不是小米自研的系统，对此雷军还特意表示，确实不是。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果发布 iOS 17.1 和 iPadOS 17.1 更新 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1392287.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1392287.htm"/>
-        <updated>2023-10-26T02:14:28.000Z</updated>
-        <content type="html"><![CDATA[苹果发布了 iOS 17.1 和 iPadOS 17.1 的更新，公众现在可以下载并安装到自己的 iPhone 和 iPad 上。作为自 9 月
- 18 日发布具有里程碑意义的 iOS 17 和 iPadOS 17 以来的首次重要更新，苹果已经结束了测试周期，并向公众发布了 iOS 
-17.1 和 iPadOS 的更新。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉皮卡再遭质疑：上控制臂只用单层冲压钢板 越野后严重变形 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1392209.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1392209.htm"/>
-        <updated>2023-10-27T17:38:16.810Z</updated>
-        <content type="html"><![CDATA[近日，有海外网友公布了一组关于特斯拉Cybertruck的照片。从图中可以看到，<strong>图中这辆Cybertruck的上控制臂在越野测试之后已经弯曲变形，看上去十分脆弱。</strong>]]></content>
+        <title type="html"><![CDATA[一退出中国，跨国车企就支棱起来了？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1392599.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1392599.htm"/>
+        <updated>2023-10-27T10:21:54.000Z</updated>
+        <content type="html"><![CDATA[“曾经30万排队买，如今10万无人问。”这，就是广汽三菱——这家成立于2012年的跨国合资汽车公司在中国划下的命运弧线。10月24日，这条弧线终于轰然坠地：广汽集团分别以1元对价受让三菱自动车工业株式会社、三菱商事株式会社持有的广汽三菱30%、20%股权，受让完成后，广汽三菱将成为广汽集团全资子公司。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[清华大学成功研发光电模拟芯片：摆脱摩尔定律 能效提升超400万倍 (cnbeta一周点击排行)]]></title>
@@ -98,12 +61,28 @@
         <content type="html"><![CDATA[清华大学自动化系戴琼海院士、吴嘉敏助理教授与电子工程系方璐副教授、乔飞副研究员联合攻关，<strong>提出了一种摆脱摩尔定律的全新计算架构：光电模拟芯片</strong>。摩尔定律1965年由英特尔创始人之一戈登·摩尔提出，即每隔约两年，集成电路可容纳的晶体管数目便增加一倍。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安全公司称可以解锁存有7000比特币密钥的IronKey U盘 但被所有者委婉拒绝 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1392027.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1392027.htm"/>
-        <updated>2023-10-27T17:38:16.813Z</updated>
-        <content type="html"><![CDATA[Stefan Thomas 十多年前获得了 7002 个比特币，作为交换，他帮助制作了有关新兴加密货币的动画视频。 
-程序员将数字货币存储在一个被称为 IronKey 的高度加密的 USB 驱动器上，并将密码写在一张纸上以妥善保管。然而，这张纸最终失踪了，从那时起，这批加密货币就被一个U盘关了起来。]]></content>
+        <title type="html"><![CDATA[苹果发布 iOS 17.1 和 iPadOS 17.1 更新 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1392287.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1392287.htm"/>
+        <updated>2023-10-26T02:14:28.000Z</updated>
+        <content type="html"><![CDATA[苹果发布了 iOS 17.1 和 iPadOS 17.1 的更新，公众现在可以下载并安装到自己的 iPhone 和 iPad 上。作为自 9 月
+18 日发布具有里程碑意义的 iOS 17 和 iPadOS 17 以来的首次重要更新，苹果已经结束了测试周期，并向公众发布了 iOS
+17.1 和 iPadOS 的更新。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台积电前副总裁指出：美国不可能完全阻止中国改进芯片技术 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1393145.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1393145.htm"/>
+        <updated>2023-10-31T17:38:47.188Z</updated>
+        <content type="html"><![CDATA[中国的半导体产业正在不断进步，即使在美国政府将企业列入黑名单的情况下，中国的半导体产业仍在制裁下快速发展。中国的半导体产业主要以中芯国际集成电路制造有限公司（SMIC）和华为技术有限公司（Huawei
+Technologies）等公司为代表，它们在芯片制造和芯片设计方面的投资和进步都处于领先地位。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果皮重生！华强北iPhone 15 Pro美版改卡方案出炉 手机壳外置SIM卡 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1393073.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1393073.htm"/>
+        <updated>2023-10-30T10:09:05.000Z</updated>
+        <content type="html"><![CDATA[从去年iPhone 14系列开始，<strong>苹果在美国地区正式取消了实体SIM卡，连卡槽都直接堵上了，彻底进军eSIM。</strong>这种无实体卡的eSIM技术，相比于普通SIM卡最大的好处就是方便，最多能绑定8个号码，一键即可切换，而且普及之后还能省下手机内部空间。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[日产展示固态电池技术：能量密度翻倍 充电时间缩短到三分之一 (cnbeta一周点击排行)]]></title>
@@ -120,19 +99,28 @@
         <content type="html"><![CDATA[继华为鸿蒙后，今天晚上小米自研系统澎湃OS也将正式亮相，而接下来vivo也会推出自研系统。跟鸿蒙一样，小米自研的澎湃OS也是不局限手机，而是包容旗下所有的设备，比如汽车、手机、IOT设备等等，而接下来的vivo等厂商也都是如此思路。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[台积电前副总裁指出：美国不可能完全阻止中国改进芯片技术 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1393145.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1393145.htm"/>
-        <updated>2023-10-31T17:38:47.188Z</updated>
-        <content type="html"><![CDATA[中国的半导体产业正在不断进步，即使在美国政府将企业列入黑名单的情况下，中国的半导体产业仍在制裁下快速发展。中国的半导体产业主要以中芯国际集成电路制造有限公司（SMIC）和华为技术有限公司（Huawei
- Technologies）等公司为代表，它们在芯片制造和芯片设计方面的投资和进步都处于领先地位。]]></content>
+        <title type="html"><![CDATA[苹果升级14/16英寸MacBook Pro 加入M3、M3 Pro和Max芯片与新配色 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1393293.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1393293.htm"/>
+        <updated>2023-10-31T08:22:45.000Z</updated>
+        <content type="html"><![CDATA[14 英寸 MacBook Pro 和 16 英寸 MacBook Pro 已获得更新，成为首批内置M3 Apple
+Silicon的Mac。作为苹果公司周一"Scary Fast"活动的一部分，更新后的 14 英寸 MacBook Pro 和 16 英寸
+MacBook Pro 现在采用了新的芯片。新机型以前使用 M2 Pro 和 M2 Max，现在使用 M3、M3 Pro 和 M3 Max。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[能戴在手腕上的手机来了 摩托罗拉全球首发智变柔性屏 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1392169.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1392169.htm"/>
-        <updated>2023-10-27T17:38:16.815Z</updated>
-        <content type="html"><![CDATA[在今天凌晨举办的联想创新科技大会上，<strong>摩托罗拉向外界展示了一款全新的概念设备：智变柔性屏手机</strong>。这款手机<strong>使用FHD+极化显示器，可以根据用户的需要弯曲和塑造成不同的形式</strong>，给大家带来了继折叠屏和卷轴屏之后又一种手机新形态。]]></content>
+        <title type="html"><![CDATA[苹果发布M3、M3 Pro和M3 Max处理器：3纳米制程、动态高速缓存GPU等技术 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1393295.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1393295.htm"/>
+        <updated>2023-10-31T08:29:47.000Z</updated>
+        <content type="html"><![CDATA[在周一晚上的发布会上，苹果公司发布了 M3、M3 Pro 和 M3 Max，性能比初代的 M1 芯片最多提高了 80%。新一代芯片采用3纳米制程，在 GPU
+动态缓存方面开创了行业先河，允许系统在最需要的时候保留资源。这项新技术将提供持续稳定的体验，即使在资源最密集的项目中也是如此。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丰田章男再炮轰电动车：抵制决定很正确 日本车必须赢 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1393277.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1393277.htm"/>
+        <updated>2023-10-31T07:40:25.000Z</updated>
+        <content type="html"><![CDATA[在全球汽车市场都在逐步朝着新能源的方向发展的这些年，丰田却一直踌躇不前，这主要是因为其掌门人丰田章男并不看好电动汽车。不过在丰田章男卸任社长之后，新上任的佐藤恒治表达了对电动汽车的支持。不过近日，丰田章男再度向电动汽车开炮，也再一次引起了媒体的关注，]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韩国高管斥责捷尼赛思中国员工：没一位员工买本品牌车 (cnbeta一周点击排行)]]></title>
@@ -142,10 +130,24 @@
         <content type="html"><![CDATA[说起捷尼赛思这个品牌，你知道它是现代旗下的豪华品牌吗？又或者你在路上见过这款车？据报道，10月23日17点整，捷尼赛思中国召开全员大会。会议由即将负责捷尼赛思中国业务的韩方首席协调员(CEC) 李哲(Wells Lee) 主持。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果皮重生！华强北iPhone 15 Pro美版改卡方案出炉 手机壳外置SIM卡 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1393073.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1393073.htm"/>
-        <updated>2023-10-30T10:09:05.000Z</updated>
-        <content type="html"><![CDATA[从去年iPhone 14系列开始，<strong>苹果在美国地区正式取消了实体SIM卡，连卡槽都直接堵上了，彻底进军eSIM。</strong>这种无实体卡的eSIM技术，相比于普通SIM卡最大的好处就是方便，最多能绑定8个号码，一键即可切换，而且普及之后还能省下手机内部空间。]]></content>
+        <title type="html"><![CDATA[为什么中国程序员996还干不过美国的955？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1393317.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1393317.htm"/>
+        <updated>2023-10-31T09:04:25.000Z</updated>
+        <content type="html"><![CDATA[刚翻知乎，发现有人邀请我回答“为什么中国的996干不过美国的955？”这个问题。今天周日，正好有点空闲，来写篇文章回答一下这个问题。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙向左，澎湃向右……国产手机操作系统走向割裂 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1392325.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1392325.htm"/>
+        <updated>2023-10-26T09:48:07.000Z</updated>
+        <content type="html"><![CDATA[继华为的鸿蒙OS之后，操作系统领域再迎来新玩家。在今天的小米发布会上，小米澎湃OS将正式亮相；而在11月初，vivo也即将发布自研操作系统。加上荣耀的MagicOS和OPPO的潘塔纳尔系统，届时主流国产手机厂商均将拥有自己的操作系统。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果将 macOS Sonoma 更新至 14.1 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1392293.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1392293.htm"/>
+        <updated>2023-10-26T02:18:01.000Z</updated>
+        <content type="html"><![CDATA[苹果公司发布了 macOS Sonoma 自发布以来的首次重大更新，公众现在可以将硬件更新到 macOS 14.1。macOS Sonoma 14.1 的更新距离 9 月 26 日发布的该操作系统里程碑版本不到一个月。]]></content>
     </entry>
 </feed>
