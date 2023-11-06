@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-06T05:38:33.601Z</updated>
+    <updated>2023-11-06T17:38:56.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯退出 中国双通道远程宽体客机C929正式立项 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1393021.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1393021.htm"/>
-        <updated>2023-10-30T03:10:38.000Z</updated>
-        <content type="html"><![CDATA[C919已经投入商业运营，C929也越来越近了！C929原名CR929，是中俄联合研发的双通道远程宽体客机，但因为某些原因，俄罗斯已经退出，成为中国自己的项目，名字自然也就变成了C929。<strong>根据中国商飞总经理周新民最新透露，C929已经正式立项！</strong>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[华为鸿蒙系统编入中学教科书：“纯血鸿蒙”不再兼容安卓应用 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1394209.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1394209.htm"/>
         <updated>2023-11-04T17:38:01.531Z</updated>
         <content type="html"><![CDATA[经过几年发展，华为鸿蒙OS已经来到4.0版本，并且设备升级量突破1亿大关，成为史上升级速度最快的鸿蒙OS版本。日前，一张鸿蒙系统被编进7年级《信息技术》课本的照片在网上曝光。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因为这个新功能 全编辑部都换上了微信输入法 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1394309.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1394309.htm"/>
+        <updated>2023-11-04T09:41:40.000Z</updated>
+        <content type="html"><![CDATA[昨天看到个新闻，讲微信输入法上了一个重磅功能：<strong>支持跨设备复制粘贴了。</strong>看到后第一感觉是——还不错。比如你手机复制验证码，马上就能在电脑 / 平板上粘贴。但也就是还不错的程度。因为这功能不新鲜，市面上早就有专攻这块的第三方剪贴版工具。我多年前用的“ 快贴 ”，就能让我在 iOS 和 Windows 之间互传剪贴板。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为解释Google应用被标记为病毒的原因 并提供简单的修复方法 (cnbeta一周点击排行)]]></title>
@@ -49,40 +49,11 @@
 TikToker 只订购了4部，却莫名其妙地收到了 60 部。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[清华大学成功研发光电模拟芯片：摆脱摩尔定律 能效提升超400万倍 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1393187.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1393187.htm"/>
-        <updated>2023-10-31T17:38:47.163Z</updated>
-        <content type="html"><![CDATA[清华大学自动化系戴琼海院士、吴嘉敏助理教授与电子工程系方璐副教授、乔飞副研究员联合攻关，<strong>提出了一种摆脱摩尔定律的全新计算架构：光电模拟芯片</strong>。摩尔定律1965年由英特尔创始人之一戈登·摩尔提出，即每隔约两年，集成电路可容纳的晶体管数目便增加一倍。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[全球首个陆上商用小型核反应堆“玲龙一号”上架淘宝：总价52亿元 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1393375.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1393375.htm"/>
         <updated>2023-11-02T17:38:16.503Z</updated>
         <content type="html"><![CDATA[近日，“国资小新”淘宝店上线，其由国务院国有资产监督管理委员会下属机构负责运营。该店铺上线了16款代表中国智造的新一批“大国重器”，均标价999999元，显示“仅展示可加购勿拍”。其中，<strong>一款名为移动核能充电宝“玲龙一号”的商品引起关注，这是全球首个陆上商用小型核反应堆，总价52亿元。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因为这个新功能 全编辑部都换上了微信输入法 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1394309.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1394309.htm"/>
-        <updated>2023-11-04T09:41:40.000Z</updated>
-        <content type="html"><![CDATA[昨天看到个新闻，讲微信输入法上了一个重磅功能：<strong>支持跨设备复制粘贴了。</strong>看到后第一感觉是——还不错。比如你手机复制验证码，马上就能在电脑 / 平板上粘贴。但也就是还不错的程度。因为这功能不新鲜，市面上早就有专攻这块的第三方剪贴版工具。我多年前用的“ 快贴 ”，就能让我在 iOS 和 Windows 之间互传剪贴板。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果皮重生！华强北iPhone 15 Pro美版改卡方案出炉 手机壳外置SIM卡 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1393073.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1393073.htm"/>
-        <updated>2023-10-30T10:09:05.000Z</updated>
-        <content type="html"><![CDATA[从去年iPhone 14系列开始，<strong>苹果在美国地区正式取消了实体SIM卡，连卡槽都直接堵上了，彻底进军eSIM。</strong>这种无实体卡的eSIM技术，相比于普通SIM卡最大的好处就是方便，最多能绑定8个号码，一键即可切换，而且普及之后还能省下手机内部空间。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电前副总裁指出：美国不可能完全阻止中国改进芯片技术 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1393145.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1393145.htm"/>
-        <updated>2023-10-31T17:38:47.188Z</updated>
-        <content type="html"><![CDATA[中国的半导体产业正在不断进步，即使在美国政府将企业列入黑名单的情况下，中国的半导体产业仍在制裁下快速发展。中国的半导体产业主要以中芯国际集成电路制造有限公司（SMIC）和华为技术有限公司（Huawei
-Technologies）等公司为代表，它们在芯片制造和芯片设计方面的投资和进步都处于领先地位。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米14魔改存储芯片遭质疑 这项技术究竟怎么样？ (cnbeta一周点击排行)]]></title>
@@ -123,14 +94,6 @@ MacBook Pro 现在采用了新的芯片。新机型以前使用 M2 Pro 和 M2 Ma
         <content type="html"><![CDATA[刚翻知乎，发现有人邀请我回答“为什么中国的996干不过美国的955？”这个问题。今天周日，正好有点空闲，来写篇文章回答一下这个问题。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果发布M3、M3 Pro和M3 Max处理器：3纳米制程、动态高速缓存GPU等技术 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1393295.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1393295.htm"/>
-        <updated>2023-10-31T08:29:47.000Z</updated>
-        <content type="html"><![CDATA[在周一晚上的发布会上，苹果公司发布了 M3、M3 Pro 和 M3 Max，性能比初代的 M1 芯片最多提高了 80%。新一代芯片采用3纳米制程，在 GPU
-动态缓存方面开创了行业先河，允许系统在最需要的时候保留资源。这项新技术将提供持续稳定的体验，即使在资源最密集的项目中也是如此。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google 开放 .ing 顶级域名注册 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1393741.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1393741.htm"/>
@@ -140,11 +103,12 @@ MacBook Pro 现在采用了新的芯片。新机型以前使用 M2 Pro 和 M2 Ma
 域名给网络世界带来混乱和不安全感之后，又推出了另一个"令人兴奋"的互联网顶级域名".ing"，该域名似乎适用于用一个单词搭配然后创建网站和在线服务。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[宇宙神秘样品历时7年抵达地球 NASA拿到之后傻眼了…… (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1393409.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1393409.htm"/>
-        <updated>2023-11-02T17:38:16.524Z</updated>
-        <content type="html"><![CDATA[在宇宙中飞行 64 亿千米后取回的样本，在地球上卡住了。9 月 24 日一早，在众多行星科学家的翘首以盼中，一个碟形物体高速穿过大气层，在降落伞的帮助下，平稳地落在美国犹他州测试训练场里。这是在太空中航行 7 年，一路从小行星贝努（Bennu）采集样本后返回的样本返回舱，其中承载着科学家理解早期太阳系的希望——<strong>未受地球环境污染的外星岩石样本</strong>。]]></content>
+        <title type="html"><![CDATA[苹果发布M3、M3 Pro和M3 Max处理器：3纳米制程、动态高速缓存GPU等技术 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1393295.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1393295.htm"/>
+        <updated>2023-10-31T08:29:47.000Z</updated>
+        <content type="html"><![CDATA[在周一晚上的发布会上，苹果公司发布了 M3、M3 Pro 和 M3 Max，性能比初代的 M1 芯片最多提高了 80%。新一代芯片采用3纳米制程，在 GPU
+动态缓存方面开创了行业先河，允许系统在最需要的时候保留资源。这项新技术将提供持续稳定的体验，即使在资源最密集的项目中也是如此。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[长江存储致态第一款4TB SSD TiPlus 7100 4TB图赏 (cnbeta一周点击排行)]]></title>
@@ -152,5 +116,40 @@ MacBook Pro 现在采用了新的芯片。新机型以前使用 M2 Pro 和 M2 Ma
         <link href="https://www.cnbeta.com.tw/articles/tech/1393683.htm"/>
         <updated>2023-11-05T17:38:02.923Z</updated>
         <content type="html"><![CDATA[长江存储去年10月发布了新款消费级固态硬盘产品——致态TiPlus 7100。其最初提供512GB、1TB、2TB三种容量设计，现在又推出了4TB版，这也是<strong>致钛品牌首款4TB固态硬盘</strong>。致态TiPlus 7100固态硬盘采用晶栈Xtacking 3.0架构闪存，高达2400MT/s的闪存接口带宽，对比上一代速度提高了50%。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与华盛顿的紧张关系缓解 中国向美国芯片制造商美光示好 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1394205.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1394205.htm"/>
+        <updated>2023-11-06T17:38:55.099Z</updated>
+        <content type="html"><![CDATA[路透社报道，中国商务部长对美光科技公司（Micron Technology Inc. MU.O）总裁表示，中国政府欢迎这家美国半导体公司深化在中国市场的布局，这标志着世界前两大经济体之间的关系进一步解冻。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙神秘样品历时7年抵达地球 NASA拿到之后傻眼了…… (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1393409.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1393409.htm"/>
+        <updated>2023-11-02T17:38:16.524Z</updated>
+        <content type="html"><![CDATA[在宇宙中飞行 64 亿千米后取回的样本，在地球上卡住了。9 月 24 日一早，在众多行星科学家的翘首以盼中，一个碟形物体高速穿过大气层，在降落伞的帮助下，平稳地落在美国犹他州测试训练场里。这是在太空中航行 7 年，一路从小行星贝努（Bennu）采集样本后返回的样本返回舱，其中承载着科学家理解早期太阳系的希望——<strong>未受地球环境污染的外星岩石样本</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[困扰世界近一个世纪的数学难题：拉姆齐问题已被破解 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1394101.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1394101.htm"/>
+        <updated>2023-11-03T10:30:17.000Z</updated>
+        <content type="html"><![CDATA[加州大学圣迭戈分校的数学家 Jacques Verstraete 和 Sam Mattheus 解决了一个令人费解的拉姆齐理论问题，自从保罗-埃尔德斯（Paul Erdös）在 1937 年取得一些突破以来，这个数学问题一直进展甚微。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么李想不敢和华为吵架？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1394529.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1394529.htm"/>
+        <updated>2023-11-05T11:01:43.000Z</updated>
+        <content type="html"><![CDATA[何小鹏和余承东因AEB之争隔空对线上了热搜，有网友建议理想加入战局，一边挨揍一边锻炼。理想CEO李想只回复了一句话：<strong>“不和华为吵架，实在吵不过呀。”</strong>事实上，<strong>避开华为锋芒，已经成为接下来理想汽车的核心战略之一。</strong>据媒体报道，在国庆节前，理想汽车召开了一场秋季战略会。会议的一项核心议题，就是避开华为锋芒，扬长补短。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 4090禁售时间确定 各大品牌疯狂放货 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1393631.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1393631.htm"/>
+        <updated>2023-11-06T17:38:55.131Z</updated>
+        <content type="html"><![CDATA[美国对中国半导体科技的限制不断加码，就连RTX 4090这种偏向消费级的高端显卡都不放过，甚至不给30天的缓冲期，直接下手。据最新曝料，多家AIC品牌纷纷确认，<strong>RTX 4090系列将于11月17日之后在国内全面禁售</strong>，建议大家且售且珍惜。]]></content>
     </entry>
 </feed>
