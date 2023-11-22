@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-22T05:38:28.240Z</updated>
+    <updated>2023-11-22T17:38:31.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[C919大飞机第二总装厂落地哪里 这两个城市要掰掰手腕 (cnbeta一周点击排行)]]></title>
@@ -19,18 +19,18 @@
         <content type="html"><![CDATA[今天一张图传遍了我所有摸鱼平台，就这张“ChatGPT捏的最美中国女生”。这是我为您创建的图像：一位自然未加修饰的中国女生，展现了她纯净、素颜的面容。图像突出了她的自然美，表现了温柔、平和的面部特征，体现了真实性和优雅。背景简单、不引人注意，确保重点保持在她的自然外貌上。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国将更多NVIDIA GPU列入禁售中国名单：RTX 6000 Ada、RTX A6000和L4 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1397509.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1397509.htm"/>
-        <updated>2023-11-17T17:38:00.742Z</updated>
-        <content type="html"><![CDATA[美国政府继续扩大禁止向中国出口 GPU 的名单，现在又增加了更多英伟达（NVIDIA）芯片。RTX 6000 Ada、RTX A6000 和 L4 是美国政府最新列入对华禁止清单的 GPU。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[河南联通被曝强迫用户更换光猫 后台停账号、断网 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1398153.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1398153.htm"/>
         <updated>2023-11-20T17:38:11.713Z</updated>
         <content type="html"><![CDATA[据河南电视台都市频道节目报道，最近，河南周口联通被曝光存在强迫用户更换光猫的行为，为此甚至强制在后台停掉用户的账号。据称，当地联通公司强制要求智家工程师每人每个月完成10个光猫路由器终端更换的任务，就便是装维工程师也进行搞推销。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国将更多NVIDIA GPU列入禁售中国名单：RTX 6000 Ada、RTX A6000和L4 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1397509.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1397509.htm"/>
+        <updated>2023-11-17T17:38:00.742Z</updated>
+        <content type="html"><![CDATA[美国政府继续扩大禁止向中国出口 GPU 的名单，现在又增加了更多英伟达（NVIDIA）芯片。RTX 6000 Ada、RTX A6000 和 L4 是美国政府最新列入对华禁止清单的 GPU。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯高管称已囤积了“足够用几代”的NVIDIA芯片 但也在寻求本土替代 (cnbeta一周点击排行)]]></title>
@@ -54,13 +54,6 @@
         <content type="html"><![CDATA[微软发布了对其人工智能聊天机器人的几项改动（改名部火力全开），以"简化用户体验，使 Copilot 更容易为每个人所使用"。从今天起，必应聊天机器人（Bing Chat）更名为 Copilot。对应关系上，Bing Chat Enterprise是 Copilot Pro，Microsoft 365 Copilot现在是Copilot for Microsoft 365，而&nbsp;Microsoft Sales Copilot 则变成了Copilot for Salest。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[根据传言制作的iPhone SE 4渲染图显示机身经过改良 配备USB-C端口与动作按钮等 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1396969.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1396969.htm"/>
-        <updated>2023-11-15T04:18:13.000Z</updated>
-        <content type="html"><![CDATA[苹果公司已经很久没有推出其下一款低价 iPhone SE 了，但大量的传言仍在不断涌现，为业界提供了继任者的最新消息。另据报道，苹果将在 iPhone SE 4 上采用 OLED 屏幕，但可能缺少 ProMotion 技术。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特斯拉Cybertruck内饰曝光 取消所有物理按键 采用屏幕换挡 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1397415.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1397415.htm"/>
@@ -68,25 +61,18 @@
         <content type="html"><![CDATA[据外媒报道，一段关于特斯拉Cybertruck内饰的视频在网上曝光。从图中可以看到，为保证车身线条的流畅与平整，<strong>特斯拉Cybertruck采用了触摸的开门方式。</strong>与此前透露的内饰图片来看，此次Cybertruck采用了特斯拉最新的内饰设计，<strong>除了方向盘上的两个滚轮外，几乎看不到任何的物理按钮。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11 Moment 4 现在已成为强制性更新 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1397531.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1397531.htm"/>
-        <updated>2023-11-17T01:41:02.000Z</updated>
-        <content type="html"><![CDATA[Windows 11 Moment 4 现在是强制性的，微软已通过 KB5032190（补丁星期二）向所有人推送了今年最重要的更新。这意味着无论你是否喜欢，Windows Copilot 和新文件资源管理器等功能都将在你的系统上启用。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram演示运行于visionOS上的原生消息应用 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1396987.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1396987.htm"/>
-        <updated>2023-11-15T06:19:12.000Z</updated>
-        <content type="html"><![CDATA[Telegram 创始人帕维尔-杜罗夫（Pavel Durov）今天展示了 Telegram 即将推出的 visionOS 应用程序的简短一瞥，这是我们目前看到的首批第三方 visionOS 应用程序概念之一。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google推出新版Titan安全密钥 为无密码世界做好准备 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1397271.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1397271.htm"/>
         <updated>2023-11-16T02:23:33.000Z</updated>
         <content type="html"><![CDATA[Google泰坦安全密钥（Titan Security Key）的最新版本已经面世，可以与苹果、微软、Google等公司推出的新的无密码密钥技术一起使用。与 2021 年发布的旧版本一样，这两个版本也都配备了 NFC 功能，可以无线连接手机和其他移动设备。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Moment 4 现在已成为强制性更新 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1397531.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1397531.htm"/>
+        <updated>2023-11-17T01:41:02.000Z</updated>
+        <content type="html"><![CDATA[Windows 11 Moment 4 现在是强制性的，微软已通过 KB5032190（补丁星期二）向所有人推送了今年最重要的更新。这意味着无论你是否喜欢，Windows Copilot 和新文件资源管理器等功能都将在你的系统上启用。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mate 60拆解背后：几乎不存在日本美国零部件 只有华为能做到 (cnbeta一周点击排行)]]></title>
@@ -105,11 +91,11 @@ Pro中的国产零部件比例比2020年秋季推出的类似价格的Mate 40 Pr
         <content type="html"><![CDATA[“阿里集团将在阿里云的战略方向上保持长期坚决投入，同时云智能集团仍会继续保持独立公司运作，采取董事会授权的CEO负责制。”吴泳铭说。阿里在财报中表示，美国近期扩大对先进计算芯片出口的限制，给云智能集团的前景带来不确定性。云智能集团的完全分拆可能无法按照原先的设想提升股东价值，因此决定不再推进云智能集团的完全分拆，而是会面对不确定的环境，专注建立云智能集团可持续增长的模型。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[工信部正式公布小米汽车“证件照” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1397139.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1397139.htm"/>
-        <updated>2023-11-19T17:38:05.235Z</updated>
-        <content type="html"><![CDATA[11月15日消息，工信部今天公示了小米汽车图片。产品商标为小米牌，纯电动轿车。根据工信部披露的信息显示，小米汽车长：4997mm，宽：1963mm；高：1440mm，总质量为2655kg，最高车速265km/h，前轮距:1693mm， 后轮距:1699mm。]]></content>
+        <title type="html"><![CDATA[全球行驶里程最长的特斯拉诞生：已突破190万公里 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1397335.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1397335.htm"/>
+        <updated>2023-11-16T10:00:09.000Z</updated>
+        <content type="html"><![CDATA[特斯拉对外事务副总裁陶琳分享图片显示：<strong>全球行驶里程最长的特斯拉诞生，其累计行驶里程已突破190万公里。</strong>稳定的产品表现，让特斯拉保值率蝉联电动车排行榜冠军，在汽车媒体iSeeCars最近的一项研究中，Model 3成为5年保值率最稳定的电动车，Model X位列第二。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sam Altman被OpenAI董事会赶下CEO的宝座 (cnbeta一周点击排行)]]></title>
@@ -122,18 +108,11 @@ Pro中的国产零部件比例比2020年秋季推出的类似价格的Mate 40 Pr
 Altman"在与其他董事会成员的沟通中没有始终保持坦诚"--"妨碍了董事会履行职责的能力"。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全球行驶里程最长的特斯拉诞生：已突破190万公里 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1397335.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1397335.htm"/>
-        <updated>2023-11-16T10:00:09.000Z</updated>
-        <content type="html"><![CDATA[特斯拉对外事务副总裁陶琳分享图片显示：<strong>全球行驶里程最长的特斯拉诞生，其累计行驶里程已突破190万公里。</strong>稳定的产品表现，让特斯拉保值率蝉联电动车排行榜冠军，在汽车媒体iSeeCars最近的一项研究中，Model 3成为5年保值率最稳定的电动车，Model X位列第二。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孙正义以为看到下一个马云 结果却是160亿美元的噩梦 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1397001.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1397001.htm"/>
-        <updated>2023-11-15T09:39:13.000Z</updated>
-        <content type="html"><![CDATA[2019年底，马云和孙正义在东京大学有一次公开对话。马云在场上称赞孙正义是“全球胆子最大的投资人”，孙桑笑着接话，“是啊，我胆子太大了，所以有时候会亏很多钱。”他的脸上看不出是开心还是苦笑自嘲。那一年，孙正义在WeWork上投资了100亿美元，估值却损失了七成。]]></content>
+        <title type="html"><![CDATA[Google解释为何故意让Firefox浏览器加载YouTube的速度变慢 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1398811.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1398811.htm"/>
+        <updated>2023-11-22T03:05:52.000Z</updated>
+        <content type="html"><![CDATA[昨晚我们报道了一个有趣的细节，用户在网上反映使用Firefox浏览器时，YouTube 的加载速度变慢了。令人好奇的是，如果使用用户代理（UA）切换器欺骗浏览器，让它以为自己是Google浏览器，YouTube 的加载速度就会非常正常。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[赵雅芝晒照庆祝70岁生日 穿红色长裙戴皇冠状态惊艳 (cnbeta一周点击排行)]]></title>
@@ -143,12 +122,31 @@ Altman"在与其他董事会成员的沟通中没有始终保持坦诚"--"妨碍
         <content type="html"><![CDATA[11月15日是赵雅芝的生日，赵雅芝晒出一组写真照庆生，并配文：“收到了大家充满温暖的祝福！也祝大家喜乐安康、幸福美满 ！”赵雅芝身穿红色长裙，戴着皇冠，笑容美丽，状态惊艳。网友们纷纷感叹：这哪里像70岁的人，真是岁月不败美人。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 17.2 Beta 3已面向开发者推送 会带来哪些新功能？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1396971.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1396971.htm"/>
-        <updated>2023-11-15T04:21:15.000Z</updated>
-        <content type="html"><![CDATA[苹果公司正在继续进行 iOS 17.2
-更新的测试，第三个Beta测试版包括新功能和对现有功能的改进，我们仍处于测试过程的早期阶段，这意味着还会有新的发现。iOS 17.2 Beta 3
-目前已向开发者开放，但苹果公司应该会在本周晚些时候向公共测试者开放该更新。]]></content>
+        <title type="html"><![CDATA[逾700名OpenAI员工联名要求董事会辞职 否则可能集体投奔微软 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1398513.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1398513.htm"/>
+        <updated>2023-11-21T04:51:49.000Z</updated>
+        <content type="html"><![CDATA[OpenAI几乎全体员工要求公司现任董事会辞职，否则他们会离开OpenAI并跟随之前被罢免的Sam Altman投奔微软，这家人工智能初创企业的未来由此面临更大不确定性。周一，OpenAI约770名员工中超过700人联署了一封信，称“无法为那些缺乏能力、判断力、不关心我们的使命和员工的人工作”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国最早的高铁动车组寿命将超30年 安全运行168亿公里 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1397515.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1397515.htm"/>
+        <updated>2023-11-22T17:38:30.832Z</updated>
+        <content type="html"><![CDATA[截止2023年10月底，中国高铁运营里程已达4.3万公里。<strong>同时，驰骋在大江南北的动车组保有量已达3541列、4073标准组，占全球的三分之二以上。截止目前，中国高速动车组累计安全运行里程已达168亿公里。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印尼雅万高铁乘务员选拔超严格 空姐都来面试 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1398655.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1398655.htm"/>
+        <updated>2023-11-22T17:38:30.834Z</updated>
+        <content type="html"><![CDATA[<strong>10月17日，印尼雅万高铁正式开通运营，连接着印尼首都雅加达和旅游名城万隆。</strong>列车线路全长142.3公里，最高运营时速350公里，两地最快46分钟可达，这标志着印尼迈入高铁时代。这也是中国高铁出海首作，全线采用中国技术、中国标准。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX的新款Starlink卫星互联网终端增加了便利脚架 Wi-Fi路由器也迎来新款 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1398275.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1398275.htm"/>
+        <updated>2023-11-20T10:18:20.000Z</updated>
+        <content type="html"><![CDATA[太空探索技术公司（SpaceX）悄然推出了一款新的标准星链（Starlink）终端，它比之前的版本更轻薄、更简单，视野开阔了 10%，而且安装时不需要电机协助，取而代之的是一个脚架；要确定它的方向，只需移动它即可。Starlink 支持页面称，该套件"仅通过邀请向美国的一小部分早期客户提供"。]]></content>
     </entry>
 </feed>
