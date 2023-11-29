@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-11-29T05:38:41.172Z</updated>
+    <updated>2023-11-29T17:38:37.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -22,18 +22,18 @@
         <content type="html"><![CDATA[路透社报道，朝鲜人使用假名字、虚假的 LinkedIn 简介、伪造的工作文件和模拟面试稿，在西方科技公司求职的朝鲜 IT 员工正在使用复杂的潜规则来获得聘用，以帮助该国获得紧缺的外汇。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为全新形态开放式耳机来了：舒适度秒杀入耳式 可以全天无感佩戴]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1399797.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1399797.htm"/>
-        <updated>2023-11-26T10:49:31.000Z</updated>
-        <content type="html"><![CDATA[近日，华为音频创新技术沟通会上，华为终端BG音频总裁刘东方透露，<strong>华为全新的音频设备品类——开放式耳机要来了。</strong>据悉，<strong>该新品除了采用全新的形态设计外，还有非常出色的佩戴舒适度。</strong>对此，华为终端BG CTO李小龙在微博上表示：<strong>“这款戴着非常舒适，尤其适合运动时佩戴，可以全天无感佩戴。”</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一个“盗版电视”App没了 网友们悲痛欲绝：时代的悲哀]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1399103.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1399103.htm"/>
         <updated>2023-11-28T17:38:01.659Z</updated>
         <content type="html"><![CDATA[这两天，“ 电视家跑路 ”的事，上了好几次热搜。讨论度最高的时候，甚至一度被顶到了榜二的位置。在微博、小红书等社交软件上放眼望去，到处都有大把人为电视家的逝去痛心疾首。<strong>“ 再也不能轮播甄嬛传了&nbsp;”“ 家里老人一大早给我打电话，说电视看不了了&nbsp;”“ 没了电视家，感觉活着没意思了，我哭死&nbsp;”……</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为全新形态开放式耳机来了：舒适度秒杀入耳式 可以全天无感佩戴]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1399797.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1399797.htm"/>
+        <updated>2023-11-26T10:49:31.000Z</updated>
+        <content type="html"><![CDATA[近日，华为音频创新技术沟通会上，华为终端BG音频总裁刘东方透露，<strong>华为全新的音频设备品类——开放式耳机要来了。</strong>据悉，<strong>该新品除了采用全新的形态设计外，还有非常出色的佩戴舒适度。</strong>对此，华为终端BG CTO李小龙在微博上表示：<strong>“这款戴着非常舒适，尤其适合运动时佩戴，可以全天无感佩戴。”</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软，我们能不能就叫它 Windows 11.1？]]></title>
@@ -57,18 +57,11 @@
         <content type="html"><![CDATA[Galaxy S24 系列距离发布的时间比一些人想象的要近得多。这款手机已被多次爆料将于 2024 年 1 月 17 日发布，而且发布日期正一天天临近。我们知道，这款新手机，尤其是 Galaxy S24 Ultra，看起来会很像它的前代产品.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google解释为何故意让Firefox浏览器加载YouTube的速度变慢]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1398811.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1398811.htm"/>
-        <updated>2023-11-22T03:05:52.000Z</updated>
-        <content type="html"><![CDATA[昨晚我们报道了一个有趣的细节，用户在网上反映使用Firefox浏览器时，YouTube 的加载速度变慢了。令人好奇的是，如果使用用户代理（UA）切换器欺骗浏览器，让它以为自己是Google浏览器，YouTube 的加载速度就会非常正常。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产手机新系统“脱钩”安卓 真创新还是伪套路？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1398849.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1398849.htm"/>
-        <updated>2023-11-22T10:31:11.000Z</updated>
-        <content type="html"><![CDATA[近日，有消息称华为鸿蒙系统自2024年起将不再兼容Android。华为方面11月20日回应称，目前海外手机暂无使用HarmonyOS的计划，海外消费者可通过搭载EMUI版本的华为手机继续放心使用Android应用。至于国内会如何，华为并未正面回应。]]></content>
+        <title type="html"><![CDATA[RTX 4090禁售后充斥“海鲜市场” 变成了NVIDIA最不喜欢的样子]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1400089.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1400089.htm"/>
+        <updated>2023-11-28T17:38:01.665Z</updated>
+        <content type="html"><![CDATA[RTX 4090已经被禁止在国内生产和销售，一时间各路“大神”纷纷跑了出来，用各种方法继续售卖，尤其是在二手“海鲜市场”上非常活跃。二手的RTX 4090有一部分是常规游戏卡，但要么来自个人用户，要么来自存货，难以形成规模，也难以持久。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[刘亦菲观看阿布扎比F1大奖赛 现场造型美艳无比]]></title>
@@ -93,20 +86,6 @@ W7900和即将发布的MI300）现在已被禁止在中国销售。在美国商�
         <content type="html"><![CDATA[尽管随着山姆·奥特曼重返OpenAI担任CEO，这场震动科技界的“政变”大戏已经宣告落幕。但自始至终，一个谜团一直萦绕在人们心头：奥特曼究竟为何被解雇？而现在，随着越来越多的消息被曝出，奥特曼被解雇的真相正在逐渐浮出水面。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RTX 4090禁售后充斥“海鲜市场” 变成了NVIDIA最不喜欢的样子]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1400089.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1400089.htm"/>
-        <updated>2023-11-28T17:38:01.665Z</updated>
-        <content type="html"><![CDATA[RTX 4090已经被禁止在国内生产和销售，一时间各路“大神”纷纷跑了出来，用各种方法继续售卖，尤其是在二手“海鲜市场”上非常活跃。二手的RTX 4090有一部分是常规游戏卡，但要么来自个人用户，要么来自存货，难以形成规模，也难以持久。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曾经的华人首富被罚307亿元：他的骚操作 我想都不敢想]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1399115.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1399115.htm"/>
-        <updated>2023-11-23T01:41:15.000Z</updated>
-        <content type="html"><![CDATA[曾经的华人首富赵长鹏，认罪了。赵长鹏大伙应该不陌生了，就那个币圈最大的虚拟币交易所【&nbsp;币安&nbsp;】的老总，响当当的币圈大拿。<strong>他不仅辞去了币安&nbsp;CEO&nbsp;的职位，还可能面临蹲局子，监禁&nbsp;18&nbsp;个月的处罚。与此同时，币安也认领了高达43&nbsp;亿美元的处罚和赔款，约合人民币 307 亿。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[华为加快清理高通骁龙处理器库存 麒麟9000S拉开替换序幕]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1399279.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1399279.htm"/>
@@ -114,13 +93,11 @@ W7900和即将发布的MI300）现在已被禁止在中国销售。在美国商�
         <content type="html"><![CDATA[华为接下来要发布的新机会更多的采用自家的麒麟处理器，而对应的高通就会被弱化。<strong>有相关博主也是表示，华为11月28日的新品就是对高通骁龙8+处理器库存的清理。</strong>按照师郭明錤之前的报告显示，华为预计从2024年开始，将停止采购高通芯片，新机型全面采用自家设计的新麒麟处理器。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[专家认为华为有可能制造出5纳米SoC 但在现有的DUV设备上成本将非常高昂]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1399855.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1399855.htm"/>
-        <updated>2023-11-28T17:38:01.669Z</updated>
-        <content type="html"><![CDATA[华为不畏美国制裁，为一系列旗舰产品量产 7 纳米麒麟 9000S
-被业内观察人士视为奇迹，但这并不意味着前路会变得更容易。在最新的报告中，台积电前研发副总裁林本坚，也是著名的浸没式光刻机发明人，被誉为"芯片大师"，他表示，在现有的
-DUV 设备上制造 5 纳米芯片组将非常昂贵，但也是可行的。]]></content>
+        <title type="html"><![CDATA[美食作家王刚公开保证：以后再也不做蛋炒饭]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1400307.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1400307.htm"/>
+        <updated>2023-11-29T17:38:37.279Z</updated>
+        <content type="html"><![CDATA[因为一条蛋炒饭视频，美食作家王刚再次引发争议。都说人不能两次踏进同一条河流，也不能让一块石头绊倒两次，可王刚却在蛋炒饭这道家常美食上栽了两次。虽然有网友掷地有声的质问“凭啥不能发蛋炒饭视频？哪条法律写了不能在这个时间发？不能发那请明明白白写到文件里，比如我就不知道是啥原因”，但即便是秒删视频后，王刚还是被很多网络大V认为“这是刀尖玩火”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软为Windows 11终端命令行程序带来了ChatGPT AI]]></title>
@@ -132,6 +109,29 @@ DUV 设备上制造 5 纳米芯片组将非常昂贵，但也是可行的。]]><
 聊天功能，用户可以使用 AI 生成命令、解释错误并获得推荐。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[曾经的华人首富被罚307亿元：他的骚操作 我想都不敢想]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1399115.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1399115.htm"/>
+        <updated>2023-11-23T01:41:15.000Z</updated>
+        <content type="html"><![CDATA[曾经的华人首富赵长鹏，认罪了。赵长鹏大伙应该不陌生了，就那个币圈最大的虚拟币交易所【&nbsp;币安&nbsp;】的老总，响当当的币圈大拿。<strong>他不仅辞去了币安&nbsp;CEO&nbsp;的职位，还可能面临蹲局子，监禁&nbsp;18&nbsp;个月的处罚。与此同时，币安也认领了高达43&nbsp;亿美元的处罚和赔款，约合人民币 307 亿。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家认为华为有可能制造出5纳米SoC 但在现有的DUV设备上成本将非常高昂]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1399855.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1399855.htm"/>
+        <updated>2023-11-28T17:38:01.669Z</updated>
+        <content type="html"><![CDATA[华为不畏美国制裁，为一系列旗舰产品量产 7 纳米麒麟 9000S
+被业内观察人士视为奇迹，但这并不意味着前路会变得更容易。在最新的报告中，台积电前研发副总裁林本坚，也是著名的浸没式光刻机发明人，被誉为"芯片大师"，他表示，在现有的
+DUV 设备上制造 5 纳米芯片组将非常昂贵，但也是可行的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家：中国与OpenAI差距正在拉大 “聪明人”太多总想抄近路]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1399543.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1399543.htm"/>
+        <updated>2023-11-29T17:38:37.281Z</updated>
+        <content type="html"><![CDATA[复旦大学计算机科学技术学院教授表示，我们与OpenAI的差距正拉大。肖仰华接受媒体采访表示，让大模型去解决复杂问题，但普通用户一般都是简单的问题，用小模型就可以了。他形容，ChatGPT的AI技术已形成一种“飞轮效应”，迭代和优化正推动技术进入一个自我强化的快速发展阶段行业或将变成“只有第一，没有第二”的局面。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[不到四千块的Quest 3 才是最适合普通人的VR玩具]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1399197.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1399197.htm"/>
@@ -140,17 +140,17 @@ DUV 设备上制造 5 纳米芯片组将非常昂贵，但也是可行的。]]><
 设备的发展历程中，有一开始做得不错但是价格昂贵的 HTC ，也有国内 VR 一体机的扛把子 Pico ，还有目前市场占有率数一数二的 Meta 。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[几百条嫁女短信被联通屏蔽 多位亲友未出席]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1399337.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1399337.htm"/>
-        <updated>2023-11-28T17:38:01.674Z</updated>
-        <content type="html"><![CDATA[除了接收验证码和通知消息，大家现在似乎很少使用短信了，但是陕西周至的陈先生最近遇上了一件和短信有关的烦心事：女儿出嫁，群发短信通知亲朋好友附言，结果被联通给屏蔽了。据媒体报道，陈先生是在今年10月25日给亲友发的短信，<strong>这么做一是因为亲友比较多，打电话太耗时间，二是觉得这样更正式、更有诚意。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[告别mini-LED 业内人士揭秘iPad Pro为何转向OLED屏幕]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1399759.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1399759.htm"/>
         <updated>2023-11-28T17:38:01.676Z</updated>
         <content type="html"><![CDATA[据媒体爆料，苹果明年上半年会推出首款采用OLED屏的iPad Pro，包含11英寸和12.9英寸两种尺寸，告别mini-LED时代。业内人士表示，苹果之所以选择OLED，<strong>是因为当前iPad Pro使用的mini-LED屏在显示效果方面并不完美。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[几百条嫁女短信被联通屏蔽 多位亲友未出席]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1399337.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1399337.htm"/>
+        <updated>2023-11-28T17:38:01.674Z</updated>
+        <content type="html"><![CDATA[除了接收验证码和通知消息，大家现在似乎很少使用短信了，但是陕西周至的陈先生最近遇上了一件和短信有关的烦心事：女儿出嫁，群发短信通知亲朋好友附言，结果被联通给屏蔽了。据媒体报道，陈先生是在今年10月25日给亲友发的短信，<strong>这么做一是因为亲友比较多，打电话太耗时间，二是觉得这样更正式、更有诚意。</strong>]]></content>
     </entry>
 </feed>
