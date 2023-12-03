@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-12-03T05:38:28.858Z</updated>
+    <updated>2023-12-03T17:38:11.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[华为全新形态开放式耳机来了：舒适度秒杀入耳式 可以全天无感佩戴]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1399797.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1399797.htm"/>
-        <updated>2023-11-26T10:49:31.000Z</updated>
-        <content type="html"><![CDATA[近日，华为音频创新技术沟通会上，华为终端BG音频总裁刘东方透露，<strong>华为全新的音频设备品类——开放式耳机要来了。</strong>据悉，<strong>该新品除了采用全新的形态设计外，还有非常出色的佩戴舒适度。</strong>对此，华为终端BG CTO李小龙在微博上表示：<strong>“这款戴着非常舒适，尤其适合运动时佩戴，可以全天无感佩戴。”</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克：没有我就没有ChatGPT 公司名字都是我起的]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1399839.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1399839.htm"/>
-        <updated>2023-11-28T17:38:01.659Z</updated>
-        <content type="html"><![CDATA[在最近的一次采访中，马斯克回忆起参与创立OpenAI的过往，并表示<strong>没有我就不会有&nbsp;OpenAI，这个公司连名字都是我起的。</strong>马斯克还表示，ChatGPT的关键人才Ilya Sutskever也是我挖来的，<strong>如果没有我也不会有现如今的ChatGPT。</strong>]]></content>
+        <title type="html"><![CDATA[彭博社：中国政府大举支持华为生态 使其成为自给自足的芯片大户]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1401239.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1401239.htm"/>
+        <updated>2023-12-02T17:37:52.957Z</updated>
+        <content type="html"><![CDATA[据彭博新闻社报道，在中国政府的积极帮助下，华为正在开发一个自给自足的芯片生态。根据彭博新闻社的研究，深圳市政府成立了一个投资基金，其唯一目的是将华为作为一个大网络的中心点，该网络包括光学专家、芯片设备开发商和化学品制造商。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米路由器已推送Wi-Fi 7固件 解锁满血速度]]></title>
@@ -27,11 +20,26 @@
         <content type="html"><![CDATA[前两天小米官方正式宣布，<strong>小米路由器已正式通过Wi-Fi 7认证，三款产品即将升级解锁，终端理论峰值速率最高提升80%。</strong>当时官方介绍，新固件将会在12月30日前正式推送，没想到今天就已经来了。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ASML光刻机是怎样一步步走上“绝”路的？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1401161.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1401161.htm"/>
+        <updated>2023-12-03T17:38:11.130Z</updated>
+        <content type="html"><![CDATA[11月30日，ASML宣布联席总裁温宁克和范登布林克明年4月份退休，让我突然想给过去的一点历史做个小注脚。看过《光刻巨人》的朋友一定对范登布林克(Martin van den Blink)记忆犹新，他也正是三十年来ASML的技术领路人。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RTX 4090禁售后充斥“海鲜市场” 变成了NVIDIA最不喜欢的样子]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1400089.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1400089.htm"/>
         <updated>2023-11-28T17:38:01.665Z</updated>
         <content type="html"><![CDATA[RTX 4090已经被禁止在国内生产和销售，一时间各路“大神”纷纷跑了出来，用各种方法继续售卖，尤其是在二手“海鲜市场”上非常活跃。二手的RTX 4090有一部分是常规游戏卡，但要么来自个人用户，要么来自存货，难以形成规模，也难以持久。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司在美国的芯片生产流水线刚刚获得重大突破]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1401001.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1401001.htm"/>
+        <updated>2023-12-02T17:37:52.956Z</updated>
+        <content type="html"><![CDATA[苹果公司和生产合作伙伴 Amkor 宣布，将在亚利桑那州台积电代工厂附近新建一个芯片封装代工厂，简化Apple
+Silicon产品在美国的生产。芯片封装是完成芯片交付的最后一步。台积电等制造厂将制造最初的芯片，芯片封装工艺将硅芯片包围起来，既保护芯片，又能将其安装到电路板上。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[刘亦菲观看阿布扎比F1大奖赛 现场造型美艳无比]]></title>
@@ -48,28 +56,6 @@
         <content type="html"><![CDATA[<strong>作为穿戴设备的一种，目前在售的智能手表可以说是五花八门，功能也是让人眼花缭乱，而有些则非常实用，甚至可挽救生命。近日，有博主“在微博的姜山”分享了自己身边人的一次经历：</strong>我这个朋友因为工作性质的原因经常要上夜班，工作压力也比较大。虽然年纪也不大，在我的推荐下，他买了一块华为Watch 4 Pro，因为我知道，华为那边和301医院有合作，<strong>华为手表能24小时智能监测，支持心律失常快速筛查。</strong>毕竟这种事情不怕一万就怕万一。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美食作家王刚公开保证：以后再也不做蛋炒饭]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1400307.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1400307.htm"/>
-        <updated>2023-11-29T17:38:37.279Z</updated>
-        <content type="html"><![CDATA[因为一条蛋炒饭视频，美食作家王刚再次引发争议。都说人不能两次踏进同一条河流，也不能让一块石头绊倒两次，可王刚却在蛋炒饭这道家常美食上栽了两次。虽然有网友掷地有声的质问“凭啥不能发蛋炒饭视频？哪条法律写了不能在这个时间发？不能发那请明明白白写到文件里，比如我就不知道是啥原因”，但即便是秒删视频后，王刚还是被很多网络大V认为“这是刀尖玩火”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司在美国的芯片生产流水线刚刚获得重大突破]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401001.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401001.htm"/>
-        <updated>2023-12-02T17:37:52.956Z</updated>
-        <content type="html"><![CDATA[苹果公司和生产合作伙伴 Amkor 宣布，将在亚利桑那州台积电代工厂附近新建一个芯片封装代工厂，简化Apple
-Silicon产品在美国的生产。芯片封装是完成芯片交付的最后一步。台积电等制造厂将制造最初的芯片，芯片封装工艺将硅芯片包围起来，既保护芯片，又能将其安装到电路板上。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：中国政府大举支持华为生态 使其成为自给自足的芯片大户]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401239.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401239.htm"/>
-        <updated>2023-12-02T17:37:52.957Z</updated>
-        <content type="html"><![CDATA[据彭博新闻社报道，在中国政府的积极帮助下，华为正在开发一个自给自足的芯片生态。根据彭博新闻社的研究，深圳市政府成立了一个投资基金，其唯一目的是将华为作为一个大网络的中心点，该网络包括光学专家、芯片设备开发商和化学品制造商。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[苹果发布 iOS 17.1.2、iPadOS 17.1.2 和 macOS Sonoma 14.1.2]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1401031.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1401031.htm"/>
@@ -77,6 +63,20 @@ Silicon产品在美国的生产。芯片封装是完成芯片交付的最后一�
         <content type="html"><![CDATA[苹果今天凌晨同时发布了三个操作系统的更新，将 iOS 17 和 iPadOS 17 升级到 17.1.2，macOS Sonoma 升级到
 14.1.2。虽然目前的测试周期是围绕 iOS 17.2 进行的，但苹果已经向公众发布了 iOS 17.1.2 和 iPadOS 17.1.2
 这两个较小的更新。此类版本通常侧重于操作系统的较小更新，如错误修复或安全问题。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美食作家王刚公开保证：以后再也不做蛋炒饭]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1400307.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1400307.htm"/>
+        <updated>2023-11-29T17:38:37.279Z</updated>
+        <content type="html"><![CDATA[因为一条蛋炒饭视频，美食作家王刚再次引发争议。都说人不能两次踏进同一条河流，也不能让一块石头绊倒两次，可王刚却在蛋炒饭这道家常美食上栽了两次。虽然有网友掷地有声的质问“凭啥不能发蛋炒饭视频？哪条法律写了不能在这个时间发？不能发那请明明白白写到文件里，比如我就不知道是啥原因”，但即便是秒删视频后，王刚还是被很多网络大V认为“这是刀尖玩火”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为新版麒麟9000S首曝 自研处理器替换高通大幕拉开]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1400219.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1400219.htm"/>
+        <updated>2023-11-28T10:13:53.000Z</updated>
+        <content type="html"><![CDATA[最新线索显示，<strong>麒麟9000S不止一个版本。</strong>今日，@数码闲聊站 爆料称，<strong>麒麟9000S 5G同宗同源性能不同的新平台要来了。</strong>规格上，<strong>1*2.49GHz+3*2.15GHz+4*1.53GHz，CPU架构等同于麒麟9000S，超大核主频降低0.13GHz，GPU依旧是自研Maleoon 910，华为新平板和新中端机预计将搭载</strong>。 ps.这里的中端机很有可能就是即将于12月发布的华为nova 12系列。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA将发布GeForce RTX 4090 D 将旗舰游戏带回中国市场并完全符合出口标准]]></title>
@@ -87,29 +87,6 @@ Silicon产品在美国的生产。芯片封装是完成芯片交付的最后一�
 似乎即将推出一款新 GPU。这款特殊的 GPU 是一款面向游戏玩家的产品，将被称为 GeForce RTX 4090
 D（“D”可能代表龙），这是为中国市场设计的专属产品，旨在作为 GeForce RTX 4090
 的替代品。由于后者的TPP（总处理性能）评级超过4800分，已被美国商务部禁止出口。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为nova 12系列即将发布 全系新麒麟处理器将全面取代高通]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1399823.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1399823.htm"/>
-        <updated>2023-11-30T17:38:13.597Z</updated>
-        <content type="html"><![CDATA[据多位数码博主爆料，在11月28日智界S7及华为全场景发布会之后，<strong>华为还将于12月单独举办一场新品发布会，届时新一代nova新机——nova 12系列将正式发布。</strong>有博主放出一组华为新机的设计图，新机采用了全新的外观ID，三摄摄像头垂直排列（一大两小），不规则的镜头模组旁边可以看到XMAGE影像品牌的标识。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为新版麒麟9000S首曝 自研处理器替换高通大幕拉开]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1400219.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1400219.htm"/>
-        <updated>2023-11-28T10:13:53.000Z</updated>
-        <content type="html"><![CDATA[最新线索显示，<strong>麒麟9000S不止一个版本。</strong>今日，@数码闲聊站 爆料称，<strong>麒麟9000S 5G同宗同源性能不同的新平台要来了。</strong>规格上，<strong>1*2.49GHz+3*2.15GHz+4*1.53GHz，CPU架构等同于麒麟9000S，超大核主频降低0.13GHz，GPU依旧是自研Maleoon 910，华为新平板和新中端机预计将搭载</strong>。 ps.这里的中端机很有可能就是即将于12月发布的华为nova 12系列。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专家认为华为有可能制造出5纳米SoC 但在现有的DUV设备上成本将非常高昂]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1399855.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1399855.htm"/>
-        <updated>2023-11-28T17:38:01.669Z</updated>
-        <content type="html"><![CDATA[华为不畏美国制裁，为一系列旗舰产品量产 7 纳米麒麟 9000S
-被业内观察人士视为奇迹，但这并不意味着前路会变得更容易。在最新的报告中，台积电前研发副总裁林本坚，也是著名的浸没式光刻机发明人，被誉为"芯片大师"，他表示，在现有的
-DUV 设备上制造 5 纳米芯片组将非常昂贵，但也是可行的。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉Cybertruck电动皮卡问世：起价60990美元 续航里程250-340英里]]></title>
@@ -126,11 +103,11 @@ DUV 设备上制造 5 纳米芯片组将非常昂贵，但也是可行的。]]><
         <content type="html"><![CDATA[北京时间11月27日，字节跳动公司27日证实，旗下主要游戏业务朝夕光年将进行大规模收缩。继教育、房产中介以及虚拟现实(VR)业务后，字节跳动撤出了另外一个大力押注，本希望帮助公司扩张的领域。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[天才少年曹原将赴美国任教 有望成最年轻的诺贝尔物理学奖得主]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1400077.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1400077.htm"/>
-        <updated>2023-11-30T17:38:13.606Z</updated>
-        <content type="html"><![CDATA[11月27日消息，加州大学伯克利分校官网显示，<strong>曹原将于2024年7月起，正式担任该校EECS（电子工程与计算机科学系）的助理教授。</strong>资料显示，曹原，1996年出生，四川成都人。中国科学技术大学物理学理学学士，密西根大学交换生，麻省理工学院电子工程工学硕士和博士。现任哈佛大学博士后初级研究员。]]></content>
+        <title type="html"><![CDATA[丰田技术人员参观蔚来换电站：蹲在地上疯狂拍摄]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1401087.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1401087.htm"/>
+        <updated>2023-12-01T00:07:36.000Z</updated>
+        <content type="html"><![CDATA[对于蔚来用户来说，换电站可能就是稀松平常的配套设施，但对于从没接触过它的人来说，换电站就是科幻照进现实的产物。近日，有<strong>丰田技术人员一行人在苏州参观了蔚来一代换电站换电</strong>，场面非常有趣。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI内幕文件惊人曝出：Q*疑能破解加密 AI背着人类在编程]]></title>
@@ -147,6 +124,20 @@ DUV 设备上制造 5 纳米芯片组将非常昂贵，但也是可行的。]]><
         <content type="html"><![CDATA[刘亦菲在自己的ins账号上，晒出了她在阿布扎比跟别人比赛更换F1赛车轮胎的视频。视频中，刘亦菲出现在阿布扎比F1大奖赛法拉利的P房中，她和另一位女士进行了一场换轮胎比赛。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[天才少年曹原将赴美国任教 有望成最年轻的诺贝尔物理学奖得主]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1400077.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1400077.htm"/>
+        <updated>2023-11-30T17:38:13.606Z</updated>
+        <content type="html"><![CDATA[11月27日消息，加州大学伯克利分校官网显示，<strong>曹原将于2024年7月起，正式担任该校EECS（电子工程与计算机科学系）的助理教授。</strong>资料显示，曹原，1996年出生，四川成都人。中国科学技术大学物理学理学学士，密西根大学交换生，麻省理工学院电子工程工学硕士和博士。现任哈佛大学博士后初级研究员。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羽绒服上没有这几个字 再便宜也别买]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1400335.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1400335.htm"/>
+        <updated>2023-12-03T17:38:11.196Z</updated>
+        <content type="html"><![CDATA[天越来越冷，又到了穿羽绒服的季节。但市面上的羽绒服从价格到款式，都看的人眼花缭乱。到底什么样的羽绒服才是真的保暖，怎么能买到便宜又质量好的羽绒服？今天，一起来给大家讲清～]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[从入门到放弃：报告称苹果将停止自研5G调制解调器的工作]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1400673.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1400673.htm"/>
@@ -154,5 +145,12 @@ DUV 设备上制造 5 纳米芯片组将非常昂贵，但也是可行的。]]><
         <content type="html"><![CDATA[据来自亚洲的未经证实的报道称，苹果公司在多次尝试完善自研 5G 调制解调器芯片但未成功后，将停止这一工作。据 Naver
 博客上的新闻聚合账户“yeux1122”运营商透露，与苹果 5G
 调制解调器部门相关的供应链消息人士称，该公司开发自己的调制解调器的尝试迄今为止已经失败，苹果正在结束其 5G 调制解调器业务，该项目长达数年的投资也随之泡汤。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国“双十一”，卷的是中国人]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1399913.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1399913.htm"/>
+        <updated>2023-11-27T04:55:15.000Z</updated>
+        <content type="html"><![CDATA[今年11月24日，是11月第四个星期五，被称为“黑色星期五”<span style="">（简称黑五）</span>，它与之后的第一个星期一“网络星期一”<span style="">（简称“网一”）</span>，共同构成美国最盛大的购物节。类似国内“双11”“双12”，这两天，线下、线上商家们打折促销，消费者们集中囤货。]]></content>
     </entry>
 </feed>
