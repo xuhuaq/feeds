@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-08T05:38:06.256Z</updated>
+    <updated>2023-12-08T17:38:08.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[日本大型核聚变实验装置开始运行 向实现“人造太阳”又迈进了一步 (cnbeta一周点击排行)]]></title>
@@ -19,20 +19,6 @@
         <content type="html"><![CDATA[如果你是 Windows 用户，看到文章讲 Mac 软件时别急着退。今天咱要讲的主角，可不是 App。事情是这样的。<strong>前两天我找到一个很不错的软件， Hyperduck ，它可以把 iPhone 里正在浏览的网页投到 Mac 上。</strong>软件很小众，评分人数才 7 人，开发者叫 Sindre Sorhus。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[彭博社：中国政府大举支持华为生态 使其成为自给自足的芯片大户 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401239.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401239.htm"/>
-        <updated>2023-12-02T17:37:52.957Z</updated>
-        <content type="html"><![CDATA[据彭博新闻社报道，在中国政府的积极帮助下，华为正在开发一个自给自足的芯片生态。根据彭博新闻社的研究，深圳市政府成立了一个投资基金，其唯一目的是将华为作为一个大网络的中心点，该网络包括光学专家、芯片设备开发商和化学品制造商。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASML光刻机是怎样一步步走上“绝”路的？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401161.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401161.htm"/>
-        <updated>2023-12-03T17:38:11.130Z</updated>
-        <content type="html"><![CDATA[11月30日，ASML宣布联席总裁温宁克和范登布林克明年4月份退休，让我突然想给过去的一点历史做个小注脚。看过《光刻巨人》的朋友一定对范登布林克(Martin van den Blink)记忆犹新，他也正是三十年来ASML的技术领路人。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新发现的系外行星LHS 3154b“大得不可能存在” (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1401979.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1401979.htm"/>
@@ -40,13 +26,13 @@
         <content type="html"><![CDATA[星盘中存在的物质数量在决定行星的潜在大小方面起着至关重要的作用。原行星盘需要足够数量的原始物质来促进围绕新生恒星的行星的形成，然而，最近发现的一颗系外行星似乎违背了这一既定理论，让科学家们感到困惑。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果发布 iOS 17.1.2、iPadOS 17.1.2 和 macOS Sonoma 14.1.2 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401031.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401031.htm"/>
-        <updated>2023-12-01T02:44:50.000Z</updated>
-        <content type="html"><![CDATA[苹果今天凌晨同时发布了三个操作系统的更新，将 iOS 17 和 iPadOS 17 升级到 17.1.2，macOS Sonoma 升级到
-14.1.2。虽然目前的测试周期是围绕 iOS 17.2 进行的，但苹果已经向公众发布了 iOS 17.1.2 和 iPadOS 17.1.2
-这两个较小的更新。此类版本通常侧重于操作系统的较小更新，如错误修复或安全问题。]]></content>
+        <title type="html"><![CDATA[据报道中芯国际正在采用DUV打造5纳米工艺 良品率大约30-40% 成本高昂 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402447.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402447.htm"/>
+        <updated>2023-12-07T17:38:10.845Z</updated>
+        <content type="html"><![CDATA[中芯国际的制造能力可能不会很快局限于 7 纳米工艺，因为一份新的报告指出，这家中国半导体公司正在推进其 5
+纳米技术。然而，与台积电等使用先进的超紫外光（EUV）设备的制造商相比，中芯国际被迫在其现有的 DUV
+设备上批量生产这些"尖端"晶圆，这对该公司来说很可能是一项成本高昂的冒险。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4没通过图灵测试！60年前老AI击败了ChatGPT 但人类胜率也仅有63% (cnbeta一周点击排行)]]></title>
@@ -63,6 +49,13 @@
         <content type="html"><![CDATA[今年10月，华为官方宣布，鸿蒙OS 4升级设备数量已突破1亿，成为史上升级最快的鸿蒙OS版本。据Counterpoint数据，截止今年一季度，中国市场鸿蒙OS已经拿下8%的市场份额，安卓拿下72%份额，苹果iOS份额为20%。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[超越GPT4！谷歌大杀器终于来了 最大规模Gemini震撼发布 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402613.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402613.htm"/>
+        <updated>2023-12-07T06:57:22.000Z</updated>
+        <content type="html"><![CDATA[时代变了？迄今为止规模最大，能力最强的Google大模型来了。当地时间 12 月 6 日，Google CEO 桑达尔・皮查伊官宣 Gemini 1.0 版正式上线。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美国商务部长雷蒙多：任何旨在规避对华限制的AI芯片都将在次日被禁止出口 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1401885.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1401885.htm"/>
@@ -70,34 +63,11 @@
         <content type="html"><![CDATA[美国商务部长认为，需要采取"更严格"的执行措施来阻止中国的人工智能芯片销售和半导体开发。美国政府将竭尽全力限制尖端人工智能芯片和技术进入中国。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[据报道中芯国际正在采用DUV打造5纳米工艺 良品率大约30-40% 成本高昂 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402447.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402447.htm"/>
-        <updated>2023-12-07T17:38:10.845Z</updated>
-        <content type="html"><![CDATA[中芯国际的制造能力可能不会很快局限于 7 纳米工艺，因为一份新的报告指出，这家中国半导体公司正在推进其 5
-纳米技术。然而，与台积电等使用先进的超紫外光（EUV）设备的制造商相比，中芯国际被迫在其现有的 DUV
-设备上批量生产这些"尖端"晶圆，这对该公司来说很可能是一项成本高昂的冒险。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国航天科技集团称与SpaceX相比大而不强、不优 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1402041.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1402041.htm"/>
         <updated>2023-12-05T10:02:19.000Z</updated>
         <content type="html"><![CDATA[据中国航天科技集团官方发布的公告显示，其与SpaceX相比大而不强，所以时刻告诫自己永不自满、永不自大。<strong>中国航天科技集团在评论中指出：我们相比顶级商业航天公司SpaceX还存在一定差距和不足，整体上大而不强、大而不优。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丰田技术人员参观蔚来换电站：蹲在地上疯狂拍摄 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401087.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401087.htm"/>
-        <updated>2023-12-01T00:07:36.000Z</updated>
-        <content type="html"><![CDATA[对于蔚来用户来说，换电站可能就是稀松平常的配套设施，但对于从没接触过它的人来说，换电站就是科幻照进现实的产物。近日，有<strong>丰田技术人员一行人在苏州参观了蔚来一代换电站换电</strong>，场面非常有趣。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉Cybertruck电动皮卡问世：起价60990美元 续航里程250-340英里 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401043.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401043.htm"/>
-        <updated>2023-12-01T05:07:10.000Z</updated>
-        <content type="html"><![CDATA[特斯拉 Cybertruck 对外发布四年后终于迎来了第一批客户。在位于德克萨斯州奥斯汀的公司总部举行的一场豪华活动上，首批特斯拉皮卡交付给了 10 位客户，埃隆-马斯克（Elon Musk）在活动上预言，这辆卡车将开创一个全新的、更令人兴奋的未来。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国男子王吉贤因拍摄乌军防空武器拦截俄军空袭画面被判缓刑 (cnbeta一周点击排行)]]></title>
@@ -124,22 +94,6 @@
 3nm跨越到1nm，这其中面临的技术挑战犹如天堑。因此，<strong>1nm对于业界来说也充满着诱惑。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星Galaxy S24、S24 Plus和S24 Ultra的官方渲染图和规格信息已出现 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401299.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401299.htm"/>
-        <updated>2023-12-07T17:38:10.856Z</updated>
-        <content type="html"><![CDATA[我们都知道，Galaxy S24 系列将于下月正式发布，其强大的硬件和如山的期望都被三星堆在这些设备之上。虽然不可否认三星的铁杆粉丝一定会买这款手机，但韩国科技巨头这次要证明的东西还有很多。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试显示M3 Pro版MacBook Pro对那些打算购买M1 Max老型号的用户来说相当超值 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401243.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401243.htm"/>
-        <updated>2023-12-07T17:38:10.857Z</updated>
-        <content type="html"><![CDATA[苹果公司的 M3 Pro 在该公司最新的芯片家族中占据中心位置，但由于其性能比 M2 Pro
-抢不了多少以及内存带宽甚至低于前代产品而受到多家媒体的批评。不过，在一位 YouTuber 进行了一系列测试，并将其与 M1 Max
-进行比较之后，苹果的这款"中等水平"的 3nm SoC 显现出了惊人的价值，但前提是你必须从前两代 MacBook Pro 升级。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cybertruck取消门把手难倒新用户 马斯克亲自下场示范 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1402035.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1402035.htm"/>
@@ -152,5 +106,51 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1401501.htm"/>
         <updated>2023-12-03T10:14:31.000Z</updated>
         <content type="html"><![CDATA[阿里巴巴的收盘市值遭拼多多赶超，失去中国电商巨头的第一把交椅，引发业内广泛热议。这放在三年前，几乎所有人都觉得不可能，但这却真实的发生了。在市值超越阿里之后，摩根士丹利将拼多多列为中国电子商务领域的首选，认为在消费者对价格日益敏感的背景下，该公司“处于最佳位置”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beeper成功逆向iMessage协议 为Android用户带来蓝色气泡短信 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402235.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402235.htm"/>
+        <updated>2023-12-08T17:38:08.048Z</updated>
+        <content type="html"><![CDATA[今天，将 iMessage 引入Android用户的努力又增加了一个新的竞争者。一家名为 Beeper
+的初创公司一直在开发一款多平台信息聚合器，现在它推出了一款名为 Beeper Mini 的新应用，Android 用户只需每月支付 1.99
+美元就可以收发端到端加密的 iMessage 聊天信息。Beeper
+Mini之所以成为可能，是因为该应用背后的团队成功逆向设计了iMessage协议。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时代的眼泪：16万买的威图手机现在二手只值3000元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1401951.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1401951.htm"/>
+        <updated>2023-12-08T17:38:08.050Z</updated>
+        <content type="html"><![CDATA[有网友发帖称，<strong>自己多年前花费16万元人民币购买的VERTU威图手机，虽然充电口坏了，但现在二手价格只给3000元，</strong>该网友感慨，真是“时代的眼泪”。此时也引起网友热议，“威图手机的保价能力堪比钻戒”、“这东西最有价值的是社交属性，就像小孩圈里的小天才手表，一个圈子一种社交文化。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被“丁丁手势”破防的韩国人 正在清洗游戏业界的女性员工 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1402265.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1402265.htm"/>
+        <updated>2023-12-08T17:38:08.054Z</updated>
+        <content type="html"><![CDATA[前不久，大量韩国游戏的CG中出现了不自然的“丁丁手势”。而经过网络的发酵，韩国玩家们发现，这是原画师“댓서”在制作过程中刻意夹带的私货，意在表示自己对男性的仇视态度。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 24H2现已曝光 传将于2024年命名为Windows 12后推出 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402275.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402275.htm"/>
+        <updated>2023-12-06T02:40:25.000Z</updated>
+        <content type="html"><![CDATA[据信，微软正在开发其旗舰操作系统的新版本。这个更新既可能是 Windows 11 的升级版（24H2），也可能是一个全新的操作系统，名为 Windows 12。即将推出的更新（平台版本为 24H2）的名称将取决于营销团队的决定。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国建造核反应堆的速度超过任何其他国家 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1401661.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1401661.htm"/>
+        <updated>2023-12-08T17:38:08.060Z</updated>
+        <content type="html"><![CDATA[为了使国家不再依赖进口石油和天然气，并希望淘汰肮脏的燃煤发电站，中国领导人已将资金投入风能和太阳能领域。但是，他们也在转向一种最可持续的不可再生能源。根据国际原子能机构的数据，在过去十年中，中国增加了
+37 座核反应堆，总数达到 55 座。在同一时期，拥有 93 座核反应堆的美国只增加了两座。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全面回归自研芯 华为14nm麒麟神U重出江湖 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402043.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402043.htm"/>
+        <updated>2023-12-05T10:03:05.000Z</updated>
+        <content type="html"><![CDATA[华为今天会开售一款千元新机，其就是传闻多时的畅享70。从曝光的信息看，畅享70将搭载麒麟710A芯片，而这款芯片也隐藏了一段时间后重出江湖。需要注意的是，麒麟710系包含了两款处理器，一个是麒麟710，而另外一个是麒麟710A。]]></content>
     </entry>
 </feed>
