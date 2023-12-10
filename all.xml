@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-10T05:38:14.906Z</updated>
+    <updated>2023-12-10T17:38:15.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[GitHub榜一大佬晒出可怜的存款：大家都想给他捐钱 (cnbeta一周点击排行)]]></title>
@@ -10,13 +10,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1402259.htm"/>
         <updated>2023-12-06T17:38:11.420Z</updated>
         <content type="html"><![CDATA[如果你是 Windows 用户，看到文章讲 Mac 软件时别急着退。今天咱要讲的主角，可不是 App。事情是这样的。<strong>前两天我找到一个很不错的软件， Hyperduck ，它可以把 iPhone 里正在浏览的网页投到 Mac 上。</strong>软件很小众，评分人数才 7 人，开发者叫 Sindre Sorhus。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本大型核聚变实验装置开始运行 向实现“人造太阳”又迈进了一步 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1401525.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1401525.htm"/>
-        <updated>2023-12-03T10:28:34.000Z</updated>
-        <content type="html"><![CDATA[日本和欧盟共同建设、位于日本茨城县那珂市的大型核聚变实验装置12月1日开始运行，向实现“人造太阳”又迈进了一步。日本量子科学技术研究开发机构那珂研究所1日下午举行了大型核聚变实验装置JT-60SA开始运行的纪念仪式。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新发现的系外行星LHS 3154b“大得不可能存在” (cnbeta一周点击排行)]]></title>
@@ -35,11 +28,11 @@
 设备上批量生产这些"尖端"晶圆，这对该公司来说很可能是一项成本高昂的冒险。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4没通过图灵测试！60年前老AI击败了ChatGPT 但人类胜率也仅有63% (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401555.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401555.htm"/>
-        <updated>2023-12-05T17:38:41.294Z</updated>
-        <content type="html"><![CDATA[<strong>GPT-4无法通过图灵测试！</strong>UCSD团队研究证明60年前AI在测试中打败了ChatGPT，更有趣的是人类在测试中的胜率仅有63%。长久以来，「图灵测试」成为了判断计算机是否具有「智能」的核心命题。上世纪60年代，曾由麻省理工团队开发了史上第一个基于规则的聊天机器人ELIZA，在这场测试中失败了。]]></content>
+        <title type="html"><![CDATA[王健林壮士再断腕，王思聪上演“最后的倔强”？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402945.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402945.htm"/>
+        <updated>2023-12-08T10:35:49.000Z</updated>
+        <content type="html"><![CDATA[紧急关头，王健林又一次甩卖核心资产。12月6日，万达电影发布公告称，公司实际控制人王健林拟将其合计持有的公司控股股东北京万达投资有限公司51%股权转让予上海儒意投资管理有限公司。<strong>公告显示，若上述事项最终实施完成，将会导致公司控制权变更。这意味着，转让完成后，王健林将失去万达电影的控股权。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为希望“纯血鸿蒙”对标iOS 而非安卓系统 (cnbeta一周点击排行)]]></title>
@@ -47,6 +40,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1401703.htm"/>
         <updated>2023-12-04T07:19:27.000Z</updated>
         <content type="html"><![CDATA[今年10月，华为官方宣布，鸿蒙OS 4升级设备数量已突破1亿，成为史上升级最快的鸿蒙OS版本。据Counterpoint数据，截止今年一季度，中国市场鸿蒙OS已经拿下8%的市场份额，安卓拿下72%份额，苹果iOS份额为20%。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军1992年计算机论文曝光 华为高管点赞：值得尊敬和学习 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403043.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403043.htm"/>
+        <updated>2023-12-10T17:38:14.957Z</updated>
+        <content type="html"><![CDATA[近日，<strong>一份雷军发表于1992年的《计算机病毒判定专家系统原理与设计》论文在网上曝光，引发热议。</strong>该论文详细地描述了计算机病毒判定专家系统的原理与具体设计方法，一定程度上解决了流行病毒的判定问题。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[超越GPT4！谷歌大杀器终于来了 最大规模Gemini震撼发布 (cnbeta一周点击排行)]]></title>
@@ -63,13 +63,6 @@
         <content type="html"><![CDATA[美国商务部长认为，需要采取"更严格"的执行措施来阻止中国的人工智能芯片销售和半导体开发。美国政府将竭尽全力限制尖端人工智能芯片和技术进入中国。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[王健林壮士再断腕，王思聪上演“最后的倔强”？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402945.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402945.htm"/>
-        <updated>2023-12-08T10:35:49.000Z</updated>
-        <content type="html"><![CDATA[紧急关头，王健林又一次甩卖核心资产。12月6日，万达电影发布公告称，公司实际控制人王健林拟将其合计持有的公司控股股东北京万达投资有限公司51%股权转让予上海儒意投资管理有限公司。<strong>公告显示，若上述事项最终实施完成，将会导致公司控制权变更。这意味着，转让完成后，王健林将失去万达电影的控股权。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国航天科技集团称与SpaceX相比大而不强、不优 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1402041.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1402041.htm"/>
@@ -84,20 +77,6 @@
         <content type="html"><![CDATA[据乌克兰“法庭记者”新闻网2日报道，乌克兰一地方法院于近日下达判决，中国籍男子王吉贤因在家拍摄乌军设施并在网络进行传播，触犯了泄露军事秘密罪，被判有期徒刑5年，缓刑1年。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cybertruck取消门把手难倒新用户 马斯克亲自下场示范 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402035.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402035.htm"/>
-        <updated>2023-12-05T09:57:57.000Z</updated>
-        <content type="html"><![CDATA[在新交付的Cybertruck电动皮卡上，特斯拉的备受吐槽的门把手问题可能会变得更糟。这款被大肆宣传的未来主义卡车没有任何传统的门把手，因此在上周的交付活动上，特斯拉CEO埃隆·马斯克不得不亲自下场做示范，告诉一些新车主如何进入车内。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝为什么干不过拼多多？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401501.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401501.htm"/>
-        <updated>2023-12-03T10:14:31.000Z</updated>
-        <content type="html"><![CDATA[阿里巴巴的收盘市值遭拼多多赶超，失去中国电商巨头的第一把交椅，引发业内广泛热议。这放在三年前，几乎所有人都觉得不可能，但这却真实的发生了。在市值超越阿里之后，摩根士丹利将拼多多列为中国电子商务领域的首选，认为在消费者对价格日益敏感的背景下，该公司“处于最佳位置”。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beeper成功逆向iMessage协议 为Android用户带来蓝色气泡短信 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1402235.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1402235.htm"/>
@@ -108,11 +87,18 @@
 Mini之所以成为可能，是因为该应用背后的团队成功逆向设计了iMessage协议。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[时代的眼泪：16万买的威图手机现在二手只值3000元 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401951.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401951.htm"/>
-        <updated>2023-12-08T17:38:08.050Z</updated>
-        <content type="html"><![CDATA[有网友发帖称，<strong>自己多年前花费16万元人民币购买的VERTU威图手机，虽然充电口坏了，但现在二手价格只给3000元，</strong>该网友感慨，真是“时代的眼泪”。此时也引起网友热议，“威图手机的保价能力堪比钻戒”、“这东西最有价值的是社交属性，就像小孩圈里的小天才手表，一个圈子一种社交文化。”]]></content>
+        <title type="html"><![CDATA[Cybertruck取消门把手难倒新用户 马斯克亲自下场示范 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402035.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402035.htm"/>
+        <updated>2023-12-05T09:57:57.000Z</updated>
+        <content type="html"><![CDATA[在新交付的Cybertruck电动皮卡上，特斯拉的备受吐槽的门把手问题可能会变得更糟。这款被大肆宣传的未来主义卡车没有任何传统的门把手，因此在上周的交付活动上，特斯拉CEO埃隆·马斯克不得不亲自下场做示范，告诉一些新车主如何进入车内。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麒麟9000s后9006C再次出现 外媒：华为芯片像谜一样 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403237.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403237.htm"/>
+        <updated>2023-12-10T17:38:14.975Z</updated>
+        <content type="html"><![CDATA[华为在芯片设计领域的成就显著，即使其高端芯片主要依赖台积电生产。面对台积电出货限制，华为深入参与半导体行业。中芯国际等国内厂商技术与台积电相比落后五年以上，而ASML表示，即使有设计图纸，中国厂商制造先进光刻机也颇具挑战。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全面回归自研芯 华为14nm麒麟神U重出江湖 (cnbeta一周点击排行)]]></title>
@@ -122,11 +108,11 @@ Mini之所以成为可能，是因为该应用背后的团队成功逆向设计�
         <content type="html"><![CDATA[华为今天会开售一款千元新机，其就是传闻多时的畅享70。从曝光的信息看，畅享70将搭载麒麟710A芯片，而这款芯片也隐藏了一段时间后重出江湖。需要注意的是，麒麟710系包含了两款处理器，一个是麒麟710，而另外一个是麒麟710A。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[被“丁丁手势”破防的韩国人 正在清洗游戏业界的女性员工 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1402265.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1402265.htm"/>
-        <updated>2023-12-08T17:38:08.054Z</updated>
-        <content type="html"><![CDATA[前不久，大量韩国游戏的CG中出现了不自然的“丁丁手势”。而经过网络的发酵，韩国玩家们发现，这是原画师“댓서”在制作过程中刻意夹带的私货，意在表示自己对男性的仇视态度。]]></content>
+        <title type="html"><![CDATA[时代的眼泪：16万买的威图手机现在二手只值3000元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1401951.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1401951.htm"/>
+        <updated>2023-12-08T17:38:08.050Z</updated>
+        <content type="html"><![CDATA[有网友发帖称，<strong>自己多年前花费16万元人民币购买的VERTU威图手机，虽然充电口坏了，但现在二手价格只给3000元，</strong>该网友感慨，真是“时代的眼泪”。此时也引起网友热议，“威图手机的保价能力堪比钻戒”、“这东西最有价值的是社交属性，就像小孩圈里的小天才手表，一个圈子一种社交文化。”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 24H2现已曝光 传将于2024年命名为Windows 12后推出 (cnbeta一周点击排行)]]></title>
@@ -136,12 +122,11 @@ Mini之所以成为可能，是因为该应用背后的团队成功逆向设计�
         <content type="html"><![CDATA[据信，微软正在开发其旗舰操作系统的新版本。这个更新既可能是 Windows 11 的升级版（24H2），也可能是一个全新的操作系统，名为 Windows 12。即将推出的更新（平台版本为 24H2）的名称将取决于营销团队的决定。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国建造核反应堆的速度超过任何其他国家 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401661.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401661.htm"/>
-        <updated>2023-12-08T17:38:08.060Z</updated>
-        <content type="html"><![CDATA[为了使国家不再依赖进口石油和天然气，并希望淘汰肮脏的燃煤发电站，中国领导人已将资金投入风能和太阳能领域。但是，他们也在转向一种最可持续的不可再生能源。根据国际原子能机构的数据，在过去十年中，中国增加了
-37 座核反应堆，总数达到 55 座。在同一时期，拥有 93 座核反应堆的美国只增加了两座。]]></content>
+        <title type="html"><![CDATA[被“丁丁手势”破防的韩国人 正在清洗游戏业界的女性员工 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1402265.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1402265.htm"/>
+        <updated>2023-12-08T17:38:08.054Z</updated>
+        <content type="html"><![CDATA[前不久，大量韩国游戏的CG中出现了不自然的“丁丁手势”。而经过网络的发酵，韩国玩家们发现，这是原画师“댓서”在制作过程中刻意夹带的私货，意在表示自己对男性的仇视态度。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“嫦娥之父”欧阳自远称月球已死 只剩一个躯壳 (cnbeta一周点击排行)]]></title>
@@ -149,5 +134,19 @@ Mini之所以成为可能，是因为该应用背后的团队成功逆向设计�
         <link href="https://www.cnbeta.com.tw/articles/science/1402741.htm"/>
         <updated>2023-12-09T17:38:42.060Z</updated>
         <content type="html"><![CDATA[<strong>近日中国探月工程首任首席科学家、“嫦娥之父”欧阳自远参加了“2024网易经济学家年会”，他在活动上表示，月球在20亿年前已耗尽能量，只剩一个躯壳。</strong>据悉，科学家通过嫦娥五号带回的“月壤”分析，成功证明月球在19.6亿年前仍存在岩浆活动，刷新了月球的死亡时间。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丰田全新纯电SUV亮相：造型犀利未来感十足 2024年量产 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402085.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402085.htm"/>
+        <updated>2023-12-05T11:01:50.000Z</updated>
+        <content type="html"><![CDATA[<strong>丰田近日发布了一款全新的纯电车型，<strong>该车定位为小型纯电SUV，按照丰田的命名习惯，该车的名字或将为bZ2X。</strong>尺寸方面，该车的长宽高分别是4300/1820/1620MM。</strong>从官方发布的图片可以看到，新车的外观采用了全新的设计，车头来看，新车在机盖上方添加了多根筋线来增强车辆的力量感，贯穿式日行车灯也采用了全新的设计，有效的拉伸了车头的视觉宽度。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全新丰田Mirai氢能源车即将发布 1斤气能跑75公里 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1401907.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1401907.htm"/>
+        <updated>2023-12-10T17:38:14.987Z</updated>
+        <content type="html"><![CDATA[据媒体报道，<strong>丰田汽车近日发布了最新的氢燃料电池汽车—Mirai。</strong>该车目前已采用进口的方式在国内进行销售，官方指导价格为74.8万元。<strong>而此次发布的车型为中期改款车型，主要针对配置进行了调整。</strong>]]></content>
     </entry>
 </feed>
