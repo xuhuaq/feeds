@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-11T05:38:02.776Z</updated>
+    <updated>2023-12-11T17:38:16.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[GitHub榜一大佬晒出可怜的存款：大家都想给他捐钱 (cnbeta一周点击排行)]]></title>
@@ -28,18 +28,11 @@
 设备上批量生产这些"尖端"晶圆，这对该公司来说很可能是一项成本高昂的冒险。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[王健林壮士再断腕，王思聪上演“最后的倔强”？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402945.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402945.htm"/>
-        <updated>2023-12-08T10:35:49.000Z</updated>
-        <content type="html"><![CDATA[紧急关头，王健林又一次甩卖核心资产。12月6日，万达电影发布公告称，公司实际控制人王健林拟将其合计持有的公司控股股东北京万达投资有限公司51%股权转让予上海儒意投资管理有限公司。<strong>公告显示，若上述事项最终实施完成，将会导致公司控制权变更。这意味着，转让完成后，王健林将失去万达电影的控股权。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为希望“纯血鸿蒙”对标iOS 而非安卓系统 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401703.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401703.htm"/>
-        <updated>2023-12-04T07:19:27.000Z</updated>
-        <content type="html"><![CDATA[今年10月，华为官方宣布，鸿蒙OS 4升级设备数量已突破1亿，成为史上升级最快的鸿蒙OS版本。据Counterpoint数据，截止今年一季度，中国市场鸿蒙OS已经拿下8%的市场份额，安卓拿下72%份额，苹果iOS份额为20%。]]></content>
+        <title type="html"><![CDATA[麒麟9000s后9006C再次出现 外媒：华为芯片像谜一样 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403237.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403237.htm"/>
+        <updated>2023-12-10T17:38:14.975Z</updated>
+        <content type="html"><![CDATA[华为在芯片设计领域的成就显著，即使其高端芯片主要依赖台积电生产。面对台积电出货限制，华为深入参与半导体行业。中芯国际等国内厂商技术与台积电相比落后五年以上，而ASML表示，即使有设计图纸，中国厂商制造先进光刻机也颇具挑战。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[雷军1992年计算机论文曝光 华为高管点赞：值得尊敬和学习 (cnbeta一周点击排行)]]></title>
@@ -49,6 +42,13 @@
         <content type="html"><![CDATA[近日，<strong>一份雷军发表于1992年的《计算机病毒判定专家系统原理与设计》论文在网上曝光，引发热议。</strong>该论文详细地描述了计算机病毒判定专家系统的原理与具体设计方法，一定程度上解决了流行病毒的判定问题。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[王健林壮士再断腕，王思聪上演“最后的倔强”？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402945.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402945.htm"/>
+        <updated>2023-12-08T10:35:49.000Z</updated>
+        <content type="html"><![CDATA[紧急关头，王健林又一次甩卖核心资产。12月6日，万达电影发布公告称，公司实际控制人王健林拟将其合计持有的公司控股股东北京万达投资有限公司51%股权转让予上海儒意投资管理有限公司。<strong>公告显示，若上述事项最终实施完成，将会导致公司控制权变更。这意味着，转让完成后，王健林将失去万达电影的控股权。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[超越GPT4！谷歌大杀器终于来了 最大规模Gemini震撼发布 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1402613.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1402613.htm"/>
@@ -56,25 +56,11 @@
         <content type="html"><![CDATA[时代变了？迄今为止规模最大，能力最强的Google大模型来了。当地时间 12 月 6 日，Google CEO 桑达尔・皮查伊官宣 Gemini 1.0 版正式上线。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国商务部长雷蒙多：任何旨在规避对华限制的AI芯片都将在次日被禁止出口 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401885.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401885.htm"/>
-        <updated>2023-12-05T17:38:41.303Z</updated>
-        <content type="html"><![CDATA[美国商务部长认为，需要采取"更严格"的执行措施来阻止中国的人工智能芯片销售和半导体开发。美国政府将竭尽全力限制尖端人工智能芯片和技术进入中国。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国航天科技集团称与SpaceX相比大而不强、不优 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1402041.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1402041.htm"/>
         <updated>2023-12-05T10:02:19.000Z</updated>
         <content type="html"><![CDATA[据中国航天科技集团官方发布的公告显示，其与SpaceX相比大而不强，所以时刻告诫自己永不自满、永不自大。<strong>中国航天科技集团在评论中指出：我们相比顶级商业航天公司SpaceX还存在一定差距和不足，整体上大而不强、大而不优。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国男子王吉贤因拍摄乌军防空武器拦截俄军空袭画面被判缓刑 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401669.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401669.htm"/>
-        <updated>2023-12-04T01:18:49.000Z</updated>
-        <content type="html"><![CDATA[据乌克兰“法庭记者”新闻网2日报道，乌克兰一地方法院于近日下达判决，中国籍男子王吉贤因在家拍摄乌军设施并在网络进行传播，触犯了泄露军事秘密罪，被判有期徒刑5年，缓刑1年。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Beeper成功逆向iMessage协议 为Android用户带来蓝色气泡短信 (cnbeta一周点击排行)]]></title>
@@ -87,6 +73,15 @@
 Mini之所以成为可能，是因为该应用背后的团队成功逆向设计了iMessage协议。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Galaxy S24 Ultra钛合金机身与S23 Ultra真机对比 纹理差异明显 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402759.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402759.htm"/>
+        <updated>2023-12-11T17:38:16.274Z</updated>
+        <content type="html"><![CDATA[三星计划于 2024 年 1 月举行首次 Galaxy Unpacked 活动，而这次活动的主角显然是 Galaxy S24
+Ultra。据说，这款旗舰机也是该公司首次从铝合金和玻璃机身转向钛合金机身。现在，一位爆料者将 Galaxy S23 Ultra
+和它的后续机型进行了并排对比，结果显示虽然两款手机有大量相似之处，但过渡到钛合金结构意味着质感等方面的改进。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cybertruck取消门把手难倒新用户 马斯克亲自下场示范 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1402035.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1402035.htm"/>
@@ -94,25 +89,11 @@ Mini之所以成为可能，是因为该应用背后的团队成功逆向设计�
         <content type="html"><![CDATA[在新交付的Cybertruck电动皮卡上，特斯拉的备受吐槽的门把手问题可能会变得更糟。这款被大肆宣传的未来主义卡车没有任何传统的门把手，因此在上周的交付活动上，特斯拉CEO埃隆·马斯克不得不亲自下场做示范，告诉一些新车主如何进入车内。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[麒麟9000s后9006C再次出现 外媒：华为芯片像谜一样 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1403237.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1403237.htm"/>
-        <updated>2023-12-10T17:38:14.975Z</updated>
-        <content type="html"><![CDATA[华为在芯片设计领域的成就显著，即使其高端芯片主要依赖台积电生产。面对台积电出货限制，华为深入参与半导体行业。中芯国际等国内厂商技术与台积电相比落后五年以上，而ASML表示，即使有设计图纸，中国厂商制造先进光刻机也颇具挑战。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[全面回归自研芯 华为14nm麒麟神U重出江湖 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1402043.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1402043.htm"/>
         <updated>2023-12-05T10:03:05.000Z</updated>
         <content type="html"><![CDATA[华为今天会开售一款千元新机，其就是传闻多时的畅享70。从曝光的信息看，畅享70将搭载麒麟710A芯片，而这款芯片也隐藏了一段时间后重出江湖。需要注意的是，麒麟710系包含了两款处理器，一个是麒麟710，而另外一个是麒麟710A。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时代的眼泪：16万买的威图手机现在二手只值3000元 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401951.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401951.htm"/>
-        <updated>2023-12-08T17:38:08.050Z</updated>
-        <content type="html"><![CDATA[有网友发帖称，<strong>自己多年前花费16万元人民币购买的VERTU威图手机，虽然充电口坏了，但现在二手价格只给3000元，</strong>该网友感慨，真是“时代的眼泪”。此时也引起网友热议，“威图手机的保价能力堪比钻戒”、“这东西最有价值的是社交属性，就像小孩圈里的小天才手表，一个圈子一种社交文化。”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 24H2现已曝光 传将于2024年命名为Windows 12后推出 (cnbeta一周点击排行)]]></title>
@@ -129,13 +110,6 @@ Mini之所以成为可能，是因为该应用背后的团队成功逆向设计�
         <content type="html"><![CDATA[前不久，大量韩国游戏的CG中出现了不自然的“丁丁手势”。而经过网络的发酵，韩国玩家们发现，这是原画师“댓서”在制作过程中刻意夹带的私货，意在表示自己对男性的仇视态度。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“嫦娥之父”欧阳自远称月球已死 只剩一个躯壳 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1402741.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1402741.htm"/>
-        <updated>2023-12-09T17:38:42.060Z</updated>
-        <content type="html"><![CDATA[<strong>近日中国探月工程首任首席科学家、“嫦娥之父”欧阳自远参加了“2024网易经济学家年会”，他在活动上表示，月球在20亿年前已耗尽能量，只剩一个躯壳。</strong>据悉，科学家通过嫦娥五号带回的“月壤”分析，成功证明月球在19.6亿年前仍存在岩浆活动，刷新了月球的死亡时间。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[丰田全新纯电SUV亮相：造型犀利未来感十足 2024年量产 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1402085.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1402085.htm"/>
@@ -143,10 +117,46 @@ Mini之所以成为可能，是因为该应用背后的团队成功逆向设计�
         <content type="html"><![CDATA[<strong>丰田近日发布了一款全新的纯电车型，<strong>该车定位为小型纯电SUV，按照丰田的命名习惯，该车的名字或将为bZ2X。</strong>尺寸方面，该车的长宽高分别是4300/1820/1620MM。</strong>从官方发布的图片可以看到，新车的外观采用了全新的设计，车头来看，新车在机盖上方添加了多根筋线来增强车辆的力量感，贯穿式日行车灯也采用了全新的设计，有效的拉伸了车头的视觉宽度。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全新丰田Mirai氢能源车即将发布 1斤气能跑75公里 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1401907.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1401907.htm"/>
-        <updated>2023-12-10T17:38:14.987Z</updated>
-        <content type="html"><![CDATA[据媒体报道，<strong>丰田汽车近日发布了最新的氢燃料电池汽车—Mirai。</strong>该车目前已采用进口的方式在国内进行销售，官方指导价格为74.8万元。<strong>而此次发布的车型为中期改款车型，主要针对配置进行了调整。</strong>]]></content>
+        <title type="html"><![CDATA[“嫦娥之父”欧阳自远称月球已死 只剩一个躯壳 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1402741.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1402741.htm"/>
+        <updated>2023-12-09T17:38:42.060Z</updated>
+        <content type="html"><![CDATA[<strong>近日中国探月工程首任首席科学家、“嫦娥之父”欧阳自远参加了“2024网易经济学家年会”，他在活动上表示，月球在20亿年前已耗尽能量，只剩一个躯壳。</strong>据悉，科学家通过嫦娥五号带回的“月壤”分析，成功证明月球在19.6亿年前仍存在岩浆活动，刷新了月球的死亡时间。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[得益于"Gemini"模型 Google"Bard"聊天机器人正变得越来越好 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402549.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402549.htm"/>
+        <updated>2023-12-11T17:38:16.287Z</updated>
+        <content type="html"><![CDATA[OpenAI 的 ChatGPT 已成为一种全球现象，也是有史以来增长最快的消费产品之一，而Google的 Bard
+却显得有些后知后觉。该聊天机器人不断增加新功能，包括访问您在其他Google产品中的数据，但其回答和信息似乎很少能与 ChatGPT 和其他使用
+GPT-3 和 GPT-4 的机器人相比。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果重新设计的Magic Keyboard将使iPad Pro看起来更像笔记本电脑 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402793.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402793.htm"/>
+        <updated>2023-12-11T17:38:16.291Z</updated>
+        <content type="html"><![CDATA[苹果公司在 2017 年将 iPad 作为电脑的替代品进行营销，并不断推出支持其理念的功能。不过，现阶段的 iPad Pro
+还远不是一台电脑，iPadOS 就是原因之一。此前该公司为iPad Pro推出了一款Magic
+Keyboard，可以将平板电脑转化为类似笔记本电脑的设备，配备键盘和触控板。现在，该公司正在开发重新设计的 Magic Keyboard，让
+OLED iPad Pro 看起来更像笔记本电脑。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能模型Gemini Nano将登陆Pixel 8 Pro 并最终登陆Android系统 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402553.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402553.htm"/>
+        <updated>2023-12-11T17:38:16.294Z</updated>
+        <content type="html"><![CDATA[双子座（Gemini）可能是Google迄今为止开发的最大、最强大的大型语言模型（LLM），但它更适合在数据中心而非手机上运行。不过，通过
+Gemini Nano，Google正试图将两者区分开来：Google为其旗舰 LLM
+打造了一个缩小版，可以在本地和离线状态下在设备上运行。目前为止，Pixel 8 Pro 是唯一一款兼容Gemini Nano
+的手机，但Google认为这种新模式是未来Android系统的核心部分。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[车主称差点被Model Y座椅“单杀” 特斯拉回应：是脚垫压坏了线束 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402713.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402713.htm"/>
+        <updated>2023-12-11T17:38:16.295Z</updated>
+        <content type="html"><![CDATA[近日有特斯拉Model Y车主遭遇了让其非常无语的故障，直呼<strong>“差点被座椅单杀、人差点没了”</strong>。据讲述，下午准备出门，上车调座椅时，座椅和靠背不受控制一直向前，头枕打碎了化妆镜，好在本人及时跳车免于被夹，锁车断电之后，电机持续异响，方向锁死，座椅调节锁死，无法挂挡，屏幕档位显示消失。]]></content>
     </entry>
 </feed>
