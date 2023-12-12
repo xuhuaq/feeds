@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-12-12T05:38:28.049Z</updated>
+    <updated>2023-12-12T17:38:16.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[GitHub榜一大佬晒出可怜的存款：大家都想给他捐钱]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402259.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402259.htm"/>
-        <updated>2023-12-06T17:38:11.420Z</updated>
-        <content type="html"><![CDATA[如果你是 Windows 用户，看到文章讲 Mac 软件时别急着退。今天咱要讲的主角，可不是 App。事情是这样的。<strong>前两天我找到一个很不错的软件， Hyperduck ，它可以把 iPhone 里正在浏览的网页投到 Mac 上。</strong>软件很小众，评分人数才 7 人，开发者叫 Sindre Sorhus。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新发现的系外行星LHS 3154b“大得不可能存在”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1401979.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1401979.htm"/>
-        <updated>2023-12-05T03:14:28.000Z</updated>
-        <content type="html"><![CDATA[星盘中存在的物质数量在决定行星的潜在大小方面起着至关重要的作用。原行星盘需要足够数量的原始物质来促进围绕新生恒星的行星的形成，然而，最近发现的一颗系外行星似乎违背了这一既定理论，让科学家们感到困惑。]]></content>
+        <title type="html"><![CDATA[麒麟9000s后9006C再次出现 外媒：华为芯片像谜一样]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403237.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403237.htm"/>
+        <updated>2023-12-10T17:38:14.975Z</updated>
+        <content type="html"><![CDATA[华为在芯片设计领域的成就显著，即使其高端芯片主要依赖台积电生产。面对台积电出货限制，华为深入参与半导体行业。中芯国际等国内厂商技术与台积电相比落后五年以上，而ASML表示，即使有设计图纸，中国厂商制造先进光刻机也颇具挑战。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[据报道中芯国际正在采用DUV打造5纳米工艺 良品率大约30-40% 成本高昂]]></title>
@@ -27,13 +20,6 @@
         <content type="html"><![CDATA[中芯国际的制造能力可能不会很快局限于 7 纳米工艺，因为一份新的报告指出，这家中国半导体公司正在推进其 5
 纳米技术。然而，与台积电等使用先进的超紫外光（EUV）设备的制造商相比，中芯国际被迫在其现有的 DUV
 设备上批量生产这些"尖端"晶圆，这对该公司来说很可能是一项成本高昂的冒险。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麒麟9000s后9006C再次出现 外媒：华为芯片像谜一样]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1403237.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1403237.htm"/>
-        <updated>2023-12-10T17:38:14.975Z</updated>
-        <content type="html"><![CDATA[华为在芯片设计领域的成就显著，即使其高端芯片主要依赖台积电生产。面对台积电出货限制，华为深入参与半导体行业。中芯国际等国内厂商技术与台积电相比落后五年以上，而ASML表示，即使有设计图纸，中国厂商制造先进光刻机也颇具挑战。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[雷军1992年计算机论文曝光 华为高管点赞：值得尊敬和学习]]></title>
@@ -57,23 +43,6 @@
         <content type="html"><![CDATA[时代变了？迄今为止规模最大，能力最强的Google大模型来了。当地时间 12 月 6 日，Google CEO 桑达尔・皮查伊官宣 Gemini 1.0 版正式上线。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国航天科技集团称与SpaceX相比大而不强、不优]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1402041.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1402041.htm"/>
-        <updated>2023-12-05T10:02:19.000Z</updated>
-        <content type="html"><![CDATA[据中国航天科技集团官方发布的公告显示，其与SpaceX相比大而不强，所以时刻告诫自己永不自满、永不自大。<strong>中国航天科技集团在评论中指出：我们相比顶级商业航天公司SpaceX还存在一定差距和不足，整体上大而不强、大而不优。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beeper成功逆向iMessage协议 为Android用户带来蓝色气泡短信]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402235.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402235.htm"/>
-        <updated>2023-12-08T17:38:08.048Z</updated>
-        <content type="html"><![CDATA[今天，将 iMessage 引入Android用户的努力又增加了一个新的竞争者。一家名为 Beeper
-的初创公司一直在开发一款多平台信息聚合器，现在它推出了一款名为 Beeper Mini 的新应用，Android 用户只需每月支付 1.99
-美元就可以收发端到端加密的 iMessage 聊天信息。Beeper
-Mini之所以成为可能，是因为该应用背后的团队成功逆向设计了iMessage协议。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Galaxy S24 Ultra钛合金机身与S23 Ultra真机对比 纹理差异明显]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1402759.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1402759.htm"/>
@@ -83,18 +52,27 @@ Ultra。据说，这款旗舰机也是该公司首次从铝合金和玻璃机身
 和它的后续机型进行了并排对比，结果显示虽然两款手机有大量相似之处，但过渡到钛合金结构意味着质感等方面的改进。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cybertruck取消门把手难倒新用户 马斯克亲自下场示范]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402035.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402035.htm"/>
-        <updated>2023-12-05T09:57:57.000Z</updated>
-        <content type="html"><![CDATA[在新交付的Cybertruck电动皮卡上，特斯拉的备受吐槽的门把手问题可能会变得更糟。这款被大肆宣传的未来主义卡车没有任何传统的门把手，因此在上周的交付活动上，特斯拉CEO埃隆·马斯克不得不亲自下场做示范，告诉一些新车主如何进入车内。]]></content>
+        <title type="html"><![CDATA[iOS 17.2发布 新增“手记”应用和Apple Music的重大变化]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403685.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403685.htm"/>
+        <updated>2023-12-12T02:45:31.000Z</updated>
+        <content type="html"><![CDATA[苹果公司向公众发布了 iOS 17.2，此次更新增加了期待已久的 Journal “手记”应用程序以及 Apple Music 上的改进。iOS 17.2 是自 10 月 25 日推出 iOS 17.1 以来 iOS 17 的第二个主要更新，它已经完成了测试，现在公众可以将其安装到自己的 iPhone 上。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全面回归自研芯 华为14nm麒麟神U重出江湖]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402043.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402043.htm"/>
-        <updated>2023-12-05T10:03:05.000Z</updated>
-        <content type="html"><![CDATA[华为今天会开售一款千元新机，其就是传闻多时的畅享70。从曝光的信息看，畅享70将搭载麒麟710A芯片，而这款芯片也隐藏了一段时间后重出江湖。需要注意的是，麒麟710系包含了两款处理器，一个是麒麟710，而另外一个是麒麟710A。]]></content>
+        <title type="html"><![CDATA[经过改装的M3 Max MacBook Pro 现在拥有8倍于原始配置的存储空间]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403369.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403369.htm"/>
+        <updated>2023-12-12T17:38:16.221Z</updated>
+        <content type="html"><![CDATA[苹果公司几乎不可能允许用户在购买 Mac
+后升级其存储和内存，因此无论当时购买的是什么配置，都需要在剩余的时间里使用。不过，也有其他方法可以增加这些机器的现有存储空间，一位改装者展示了他是如何将最新款
+M3 Max MacBook Pro 的闪存升级到原来配置的八倍的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本尼康宣布全新ArF浸没式光刻机：精度小于2.1纳米、价格便宜30％]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403381.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403381.htm"/>
+        <updated>2023-12-12T17:38:16.224Z</updated>
+        <content type="html"><![CDATA[尼康宣布，将于2024年1月正式推出ArF 193纳米浸没式光刻机“NSR-S636E”，生产效率、套刻精度都会有进一步提升。据悉，<strong>尼康这款曝光机采用增强型iAS设计，可用于高精度测量、圆翘曲和畸变校正，重叠精度(MMO)更高，号称不超过2.1纳米。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 24H2现已曝光 传将于2024年命名为Windows 12后推出]]></title>
@@ -104,25 +82,14 @@ Ultra。据说，这款旗舰机也是该公司首次从铝合金和玻璃机身
         <content type="html"><![CDATA[据信，微软正在开发其旗舰操作系统的新版本。这个更新既可能是 Windows 11 的升级版（24H2），也可能是一个全新的操作系统，名为 Windows 12。即将推出的更新（平台版本为 24H2）的名称将取决于营销团队的决定。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[被“丁丁手势”破防的韩国人 正在清洗游戏业界的女性员工]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1402265.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1402265.htm"/>
-        <updated>2023-12-08T17:38:08.054Z</updated>
-        <content type="html"><![CDATA[前不久，大量韩国游戏的CG中出现了不自然的“丁丁手势”。而经过网络的发酵，韩国玩家们发现，这是原画师“댓서”在制作过程中刻意夹带的私货，意在表示自己对男性的仇视态度。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丰田全新纯电SUV亮相：造型犀利未来感十足 2024年量产]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402085.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402085.htm"/>
-        <updated>2023-12-05T11:01:50.000Z</updated>
-        <content type="html"><![CDATA[<strong>丰田近日发布了一款全新的纯电车型，<strong>该车定位为小型纯电SUV，按照丰田的命名习惯，该车的名字或将为bZ2X。</strong>尺寸方面，该车的长宽高分别是4300/1820/1620MM。</strong>从官方发布的图片可以看到，新车的外观采用了全新的设计，车头来看，新车在机盖上方添加了多根筋线来增强车辆的力量感，贯穿式日行车灯也采用了全新的设计，有效的拉伸了车头的视觉宽度。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“嫦娥之父”欧阳自远称月球已死 只剩一个躯壳]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1402741.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1402741.htm"/>
-        <updated>2023-12-09T17:38:42.060Z</updated>
-        <content type="html"><![CDATA[<strong>近日中国探月工程首任首席科学家、“嫦娥之父”欧阳自远参加了“2024网易经济学家年会”，他在活动上表示，月球在20亿年前已耗尽能量，只剩一个躯壳。</strong>据悉，科学家通过嫦娥五号带回的“月壤”分析，成功证明月球在19.6亿年前仍存在岩浆活动，刷新了月球的死亡时间。]]></content>
+        <title type="html"><![CDATA[苹果重新设计的Magic Keyboard将使iPad Pro看起来更像笔记本电脑]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402793.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402793.htm"/>
+        <updated>2023-12-11T17:38:16.291Z</updated>
+        <content type="html"><![CDATA[苹果公司在 2017 年将 iPad 作为电脑的替代品进行营销，并不断推出支持其理念的功能。不过，现阶段的 iPad Pro
+还远不是一台电脑，iPadOS 就是原因之一。此前该公司为iPad Pro推出了一款Magic
+Keyboard，可以将平板电脑转化为类似笔记本电脑的设备，配备键盘和触控板。现在，该公司正在开发重新设计的 Magic Keyboard，让
+OLED iPad Pro 看起来更像笔记本电脑。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[得益于"Gemini"模型 Google"Bard"聊天机器人正变得越来越好]]></title>
@@ -134,14 +101,18 @@ Ultra。据说，这款旗舰机也是该公司首次从铝合金和玻璃机身
 GPT-3 和 GPT-4 的机器人相比。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果重新设计的Magic Keyboard将使iPad Pro看起来更像笔记本电脑]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402793.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402793.htm"/>
-        <updated>2023-12-11T17:38:16.291Z</updated>
-        <content type="html"><![CDATA[苹果公司在 2017 年将 iPad 作为电脑的替代品进行营销，并不断推出支持其理念的功能。不过，现阶段的 iPad Pro
-还远不是一台电脑，iPadOS 就是原因之一。此前该公司为iPad Pro推出了一款Magic
-Keyboard，可以将平板电脑转化为类似笔记本电脑的设备，配备键盘和触控板。现在，该公司正在开发重新设计的 Magic Keyboard，让
-OLED iPad Pro 看起来更像笔记本电脑。]]></content>
+        <title type="html"><![CDATA[马云之后，刘强东内网发声：必须改变，否则没有出路]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403459.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403459.htm"/>
+        <updated>2023-12-11T10:01:12.000Z</updated>
+        <content type="html"><![CDATA[继马云在内网发言“阿里会变”后，刘强东也发声“必须改变”。12月9日晚22点，京东创始人、董事局主席刘强东在公司内网回复员工评论时表示，必须改变，否则没有出路。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“嫦娥之父”欧阳自远称月球已死 只剩一个躯壳]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1402741.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1402741.htm"/>
+        <updated>2023-12-09T17:38:42.060Z</updated>
+        <content type="html"><![CDATA[<strong>近日中国探月工程首任首席科学家、“嫦娥之父”欧阳自远参加了“2024网易经济学家年会”，他在活动上表示，月球在20亿年前已耗尽能量，只剩一个躯壳。</strong>据悉，科学家通过嫦娥五号带回的“月壤”分析，成功证明月球在19.6亿年前仍存在岩浆活动，刷新了月球的死亡时间。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[人工智能模型Gemini Nano将登陆Pixel 8 Pro 并最终登陆Android系统]]></title>
@@ -159,5 +130,33 @@ Gemini Nano，Google正试图将两者区分开来：Google为其旗舰 LLM
         <link href="https://www.cnbeta.com.tw/articles/tech/1402713.htm"/>
         <updated>2023-12-11T17:38:16.295Z</updated>
         <content type="html"><![CDATA[近日有特斯拉Model Y车主遭遇了让其非常无语的故障，直呼<strong>“差点被座椅单杀、人差点没了”</strong>。据讲述，下午准备出门，上车调座椅时，座椅和靠背不受控制一直向前，头枕打碎了化妆镜，好在本人及时跳车免于被夹，锁车断电之后，电机持续异响，方向锁死，座椅调节锁死，无法挂挡，屏幕档位显示消失。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[付费解锁“国产纯血”商用笔记本电脑 华为悄然上架麒麟9006C新品]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402517.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402517.htm"/>
+        <updated>2023-12-12T17:38:16.241Z</updated>
+        <content type="html"><![CDATA[日前，京东平台悄然上线了一款华为商用笔记本电脑擎云L540，该款电脑并不在华为擎云官网上售卖，也没有对应的介绍页面。根据京东商品详情页介绍，该款笔记本可选装银河麒麟桌面操作系统或统信桌面操作系统，并采用麒麟9006C芯片，该芯片采用八核心架构，主频可达3.13GHz。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 12发布时间曝光 系统需求大幅提高 老电脑恐难更新]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403295.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403295.htm"/>
+        <updated>2023-12-10T10:25:12.000Z</updated>
+        <content type="html"><![CDATA[多方消息显示，微软正在准备发布“突破性”的以人工智能为中心的<strong>新一代Windows版本，内部代号“Hudson Valley”（哈德逊河谷）。</strong>WC最新报道称，<strong>“Hudson Valley”将于2024年下半年推出。</strong>微软已经在Windows Insider Canary 频道中测试下一版本Windows的早期代码和平台工作。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国特供版RTX 4090D全面缩水：超频都砍了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1402827.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1402827.htm"/>
+        <updated>2023-12-12T17:38:16.248Z</updated>
+        <content type="html"><![CDATA[虽然受到美政府的严格约束，甚至被直接点名，但是NVIDIA仍将坚持在中国市场上推出特供版本的RTX 4090D，<strong>具体时间很可能会在2024年1月底。</strong>RTX 4090D仍将基于AD102 GPU核心，但是编号从AD102-300变为<strong>AD102-250</strong>，对应着规格的降级。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司回应封杀Beeper Mini事件："我们已采取措施保护我们的用户”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403303.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403303.htm"/>
+        <updated>2023-12-10T10:32:11.000Z</updated>
+        <content type="html"><![CDATA[在 Beeper 团队自豪地宣布用户可以直接从他们的 Android 设备发送蓝色气泡 iMessage 而无需任何奇怪的中继服务器之后几天，以及在苹果公司明确采取措施关闭该功能之后大约 24 小时，苹果公司分享了它对这个问题的看法。]]></content>
     </entry>
 </feed>
