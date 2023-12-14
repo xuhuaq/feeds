@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-14T05:38:15.276Z</updated>
+    <updated>2023-12-14T17:38:10.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[麒麟9000s后9006C再次出现 外媒：华为芯片像谜一样 (cnbeta一周点击排行)]]></title>
@@ -26,27 +26,11 @@
         <content type="html"><![CDATA[紧急关头，王健林又一次甩卖核心资产。12月6日，万达电影发布公告称，公司实际控制人王健林拟将其合计持有的公司控股股东北京万达投资有限公司51%股权转让予上海儒意投资管理有限公司。<strong>公告显示，若上述事项最终实施完成，将会导致公司控制权变更。这意味着，转让完成后，王健林将失去万达电影的控股权。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超越GPT4！谷歌大杀器终于来了 最大规模Gemini震撼发布 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402613.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402613.htm"/>
-        <updated>2023-12-07T06:57:22.000Z</updated>
-        <content type="html"><![CDATA[时代变了？迄今为止规模最大，能力最强的Google大模型来了。当地时间 12 月 6 日，Google CEO 桑达尔・皮查伊官宣 Gemini 1.0 版正式上线。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iOS 17.2发布 新增“手记”应用和Apple Music的重大变化 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1403685.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1403685.htm"/>
         <updated>2023-12-12T02:45:31.000Z</updated>
         <content type="html"><![CDATA[苹果公司向公众发布了 iOS 17.2，此次更新增加了期待已久的 Journal “手记”应用程序以及 Apple Music 上的改进。iOS 17.2 是自 10 月 25 日推出 iOS 17.1 以来 iOS 17 的第二个主要更新，它已经完成了测试，现在公众可以将其安装到自己的 iPhone 上。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy S24 Ultra钛合金机身与S23 Ultra真机对比 纹理差异明显 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402759.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402759.htm"/>
-        <updated>2023-12-11T17:38:16.274Z</updated>
-        <content type="html"><![CDATA[三星计划于 2024 年 1 月举行首次 Galaxy Unpacked 活动，而这次活动的主角显然是 Galaxy S24
-Ultra。据说，这款旗舰机也是该公司首次从铝合金和玻璃机身转向钛合金机身。现在，一位爆料者将 Galaxy S23 Ultra
-和它的后续机型进行了并排对比，结果显示虽然两款手机有大量相似之处，但过渡到钛合金结构意味着质感等方面的改进。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[经过改装的M3 Max MacBook Pro 现在拥有8倍于原始配置的存储空间 (cnbeta一周点击排行)]]></title>
@@ -65,6 +49,13 @@ M3 Max MacBook Pro 的闪存升级到原来配置的八倍的。]]></content>
         <content type="html"><![CDATA[尼康宣布，将于2024年1月正式推出ArF 193纳米浸没式光刻机“NSR-S636E”，生产效率、套刻精度都会有进一步提升。据悉，<strong>尼康这款曝光机采用增强型iAS设计，可用于高精度测量、圆翘曲和畸变校正，重叠精度(MMO)更高，号称不超过2.1纳米。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wi-Fi 7将于2024年初全面登场 速度相比Wi-Fi 6提升5倍 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403851.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403851.htm"/>
+        <updated>2023-12-13T17:38:20.181Z</updated>
+        <content type="html"><![CDATA[一段时间以来，硬件供应商一直在根据规格草案提供支持 Wi-Fi 7 的设备。该标准的最终发布时间预计为 2024 年，现在有了更明确的时间表，预计英特尔等更多制造商将很快推出利用 Wi-Fi 7 增强带宽和稳定性的产品。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[马云之后，刘强东内网发声：必须改变，否则没有出路 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1403459.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1403459.htm"/>
@@ -72,28 +63,18 @@ M3 Max MacBook Pro 的闪存升级到原来配置的八倍的。]]></content>
         <content type="html"><![CDATA[继马云在内网发言“阿里会变”后，刘强东也发声“必须改变”。12月9日晚22点，京东创始人、董事局主席刘强东在公司内网回复员工评论时表示，必须改变，否则没有出路。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果重新设计的Magic Keyboard将使iPad Pro看起来更像笔记本电脑 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402793.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402793.htm"/>
-        <updated>2023-12-11T17:38:16.291Z</updated>
-        <content type="html"><![CDATA[苹果公司在 2017 年将 iPad 作为电脑的替代品进行营销，并不断推出支持其理念的功能。不过，现阶段的 iPad Pro
-还远不是一台电脑，iPadOS 就是原因之一。此前该公司为iPad Pro推出了一款Magic
-Keyboard，可以将平板电脑转化为类似笔记本电脑的设备，配备键盘和触控板。现在，该公司正在开发重新设计的 Magic Keyboard，让
-OLED iPad Pro 看起来更像笔记本电脑。]]></content>
+        <title type="html"><![CDATA[蟑螂油出油率堪比肥猪 营养丰富可做食用油？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1403663.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1403663.htm"/>
+        <updated>2023-12-13T17:38:20.187Z</updated>
+        <content type="html"><![CDATA[你听说过蟑螂油吗？据说最初研究这个是为了用来吃的！自从发现蟑螂可以帮助人类清除厨余垃圾之后，人们对蟑螂的态度似乎有了改观，对蟑螂的研究也越来越多，蟑螂的价值利用也被开发到了极致：它活着的时候，帮人类吃垃圾，供人类研究；死了，把它磨成粉，可以提取蟑螂提取液，用来制作药物，鼎鼎有名的康复新液就是美洲大蠊提取液制成的，还可以用来制作其他动物的饲料。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“嫦娥之父”欧阳自远称月球已死 只剩一个躯壳 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1402741.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1402741.htm"/>
-        <updated>2023-12-09T17:38:42.060Z</updated>
-        <content type="html"><![CDATA[<strong>近日中国探月工程首任首席科学家、“嫦娥之父”欧阳自远参加了“2024网易经济学家年会”，他在活动上表示，月球在20亿年前已耗尽能量，只剩一个躯壳。</strong>据悉，科学家通过嫦娥五号带回的“月壤”分析，成功证明月球在19.6亿年前仍存在岩浆活动，刷新了月球的死亡时间。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[车主称差点被Model Y座椅“单杀” 特斯拉回应：是脚垫压坏了线束 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402713.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402713.htm"/>
-        <updated>2023-12-11T17:38:16.295Z</updated>
-        <content type="html"><![CDATA[近日有特斯拉Model Y车主遭遇了让其非常无语的故障，直呼<strong>“差点被座椅单杀、人差点没了”</strong>。据讲述，下午准备出门，上车调座椅时，座椅和靠背不受控制一直向前，头枕打碎了化妆镜，好在本人及时跳车免于被夹，锁车断电之后，电机持续异响，方向锁死，座椅调节锁死，无法挂挡，屏幕档位显示消失。]]></content>
+        <title type="html"><![CDATA[联想回应总部Logo被涂成Huawei：员工图个乐 严肃处理是假的 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1404217.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1404217.htm"/>
+        <updated>2023-12-14T17:38:10.231Z</updated>
+        <content type="html"><![CDATA[近日北京大雪，很多人都堆起了雪人，也有人用雪地来涂鸦作画。联想总部的一份雪地涂鸦就引起了全网关注，原因是有几位员工在联想园区打雪仗时，<strong>“恶作剧”将一处广告Slogan牌子涂鸦成了“Huawei”。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 12发布时间曝光 系统需求大幅提高 老电脑恐难更新 (cnbeta一周点击排行)]]></title>
@@ -103,25 +84,39 @@ OLED iPad Pro 看起来更像笔记本电脑。]]></content>
         <content type="html"><![CDATA[多方消息显示，微软正在准备发布“突破性”的以人工智能为中心的<strong>新一代Windows版本，内部代号“Hudson Valley”（哈德逊河谷）。</strong>WC最新报道称，<strong>“Hudson Valley”将于2024年下半年推出。</strong>微软已经在Windows Insider Canary 频道中测试下一版本Windows的早期代码和平台工作。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wi-Fi 7将于2024年初全面登场 速度相比Wi-Fi 6提升5倍 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1403851.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1403851.htm"/>
-        <updated>2023-12-13T17:38:20.181Z</updated>
-        <content type="html"><![CDATA[一段时间以来，硬件供应商一直在根据规格草案提供支持 Wi-Fi 7 的设备。该标准的最终发布时间预计为 2024 年，现在有了更明确的时间表，预计英特尔等更多制造商将很快推出利用 Wi-Fi 7 增强带宽和稳定性的产品。]]></content>
+        <title type="html"><![CDATA[阿根廷的经济试验即将上演 今天全球市场将见证“休克疗法”冲击 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403979.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403979.htm"/>
+        <updated>2023-12-13T03:38:46.000Z</updated>
+        <content type="html"><![CDATA[随着阿根廷新总统哈维尔·米莱在上周日正式宣誓就职，他曾许下“激进改变阿根廷现状”的诺言，也正在快速落地。当然，从外人的视角看来，这无异于一场“大型经济实验”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国特供版RTX 4090D全面缩水：超频都砍了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402827.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402827.htm"/>
-        <updated>2023-12-12T17:38:16.248Z</updated>
-        <content type="html"><![CDATA[虽然受到美政府的严格约束，甚至被直接点名，但是NVIDIA仍将坚持在中国市场上推出特供版本的RTX 4090D，<strong>具体时间很可能会在2024年1月底。</strong>RTX 4090D仍将基于AD102 GPU核心，但是编号从AD102-300变为<strong>AD102-250</strong>，对应着规格的降级。]]></content>
+        <title type="html"><![CDATA[努比亚Z60 Ultra将于12月19日发布 业界首创后摄无界设计 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403829.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403829.htm"/>
+        <updated>2023-12-14T17:38:10.288Z</updated>
+        <content type="html"><![CDATA[<strong>努比亚Z60 Ultra新机将于12月19日14:00正式发布，宣称“最懂影像，全面全能”。</strong>努比亚手机今日公布了努比亚Z60 Ultra的设计细节，新机采用同构宇宙空间设计，通过叠加态的组合实现不同元素的完美协同。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[蟑螂油出油率堪比肥猪 营养丰富可做食用油？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1403663.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1403663.htm"/>
-        <updated>2023-12-13T17:38:20.187Z</updated>
-        <content type="html"><![CDATA[你听说过蟑螂油吗？据说最初研究这个是为了用来吃的！自从发现蟑螂可以帮助人类清除厨余垃圾之后，人们对蟑螂的态度似乎有了改观，对蟑螂的研究也越来越多，蟑螂的价值利用也被开发到了极致：它活着的时候，帮人类吃垃圾，供人类研究；死了，把它磨成粉，可以提取蟑螂提取液，用来制作药物，鼎鼎有名的康复新液就是美洲大蠊提取液制成的，还可以用来制作其他动物的饲料。]]></content>
+        <title type="html"><![CDATA[余承东称小米抄袭华为 双方专利对比一目了然 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403845.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403845.htm"/>
+        <updated>2023-12-14T17:38:10.290Z</updated>
+        <content type="html"><![CDATA[<strong>在2023花粉年会上，余承东笑谈友商抄袭时称不太尊重我们（华为）的知识产权，拿过去随便编个名字就说自己的。</strong>在余承东看来，双旋水滴铰链直接变成龙骨铰链，龙骨是不存在的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11将为高级用户提供"高级设置"面板 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403241.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403241.htm"/>
+        <updated>2023-12-13T17:38:20.205Z</updated>
+        <content type="html"><![CDATA[微软计划通过 Dev Home 为 Windows 11 添加一个"高级设置"面板。这个新面板可以让你更好地控制操作系统的内置设置或行为，例如更改文件资源管理器中标记文件夹图标的外观。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币创四个月最大跌幅，原因是什么？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403683.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403683.htm"/>
+        <updated>2023-12-12T02:40:59.000Z</updated>
+        <content type="html"><![CDATA[美国CPI数据和美联储利率决议将至，比特币看涨押注出现大规模平仓。比特币创下近四个月来的最大跌幅。<strong>交易员</strong><strong>在今年涨幅超过150%后开始锁定利润，引发看涨押注的大规模</strong><strong>平仓</strong><strong>。</strong>周一亚盘，比特币跌幅一度高达7.5%，这是自8月18日以来的最大盘中跌幅。欧盘跌势缓解，但截至美盘初日内跌幅仍接近4%。其它大多数主要加密货币均下跌，最大的100种数字资产指数跌幅创11月22日以来最大。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司回应封杀Beeper Mini事件："我们已采取措施保护我们的用户” (cnbeta一周点击排行)]]></title>
@@ -138,17 +133,17 @@ OLED iPad Pro 看起来更像笔记本电脑。]]></content>
         <content type="html"><![CDATA[Linux 也有了自己的蓝屏死机（BSOD）版本。据 Phoronix 报道，Linux 系统的 systemd 最新版本带有一个 systemd-bsod 服务，能够在 Linux 发行版上生成全屏错误信息。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比特币创四个月最大跌幅，原因是什么？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1403683.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1403683.htm"/>
-        <updated>2023-12-12T02:40:59.000Z</updated>
-        <content type="html"><![CDATA[美国CPI数据和美联储利率决议将至，比特币看涨押注出现大规模平仓。比特币创下近四个月来的最大跌幅。<strong>交易员</strong><strong>在今年涨幅超过150%后开始锁定利润，引发看涨押注的大规模</strong><strong>平仓</strong><strong>。</strong>周一亚盘，比特币跌幅一度高达7.5%，这是自8月18日以来的最大盘中跌幅。欧盘跌势缓解，但截至美盘初日内跌幅仍接近4%。其它大多数主要加密货币均下跌，最大的100种数字资产指数跌幅创11月22日以来最大。]]></content>
+        <title type="html"><![CDATA[三星Galaxy S24细节曝光：首款支持卫星通信的小屏旗舰 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1404309.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1404309.htm"/>
+        <updated>2023-12-14T09:48:07.000Z</updated>
+        <content type="html"><![CDATA[三星Galaxy S24手机截图在社交平台上流出，<strong>截图确认Galaxy S24将支持卫星通信功能，</strong>这是安卓阵营第一款支持卫星通信的小屏旗舰手机。报道指出，<strong>Galaxy S24在北美发售的是骁龙8 Gen3版本，在欧洲发售的是Exynos 2400版本，这次不管是骁龙还是Exynos，都会提供卫星通信功能。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11将为高级用户提供"高级设置"面板 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1403241.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1403241.htm"/>
-        <updated>2023-12-13T17:38:20.205Z</updated>
-        <content type="html"><![CDATA[微软计划通过 Dev Home 为 Windows 11 添加一个"高级设置"面板。这个新面板可以让你更好地控制操作系统的内置设置或行为，例如更改文件资源管理器中标记文件夹图标的外观。]]></content>
+        <title type="html"><![CDATA[懂车帝实测电动车冬季续航：特斯拉Model Y续航达成率仅39.68% (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403371.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403371.htm"/>
+        <updated>2023-12-14T17:38:10.294Z</updated>
+        <content type="html"><![CDATA[近日，懂车帝在漠河进行2023年“懂车帝冬测”活动，参与车型包括小鹏、理想、问界、比亚迪、仰望、方程豹、特斯拉等主流新能源车型。当地气温目前位于-35℃~-23℃，属于极寒天气，且因为降雪，不少地方属于冰雪路面。]]></content>
     </entry>
 </feed>
