@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-15T05:38:27.307Z</updated>
+    <updated>2023-12-15T17:38:05.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[鸡蛋到底煮几分钟才好吃？1个实验告诉你 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1404397.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1404397.htm"/>
+        <updated>2023-12-15T17:38:04.851Z</updated>
+        <content type="html"><![CDATA[鸡蛋都吃过吧！吃法超级多，比如煮鸡蛋、煎鸡蛋、炒鸡蛋、鸡蛋汤……不过，要说简单方便的，那必须是煮鸡蛋！对于时间紧张的上班族来说，煮鸡蛋就是补充蛋白质的天下第一最最好！煮鸡蛋这活儿虽然简单，但煮的时间不一样得到的鸡蛋也是千差万别，到底煮多久才能得到自己想要的那颗蛋呢？]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[麒麟9000s后9006C再次出现 外媒：华为芯片像谜一样 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1403237.htm</id>
@@ -12,18 +19,11 @@
         <content type="html"><![CDATA[华为在芯片设计领域的成就显著，即使其高端芯片主要依赖台积电生产。面对台积电出货限制，华为深入参与半导体行业。中芯国际等国内厂商技术与台积电相比落后五年以上，而ASML表示，即使有设计图纸，中国厂商制造先进光刻机也颇具挑战。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[雷军1992年计算机论文曝光 华为高管点赞：值得尊敬和学习 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1403043.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1403043.htm"/>
-        <updated>2023-12-10T17:38:14.957Z</updated>
-        <content type="html"><![CDATA[近日，<strong>一份雷军发表于1992年的《计算机病毒判定专家系统原理与设计》论文在网上曝光，引发热议。</strong>该论文详细地描述了计算机病毒判定专家系统的原理与具体设计方法，一定程度上解决了流行病毒的判定问题。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王健林壮士再断腕，王思聪上演“最后的倔强”？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402945.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402945.htm"/>
-        <updated>2023-12-08T10:35:49.000Z</updated>
-        <content type="html"><![CDATA[紧急关头，王健林又一次甩卖核心资产。12月6日，万达电影发布公告称，公司实际控制人王健林拟将其合计持有的公司控股股东北京万达投资有限公司51%股权转让予上海儒意投资管理有限公司。<strong>公告显示，若上述事项最终实施完成，将会导致公司控制权变更。这意味着，转让完成后，王健林将失去万达电影的控股权。</strong>]]></content>
+        <title type="html"><![CDATA[三星Galaxy S24细节曝光：首款支持卫星通信的小屏旗舰 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1404309.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1404309.htm"/>
+        <updated>2023-12-14T09:48:07.000Z</updated>
+        <content type="html"><![CDATA[三星Galaxy S24手机截图在社交平台上流出，<strong>截图确认Galaxy S24将支持卫星通信功能，</strong>这是安卓阵营第一款支持卫星通信的小屏旗舰手机。报道指出，<strong>Galaxy S24在北美发售的是骁龙8 Gen3版本，在欧洲发售的是Exynos 2400版本，这次不管是骁龙还是Exynos，都会提供卫星通信功能。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 17.2发布 新增“手记”应用和Apple Music的重大变化 (cnbeta一周点击排行)]]></title>
@@ -42,11 +42,25 @@
 M3 Max MacBook Pro 的闪存升级到原来配置的八倍的。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[联想回应总部Logo被涂成Huawei：员工图个乐 严肃处理是假的 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1404217.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1404217.htm"/>
+        <updated>2023-12-14T17:38:10.231Z</updated>
+        <content type="html"><![CDATA[近日北京大雪，很多人都堆起了雪人，也有人用雪地来涂鸦作画。联想总部的一份雪地涂鸦就引起了全网关注，原因是有几位员工在联想园区打雪仗时，<strong>“恶作剧”将一处广告Slogan牌子涂鸦成了“Huawei”。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[日本尼康宣布全新ArF浸没式光刻机：精度小于2.1纳米、价格便宜30％ (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1403381.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1403381.htm"/>
         <updated>2023-12-12T17:38:16.224Z</updated>
         <content type="html"><![CDATA[尼康宣布，将于2024年1月正式推出ArF 193纳米浸没式光刻机“NSR-S636E”，生产效率、套刻精度都会有进一步提升。据悉，<strong>尼康这款曝光机采用增强型iAS设计，可用于高精度测量、圆翘曲和畸变校正，重叠精度(MMO)更高，号称不超过2.1纳米。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蟑螂油出油率堪比肥猪 营养丰富可做食用油？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1403663.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1403663.htm"/>
+        <updated>2023-12-13T17:38:20.187Z</updated>
+        <content type="html"><![CDATA[你听说过蟑螂油吗？据说最初研究这个是为了用来吃的！自从发现蟑螂可以帮助人类清除厨余垃圾之后，人们对蟑螂的态度似乎有了改观，对蟑螂的研究也越来越多，蟑螂的价值利用也被开发到了极致：它活着的时候，帮人类吃垃圾，供人类研究；死了，把它磨成粉，可以提取蟑螂提取液，用来制作药物，鼎鼎有名的康复新液就是美洲大蠊提取液制成的，还可以用来制作其他动物的饲料。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wi-Fi 7将于2024年初全面登场 速度相比Wi-Fi 6提升5倍 (cnbeta一周点击排行)]]></title>
@@ -63,18 +77,11 @@ M3 Max MacBook Pro 的闪存升级到原来配置的八倍的。]]></content>
         <content type="html"><![CDATA[继马云在内网发言“阿里会变”后，刘强东也发声“必须改变”。12月9日晚22点，京东创始人、董事局主席刘强东在公司内网回复员工评论时表示，必须改变，否则没有出路。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[蟑螂油出油率堪比肥猪 营养丰富可做食用油？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1403663.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1403663.htm"/>
-        <updated>2023-12-13T17:38:20.187Z</updated>
-        <content type="html"><![CDATA[你听说过蟑螂油吗？据说最初研究这个是为了用来吃的！自从发现蟑螂可以帮助人类清除厨余垃圾之后，人们对蟑螂的态度似乎有了改观，对蟑螂的研究也越来越多，蟑螂的价值利用也被开发到了极致：它活着的时候，帮人类吃垃圾，供人类研究；死了，把它磨成粉，可以提取蟑螂提取液，用来制作药物，鼎鼎有名的康复新液就是美洲大蠊提取液制成的，还可以用来制作其他动物的饲料。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想回应总部Logo被涂成Huawei：员工图个乐 严肃处理是假的 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1404217.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1404217.htm"/>
-        <updated>2023-12-14T17:38:10.231Z</updated>
-        <content type="html"><![CDATA[近日北京大雪，很多人都堆起了雪人，也有人用雪地来涂鸦作画。联想总部的一份雪地涂鸦就引起了全网关注，原因是有几位员工在联想园区打雪仗时，<strong>“恶作剧”将一处广告Slogan牌子涂鸦成了“Huawei”。</strong>]]></content>
+        <title type="html"><![CDATA[上海虹桥、浦东机场联络线贯通 未来40分钟就能到 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1404189.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1404189.htm"/>
+        <updated>2023-12-15T17:38:04.868Z</updated>
+        <content type="html"><![CDATA[上海申铁称，<strong>上海机场联络线先期开通段(虹桥站至浦东机场站)全线主体结构贯通！</strong>接下来机场联络线将全面进入装饰装修、铺轨作业和站后机电项目建设，<strong>预计明年先期开通段建成通车。</strong>据了解，机场联络线全长68.6公里，途经闵行、徐汇、浦东新区3个行政区，列车最高运行时速可达160公里。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 12发布时间曝光 系统需求大幅提高 老电脑恐难更新 (cnbeta一周点击排行)]]></title>
@@ -84,18 +91,25 @@ M3 Max MacBook Pro 的闪存升级到原来配置的八倍的。]]></content>
         <content type="html"><![CDATA[多方消息显示，微软正在准备发布“突破性”的以人工智能为中心的<strong>新一代Windows版本，内部代号“Hudson Valley”（哈德逊河谷）。</strong>WC最新报道称，<strong>“Hudson Valley”将于2024年下半年推出。</strong>微软已经在Windows Insider Canary 频道中测试下一版本Windows的早期代码和平台工作。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[阿根廷的经济试验即将上演 今天全球市场将见证“休克疗法”冲击 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1403979.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1403979.htm"/>
-        <updated>2023-12-13T03:38:46.000Z</updated>
-        <content type="html"><![CDATA[随着阿根廷新总统哈维尔·米莱在上周日正式宣誓就职，他曾许下“激进改变阿根廷现状”的诺言，也正在快速落地。当然，从外人的视角看来，这无异于一场“大型经济实验”。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[努比亚Z60 Ultra将于12月19日发布 业界首创后摄无界设计 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1403829.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1403829.htm"/>
         <updated>2023-12-14T17:38:10.288Z</updated>
         <content type="html"><![CDATA[<strong>努比亚Z60 Ultra新机将于12月19日14:00正式发布，宣称“最懂影像，全面全能”。</strong>努比亚手机今日公布了努比亚Z60 Ultra的设计细节，新机采用同构宇宙空间设计，通过叠加态的组合实现不同元素的完美协同。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为首款开放式耳机FreeClip图赏：不分左右耳、可全天佩戴 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1404153.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1404153.htm"/>
+        <updated>2023-12-15T17:38:04.872Z</updated>
+        <content type="html"><![CDATA[如此前预告，在昨晚举办的迪拜的创新产品发布会上，<strong>华为发布了旗下首款开放式耳机——华为FreeClip。</strong>此前，华为终端BG CTO李小龙在微博上表示：“<strong>这款戴着非常舒适，尤其适合运动时佩戴，可以全天无感佩戴。</strong>”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿根廷的经济试验即将上演 今天全球市场将见证“休克疗法”冲击 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1403979.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1403979.htm"/>
+        <updated>2023-12-13T03:38:46.000Z</updated>
+        <content type="html"><![CDATA[随着阿根廷新总统哈维尔·米莱在上周日正式宣誓就职，他曾许下“激进改变阿根廷现状”的诺言，也正在快速落地。当然，从外人的视角看来，这无异于一场“大型经济实验”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[余承东称小米抄袭华为 双方专利对比一目了然 (cnbeta一周点击排行)]]></title>
@@ -112,6 +126,15 @@ M3 Max MacBook Pro 的闪存升级到原来配置的八倍的。]]></content>
         <content type="html"><![CDATA[微软计划通过 Dev Home 为 Windows 11 添加一个"高级设置"面板。这个新面板可以让你更好地控制操作系统的内置设置或行为，例如更改文件资源管理器中标记文件夹图标的外观。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[分析显示华为Mate 60 Pro的5G调制解调器和射频技术有能力与主流手机制造商竞争 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1404155.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1404155.htm"/>
+        <updated>2023-12-15T17:38:04.880Z</updated>
+        <content type="html"><![CDATA[安装在 Mate 60 Pro 中的麒麟 9000S
+证明，华为和中芯国际可以在没有美国公司和其他被禁止与这两家中国实体合作的实体的帮助下，继续大规模生产移动芯片。除了麒麟 9000S
+之外，最近的一项分析显示，除了芯片组外，旗舰产品中使用的先进 5G 调制解调器和射频技术也使华为可以与其他高端智能手机和芯片制造商相媲美。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[比特币创四个月最大跌幅，原因是什么？ (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1403683.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1403683.htm"/>
@@ -119,31 +142,10 @@ M3 Max MacBook Pro 的闪存升级到原来配置的八倍的。]]></content>
         <content type="html"><![CDATA[美国CPI数据和美联储利率决议将至，比特币看涨押注出现大规模平仓。比特币创下近四个月来的最大跌幅。<strong>交易员</strong><strong>在今年涨幅超过150%后开始锁定利润，引发看涨押注的大规模</strong><strong>平仓</strong><strong>。</strong>周一亚盘，比特币跌幅一度高达7.5%，这是自8月18日以来的最大盘中跌幅。欧盘跌势缓解，但截至美盘初日内跌幅仍接近4%。其它大多数主要加密货币均下跌，最大的100种数字资产指数跌幅创11月22日以来最大。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果公司回应封杀Beeper Mini事件："我们已采取措施保护我们的用户” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1403303.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1403303.htm"/>
-        <updated>2023-12-10T10:32:11.000Z</updated>
-        <content type="html"><![CDATA[在 Beeper 团队自豪地宣布用户可以直接从他们的 Android 设备发送蓝色气泡 iMessage 而无需任何奇怪的中继服务器之后几天，以及在苹果公司明确采取措施关闭该功能之后大约 24 小时，苹果公司分享了它对这个问题的看法。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux即将迎来自己的“蓝屏死机”界面 号称可提供更多有效信息 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1402873.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1402873.htm"/>
-        <updated>2023-12-08T06:27:04.000Z</updated>
-        <content type="html"><![CDATA[Linux 也有了自己的蓝屏死机（BSOD）版本。据 Phoronix 报道，Linux 系统的 systemd 最新版本带有一个 systemd-bsod 服务，能够在 Linux 发行版上生成全屏错误信息。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy S24细节曝光：首款支持卫星通信的小屏旗舰 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1404309.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1404309.htm"/>
-        <updated>2023-12-14T09:48:07.000Z</updated>
-        <content type="html"><![CDATA[三星Galaxy S24手机截图在社交平台上流出，<strong>截图确认Galaxy S24将支持卫星通信功能，</strong>这是安卓阵营第一款支持卫星通信的小屏旗舰手机。报道指出，<strong>Galaxy S24在北美发售的是骁龙8 Gen3版本，在欧洲发售的是Exynos 2400版本，这次不管是骁龙还是Exynos，都会提供卫星通信功能。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[懂车帝实测电动车冬季续航：特斯拉Model Y续航达成率仅39.68% (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1403371.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1403371.htm"/>
-        <updated>2023-12-14T17:38:10.294Z</updated>
-        <content type="html"><![CDATA[近日，懂车帝在漠河进行2023年“懂车帝冬测”活动，参与车型包括小鹏、理想、问界、比亚迪、仰望、方程豹、特斯拉等主流新能源车型。当地气温目前位于-35℃~-23℃，属于极寒天气，且因为降雪，不少地方属于冰雪路面。]]></content>
+        <title type="html"><![CDATA[V社：求你们别再闻Steam Deck的散热排气了 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1404103.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1404103.htm"/>
+        <updated>2023-12-15T17:38:04.884Z</updated>
+        <content type="html"><![CDATA[许多喜欢机械的人也喜欢闻机油味，也许这就是为什么一些 Steam Deck 用户喜欢闻主机散热口的排气。虽然我从来没有听说身边有 Steam Deck 的人这么做，但是显然有很多人喜欢这么做。]]></content>
     </entry>
 </feed>
