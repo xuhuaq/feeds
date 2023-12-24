@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2023-12-23T17:38:22.211Z</updated>
+    <updated>2023-12-24T05:38:07.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<strong>被告人在虚拟货币交易平台买卖与美元挂钩的USDT（泰达币），其行为是否构成非法经营罪？</strong>被告人陈某伙同邹某（未到案）、黄某（未到案）商量以虚拟货币泰达币作为交易对象，按美元价格兑换人民币。商量好后，陈某在互联网上的虚拟货币交易平台向散户收购泰达币。因担心被抢劫，便雇请被告人李某以保镖身份护送与散户交易的现金。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[美国政府正式没收丝绸之路被盗的69370个比特币 价值约人民币218亿元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1406111.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1406111.htm"/>
+        <updated>2023-12-24T05:38:06.961Z</updated>
+        <content type="html"><![CDATA[继此前美国司法部查封 Bitfinex 交易所被盗资金 94000 枚比特币后，目前美国法院对另一起涉加密货币案件做出最终裁决，裁决支持美国政府没收犯罪分子持有的 69370 枚比特币。此次涉案的比特币来源是已经被查封的暗网黑市丝绸之路，丝绸之路因为涉及各类犯罪问题此前已经被美国联邦调查局联合欧洲刑警组织摧毁。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[这款日本制造的超低端1位DIY“电脑”啥也干不了 但一经推出即告售罄]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1406005.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1406005.htm"/>
@@ -34,14 +41,11 @@
         <content type="html"><![CDATA[一家日本公司推出了有史以来最低配置的个人电脑：Commodore Vic-20。这款 DIY 工具包是一款单板电脑，使用的是 1 位 CPU。要说明的是，这不是错别字，它真的是1位。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国政府和机构禁用iPhone的传言再次出现 报道称状况还在加剧]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1404809.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1404809.htm"/>
-        <updated>2023-12-16T07:08:02.000Z</updated>
-        <content type="html"><![CDATA[经过几个月的沉寂，以及中国监管机构在 9 月份的明确否认，有新的报道称中国对 iPhone
-的禁令又开始了--而且还在扩大。周五晚间的一则报道称，中国政府内部的 iPhone
-禁令再次出现，或者说仍然存在，这取决于你相信哪篇报道。彭博社的报道称，<strong>至少有八个省份的国企和政府机关要求员工开始携带本土品牌手机，而不是
-iPhone 或三星手机。</strong>]]></content>
+        <title type="html"><![CDATA[ChatGPT语音功能现已免费对所有用户开放]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1406189.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1406189.htm"/>
+        <updated>2023-12-22T09:49:29.000Z</updated>
+        <content type="html"><![CDATA[<strong>OpenAI宣布将ChatGPT with voice语音功能免费对所有用户开放。</strong>现在，用户只需下载ChatGPT的APP，点击耳机图标即可进行语音对话，提供了多种不同的男女声。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一度怀疑被偷吃：NASA丢失8个月的太空西红柿找到了]]></title>
@@ -51,25 +55,18 @@ iPhone 或三星手机。</strong>]]></content>
         <content type="html"><![CDATA[<strong>NASA丢失了8个月的西红柿终于找到了</strong>！去年底，NASA开始在国际空间站进行一项实验，该实验的目标是在太空中不同的光照条件下种植矮番茄，并将成熟果实送回地球进行研究，宇航员弗兰克·卢比奥当时是负责种植番茄的人员之一。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[三星Galaxy S24全系规格表曝光：8GB内存起 顶配独享钛金属]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1406087.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1406087.htm"/>
+        <updated>2023-12-24T05:38:06.965Z</updated>
+        <content type="html"><![CDATA[三星预计将在2024年1月18日举行Galaxy Unpacked 发布会，推出Galaxy S24系列。今日，三星S24全系机型主要规格在网上曝光，包括S24、S24＋、S24 Ultra参数。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[苹果发布iOS 17.2.1 提供错误修复并解决电池续航时间短问题]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1405667.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1405667.htm"/>
         <updated>2023-12-20T02:18:23.000Z</updated>
         <content type="html"><![CDATA[苹果公司今天发布了 iOS 17.2.1，这是对 9 月份首次发布的 iOS 17 操作系统的一个小更新。iOS 17.2.1 大约是在苹果发布 iOS 17.2 两周之后发布的，上一次更新带来了手记应用程序、空间视频录制等功能。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[商汤创始人汤晓鸥去世?知情人：下午将公开回应]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1404877.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1404877.htm"/>
-        <updated>2023-12-16T17:38:15.143Z</updated>
-        <content type="html"><![CDATA[今日，有博主爆料称，商汤创始人汤晓鸥去世，时间在中午左右，微信群中突然在转商汤创始人去世。经多个投资人群友佐证以及咨询，目前均指出其在睡梦中不幸离世。下午发讣告。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节跳动被曝秘密使用OpenAI技术 账户被暂停]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1404827.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1404827.htm"/>
-        <updated>2023-12-16T10:55:06.000Z</updated>
-        <content type="html"><![CDATA[北京时间12月16日，据外媒报道，在生成式AI竞争中处于落后的字节跳动想要“抄近道”，该公司一直在秘密使用OpenAI的技术开发自家大语言模型，这违反了OpenAI的服务条款。目前，字节跳动的账户已被OpenAI暂停。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《消费者报告》汽车可靠性排名 包括特斯拉在内美国品牌无一进前十]]></title>
@@ -86,18 +83,18 @@ iPhone 或三星手机。</strong>]]></content>
         <content type="html"><![CDATA[因果关系是我们体验现实的关键：例如，摔碎一个玻璃杯会导致它粉碎，因此它不可能在摔碎之前就粉碎。但在量子世界中，这些规则并不一定适用，科学家们现在已经证明了如何利用这种怪异性为量子电池充电。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[联发科天玑9400核心再变阵 据传将"全面"击败骁龙8 Gen 4]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1404905.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1404905.htm"/>
-        <updated>2023-12-18T17:38:03.219Z</updated>
-        <content type="html"><![CDATA[不久前，联发科发布了天玑9300芯片。目前， X100系列首发该款芯片，同时Find X7系列的部分机型或许也将搭载9300。而12月16日，有资深爆料人士透露，联发科欲在天玑9400上全面超越高通骁龙。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[腾讯QQ9正式发布 四年来最大更新]]></title>
         <id>https://www.cnbeta.com.tw/articles/soft/1405887.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/soft/1405887.htm"/>
         <updated>2023-12-23T05:38:10.755Z</updated>
         <content type="html"><![CDATA[今日，<strong>腾讯宣布，QQ9正式上线。距离上一次QQ8版本已经过去了4年。</strong>据官方介绍，本次版本更新，<strong>QQ9采用了全新的QQNT技术架构驱动，性能升级，交互体验更加流畅。全新界面，流畅社交。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“高温”超导重大突破 全球首个二极管问世 量子计算料受益]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1406077.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1406077.htm"/>
+        <updated>2023-12-24T05:38:06.973Z</updated>
+        <content type="html"><![CDATA[超导体几十年来一直吸引着物理学家，它们允许完美的、无损的电子流动。但是这些材料，通常只在温度很低的情况下——比绝对零度（零下273.15摄氏度）高几度，才能表现出这种量子力学特性。这使得实际应用变得困难。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[预计2024年iPad系列将发生重大变化]]></title>
@@ -107,12 +104,18 @@ iPhone 或三星手机。</strong>]]></content>
         <content type="html"><![CDATA[一份时事通讯认为，预计 2024 年 iPad 产品线将发生一系列重大变化，包括大屏幕 iPad Air、速度更快的标准版和 iPad mini 机型，以及 Pro 系列的改版。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DNA证据告诉我们：史前巨兽陨落背后的真凶是人类]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1404927.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1404927.htm"/>
-        <updated>2023-12-20T17:38:36.237Z</updated>
-        <content type="html"><![CDATA[多年来，科学家们一直在争论是人类还是气候导致大型哺乳动物的数量在过去几千年里急剧下降。奥胡斯大学的一项新研究证实，气候不能成为原因。大约 10
-万年前，第一批现代人从非洲大量迁徙出来。他们非常善于适应新的栖息地，从沙漠、丛林到遥远北方冰冷的针叶林，他们几乎在各种地貌中都定居了下来。]]></content>
+        <title type="html"><![CDATA[男子交9000元参加“自律挑战” 仅半天就被淘汰]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1405981.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1405981.htm"/>
+        <updated>2023-12-21T11:27:26.000Z</updated>
+        <content type="html"><![CDATA[近日，长沙陈先生参加了一公司的“自律挑战”项目：在35天内，坚持不玩手机、按时作息等规定，就能获得40万高额奖金。他支付了9000元报名费，信心满满地参加了。结果不到一天，因为偶然一次揉眼睛，就被淘汰了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全部采用直屏设计 三星Galaxy S24全系渲染图曝光]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1405989.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1405989.htm"/>
+        <updated>2023-12-21T11:30:44.000Z</updated>
+        <content type="html"><![CDATA[今天，数码博主@数码闲聊站发布了<strong>三星Galaxy S24手机的全系渲染图，</strong>并爆料了部分配置信息。三星Galaxy S24系列包括Galaxy S24、Galaxy S24+和Galaxy S24 Ultra三款，屏幕尺寸分别是6.2英寸、6.65英寸和6.8英寸。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果正在为iPhone准备iOS 17.2.1更新]]></title>
@@ -120,6 +123,13 @@ iPhone 或三星手机。</strong>]]></content>
         <link href="https://www.cnbeta.com.tw/articles/tech/1405543.htm"/>
         <updated>2023-12-21T17:38:04.480Z</updated>
         <content type="html"><![CDATA[根据macrumors网站分析日志中的软件证据，苹果似乎正在内部测试 iPhone 的 iOS 17.2.1 更新。日志显示，在发布之前已经记录到多个 iOS 17 版本，包括 iOS 17.0.3、iOS 17.1.1 和 iOS 17.1.2。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军晒Redmi K70 Pro冠军版/兰博基尼外观：今晚7点上市]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1405973.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1405973.htm"/>
+        <updated>2023-12-21T11:23:48.000Z</updated>
+        <content type="html"><![CDATA[今天一早，雷军就亲自晒出了一段Redmi K70 Pro冠军版的外观视频，多角度展示新机外观，并且与兰博基尼进行联动。<strong>这是小米集团与兰博尼基的首次合作，基于跑车元素打造的K70 Pro冠军版，将于今晚7点正式上市。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌表格(Google Tables)宣布停止开发 也不会推出最终的正式版]]></title>
@@ -134,19 +144,5 @@ iPhone 或三星手机。</strong>]]></content>
         <link href="https://www.cnbeta.com.tw/articles/tech/1405113.htm"/>
         <updated>2023-12-21T17:38:04.486Z</updated>
         <content type="html"><![CDATA[彭博社的马克-古尔曼（Mark Gurman）今天在他的Power On时事通讯中说，苹果公司在2023年几乎没有对Apple Watch系列进行更新，但预计2024年的型号将包括一套新的功能，这将使它们对消费者更有吸引力。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有鸭绒、鹅绒羽绒服 却没有“鸡绒”羽绒服]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1405387.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1405387.htm"/>
-        <updated>2023-12-23T05:38:10.779Z</updated>
-        <content type="html"><![CDATA[今年很可能会是有记录以来最热的一年，但这个“最热”只是指全球平均气温，它并不意味着今年就不会有寒冷的天气。而且，<strong>大多时候恰恰相反，由于全球平均气温的上升，对于大部分地区而言极端天气会变得更多，这当然也包括了极端寒冷。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比亚迪仰望U9无伪谍照曝光 千万超跑既视感]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1405169.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1405169.htm"/>
-        <updated>2023-12-18T10:16:12.000Z</updated>
-        <content type="html"><![CDATA[近日，比亚迪仰望旗下的首款纯电超跑—仰望U9频频现身，不少网友都拍到了这台国产超跑的无伪谍照。我们从微博博主分享的图片来看，<strong>目前，仰望U9已经褪去了车身的全部伪装，正式出现在了大家的视线当中。</strong>]]></content>
     </entry>
 </feed>
