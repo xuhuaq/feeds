@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-25T17:38:05.872Z</updated>
+    <updated>2023-12-26T05:38:11.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[微信官方建议：聊天开场白不要发“在吗” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1405847.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1405847.htm"/>
-        <updated>2023-12-21T17:38:04.458Z</updated>
-        <content type="html"><![CDATA[世界上最遥远的距离，就是上一次微信聊天结束后，如何跨越漫长的聊天列表，以精彩的开场白重新唤起一场酣畅淋漓的对谈。不少小伙伴往往采用“在吗”或类似的发问式开场白，唤起对方回应后，再说正事。殊不知，对面小伙伴心里“咯噔”一下：这小子要找我干啥？我该如何回复？]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT语音功能现已免费对所有用户开放 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1406189.htm</id>
@@ -19,11 +12,18 @@
         <content type="html"><![CDATA[<strong>OpenAI宣布将ChatGPT with voice语音功能免费对所有用户开放。</strong>现在，用户只需下载ChatGPT的APP，点击耳机图标即可进行语音对话，提供了多种不同的男女声。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[广东高院：利用USDT兑换人民币属变相买卖外构成非法经营罪 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1405305.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1405305.htm"/>
-        <updated>2023-12-19T17:38:01.778Z</updated>
-        <content type="html"><![CDATA[<strong>被告人在虚拟货币交易平台买卖与美元挂钩的USDT（泰达币），其行为是否构成非法经营罪？</strong>被告人陈某伙同邹某（未到案）、黄某（未到案）商量以虚拟货币泰达币作为交易对象，按美元价格兑换人民币。商量好后，陈某在互联网上的虚拟货币交易平台向散户收购泰达币。因担心被抢劫，便雇请被告人李某以保镖身份护送与散户交易的现金。]]></content>
+        <title type="html"><![CDATA[微信官方建议：聊天开场白不要发“在吗” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1405847.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1405847.htm"/>
+        <updated>2023-12-21T17:38:04.458Z</updated>
+        <content type="html"><![CDATA[世界上最遥远的距离，就是上一次微信聊天结束后，如何跨越漫长的聊天列表，以精彩的开场白重新唤起一场酣畅淋漓的对谈。不少小伙伴往往采用“在吗”或类似的发问式开场白，唤起对方回应后，再说正事。殊不知，对面小伙伴心里“咯噔”一下：这小子要找我干啥？我该如何回复？]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度网盘群晖NAS版上线：会员79元/年 可下载所有文件 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1406489.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1406489.htm"/>
+        <updated>2023-12-25T05:38:32.387Z</updated>
+        <content type="html"><![CDATA[百度网盘作为网盘届的元老，相信大家肯定都不陌生，无论是用来存储各类资源，还是团队、工作室用来交换文件都非常方便。以往群晖NAS想要与百度网盘连接，需要借助Cloud Sync套件，而且只能同步百度网盘中单一文件夹中的内容。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国政府正式没收丝绸之路被盗的69370个比特币 价值约人民币218亿元 (cnbeta一周点击排行)]]></title>
@@ -47,18 +47,25 @@
         <content type="html"><![CDATA[三星预计将在2024年1月18日举行Galaxy Unpacked 发布会，推出Galaxy S24系列。今日，三星S24全系机型主要规格在网上曝光，包括S24、S24＋、S24 Ultra参数。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[百度网盘群晖NAS版上线：会员79元/年 可下载所有文件 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1406489.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1406489.htm"/>
-        <updated>2023-12-25T05:38:32.387Z</updated>
-        <content type="html"><![CDATA[百度网盘作为网盘届的元老，相信大家肯定都不陌生，无论是用来存储各类资源，还是团队、工作室用来交换文件都非常方便。以往群晖NAS想要与百度网盘连接，需要借助Cloud Sync套件，而且只能同步百度网盘中单一文件夹中的内容。]]></content>
+        <title type="html"><![CDATA[新麒麟全面替代高通 华为海思处理器销售额重返全球前五 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1406611.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1406611.htm"/>
+        <updated>2023-12-26T05:38:10.461Z</updated>
+        <content type="html"><![CDATA[知名市调机构Counterpoint Research公布了2023年第三季度全球智能手机 AP（应用处理器）出货量份额及销售收入份额。其中，<strong>在智能手机处理器销售收入方面，华为海思以3%份额，重回全球前五。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一度怀疑被偷吃：NASA丢失8个月的太空西红柿找到了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1405303.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1405303.htm"/>
-        <updated>2023-12-19T17:38:01.798Z</updated>
-        <content type="html"><![CDATA[<strong>NASA丢失了8个月的西红柿终于找到了</strong>！去年底，NASA开始在国际空间站进行一项实验，该实验的目标是在太空中不同的光照条件下种植矮番茄，并将成熟果实送回地球进行研究，宇航员弗兰克·卢比奥当时是负责种植番茄的人员之一。]]></content>
+        <title type="html"><![CDATA[国产大飞机C919最新价格曝光：7.67亿一架！国航要买6架 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1406475.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1406475.htm"/>
+        <updated>2023-12-23T00:39:47.000Z</updated>
+        <content type="html"><![CDATA[前不久东航的第三驾C919已经开始投入运营，该机型投运至今备受乘客与航司的好评，因此又将迎来新订单。据中国国际航空股份有限公司最新公告，<strong>公司将向特定对象发行A股股票拟募集资金总额不超过60亿元，将用于购置飞机及补充流动资金。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首发新麒麟5G芯 华为nova 12系列真机上手 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1406455.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1406455.htm"/>
+        <updated>2023-12-23T11:45:35.000Z</updated>
+        <content type="html"><![CDATA[华为nova 12系列将在下周发布，不过在发布会之前就提前被曝光了真机。根据博主“魔法科技君”展示的真机图来看，<strong>华为nova 12系列延续了上一代的素皮压花工艺，这是一般在奢侈品包上常见的工艺，华为首次将其带到手机行业。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果发布iOS 17.2.1 提供错误修复并解决电池续航时间短问题 (cnbeta一周点击排行)]]></title>
@@ -68,19 +75,19 @@
         <content type="html"><![CDATA[苹果公司今天发布了 iOS 17.2.1，这是对 9 月份首次发布的 iOS 17 操作系统的一个小更新。iOS 17.2.1 大约是在苹果发布 iOS 17.2 两周之后发布的，上一次更新带来了手记应用程序、空间视频录制等功能。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[阿里巴巴全球总部落成 明年投入使用 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1406269.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1406269.htm"/>
+        <updated>2023-12-25T05:38:32.397Z</updated>
+        <content type="html"><![CDATA[去年，一度备受瞩目的阿里巴巴全球总部有了新进展。昨天，橙柿互动记者获悉，位于杭州未来科技城的阿里巴巴全球总部项目已基本竣工，预计将于2024年正式投入使用。阿里全球总部新园区同时申请了LEED新建单体建筑金级、LEED 城市及社区金级以及被称为建筑界奥斯卡的“WELL 金级认证”。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Android系统可能很快就可以显示电池的老化情况了 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1406179.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1406179.htm"/>
         <updated>2023-12-22T05:06:02.000Z</updated>
         <content type="html"><![CDATA[Android手机接受软件更新的时间比以往任何时候都长，像Google Pixel 8
 系列这样的设备可以接受七年的更新。此外，设备制造商正在扩大维修选项和零部件供应，有些甚至提供自修计划，让您可以自己修理设备。如果你打算在官方支持的时间内一直使用同一款手机，那么你很可能需要在某个时候更换电池。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产大飞机C919最新价格曝光：7.67亿一架！国航要买6架 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1406475.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1406475.htm"/>
-        <updated>2023-12-23T00:39:47.000Z</updated>
-        <content type="html"><![CDATA[前不久东航的第三驾C919已经开始投入运营，该机型投运至今备受乘客与航司的好评，因此又将迎来新订单。据中国国际航空股份有限公司最新公告，<strong>公司将向特定对象发行A股股票拟募集资金总额不超过60亿元，将用于购置飞机及补充流动资金。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“高温”超导重大突破 全球首个二极管问世 量子计算料受益 (cnbeta一周点击排行)]]></title>
@@ -104,25 +111,11 @@
         <content type="html"><![CDATA[今日，<strong>腾讯宣布，QQ9正式上线。距离上一次QQ8版本已经过去了4年。</strong>据官方介绍，本次版本更新，<strong>QQ9采用了全新的QQNT技术架构驱动，性能升级，交互体验更加流畅。全新界面，流畅社交。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《消费者报告》汽车可靠性排名 包括特斯拉在内美国品牌无一进前十 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1405293.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1405293.htm"/>
-        <updated>2023-12-20T17:38:36.220Z</updated>
-        <content type="html"><![CDATA[根据美国知名杂志《消费者报告》近日公布的2023年汽车可靠性排名，前十大可靠车型均为亚洲或欧洲汽车品牌，美国品牌无一进入前十，特斯拉仅排第14位。这些发现是基于对《消费者报告》成员过去一年中所面临的汽车问题的调查得出的。数据涉及33万辆2000年至2023款汽车，以及一些早期推出的2024年车型。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里巴巴全球总部落成 明年投入使用 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1406269.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1406269.htm"/>
-        <updated>2023-12-25T05:38:32.397Z</updated>
-        <content type="html"><![CDATA[去年，一度备受瞩目的阿里巴巴全球总部有了新进展。昨天，橙柿互动记者获悉，位于杭州未来科技城的阿里巴巴全球总部项目已基本竣工，预计将于2024年正式投入使用。阿里全球总部新园区同时申请了LEED新建单体建筑金级、LEED 城市及社区金级以及被称为建筑界奥斯卡的“WELL 金级认证”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子电池的充电过程可以打破我们对时间的理解 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1405269.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1405269.htm"/>
-        <updated>2023-12-20T17:38:36.238Z</updated>
-        <content type="html"><![CDATA[因果关系是我们体验现实的关键：例如，摔碎一个玻璃杯会导致它粉碎，因此它不可能在摔碎之前就粉碎。但在量子世界中，这些规则并不一定适用，科学家们现在已经证明了如何利用这种怪异性为量子电池充电。]]></content>
+        <title type="html"><![CDATA[唯一四边等宽的小屏骁龙8 Gen3旗舰 三星Galaxy S24 1月登场 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1406537.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1406537.htm"/>
+        <updated>2023-12-26T05:38:10.479Z</updated>
+        <content type="html"><![CDATA[博主i冰宇宙透露，三星Galaxy S24系列将于1月18日（北京时间）正式发布。和上代产品布局一样，<strong>这次发布会三星将同时推出Galaxy S24、Galaxy S24+和Galaxy S24 Ultra三款旗舰。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[雷军晒Redmi K70 Pro冠军版/兰博基尼外观：今晚7点上市 (cnbeta一周点击排行)]]></title>
@@ -132,17 +125,24 @@
         <content type="html"><![CDATA[今天一早，雷军就亲自晒出了一段Redmi K70 Pro冠军版的外观视频，多角度展示新机外观，并且与兰博基尼进行联动。<strong>这是小米集团与兰博尼基的首次合作，基于跑车元素打造的K70 Pro冠军版，将于今晚7点正式上市。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[首发新麒麟5G芯 华为nova 12系列真机上手 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1406455.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1406455.htm"/>
-        <updated>2023-12-23T11:45:35.000Z</updated>
-        <content type="html"><![CDATA[华为nova 12系列将在下周发布，不过在发布会之前就提前被曝光了真机。根据博主“魔法科技君”展示的真机图来看，<strong>华为nova 12系列延续了上一代的素皮压花工艺，这是一般在奢侈品包上常见的工艺，华为首次将其带到手机行业。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[全部采用直屏设计 三星Galaxy S24全系渲染图曝光 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1405989.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1405989.htm"/>
         <updated>2023-12-21T11:30:44.000Z</updated>
         <content type="html"><![CDATA[今天，数码博主@数码闲聊站发布了<strong>三星Galaxy S24手机的全系渲染图，</strong>并爆料了部分配置信息。三星Galaxy S24系列包括Galaxy S24、Galaxy S24+和Galaxy S24 Ultra三款，屏幕尺寸分别是6.2英寸、6.65英寸和6.8英寸。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为Wi-Fi 7路由器BE3 Pro 2.5GE今晚预售：速率最高3600Mbps 到手499元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1405819.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1405819.htm"/>
+        <updated>2023-12-26T05:38:10.490Z</updated>
+        <content type="html"><![CDATA[<strong>华为Wi-Fi 7路由器BE3 Pro 2500M网口版将于今晚18:00正式开启预售，首发到手价499元，</strong>官方宣称最高速率可达3600Mbps。前不久，此款路由器的1000M网口版已经开售，到手价格为399元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果正在为iPhone准备iOS 17.2.1更新 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1405543.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1405543.htm"/>
+        <updated>2023-12-26T05:38:10.494Z</updated>
+        <content type="html"><![CDATA[根据macrumors网站分析日志中的软件证据，苹果似乎正在内部测试 iPhone 的 iOS 17.2.1 更新。日志显示，在发布之前已经记录到多个 iOS 17 版本，包括 iOS 17.0.3、iOS 17.1.1 和 iOS 17.1.2。]]></content>
     </entry>
 </feed>
