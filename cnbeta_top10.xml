@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-01-05T17:38:23.051Z</updated>
+    <updated>2024-01-06T05:38:03.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[从微信官网获悉，<strong>微信安卓版日前迎来8.0.45正式版更新，这也是2024年首次版本升级。</strong>关于更新内容，依然是那9个字：“修复了一些已知问题”。虽然官方没有公布具体更新内容，但更新微信安卓版8.0.45后发现，这一版界面迎来全新改版。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SpaceX将发射首批6颗直连手机卫星：覆盖全球 不换手机就能用]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1408745.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1408745.htm"/>
+        <updated>2024-01-05T05:38:07.283Z</updated>
+        <content type="html"><![CDATA[据SpaceX的官方账号介绍，他们将首次发射6颗具有直连手机能力的星链卫星，这将进一步促进全球连接并帮助消除（通信）死区。马斯克亲自转发了这条帖子称：]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[三星Galaxy S24 Ultra真机首曝：屏幕曲率更小 接近直屏视效]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1408017.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1408017.htm"/>
@@ -41,11 +48,25 @@
         <content type="html"><![CDATA[知名数码博主“i冰宇宙”放出了三星Galaxy S24 Ultra的真机图，<strong>手机的屏幕曲率同比上代大幅缩减，更接近平面</strong>。如图所示，我们甚至看不到屏幕两边向外延伸，乍一看更像是一款直屏手机，不过放大仔细看还是能发现一些曲率。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[联通宽带突然上传限速遭大量用户投诉：你被PCDN了吗]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1408829.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1408829.htm"/>
+        <updated>2024-01-05T05:38:07.277Z</updated>
+        <content type="html"><![CDATA[最近，不少联通的宽带用户反馈遇到了上传被限速的情况。具体表现为，<strong>上传带宽突然被限制在5Mbps以下，且没有任何通知，对上网体验造成不小困扰。</strong>这种情况并非个案。早在去年11月份，@黑猫投诉 就曾报道，<strong>大量用户在黑猫投诉平台反馈河南联通宽带存在擅自限速、降速的情况，消费者表示在不知情的情况下，被河南联通公司开通了“PCDN业务”，限制宽带上行速率5mbps，严重影响用网体验。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[三星Galaxy S24售价曝光：小屏旗舰899欧元起]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1408043.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1408043.htm"/>
         <updated>2024-01-02T05:38:36.180Z</updated>
         <content type="html"><![CDATA[三星Galaxy S24将于1月17日登场，这款新品有128GB和256GB两个版本，<strong>售价分别是899欧元（约合人民币7044元）和959欧元（约合人民币7514元）。</strong>据悉，Galaxy S24定位是一款小屏旗舰，该机采用四边等宽设计，<strong>其边框宽度只有1.52mm，比iPhone 15 Pro的1.75mm更窄。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy S24系列官宣 全面迈入AI时代]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1408639.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1408639.htm"/>
+        <updated>2024-01-03T09:05:07.000Z</updated>
+        <content type="html"><![CDATA[据三星官方消息，三星宣布将于1月18日发布Galaxy S24系列，<strong>本次发布会将会同时推出Galaxy S24、Galaxy S24+和Galaxy S24 Ultra。</strong>这次发布会主题是“AI”，<strong>三星官方表示，一起迎接Galaxy AI时代，从您生活中重要的电子设备开始，释放全新的创造力、生产力和可能性，Galaxy S24系列就是属于你的AI手机。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[这是GPT-4“变笨”的新解释]]></title>
@@ -64,18 +85,18 @@ GPT-4“现在是寒假”，它就会变得懒懒散散，仿佛进入了一种
         <content type="html"><![CDATA[比亚迪股份有限公司发布公告称，其控股子公司<strong>比亚迪电子（国际）有限公司完成对Jabil Inc.旗下子公司 Jabil Circuit (Singapore) Pte. Ltd.（以下简称“捷普新加坡”）的收购</strong>。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[三星Galaxy S24 Ultra官方海报首次现身]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1408489.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1408489.htm"/>
+        <updated>2024-01-06T05:38:02.759Z</updated>
+        <content type="html"><![CDATA[三星Galaxy S24 Ultra官方海报在社交平台上流出，<strong>这是三星迄今为止最强悍的高端旗舰。</strong>如图所示，Galaxy S24 Ultra整体工业设计跟上代区别不大，最重要升级点是边框换成了钛合金材质，支持S Pen手写笔。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[苹果AI“图穷匕见”：将大模型塞进iPhone里]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1408129.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1408129.htm"/>
         <updated>2024-01-03T05:37:52.023Z</updated>
         <content type="html"><![CDATA[《教父》电影中有句话：“千万不要让外人知道你想干什么”，这句话似乎也可以用在苹果2023年前11个月的AI表现上。今年5月，外媒报道苹果担心ChatGPT、Copilot等AI工具收集机密数据，禁止员工在工作中使用。今年6月，在苹果全球开发者大会上，库克甚至都没提AI，而是同义替换为ML。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传奇投资者罗杰斯：崩盘即将到来 我想做空“七巨头”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1407703.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1407703.htm"/>
-        <updated>2023-12-29T09:51:17.000Z</updated>
-        <content type="html"><![CDATA[传奇投资者吉姆·罗杰斯预计，资产价格将暴跌，经济灾难将来临，并计划在时机成熟时通过做空特斯拉和英伟达等股市宠儿来获利。罗杰斯在最近的一次采访中表示：“债券是泡沫，许多国家的房地产也是泡沫，股市正准备迎接泡沫。”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[无人机只能飞120米了吗 大疆官方详解无人机新规]]></title>
@@ -85,18 +106,18 @@ GPT-4“现在是寒假”，它就会变得懒懒散散，仿佛进入了一种
         <content type="html"><![CDATA[1月1日起，多部新的法律法规将正式施行，涉及我们日常生活的多个方面。其中，《无人驾驶航空器飞行管理暂行条例》方面，加强对无人驾驶航空器设计、生产、维修、组装等的适航管理和质量管控。同时建立产品识别码和所有者实名登记制度，明确使用单位和操控人员资质要求。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大增33.6%超越戴尔 华为首次拿下全闪存全球份额第一]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1407727.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1407727.htm"/>
-        <updated>2023-12-29T10:16:28.000Z</updated>
-        <content type="html"><![CDATA[近日，市场研究机构Gartner发布了2023年Q3外部存储市场报告，在全闪存（SSA）市场领域，<strong>华为大增33.6%，历史上第一次超过戴尔拿下全球份额第一。</strong>报告显示，2023年第三季度，在全闪存市场领域，<strong>戴尔下滑了26.1%，与此对应的则是华为大幅上升33.6%。</strong>]]></content>
+        <title type="html"><![CDATA[拆解报告显示华为5纳米制程麒麟9006C笔记本芯片产自台积电而非中芯国际]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409325.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409325.htm"/>
+        <updated>2024-01-06T05:38:02.774Z</updated>
+        <content type="html"><![CDATA[针对华为技术有限公司最新款笔记本电脑的拆解显示，该设备使用的芯片来自台湾，而并非中国大陆。研究公司TechInsights在为彭博新闻社拆解该设备后发现，青云L540笔记本内置的是台积电2020年生产的5纳米芯片，而美国制裁切断华为与芯片制造商的联系正是在这前后，这意味着至少这一批次的5纳米制程部件与华为的国内芯片制造合作伙伴中芯国际无关。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[联通宽带突然上传限速遭大量用户投诉：你被PCDN了吗]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1408829.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1408829.htm"/>
-        <updated>2024-01-05T05:38:07.277Z</updated>
-        <content type="html"><![CDATA[最近，不少联通的宽带用户反馈遇到了上传被限速的情况。具体表现为，<strong>上传带宽突然被限制在5Mbps以下，且没有任何通知，对上网体验造成不小困扰。</strong>这种情况并非个案。早在去年11月份，@黑猫投诉 就曾报道，<strong>大量用户在黑猫投诉平台反馈河南联通宽带存在擅自限速、降速的情况，消费者表示在不知情的情况下，被河南联通公司开通了“PCDN业务”，限制宽带上行速率5mbps，严重影响用网体验。</strong>]]></content>
+        <title type="html"><![CDATA[广州电动自行车限行新规今起正式开罚：首日大量人员违规]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1408475.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1408475.htm"/>
+        <updated>2024-01-05T05:38:07.284Z</updated>
+        <content type="html"><![CDATA[2023年12月15日，&nbsp;《广州市人民政府关于电动自行车通行管理措施的通告》正式实施，设置为期半个月的宣传劝导期。今日起，<strong>广州交警部门正式对违反电动自行车通行管理措施的电动自行车驾驶人依法予以处罚。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全新丰田凯美瑞开启预售：17.38万元起]]></title>
@@ -120,31 +141,10 @@ GPT-4“现在是寒假”，它就会变得懒懒散散，仿佛进入了一种
         <content type="html"><![CDATA[一条游弋在北海的鲱鱼、一只在瓦登海上窜来窜去的螃蟹、或一条依偎在珊瑚礁中的小丑鱼......生物学家通常用不同物种来概念自然界，每个物种都在全球生态系统错综复杂的食物网中扮演着独特的角色。"但这肯定是过于简单化的想法，"国家海洋研究所研究员安娜-博恩-托里霍斯及其同事在本月《寄生虫学趋势》科学杂志的封面故事中说。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX将发射首批6颗直连手机卫星：覆盖全球 不换手机就能用]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1408745.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1408745.htm"/>
-        <updated>2024-01-05T05:38:07.283Z</updated>
-        <content type="html"><![CDATA[据SpaceX的官方账号介绍，他们将首次发射6颗具有直连手机能力的星链卫星，这将进一步促进全球连接并帮助消除（通信）死区。马斯克亲自转发了这条帖子称：]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广州电动自行车限行新规今起正式开罚：首日大量人员违规]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1408475.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1408475.htm"/>
-        <updated>2024-01-05T05:38:07.284Z</updated>
-        <content type="html"><![CDATA[2023年12月15日，&nbsp;《广州市人民政府关于电动自行车通行管理措施的通告》正式实施，设置为期半个月的宣传劝导期。今日起，<strong>广州交警部门正式对违反电动自行车通行管理措施的电动自行车驾驶人依法予以处罚。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot Chat 现已面向开发者和组织全面开放]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1407895.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1407895.htm"/>
-        <updated>2023-12-30T02:20:29.000Z</updated>
-        <content type="html"><![CDATA[今年 7 月，微软旗下的软件开发者服务 GitHub 推出了 GitHub Copilot Chat 聊天机器人有限功能测试版。9 月，该测试版面向 GitHub 的所有个人开发者开放。后来，GitHub 又透露将于 12 月全面推出该功能。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最让人绝望的解释：史上最严重的物种大灭绝只是因为一次基因转移]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1408047.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1408047.htm"/>
-        <updated>2024-01-04T05:38:14.014Z</updated>
-        <content type="html"><![CDATA[当谈论地球的大灭绝事件的时候，我们经常联想到地球上曾经出现过五次惨绝人寰的大灭绝事件，以及我们最熟悉的恐龙在最近一次大灭绝中消失。人们对大灭绝的定义是在短地质时间内（不到280万年），就有四分之三的物种消失，就目前来地球上只有五个时期符合要求。]]></content>
+        <title type="html"><![CDATA[董明珠设计的格力玫瑰空调被吐槽又贵又土 官方回应：国际领先 获奖无数]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409043.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409043.htm"/>
+        <updated>2024-01-06T05:38:02.784Z</updated>
+        <content type="html"><![CDATA[最近董明珠亲自设计的格力玫瑰空调引发网友争议，被吐槽90年代的审美，而且售价29999元，太过昂贵。对此，格力官方进行了回应：“予人玫瑰，手有余香。玫瑰空调不仅是格力送给所有用户的艺术品，同时也展示了格力‘让世界爱上中国造’的美好愿景。”]]></content>
     </entry>
 </feed>
