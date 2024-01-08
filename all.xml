@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-07T17:38:45.005Z</updated>
+    <updated>2024-01-08T05:38:10.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S24+在沃尔玛意外提前上架 (cnbeta一周点击排行)]]></title>
@@ -33,11 +33,11 @@
         <content type="html"><![CDATA[据SpaceX的官方账号介绍，他们将首次发射6颗具有直连手机能力的星链卫星，这将进一步促进全球连接并帮助消除（通信）死区。马斯克亲自转发了这条帖子称：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信安卓版8.0.45正式发布：2024年首次升级 界面大改 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1408641.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1408641.htm"/>
-        <updated>2024-01-03T09:05:36.000Z</updated>
-        <content type="html"><![CDATA[从微信官网获悉，<strong>微信安卓版日前迎来8.0.45正式版更新，这也是2024年首次版本升级。</strong>关于更新内容，依然是那9个字：“修复了一些已知问题”。虽然官方没有公布具体更新内容，但更新微信安卓版8.0.45后发现，这一版界面迎来全新改版。]]></content>
+        <title type="html"><![CDATA[董明珠设计的格力玫瑰空调被吐槽又贵又土 官方回应：国际领先 获奖无数 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409043.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409043.htm"/>
+        <updated>2024-01-06T05:38:02.784Z</updated>
+        <content type="html"><![CDATA[最近董明珠亲自设计的格力玫瑰空调引发网友争议，被吐槽90年代的审美，而且售价29999元，太过昂贵。对此，格力官方进行了回应：“予人玫瑰，手有余香。玫瑰空调不仅是格力送给所有用户的艺术品，同时也展示了格力‘让世界爱上中国造’的美好愿景。”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S24系列官宣 全面迈入AI时代 (cnbeta一周点击排行)]]></title>
@@ -47,27 +47,18 @@
         <content type="html"><![CDATA[据三星官方消息，三星宣布将于1月18日发布Galaxy S24系列，<strong>本次发布会将会同时推出Galaxy S24、Galaxy S24+和Galaxy S24 Ultra。</strong>这次发布会主题是“AI”，<strong>三星官方表示，一起迎接Galaxy AI时代，从您生活中重要的电子设备开始，释放全新的创造力、生产力和可能性，Galaxy S24系列就是属于你的AI手机。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[微信安卓版8.0.45正式发布：2024年首次升级 界面大改 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1408641.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1408641.htm"/>
+        <updated>2024-01-03T09:05:36.000Z</updated>
+        <content type="html"><![CDATA[从微信官网获悉，<strong>微信安卓版日前迎来8.0.45正式版更新，这也是2024年首次版本升级。</strong>关于更新内容，依然是那9个字：“修复了一些已知问题”。虽然官方没有公布具体更新内容，但更新微信安卓版8.0.45后发现，这一版界面迎来全新改版。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[联通宽带突然上传限速遭大量用户投诉：你被PCDN了吗 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1408829.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1408829.htm"/>
         <updated>2024-01-05T05:38:07.277Z</updated>
         <content type="html"><![CDATA[最近，不少联通的宽带用户反馈遇到了上传被限速的情况。具体表现为，<strong>上传带宽突然被限制在5Mbps以下，且没有任何通知，对上网体验造成不小困扰。</strong>这种情况并非个案。早在去年11月份，@黑猫投诉 就曾报道，<strong>大量用户在黑猫投诉平台反馈河南联通宽带存在擅自限速、降速的情况，消费者表示在不知情的情况下，被河南联通公司开通了“PCDN业务”，限制宽带上行速率5mbps，严重影响用网体验。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这是GPT-4“变笨”的新解释 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1408259.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1408259.htm"/>
-        <updated>2024-01-03T05:37:52.041Z</updated>
-        <content type="html"><![CDATA[变笨的本质是知识没进脑子。自发布以来，曾被认为是世界上最强大的 GPT-4 也经历了多场“信任危机”。如果说今年早些时候那次“间歇式降智”与
-OpenAI 重新设计 GPT-4 架构有关，前段时间的“变懒”传闻就更搞笑了，有人测出只要告诉
-GPT-4“现在是寒假”，它就会变得懒懒散散，仿佛进入了一种冬眠状态。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[董明珠设计的格力玫瑰空调被吐槽又贵又土 官方回应：国际领先 获奖无数 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409043.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409043.htm"/>
-        <updated>2024-01-06T05:38:02.784Z</updated>
-        <content type="html"><![CDATA[最近董明珠亲自设计的格力玫瑰空调引发网友争议，被吐槽90年代的审美，而且售价29999元，太过昂贵。对此，格力官方进行了回应：“予人玫瑰，手有余香。玫瑰空调不仅是格力送给所有用户的艺术品，同时也展示了格力‘让世界爱上中国造’的美好愿景。”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S24 Ultra官方海报首次现身 (cnbeta一周点击排行)]]></title>
@@ -77,11 +68,13 @@ GPT-4“现在是寒假”，它就会变得懒懒散散，仿佛进入了一种
         <content type="html"><![CDATA[三星Galaxy S24 Ultra官方海报在社交平台上流出，<strong>这是三星迄今为止最强悍的高端旗舰。</strong>如图所示，Galaxy S24 Ultra整体工业设计跟上代区别不大，最重要升级点是边框换成了钛合金材质，支持S Pen手写笔。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果AI“图穷匕见”：将大模型塞进iPhone里 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1408129.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1408129.htm"/>
-        <updated>2024-01-03T05:37:52.023Z</updated>
-        <content type="html"><![CDATA[《教父》电影中有句话：“千万不要让外人知道你想干什么”，这句话似乎也可以用在苹果2023年前11个月的AI表现上。今年5月，外媒报道苹果担心ChatGPT、Copilot等AI工具收集机密数据，禁止员工在工作中使用。今年6月，在苹果全球开发者大会上，库克甚至都没提AI，而是同义替换为ML。]]></content>
+        <title type="html"><![CDATA[这是GPT-4“变笨”的新解释 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1408259.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1408259.htm"/>
+        <updated>2024-01-03T05:37:52.041Z</updated>
+        <content type="html"><![CDATA[变笨的本质是知识没进脑子。自发布以来，曾被认为是世界上最强大的 GPT-4 也经历了多场“信任危机”。如果说今年早些时候那次“间歇式降智”与
+OpenAI 重新设计 GPT-4 架构有关，前段时间的“变懒”传闻就更搞笑了，有人测出只要告诉
+GPT-4“现在是寒假”，它就会变得懒懒散散，仿佛进入了一种冬眠状态。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[无人机只能飞120米了吗 大疆官方详解无人机新规 (cnbeta一周点击排行)]]></title>
@@ -105,6 +98,13 @@ GPT-4“现在是寒假”，它就会变得懒懒散散，仿佛进入了一种
         <content type="html"><![CDATA[近日，大众集团旗下专注电池业务的子公司PowerCo，使用QuantumScape固态电池完成了一项耐力测试，结果证明，<strong>固态电池可实现50万公里的超长寿命，并且几乎不会出现续航衰减</strong>！据了解，QuantumScape是一家深耕固态电池研发公司，致力于打造可扩展、高能量密度的固态电池，在大众集团的支持下，QuantumScape在固态电池领域取得了长足进步，也成为业内最具前景的项目之一。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[特斯拉Model S/X/Y多款车型官方续航里程下调 原因公布 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409359.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409359.htm"/>
+        <updated>2024-01-08T05:38:09.515Z</updated>
+        <content type="html"><![CDATA[特斯拉周四修改了对<strong>部分版本的Model S、X、Y车型的续航里程估计</strong>，部分车型的续航里程比之前要低，但是价格未变。据特斯拉国外网站显示，Model Y 标准版续航里程从原来的260英里降至<strong>242-260英</strong>里；Model Y长续航版续航里程从原来的310英里降至<strong>292-310英里</strong>；而Model Y性能版续航里程从303英里降至<strong>285英里</strong>。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全新丰田凯美瑞开启预售：17.38万元起 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1408221.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1408221.htm"/>
@@ -117,13 +117,6 @@ GPT-4“现在是寒假”，它就会变得懒懒散散，仿佛进入了一种
         <link href="https://www.cnbeta.com.tw/articles/tech/1408899.htm"/>
         <updated>2024-01-04T09:46:42.000Z</updated>
         <content type="html"><![CDATA[作为中国半导体产业教父般的存在，张汝京每一次的出现几乎都会引发半导体圈的热议。11月28日，现身在海口的张汝京，他的新身份是海南航芯高科技产业园项目的创始人与总顾问。当天的一篇题为《海南：布局“芯”产业 引育“芯”动能》的稿件中，引用了张汝京的一句话：<strong>“汽车芯片、航空芯片等几乎都在整机大厂生产，但国内很少，于是我们提出了CIDM的概念。”</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国最长海底道路隧道主线开始穿海：主线全长14.37公里 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1408163.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1408163.htm"/>
-        <updated>2024-01-07T05:38:05.009Z</updated>
-        <content type="html"><![CDATA[<strong>据国资小新官微发文称，世界上建设规模最大的海底公路隧道，青岛胶州湾第二隧道正式开启盾构穿海作业。</strong>介绍，此次盾构掘进距离3255米，由青岛港码头内向西海岸掘进，将与钻爆段隧道对接，并在海底洞室内进行盾构机接收、拆解。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一加1月23日将在海外发布新品 OnePlus 12国际版无缘24GB大内存 (cnbeta一周点击排行)]]></title>
@@ -140,10 +133,17 @@ GPT-4“现在是寒假”，它就会变得懒懒散散，仿佛进入了一种
         <content type="html"><![CDATA[每个智能手机用户都痛恨的一件事就是操作系统里装的各种无用软件，虽然我们已经看到操作系统有了很多改进，但仍有很多事情需要处理。值得庆幸的是，Android 14 似乎有一项功能可以让你摆脱臃肿软件的困扰，不仅如此，这项新发现实际上还有助于延长手机的电池寿命。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wi-Fi 7 正在解决通信业界关注的新重点：稳定性 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1408147.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1408147.htm"/>
-        <updated>2024-01-07T05:38:05.013Z</updated>
-        <content type="html"><![CDATA[Wi-Fi 是最令人苦恼的成功案例之一。尽管这项技术已经在我们的生活中无处不在，但它仍然让人有理由抱怨： 例如，服务不稳定、速度慢，或者网络总是中断，总结一下就是它的可靠性存在形象问题。]]></content>
+        <title type="html"><![CDATA[中国使用22nm造出256核心芯片 目标1600核心 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409205.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409205.htm"/>
+        <updated>2024-01-05T10:43:26.000Z</updated>
+        <content type="html"><![CDATA[中国科学院计算技术研究所已经造出了多达256核心的大型芯片，而未来目标是最多做到1600核心，为此将用上整个晶圆，也就是“晶圆级芯片”。这一芯片被命名为“浙江”，采用了近年来流行的chiplet芯粒布局，<strong>分成16个芯粒，而每个芯粒内有16个RISC-V架构核心，总计256核心</strong>，都支持可编程、可重新配置。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android将启用新Logo：机器人3D化、字体更圆润 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409301.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409301.htm"/>
+        <updated>2024-01-08T05:38:09.542Z</updated>
+        <content type="html"><![CDATA[<strong>据博主Mishaal Rahman分享的图片，谷歌将会启用新版安卓Logo。</strong>据了解，新款安卓Logo调整了安卓机器人，<strong>使原来的机器人图标更加具有立体感，另外“android”字体也变得更加紧凑且圆润。</strong>]]></content>
     </entry>
 </feed>
