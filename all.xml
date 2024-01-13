@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-12T17:38:11.762Z</updated>
+    <updated>2024-01-13T05:38:19.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[装配“龙虾眼”的中科院-欧空局爱因斯坦探针卫星将在1月9日下午3点发射 (cnbeta一周点击排行)]]></title>
@@ -12,13 +12,6 @@
         <content type="html"><![CDATA[由中国科学院国家空间科学中心、欧洲空间局及马克普朗克地外物理研究所合作的空间探测卫星 “爱因斯坦探针” 将在 2024 年 1 月 9 日
 15:00 搭乘长征二号丙火箭在西昌卫星发射中心发射升空。爱因斯坦探针是一颗宽视场 X 射线太空观测卫星，其主要任务是在软 X
 射线波段开展大视场时域巡天监测、只在系统性地发现宇宙高能瞬变并检测可变天体、监测天体活动性、探索其本质和物理过程。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拆解报告显示华为5纳米制程麒麟9006C笔记本芯片产自台积电而非中芯国际 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409325.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409325.htm"/>
-        <updated>2024-01-06T05:38:02.774Z</updated>
-        <content type="html"><![CDATA[针对华为技术有限公司最新款笔记本电脑的拆解显示，该设备使用的芯片来自台湾，而并非中国大陆。研究公司TechInsights在为彭博新闻社拆解该设备后发现，青云L540笔记本内置的是台积电2020年生产的5纳米芯片，而美国制裁切断华为与芯片制造商的联系正是在这前后，这意味着至少这一批次的5纳米制程部件与华为的国内芯片制造合作伙伴中芯国际无关。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[明年起将连续5年没有年三十 (cnbeta一周点击排行)]]></title>
@@ -35,67 +28,19 @@
         <content type="html"><![CDATA[小米最新在海外宣布，POCO X6 Pro手机定档1月11日发布。该机将搭载Hyper OS（澎湃OS），这也是澎湃OS首次出海，未来也将在海外市场全面替代MIUI系统。根据认证信息显示，POCO X6 Pro将搭载联发科天玑8300 Ultra处理器，也就是国内的Redmi K70E。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉Model S/X/Y多款车型官方续航里程下调 原因公布 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409359.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409359.htm"/>
-        <updated>2024-01-08T05:38:09.515Z</updated>
-        <content type="html"><![CDATA[特斯拉周四修改了对<strong>部分版本的Model S、X、Y车型的续航里程估计</strong>，部分车型的续航里程比之前要低，但是价格未变。据特斯拉国外网站显示，Model Y 标准版续航里程从原来的260英里降至<strong>242-260英</strong>里；Model Y长续航版续航里程从原来的310英里降至<strong>292-310英里</strong>；而Model Y性能版续航里程从303英里降至<strong>285英里</strong>。]]></content>
+        <title type="html"><![CDATA[三星展示全新折叠屏技术 支持360°双向折叠 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1410433.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1410433.htm"/>
+        <updated>2024-01-13T05:38:19.028Z</updated>
+        <content type="html"><![CDATA[<strong>三星在CES 2024上公布了多款屏幕新品，其中有一款名为In&amp;Out Flip的OLED屏幕，它可实现360°双向折叠，投入应用后可改变折叠屏手机形态。</strong>根据官方介绍，In&amp;Out Flip OLED屏幕可以向内和向外折叠，可折叠角度高达360°。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国使用22nm造出256核心芯片 目标1600核心 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409205.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409205.htm"/>
-        <updated>2024-01-05T10:43:26.000Z</updated>
-        <content type="html"><![CDATA[中国科学院计算技术研究所已经造出了多达256核心的大型芯片，而未来目标是最多做到1600核心，为此将用上整个晶圆，也就是“晶圆级芯片”。这一芯片被命名为“浙江”，采用了近年来流行的chiplet芯粒布局，<strong>分成16个芯粒，而每个芯粒内有16个RISC-V架构核心，总计256核心</strong>，都支持可编程、可重新配置。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广州铁一中学花费4万元用破解Wii“帮学生宣泄情绪” (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/funny/1409741.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/funny/1409741.htm"/>
-        <updated>2024-01-08T09:58:17.000Z</updated>
-        <content type="html"><![CDATA[随着社会的快速发展和竞争的不断加剧，学生们面临着越来越大的心理压力。为了帮助学生们有效地应对心理压力，学校采取了一系列措施。广州市铁一中学是位于广州市的一所知名学府，以其优质的教学质量和丰富的教育资源而闻名。最近，有学生在网上曝光，该校采购了“智能互动情绪宣泄仪”帮助学生们释放压力。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信被指“偷窥”相册，马化腾回应 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409797.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409797.htm"/>
-        <updated>2024-01-10T05:38:08.784Z</updated>
-        <content type="html"><![CDATA[近日，关于微信在后台反复读取用户相册的事件再次被翻出，腾讯集团执行董事、董事会主席兼首席执行官马化腾在回复媒体询问时表示：<strong>“应该是2021年10月的事了，图片缓存加速造成的误会，后面应该用 iOS 新的解决卡顿的 API 解决了。”</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD正式发布桌面锐龙8000G APU：核显遥遥领先 碾压对手4.6倍 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409969.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409969.htm"/>
-        <updated>2024-01-11T05:38:15.487Z</updated>
-        <content type="html"><![CDATA[<strong>时隔长达2年9个月，AMD终于升级了桌面APU产品线，带来了全新的锐龙8000G系列，这也是第五代桌面锐龙APU。</strong>2021年4月份的上一代还叫做锐龙5000G系列，基于7nm工艺、Zen3 CPU架构、Vega GPU架构、AM4封装接口，支持DDR4内存、PCIe 3.0通道。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佳能顶级微单相机EOS R1一季度发布 拥有迄今为止最高的分辨率 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409847.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409847.htm"/>
-        <updated>2024-01-11T05:38:15.482Z</updated>
-        <content type="html"><![CDATA[<strong>据外媒报道，佳能EOS R1将在2024年第一季度发布、第二季度上市销售。</strong>作为顶级微单相机，EOS R1将采用类似EOS R3的正方形造型，但尺寸可能会比EOS R3更为巨大，同时多处进行了新设计。据传，EOS R1在佳能内部被称为“全能相机”，其在制造过程中采用了大量全新的零件。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完美隐形 LG推出全球首款无线透明OLED电视 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409875.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409875.htm"/>
-        <updated>2024-01-11T05:38:15.486Z</updated>
-        <content type="html"><![CDATA[在CES 2024大会上，<strong>LG推出了全球首款无线透明OLED电视——LG Signature OLED T，在关闭时其OLED屏幕堪称完美隐形。</strong>据介绍，这款电视通过<strong>将透明OLED技术与无线音视频传输和接收功能相结合，</strong>在做到透明屏幕的同时，还彻底摆脱了杂乱的电线困扰。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紫米官方：小米旗下子公司“江苏紫米”侵犯商标权 已起诉 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409455.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409455.htm"/>
-        <updated>2024-01-06T10:22:51.000Z</updated>
-        <content type="html"><![CDATA[前些年小米生态链品牌“紫米”推出了一系列移动电源、电池、充电器等口碑极好的产品，但是却遇上商标等问题。<strong>目前市面上主要有两个紫米品牌，其一是“紫米官方”（深圳市紫米迅驰网络科技有限公司），英文名为zime。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android将启用新Logo：机器人3D化、字体更圆润 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409301.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409301.htm"/>
-        <updated>2024-01-08T05:38:09.542Z</updated>
-        <content type="html"><![CDATA[<strong>据博主Mishaal Rahman分享的图片，谷歌将会启用新版安卓Logo。</strong>据了解，新款安卓Logo调整了安卓机器人，<strong>使原来的机器人图标更加具有立体感，另外“android”字体也变得更加紧凑且圆润。</strong>]]></content>
+        <title type="html"><![CDATA[传华为正在为即将推出的P70旗舰系列开发麒麟9010芯片 沿用7纳米工艺 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1410399.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1410399.htm"/>
+        <updated>2024-01-12T05:38:21.177Z</updated>
+        <content type="html"><![CDATA[P70 系列将是华为今年的首款旗舰产品，包括普通机型、P70 Pro 以及可能的顶级机型 P70 Art。为了使这次发布与 2023 年采用麒麟
+9000S 的 Mate 60 略有不同，一则新的传言称，华为正在为即将推出的旗舰智能手机家族开发一种名为麒麟 9010 的新芯片组。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[官方揭秘：谁领到了中国第一张身份证？ (cnbeta一周点击排行)]]></title>
@@ -105,11 +50,11 @@
         <content type="html"><![CDATA[1月10日消息，据国内媒体报道称，歌唱家单秀荣领到了中国第一张居民身份证。<strong>从1984年开始，身份证制度开始向全国推行。身份证号码是我国每一个公民唯一的、终身不变的身份代码。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果宣布Apple Music古典乐App国区将上线：免费、完全无广告 (cnbeta一周点击排行)]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/music/1410155.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/music/1410155.htm"/>
-        <updated>2024-01-12T05:38:21.172Z</updated>
-        <content type="html"><![CDATA[苹果今日宣布，专为古典音乐设计的独立App：Apple Music古典乐将于1月24日在中国大陆推出本地化版本。据悉，Apple Music已订阅的用户可在1月24日起使用《Apple Music古典乐》，无需额外付费，且全无广告。]]></content>
+        <title type="html"><![CDATA[正在拍摄千年长曝光照片的“千年相机 ” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1410379.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1410379.htm"/>
+        <updated>2024-01-13T05:38:19.039Z</updated>
+        <content type="html"><![CDATA[您现在所在的这片土地在 1000 年前是什么样子？3023 年的人们或许可以一探究竟，这要归功于一个名为"千年相机"的艺术/科学项目，它将为亚利桑那州的沙漠拍摄一张曝光时间极长的照片。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S24系列配色曝光：七种颜色可供选择 (cnbeta一周点击排行)]]></title>
@@ -121,6 +66,55 @@ S24系列新品发布会，届时将会继续同时推出Galaxy S24、Galaxy S24
 Ultra三款机型。现在有最新消息，近日有爆料达人进一步晒出了该系列的配色信息。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[完美隐形 LG推出全球首款无线透明OLED电视 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409875.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409875.htm"/>
+        <updated>2024-01-11T05:38:15.486Z</updated>
+        <content type="html"><![CDATA[在CES 2024大会上，<strong>LG推出了全球首款无线透明OLED电视——LG Signature OLED T，在关闭时其OLED屏幕堪称完美隐形。</strong>据介绍，这款电视通过<strong>将透明OLED技术与无线音视频传输和接收功能相结合，</strong>在做到透明屏幕的同时，还彻底摆脱了杂乱的电线困扰。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[佳能顶级微单相机EOS R1一季度发布 拥有迄今为止最高的分辨率 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409847.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409847.htm"/>
+        <updated>2024-01-11T05:38:15.482Z</updated>
+        <content type="html"><![CDATA[<strong>据外媒报道，佳能EOS R1将在2024年第一季度发布、第二季度上市销售。</strong>作为顶级微单相机，EOS R1将采用类似EOS R3的正方形造型，但尺寸可能会比EOS R3更为巨大，同时多处进行了新设计。据传，EOS R1在佳能内部被称为“全能相机”，其在制造过程中采用了大量全新的零件。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果宣布Apple Music古典乐App国区将上线：免费、完全无广告 (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/music/1410155.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/music/1410155.htm"/>
+        <updated>2024-01-12T05:38:21.172Z</updated>
+        <content type="html"><![CDATA[苹果今日宣布，专为古典音乐设计的独立App：Apple Music古典乐将于1月24日在中国大陆推出本地化版本。据悉，Apple Music已订阅的用户可在1月24日起使用《Apple Music古典乐》，无需额外付费，且全无广告。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信被指“偷窥”相册，马化腾回应 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409797.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409797.htm"/>
+        <updated>2024-01-10T05:38:08.784Z</updated>
+        <content type="html"><![CDATA[近日，关于微信在后台反复读取用户相册的事件再次被翻出，腾讯集团执行董事、董事会主席兼首席执行官马化腾在回复媒体询问时表示：<strong>“应该是2021年10月的事了，图片缓存加速造成的误会，后面应该用 iOS 新的解决卡顿的 API 解决了。”</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广州铁一中学花费4万元用破解Wii“帮学生宣泄情绪” (cnbeta一周点击排行)]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1409741.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1409741.htm"/>
+        <updated>2024-01-08T09:58:17.000Z</updated>
+        <content type="html"><![CDATA[随着社会的快速发展和竞争的不断加剧，学生们面临着越来越大的心理压力。为了帮助学生们有效地应对心理压力，学校采取了一系列措施。广州市铁一中学是位于广州市的一所知名学府，以其优质的教学质量和丰富的教育资源而闻名。最近，有学生在网上曝光，该校采购了“智能互动情绪宣泄仪”帮助学生们释放压力。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD正式发布桌面锐龙8000G APU：核显遥遥领先 碾压对手4.6倍 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409969.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409969.htm"/>
+        <updated>2024-01-11T05:38:15.487Z</updated>
+        <content type="html"><![CDATA[<strong>时隔长达2年9个月，AMD终于升级了桌面APU产品线，带来了全新的锐龙8000G系列，这也是第五代桌面锐龙APU。</strong>2021年4月份的上一代还叫做锐龙5000G系列，基于7nm工艺、Zen3 CPU架构、Vega GPU架构、AM4封装接口，支持DDR4内存、PCIe 3.0通道。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紫米官方：小米旗下子公司“江苏紫米”侵犯商标权 已起诉 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409455.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409455.htm"/>
+        <updated>2024-01-06T10:22:51.000Z</updated>
+        <content type="html"><![CDATA[前些年小米生态链品牌“紫米”推出了一系列移动电源、电池、充电器等口碑极好的产品，但是却遇上商标等问题。<strong>目前市面上主要有两个紫米品牌，其一是“紫米官方”（深圳市紫米迅驰网络科技有限公司），英文名为zime。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[国产邮轮爱达魔都号实测攻略：3个免费餐厅 WiFi 227元/G (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1409939.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1409939.htm"/>
@@ -128,19 +122,31 @@ Ultra三款机型。现在有最新消息，近日有爆料达人进一步晒出
         <content type="html"><![CDATA[日前，国产首艘大型邮轮“爱达·魔都号”已顺利完成首航，<strong>此次航行共计有3000余名乘客，共计7天6晚，途径韩国济州与日本福冈、长崎等地。</strong>随着首航结束，有博主也给出了“爱达·魔都号”邮轮的游玩攻略。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传华为正在为即将推出的P70旗舰系列开发麒麟9010芯片 沿用7纳米工艺 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1410399.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1410399.htm"/>
-        <updated>2024-01-12T05:38:21.177Z</updated>
-        <content type="html"><![CDATA[P70 系列将是华为今年的首款旗舰产品，包括普通机型、P70 Pro 以及可能的顶级机型 P70 Art。为了使这次发布与 2023 年采用麒麟
-9000S 的 Mate 60 略有不同，一则新的传言称，华为正在为即将推出的旗舰智能手机家族开发一种名为麒麟 9010 的新芯片组。]]></content>
+        <title type="html"><![CDATA[六年前关于是否将Linux内核从C语言转换为现代C++语言的讨论再次被提及 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1410453.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1410453.htm"/>
+        <updated>2024-01-13T05:38:19.065Z</updated>
+        <content type="html"><![CDATA[关于将 Linux 内核转换为支持现代 C++ 代码的前景，一个已有六年历史的 Linux 内核邮件列表讨论再次被点燃。现有的Linux
+内核主要由 C 代码和各种手工编写的汇编语言构成，加上 Linux 内核支持 Rust
+的工作也在不断增加。虽然目前还不清楚是否有足够的力量将其变为现实，但 Linux 内核社区邮件列表已重启讨论，探讨未来将 Linux 内核 C
+代码转换为 C++ 的可能性。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVIDIA RTX 5880 Ada发布：14080 个核心、48 GB GDDR6、285W TDP (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1409327.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1409327.htm"/>
-        <updated>2024-01-09T05:38:21.223Z</updated>
-        <content type="html"><![CDATA[上个月，英伟达 RTX 5880 Ada 显卡首次出现在最新的 RTX Enterprise 537.99 驱动程序中。现在，英伟达正式公布了这款显卡的规格，其核心配置有所缩减，其他规格保持不变。这款显卡的设计也符合美国的出口政策，它是 RTX 6000 Ada 的缩减版，核心更少，功耗更低，其规格被削减，以确保其不超过 4800 点的 TPP（总处理性能）上限。]]></content>
+        <title type="html"><![CDATA[飞机票退改规则有变化：南航之后东航也调了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409491.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409491.htm"/>
+        <updated>2024-01-13T05:38:19.066Z</updated>
+        <content type="html"><![CDATA[<strong>中国东方航空发布公告，将于2024年1月10日起调整客票退改规则。</strong>在此次新调整的客票退改规则中，东航扩大了客票非自愿变更或退票申请的适用场景，包括<strong>扩大客票免费退改范围、放宽因病旅客退改规则、新增票价波动的退票规则、新增非连续客票的非自愿退改规则</strong>等。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M3 iPad Pro OLED面板获分析师好评 新型号将采用多种行业首创技术 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1409667.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1409667.htm"/>
+        <updated>2024-01-13T05:38:19.067Z</updated>
+        <content type="html"><![CDATA[苹果公司曾多次被报道将在今年晚些时候首次为 M3 iPad Pro 机型引入 OLED 技术。DSCC （Display Supply
+Chain Consultants，显示屏供应链咨询公司）首席执行官罗斯-扬（Ross
+Young）对即将推出的平板电脑显示屏进行了例行更新，并认为苹果将首次为该系列的同类产品引入各种技术。因此，这位分析师对 OLED
+面板给予了高度评价。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[沙特发现世界级金矿 矿脉长达125公里 (cnbeta一周点击排行)]]></title>
