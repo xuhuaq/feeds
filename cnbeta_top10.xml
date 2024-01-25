@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-01-24T17:39:05.234Z</updated>
+    <updated>2024-01-25T05:38:13.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -42,6 +42,13 @@ NVIDIA 的声明不谋而合，尽管在这个高度互联的行业中，供应�
         <content type="html"><![CDATA[据国内媒体消息，英伟达CEO黄仁勋已于本周来到中国大陆，陆续参加了在北京、上海、深圳的年会。一些社交媒体传播的照片显示，黄仁勋穿上“东北大花”，参加中国区年会并参演节目。据了解，这是黄仁勋时隔数年首次访问中国大陆。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Windows 11已被NTDEV极限缩减至100MB 图形界面也被舍弃]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1413341.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1413341.htm"/>
+        <updated>2024-01-23T11:03:33.000Z</updated>
+        <content type="html"><![CDATA[Tiny11 的开发者 NTDEV 将他们的 Windows 调整技术推向了新的极限，创造出了最小巧的 Windows 11 版本。遗憾的是，该操作系统只能勉强运行，但仍能进行多任务处理，并部分支持批处理命令。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AMD取消CPU上的台湾制造标识 称改变并非为了讨好中国大陆]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1412631.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1412631.htm"/>
@@ -49,11 +56,11 @@ NVIDIA 的声明不谋而合，尽管在这个高度互联的行业中，供应�
         <content type="html"><![CDATA[本月早些时候，有消息称 AMD 在其消费级 Ryzen 7000 桌面 PC 处理器上取消了所有提及其芯片由台湾制造的标记，此举在很大程度上被认为是对中华人民共和国要求的回应。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为手机子品牌“星耀”浮现 主攻性价比]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1411823.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1411823.htm"/>
-        <updated>2024-01-17T10:08:46.000Z</updated>
-        <content type="html"><![CDATA[华为手机正在筹备新的大招，那就是自己的新子品牌。从申请的商标看，搞了一个新的子品牌“星耀”，据说将和当年荣耀初期一样，主打线上，走性价比路线，定位1500-3500左右价位段。如果真是如此的话，那么这对于其他厂商来说，绝对不是一个好消息。]]></content>
+        <title type="html"><![CDATA[“奇葩”米哈游：撒币24亿元 赶跑了250万玩家]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1413281.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1413281.htm"/>
+        <updated>2024-01-23T10:00:53.000Z</updated>
+        <content type="html"><![CDATA[<strong>3个日夜，《原神》遭到了250万玩家的抛弃。他们纷纷取关，《原神》抖音官方账号从1100万暴跌到852万。据新浪科技统计，光昨天一天，又有52.6万人选择了取关。</strong>究竟发生了什么让大家如此气愤？事情源自近日米哈游的一场前瞻预告直播。它向外界介绍即将发布《原神》4.4新版本角色和活动福利。称“为感谢玩家们一年来的支持，将为旅行者们奉上3个纠缠之缘！”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Galaxy S24 Ultra超越iPhone 15 Pro Max 在电池消耗测试中大幅领先S23 Ultra]]></title>
@@ -66,11 +73,18 @@ NVIDIA 的声明不谋而合，尽管在这个高度互联的行业中，供应�
 也很难在旗舰机领域超越其最新的竞争对手。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[时隔4年支付宝换新LOGO了：外框与文字统统砍掉]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1412431.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1412431.htm"/>
-        <updated>2024-01-19T10:26:13.000Z</updated>
-        <content type="html"><![CDATA[支付宝推出全新的品牌Logo。据支付宝官微表示，<strong>新标识以“开放、科技、温暖”为理念进行设计，以此升级其品牌形象。</strong>支付宝新Logo最大的变化在于：<strong>去掉了外框与文字，仅保留最具辨识度的“支”字标识</strong>；整体的线条更流畅柔和，并引入立体光，增加通透感和流动感。]]></content>
+        <title type="html"><![CDATA[黄仁勋在英伟达年会抽奖 中奖人名叫“华为”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1413063.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1413063.htm"/>
+        <updated>2024-01-24T05:38:15.295Z</updated>
+        <content type="html"><![CDATA[1月22日消息，据网友晒出的图片，英伟达CEO黄仁勋上周到访中国大陆，看望英伟达北京、上海、深圳三处办公室员工并参加年会。<strong>而据相关网友晒出的视频，英伟达年会上举行了抽奖活动，黄仁勋开奖，而中奖人居然名叫“华为”。有网友吐槽称：这波建议严查内鬼！</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产三蹦子在美国订单猛增 这个电动三轮车究竟是什么来头？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1412931.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1412931.htm"/>
+        <updated>2024-01-22T03:52:53.000Z</updated>
+        <content type="html"><![CDATA[前段时间，国产电动三轮车在美国小镇非常受欢迎的有趣视频，在网络上引发关注。从轻便的车辆造型，到“倒车请注意”的提示音，都引起了美国当地人的好奇。那么，这个电动三轮车究竟是什么来头？一起来看看。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Galaxy S24 Ultra摄像头最大变焦模式下与S23 Ultra样张对比 改进不大]]></title>
@@ -82,18 +96,25 @@ NVIDIA 的声明不谋而合，尽管在这个高度互联的行业中，供应�
 100 倍摄像头拍摄出的图像亮度较低，在显示文字时细节也有所减少。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国产三蹦子在美国订单猛增 这个电动三轮车究竟是什么来头？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1412931.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1412931.htm"/>
-        <updated>2024-01-22T03:52:53.000Z</updated>
-        <content type="html"><![CDATA[前段时间，国产电动三轮车在美国小镇非常受欢迎的有趣视频，在网络上引发关注。从轻便的车辆造型，到“倒车请注意”的提示音，都引起了美国当地人的好奇。那么，这个电动三轮车究竟是什么来头？一起来看看。]]></content>
+        <title type="html"><![CDATA[时隔4年支付宝换新LOGO了：外框与文字统统砍掉]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1412431.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1412431.htm"/>
+        <updated>2024-01-19T10:26:13.000Z</updated>
+        <content type="html"><![CDATA[支付宝推出全新的品牌Logo。据支付宝官微表示，<strong>新标识以“开放、科技、温暖”为理念进行设计，以此升级其品牌形象。</strong>支付宝新Logo最大的变化在于：<strong>去掉了外框与文字，仅保留最具辨识度的“支”字标识</strong>；整体的线条更流畅柔和，并引入立体光，增加通透感和流动感。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黄仁勋在英伟达年会抽奖 中奖人名叫“华为”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1413063.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1413063.htm"/>
-        <updated>2024-01-24T05:38:15.295Z</updated>
-        <content type="html"><![CDATA[1月22日消息，据网友晒出的图片，英伟达CEO黄仁勋上周到访中国大陆，看望英伟达北京、上海、深圳三处办公室员工并参加年会。<strong>而据相关网友晒出的视频，英伟达年会上举行了抽奖活动，黄仁勋开奖，而中奖人居然名叫“华为”。有网友吐槽称：这波建议严查内鬼！</strong>]]></content>
+        <title type="html"><![CDATA[微软Copilot中的ChatGPT GPT现已免费推出]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1413345.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1413345.htm"/>
+        <updated>2024-01-23T11:08:27.000Z</updated>
+        <content type="html"><![CDATA[备受期待的由 ChatGPT 支持的"GPT"终于可以在免费版的 Microsoft Copilot 中使用了。不过，GPTs 功能并不是Pro订阅的专属功能，它已经开始向普通用户推出。如果你幸运的话，应该已经可以看到一些 GPT元素出现了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂Switch现首款破解卡带：不可被官方屏蔽 兼容所有主机]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/game/1413217.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/game/1413217.htm"/>
+        <updated>2024-01-25T05:38:12.945Z</updated>
+        <content type="html"><![CDATA[据报道，自2017年3月任天堂Switch首次亮相以来，目前一款针对任天堂 Switch 主机的闪存卡“MIG-Switch”已经问世。MIG-Switch能够欺骗Switch主机，令其相信它是真正的游戏卡带，具体方式是把其核心功能，与软件层面隔离开来。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网友在高速服务区偶遇雷军 亲自试驾测试小米SU7]]></title>
@@ -103,28 +124,11 @@ NVIDIA 的声明不谋而合，尽管在这个高度互联的行业中，供应�
         <content type="html"><![CDATA[在高速服务区偶遇雷军是一种什么样的体验？日前，<strong>有网友在社交平台晒出了与雷军在高速服务区的合影，并表示“在一个很小的服务区碰到的”。</strong>据悉，当时雷军在高速上亲自试驾测试小米SU7，“亲力亲为让人钦佩”，该网友说道。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星Galaxy S24 和 S24+发布 确认分区域采用Exynos/Snapdragon两种处理器]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1412065.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1412065.htm"/>
-        <updated>2024-01-18T02:22:03.000Z</updated>
-        <content type="html"><![CDATA[三星正在为Galaxy
-S24和S24+手机采用双芯片策略，根据不同的市场采用不同的SoC。今年的划分非常明显，韩国、美国、中国和澳大利亚等市场将采用搭载骁龙 8
-Gen 3 处理器的 Galaxy S24 和 S24+ 手机，而其他市场则将采用三星自主研发的 Exynos 2400
-芯片组，另一方面，S24 Ultra 将在所有地区搭载骁龙 8 Gen 3。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11已被NTDEV极限缩减至100MB 图形界面也被舍弃]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1413341.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1413341.htm"/>
-        <updated>2024-01-23T11:03:33.000Z</updated>
-        <content type="html"><![CDATA[Tiny11 的开发者 NTDEV 将他们的 Windows 调整技术推向了新的极限，创造出了最小巧的 Windows 11 版本。遗憾的是，该操作系统只能勉强运行，但仍能进行多任务处理，并部分支持批处理命令。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度机皇小米14 Ultra渲染图曝光]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1411923.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1411923.htm"/>
-        <updated>2024-01-24T05:38:15.304Z</updated>
-        <content type="html"><![CDATA[博主Kartikey Singh放出了小米14 Ultra渲染图。对比13 Ultra，<strong>小米14 Ultra主要有两大变化，一是金属中框没有延伸到背部，背部由一整块玻璃覆盖。</strong>二是取消了13 Ultra的溜背式设计，整体看起来更加简洁。]]></content>
+        <title type="html"><![CDATA[2024年可能是苹果iPad产品线的大年]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1412961.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1412961.htm"/>
+        <updated>2024-01-22T08:44:36.000Z</updated>
+        <content type="html"><![CDATA[苹果公司的整个 iPad 产品线将在 2024 年迎来大调整，预计会有动态更新和硬件变化。从更大的iPad Air，到 iPad Pro 的 OLED 屏幕，再到更快的 iPad Mini 机型，以下是传言的内容。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[未申报奢侈品手表 施瓦辛格被扣德国机场3小时 面临税务诉讼]]></title>
@@ -141,17 +145,10 @@ Gen 3 处理器的 Galaxy S24 和 S24+ 手机，而其他市场则将采用三�
         <content type="html"><![CDATA[一张网友晒出的图片显示，苹果公司的CEO库克疑似参加了三星刚刚举办的S24系列发布会。目前，在中国市场上，三星手机份额较少，但是从全球范围来看，三星手机的销量一直都是安卓阵营第一，而且长期销量稳压苹果手机，其S系列机型是安卓高端手机的代表，是苹果iPhone最强而有力的竞争对手。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果下周发布iOS 17.3 新款黑色Unity纪念表带现已接受预订]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1412003.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1412003.htm"/>
-        <updated>2024-01-24T05:38:15.308Z</updated>
-        <content type="html"><![CDATA[在发布 Apple Watch 新款黑色 Unity 运动表带的新闻稿中，苹果公司确认 iOS 17.3 将于下周发布。该软件更新包括 iPhone 的三项新功能，详情如下：]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信登顶2024全球最强品牌 超越谷歌、YouTube]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1411953.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1411953.htm"/>
-        <updated>2024-01-23T05:38:04.363Z</updated>
-        <content type="html"><![CDATA[今天，知名品牌价值评估咨询机构Brand Finance发布了2024年全球品牌价值500强报告，<strong>微信以94的BSI评分（满分为100）成为今年全球最强品牌。</strong>报告表示，尽管微信的品牌价值有所下降（下降17%为418亿美元），<strong>但其仍保持了最高的AAA+级的品牌强度评级，</strong>并实现了品牌强度得分的上涨。]]></content>
+        <title type="html"><![CDATA[微信iOS版8.0.46更新：你的手机储存空间有救了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1413293.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1413293.htm"/>
+        <updated>2024-01-23T10:14:28.000Z</updated>
+        <content type="html"><![CDATA[作为一款国民级的应用，微信让人吐槽最多的，恐怕就占用的存储空间太多了，很显然他们也知道这一点。微信发布了iOS版的8.0.46更新中，其实已经带来了调整，存储空间的瘦身功能已经浮出水面。<strong>从更新中可以看到，新版微信将以往其它数据的空间拆分为资源文件和其他账号的聊天记录以及必要文件两大类，所以你可以一键清理资源文件和其他账号的聊天记录，瞬间释放出更多的存储空间。</strong>]]></content>
     </entry>
 </feed>
