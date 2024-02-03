@@ -2,23 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-02T17:48:33.824Z</updated>
+    <updated>2024-02-03T05:38:24.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[充电时先插手机还是充电器？长期采用这几种错误的充电方法手机坏得快 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415285.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415285.htm"/>
+        <updated>2024-02-02T05:38:04.599Z</updated>
+        <content type="html"><![CDATA[手机电量还剩多少，对现代社会的许多人而言，都是一个“性命攸关”的问题。人们对手机充电的强烈需求，也让市面上催生出了许多噱头：无线充电，二倍速充电，以及能连着用一周的高能充电宝。<strong>乱花渐欲迷人眼，但到底什么才是手机充电的正确姿势呢？</strong>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS 18可能是iPhone历史上"最大"的软件更新 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1414675.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1414675.htm"/>
         <updated>2024-01-30T05:38:07.891Z</updated>
         <content type="html"><![CDATA[在今天的《Power On》时事通讯订户专享问答版块中，彭博社记者马克·古尔曼说 iOS 18 有可能成为 iPhone 历史上"最大"的软件更新。他写道："我被告知，新操作系统在公司内部被视为公司历史上最大的 iOS 更新之一，甚至是最大的更新之一。"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy S24 Ultra上手：这才是机皇该有的样子 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414339.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414339.htm"/>
-        <updated>2024-01-29T05:38:13.527Z</updated>
-        <content type="html"><![CDATA[三星在国内正式发布了全新S24系列旗舰手机，包含Galaxy S24、Galaxy S24+和Galaxy S24
-Ultra三款机型，其中“超大杯”三星Galaxy S24
-Ultra国内起售价突破万元，这也是目前在售机型中最贵的第三代骁龙8手机，可谓壕气十足。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX买下一架退役的中国国航波音737-800客机 (cnbeta一周点击排行)]]></title>
@@ -42,6 +40,13 @@ Ultra国内起售价突破万元，这也是目前在售机型中最贵的第三
         <content type="html"><![CDATA[低迷周期下的智能手机市场在2023年下半年迎来了华为的回归，这也给本就竞争激烈的市场环境带来了更大变数。1月29日，有消息称，华为已注册“星耀手机”品牌商标，定位中端手机市场，但上述消息并未获得华为方面确认。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[npm存储库被滥用 中国开发者上传《武林外传》等大量盗版视频 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415071.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415071.htm"/>
+        <updated>2024-02-02T05:38:04.617Z</updated>
+        <content type="html"><![CDATA[npmjs.com是一个视频和电子书托管平台--虽然不是我们说的，但最近看到一些用户（和攻击者）滥用该平台来存储多GB电影、视频和电子书等媒体，似乎就是这么想的。今天，Sonatype 安全研究团队发现有748 个包充斥着npm ，与包含恶意软件相反，这些软件讲述了一个不同的故事...]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LLM排行榜更新：谷歌Bard超过GPT-4 中国玩家未进前十 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1414611.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1414611.htm"/>
@@ -63,32 +68,11 @@ Ultra国内起售价突破万元，这也是目前在售机型中最贵的第三
         <content type="html"><![CDATA[苹果在硬件方面，并不是样样领先。iPhone因其搭载的iOS操作系统以及与自家硬件的紧密集成，通常被认为是相当流畅的智能手机。苹果公司对其软件和硬件拥有严格的控制权，这使得他们能够在新版本的iOS发布时，对旧款iPhone也能进行细致的优化，保证在大多数情况下系统的流畅运行。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[充电时先插手机还是充电器？长期采用这几种错误的充电方法手机坏得快 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415285.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415285.htm"/>
-        <updated>2024-02-02T05:38:04.599Z</updated>
-        <content type="html"><![CDATA[手机电量还剩多少，对现代社会的许多人而言，都是一个“性命攸关”的问题。人们对手机充电的强烈需求，也让市面上催生出了许多噱头：无线充电，二倍速充电，以及能连着用一周的高能充电宝。<strong>乱花渐欲迷人眼，但到底什么才是手机充电的正确姿势呢？</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果确认下一代CarPlay将于2024年推出 并公布iOS 17.4测试版的新功能 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414215.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414215.htm"/>
-        <updated>2024-01-26T11:21:58.000Z</updated>
-        <content type="html"><![CDATA[苹果公司本周<a href="https://www.apple.com/ios/carplay/">更新了其网站</a>，确认首批支持下一代 CarPlay 的美国车型将于 2024 年上市，但没有提供更具体的时间表，也没有说明何时开始在其他国家上市。今天发布的iOS 17.4 第一个测试版引用了八个新的 CarPlay 应用程序：]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[科学家发现阿尔茨海默病人传人的首个证据 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1414977.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1414977.htm"/>
         <updated>2024-01-30T09:12:15.000Z</updated>
         <content type="html"><![CDATA[伦敦大学学院的一个研究小组首次报告了阿尔茨海默病在人与人之间传播的明确证据。一个研究小组报告说，至少有五例阿尔茨海默氏症病例据信是由于几十年前的医学治疗手段而产生的。 <br>研究人员通过对一些异常罕见的病例研究，证明了人类生长激素治疗如何将有毒蛋白质移植到儿童体内，并导致早发性阿尔茨海默氏症的发生。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X似乎已经阻止了对Taylor Swift关键词的搜索 但很容易绕过 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414533.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414533.htm"/>
-        <updated>2024-01-28T03:41:30.000Z</updated>
-        <content type="html"><![CDATA[X 似乎已经阻止了对泰勒-斯威夫特（Taylor Swift）的搜索，这是对最近在该网站上出现的这位世界著名唱片艺术家的基于人工智能伪造图像的一种反应。现在，如果你在 X（前 Twitter）上搜索"Taylor Swift"或"Taylor Swift AI"，你可能会看到一条"出错了"的信息。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软接用户举报封杀百度搜索主域名 目前Edge浏览器无法访问百度 (cnbeta一周点击排行)]]></title>
@@ -98,32 +82,32 @@ Ultra国内起售价突破万元，这也是目前在售机型中最贵的第三
         <content type="html"><![CDATA[今天下午微软旗下的 Microsoft Edge 浏览器将百度搜索的跳转域名 (*.baidu.com/link?url=*) 封杀，百度搜索首页可以打开，但搜索任何关键词点击搜索结果都会被拦截。<strong>当用户访问时 Microsoft Edge 弹出以下提示：</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[X似乎已经阻止了对Taylor Swift关键词的搜索 但很容易绕过 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1414533.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1414533.htm"/>
+        <updated>2024-01-28T03:41:30.000Z</updated>
+        <content type="html"><![CDATA[X 似乎已经阻止了对泰勒-斯威夫特（Taylor Swift）的搜索，这是对最近在该网站上出现的这位世界著名唱片艺术家的基于人工智能伪造图像的一种反应。现在，如果你在 X（前 Twitter）上搜索"Taylor Swift"或"Taylor Swift AI"，你可能会看到一条"出错了"的信息。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy S24 Ultra DXO影像得分144：全球第18 不敌iPhone 15标准版 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415401.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415401.htm"/>
+        <updated>2024-02-03T05:38:23.724Z</updated>
+        <content type="html"><![CDATA[三星今年的最强机皇Galaxy S24 Ultra已经上市，评测机构DXO也给出了新机的最新影像分数：144分。<strong>这个成绩位列全球第18位，上一代的S23 Ultra则是140分，位列第23位。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HMD官宣放弃诺基亚品牌 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415499.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415499.htm"/>
+        <updated>2024-02-01T10:37:30.000Z</updated>
+        <content type="html"><![CDATA[HMD首席执行官Jean Francois Baril宣布<strong>推出自有品牌HMD手机。</strong>据悉，HMD会在2月份举行的MWC上正式发布全球首款HMD手机，与此同时，诺基亚品牌智能手机将被HMD放弃。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[做教授、卖大黄鱼、重掌阿里 马云的2023新动作不断 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1414471.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1414471.htm"/>
         <updated>2024-01-30T05:38:07.901Z</updated>
         <content type="html"><![CDATA[虽然已经退休，马云的江湖地位仍在，一举一动都能成为网友热议的焦点。2019年9月10日，马云正式宣布退休，不再担任阿里巴巴集团董事会主席。此后几年，他种菜、种茶、养鱼、养牛、酿酒，公开行程很少与商业有关，仿佛真的进入了退休生活。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI连甩5款新模型！价格暴降功力大涨 还治好了GPT-4的“懒病” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414167.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414167.htm"/>
-        <updated>2024-01-26T09:57:49.000Z</updated>
-        <content type="html"><![CDATA[1月26日消息，美国时间周四， OpenAI宣布了一系列重大更新。这些更新不仅关乎它们备受欢迎的大模型，还包括API访问价格的调整、性能优化以及全新嵌入性模型的发布。这些动作旨在吸引更多开发者的注意，也有望为未来的消费者市场设立新的标杆。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大神用Excel做出16位CPU 频率仅3Hz 还有配套汇编语言 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414741.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414741.htm"/>
-        <updated>2024-01-29T10:16:31.000Z</updated>
-        <content type="html"><![CDATA[在大多数人眼里，Excel只是制作编辑表格的软件，但在大神手里，它无所不能，甚至可以造CPU处理器！油管博主Inkbox就做到了。<strong>他甚至没有使用VB脚本和插件，单纯地通过Excel，就搞定了一颗16位的CPU处理器。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为首款1英寸超大底旗舰 P70 Art影像规格曝光 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414271.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414271.htm"/>
-        <updated>2024-01-31T05:38:28.299Z</updated>
-        <content type="html"><![CDATA[今天数码博主@数码闲聊站曝光了一款新机的影像规格，预计为华为P70 Art。该博主表示，这款新机将采用<strong>5000万像素索尼IMX989物理可变光圈主摄</strong>、5000万像素超广角、5000万像素支持4倍变焦的潜望长焦微距镜头，不过可能会有裁切。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linus新年首骂：和谷歌大佬大吵4天 “你的代码就是垃圾” (cnbeta一周点击排行)]]></title>
@@ -133,11 +117,25 @@ Ultra国内起售价突破万元，这也是目前在售机型中最贵的第三
         <content type="html"><![CDATA[风风火火的<strong>Linux之父</strong>，Linus Torvalds，他又跃入公众的视线。“打开方式”依旧是熟悉的配方——<strong>骂人</strong>。我们先来看下Linus怒怼的名场面：你的代码就是垃圾。我要把你丢进垃圾邮件一周。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[npm存储库被滥用 中国开发者上传《武林外传》等大量盗版视频 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415071.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415071.htm"/>
-        <updated>2024-02-02T05:38:04.617Z</updated>
-        <content type="html"><![CDATA[npmjs.com是一个视频和电子书托管平台--虽然不是我们说的，但最近看到一些用户（和攻击者）滥用该平台来存储多GB电影、视频和电子书等媒体，似乎就是这么想的。今天，Sonatype 安全研究团队发现有748 个包充斥着npm ，与包含恶意软件相反，这些软件讲述了一个不同的故事...]]></content>
+        <title type="html"><![CDATA[买得起养不起 美国最大租车公司赫兹开始挂牌甩卖近千辆特斯拉 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415293.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415293.htm"/>
+        <updated>2024-02-03T05:38:23.734Z</updated>
+        <content type="html"><![CDATA[近日，美国汽车租赁巨头赫兹宣布将卖掉其车队中约2万辆电动汽车，并购置燃油车，理由是电动车碰撞和损坏相关的费用较高。在赫兹的美国官网上，<strong>已经有755辆电动汽车挂牌出售，其中的绝大多数是特斯拉，价格最低的是一辆Model 3标准续航版，已行驶86929英里，标价20700美元（约合人民币14.85万元）；</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大神用Excel做出16位CPU 频率仅3Hz 还有配套汇编语言 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1414741.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1414741.htm"/>
+        <updated>2024-01-29T10:16:31.000Z</updated>
+        <content type="html"><![CDATA[在大多数人眼里，Excel只是制作编辑表格的软件，但在大神手里，它无所不能，甚至可以造CPU处理器！油管博主Inkbox就做到了。<strong>他甚至没有使用VB脚本和插件，单纯地通过Excel，就搞定了一颗16位的CPU处理器。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷惑行为：西安一特斯拉车主给特斯拉Cybertruck皮卡跪地磕头 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415113.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415113.htm"/>
+        <updated>2024-02-03T05:38:23.738Z</updated>
+        <content type="html"><![CDATA[近日特斯拉Cybertruck电动皮卡开启了全国巡展，然而在西安展出时，出现非常戏剧性的一幕。现场拍摄的视频显示，一名身着黑色羽绒上衣的男子突然出现在展车旁，然后将手里的包丢在地上，众目睽睽之下，<strong>竟然直接俯下身子跪了下去，并对着Cybertruck磕了一个头</strong>，随后从容站起身来。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[跑分显示骁龙8 Gen 4的Geekbench 6多核性能比前代领先46% 直逼苹果M3 (cnbeta一周点击排行)]]></title>
