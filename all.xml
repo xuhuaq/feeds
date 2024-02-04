@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-03T17:38:19.084Z</updated>
+    <updated>2024-02-04T05:38:20.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[充电时先插手机还是充电器？长期采用这几种错误的充电方法手机坏得快 (cnbeta一周点击排行)]]></title>
@@ -24,6 +24,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1414733.htm"/>
         <updated>2024-01-29T10:12:17.000Z</updated>
         <content type="html"><![CDATA[近日，SpaceX公司做出了奇怪的举动，居然从中国国航购买了一架退役的客机。<strong>这是一架波音737-800型客机，此前属于国航，注册号B-2671，机龄已有21年，最后一次飞行还是在2022年6月份，此后就退役了。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy S24 Ultra DXO影像得分144：全球第18 不敌iPhone 15标准版 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415401.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415401.htm"/>
+        <updated>2024-02-03T05:38:23.724Z</updated>
+        <content type="html"><![CDATA[三星今年的最强机皇Galaxy S24 Ultra已经上市，评测机构DXO也给出了新机的最新影像分数：144分。<strong>这个成绩位列全球第18位，上一代的S23 Ultra则是140分，位列第23位。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[王自如现身格力万人晚会 霸气维护现场秩序 (cnbeta一周点击排行)]]></title>
@@ -54,18 +61,11 @@
         <content type="html"><![CDATA[<strong>今天GoogleBard的排名在Imsys的LLMs 排位赛上超过了GPT-4,直接跃居第二名</strong>（但没有超过OpenAI最新的 GPT-4 Turbo模型）:遇到这好事，Google首席科学家 Jeff Dean 当然是第一时间前来“炫耀”，并给自家的 Gemini Pro模型带货。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[已经降价的固态硬盘为什么突然涨价了？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414469.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414469.htm"/>
-        <updated>2024-01-30T05:38:07.880Z</updated>
-        <content type="html"><![CDATA[相信有不少数码爱好者已经注意到了，从2023年年初开始固态硬盘价格跳水，在大概5、6月份的时候价格到达了历史新低。但到了第三季度，固态硬盘价格又开始涨起来了。那么固态硬盘为什么突然涨价了？]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3年前的苹果还能流畅运行吗？iPhone 12实测 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414481.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414481.htm"/>
-        <updated>2024-01-30T05:38:07.891Z</updated>
-        <content type="html"><![CDATA[苹果在硬件方面，并不是样样领先。iPhone因其搭载的iOS操作系统以及与自家硬件的紧密集成，通常被认为是相当流畅的智能手机。苹果公司对其软件和硬件拥有严格的控制权，这使得他们能够在新版本的iOS发布时，对旧款iPhone也能进行细致的优化，保证在大多数情况下系统的流畅运行。]]></content>
+        <title type="html"><![CDATA[HMD官宣放弃诺基亚品牌 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415499.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415499.htm"/>
+        <updated>2024-02-01T10:37:30.000Z</updated>
+        <content type="html"><![CDATA[HMD首席执行官Jean Francois Baril宣布<strong>推出自有品牌HMD手机。</strong>据悉，HMD会在2月份举行的MWC上正式发布全球首款HMD手机，与此同时，诺基亚品牌智能手机将被HMD放弃。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[科学家发现阿尔茨海默病人传人的首个证据 (cnbeta一周点击排行)]]></title>
@@ -82,32 +82,11 @@
         <content type="html"><![CDATA[今天下午微软旗下的 Microsoft Edge 浏览器将百度搜索的跳转域名 (*.baidu.com/link?url=*) 封杀，百度搜索首页可以打开，但搜索任何关键词点击搜索结果都会被拦截。<strong>当用户访问时 Microsoft Edge 弹出以下提示：</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X似乎已经阻止了对Taylor Swift关键词的搜索 但很容易绕过 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414533.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414533.htm"/>
-        <updated>2024-01-28T03:41:30.000Z</updated>
-        <content type="html"><![CDATA[X 似乎已经阻止了对泰勒-斯威夫特（Taylor Swift）的搜索，这是对最近在该网站上出现的这位世界著名唱片艺术家的基于人工智能伪造图像的一种反应。现在，如果你在 X（前 Twitter）上搜索"Taylor Swift"或"Taylor Swift AI"，你可能会看到一条"出错了"的信息。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy S24 Ultra DXO影像得分144：全球第18 不敌iPhone 15标准版 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415401.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415401.htm"/>
-        <updated>2024-02-03T05:38:23.724Z</updated>
-        <content type="html"><![CDATA[三星今年的最强机皇Galaxy S24 Ultra已经上市，评测机构DXO也给出了新机的最新影像分数：144分。<strong>这个成绩位列全球第18位，上一代的S23 Ultra则是140分，位列第23位。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HMD官宣放弃诺基亚品牌 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415499.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415499.htm"/>
-        <updated>2024-02-01T10:37:30.000Z</updated>
-        <content type="html"><![CDATA[HMD首席执行官Jean Francois Baril宣布<strong>推出自有品牌HMD手机。</strong>据悉，HMD会在2月份举行的MWC上正式发布全球首款HMD手机，与此同时，诺基亚品牌智能手机将被HMD放弃。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做教授、卖大黄鱼、重掌阿里 马云的2023新动作不断 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414471.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414471.htm"/>
-        <updated>2024-01-30T05:38:07.901Z</updated>
-        <content type="html"><![CDATA[虽然已经退休，马云的江湖地位仍在，一举一动都能成为网友热议的焦点。2019年9月10日，马云正式宣布退休，不再担任阿里巴巴集团董事会主席。此后几年，他种菜、种茶、养鱼、养牛、酿酒，公开行程很少与商业有关，仿佛真的进入了退休生活。]]></content>
+        <title type="html"><![CDATA[买得起养不起 美国最大租车公司赫兹开始挂牌甩卖近千辆特斯拉 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415293.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415293.htm"/>
+        <updated>2024-02-03T05:38:23.734Z</updated>
+        <content type="html"><![CDATA[近日，美国汽车租赁巨头赫兹宣布将卖掉其车队中约2万辆电动汽车，并购置燃油车，理由是电动车碰撞和损坏相关的费用较高。在赫兹的美国官网上，<strong>已经有755辆电动汽车挂牌出售，其中的绝大多数是特斯拉，价格最低的是一辆Model 3标准续航版，已行驶86929英里，标价20700美元（约合人民币14.85万元）；</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linus新年首骂：和谷歌大佬大吵4天 “你的代码就是垃圾” (cnbeta一周点击排行)]]></title>
@@ -117,11 +96,11 @@
         <content type="html"><![CDATA[风风火火的<strong>Linux之父</strong>，Linus Torvalds，他又跃入公众的视线。“打开方式”依旧是熟悉的配方——<strong>骂人</strong>。我们先来看下Linus怒怼的名场面：你的代码就是垃圾。我要把你丢进垃圾邮件一周。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[买得起养不起 美国最大租车公司赫兹开始挂牌甩卖近千辆特斯拉 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415293.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415293.htm"/>
-        <updated>2024-02-03T05:38:23.734Z</updated>
-        <content type="html"><![CDATA[近日，美国汽车租赁巨头赫兹宣布将卖掉其车队中约2万辆电动汽车，并购置燃油车，理由是电动车碰撞和损坏相关的费用较高。在赫兹的美国官网上，<strong>已经有755辆电动汽车挂牌出售，其中的绝大多数是特斯拉，价格最低的是一辆Model 3标准续航版，已行驶86929英里，标价20700美元（约合人民币14.85万元）；</strong>]]></content>
+        <title type="html"><![CDATA[Google设备认证封杀更多自定义内核ROM 连LineageOS都被封杀 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415535.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415535.htm"/>
+        <updated>2024-02-04T05:38:19.597Z</updated>
+        <content type="html"><![CDATA[Google完整性和签名服务即 Google Play Integrity，这是Google用来识别设备是否已经通过Google认证的一种机制，正常情况下 OEM 在推出新机型前需要找Google认证，认证后才能安装使用 Google Play 等服务。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大神用Excel做出16位CPU 频率仅3Hz 还有配套汇编语言 (cnbeta一周点击排行)]]></title>
@@ -131,11 +110,25 @@
         <content type="html"><![CDATA[在大多数人眼里，Excel只是制作编辑表格的软件，但在大神手里，它无所不能，甚至可以造CPU处理器！油管博主Inkbox就做到了。<strong>他甚至没有使用VB脚本和插件，单纯地通过Excel，就搞定了一颗16位的CPU处理器。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一高铁因超载无法运行 无座无票旅客被请下车 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415595.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415595.htm"/>
+        <updated>2024-02-04T05:38:19.602Z</updated>
+        <content type="html"><![CDATA[有网友上传的视频显示，<strong>G1956次列车因车上旅客过多，触发超载警报，导致无法运行，无座无票旅客被请下车补票。</strong>视频中，该列高铁的过道都挤满了人，前后车厢连接处更是人挤人，无法正常通行。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[迷惑行为：西安一特斯拉车主给特斯拉Cybertruck皮卡跪地磕头 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1415113.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1415113.htm"/>
         <updated>2024-02-03T05:38:23.738Z</updated>
         <content type="html"><![CDATA[近日特斯拉Cybertruck电动皮卡开启了全国巡展，然而在西安展出时，出现非常戏剧性的一幕。现场拍摄的视频显示，一名身着黑色羽绒上衣的男子突然出现在展车旁，然后将手里的包丢在地上，众目睽睽之下，<strong>竟然直接俯下身子跪了下去，并对着Cybertruck磕了一个头</strong>，随后从容站起身来。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT用户现在可以在聊天中直接调用GPT (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415223.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415223.htm"/>
+        <updated>2024-01-31T09:21:58.000Z</updated>
+        <content type="html"><![CDATA[通过使ChatGPT用户能够在任何聊天中调用 GPT，OpenAI 正在推动由其人工智能模型驱动的第三方应用程序 GPT 的采用。从今天开始，OpenAI 的人工智能聊天机器人前端 ChatGPT 的付费用户可以通过输入"@"并从列表中选择一个 GPT，将 GPT 带入对话。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[跑分显示骁龙8 Gen 4的Geekbench 6多核性能比前代领先46% 直逼苹果M3 (cnbeta一周点击排行)]]></title>
@@ -145,5 +138,12 @@
         <content type="html"><![CDATA[围绕骁龙 8 Gen 4 的性能传言表明，高通公司的首款智能手机 SoC（拥有该公司的定制内核）将比苹果公司的 M2 更快，但只是在 GPU
 方面，而且还是在一个基准测试中。不过，我们现在有了据称属于同一芯片组的 Geekbench 6 单核心和多核心，不仅分数显示它比
 Snapdragon 8 Gen 3 跑得更快，而且其多线程结果也与 M3 不相上下。与此同时安兔兔跑分成绩也被分享了出来，让我们来详细了解一下。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度输入法 开启“套娃式”揽财？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415241.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415241.htm"/>
+        <updated>2024-01-31T09:47:23.000Z</updated>
+        <content type="html"><![CDATA[继微软Edge屏蔽百度搜索引擎后，百度又因“输入法植入广告”一事被推到了风口浪尖。近日有人发现，百度输入法把广告塞到了备选词里，比如打字时要写“招商银行”，在输入“招商”两个字之后，出来的备选词第一个是“热门加盟店排行”的链接。]]></content>
     </entry>
 </feed>
