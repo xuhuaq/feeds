@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-02-04T17:38:03.862Z</updated>
+    <updated>2024-02-05T05:37:55.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[手机电量还剩多少，对现代社会的许多人而言，都是一个“性命攸关”的问题。人们对手机充电的强烈需求，也让市面上催生出了许多噱头：无线充电，二倍速充电，以及能连着用一周的高能充电宝。<strong>乱花渐欲迷人眼，但到底什么才是手机充电的正确姿势呢？</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 18可能是iPhone历史上"最大"的软件更新]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414675.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414675.htm"/>
-        <updated>2024-01-30T05:38:07.891Z</updated>
-        <content type="html"><![CDATA[在今天的《Power On》时事通讯订户专享问答版块中，彭博社记者马克·古尔曼说 iOS 18 有可能成为 iPhone 历史上"最大"的软件更新。他写道："我被告知，新操作系统在公司内部被视为公司历史上最大的 iOS 更新之一，甚至是最大的更新之一。"]]></content>
+        <title type="html"><![CDATA[三星Galaxy S24 Ultra DXO影像得分144：全球第18 不敌iPhone 15标准版]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415401.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415401.htm"/>
+        <updated>2024-02-03T05:38:23.724Z</updated>
+        <content type="html"><![CDATA[三星今年的最强机皇Galaxy S24 Ultra已经上市，评测机构DXO也给出了新机的最新影像分数：144分。<strong>这个成绩位列全球第18位，上一代的S23 Ultra则是140分，位列第23位。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX买下一架退役的中国国航波音737-800客机]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[近日，SpaceX公司做出了奇怪的举动，居然从中国国航购买了一架退役的客机。<strong>这是一架波音737-800型客机，此前属于国航，注册号B-2671，机龄已有21年，最后一次飞行还是在2022年6月份，此后就退役了。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星Galaxy S24 Ultra DXO影像得分144：全球第18 不敌iPhone 15标准版]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415401.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415401.htm"/>
-        <updated>2024-02-03T05:38:23.724Z</updated>
-        <content type="html"><![CDATA[三星今年的最强机皇Galaxy S24 Ultra已经上市，评测机构DXO也给出了新机的最新影像分数：144分。<strong>这个成绩位列全球第18位，上一代的S23 Ultra则是140分，位列第23位。</strong>]]></content>
+        <title type="html"><![CDATA[npm存储库被滥用 中国开发者上传《武林外传》等大量盗版视频]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415071.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415071.htm"/>
+        <updated>2024-02-02T05:38:04.617Z</updated>
+        <content type="html"><![CDATA[npmjs.com是一个视频和电子书托管平台--虽然不是我们说的，但最近看到一些用户（和攻击者）滥用该平台来存储多GB电影、视频和电子书等媒体，似乎就是这么想的。今天，Sonatype 安全研究团队发现有748 个包充斥着npm ，与包含恶意软件相反，这些软件讲述了一个不同的故事...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[王自如现身格力万人晚会 霸气维护现场秩序]]></title>
@@ -46,20 +46,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1414765.htm"/>
         <updated>2024-01-31T05:38:28.263Z</updated>
         <content type="html"><![CDATA[低迷周期下的智能手机市场在2023年下半年迎来了华为的回归，这也给本就竞争激烈的市场环境带来了更大变数。1月29日，有消息称，华为已注册“星耀手机”品牌商标，定位中端手机市场，但上述消息并未获得华为方面确认。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm存储库被滥用 中国开发者上传《武林外传》等大量盗版视频]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415071.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415071.htm"/>
-        <updated>2024-02-02T05:38:04.617Z</updated>
-        <content type="html"><![CDATA[npmjs.com是一个视频和电子书托管平台--虽然不是我们说的，但最近看到一些用户（和攻击者）滥用该平台来存储多GB电影、视频和电子书等媒体，似乎就是这么想的。今天，Sonatype 安全研究团队发现有748 个包充斥着npm ，与包含恶意软件相反，这些软件讲述了一个不同的故事...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM排行榜更新：谷歌Bard超过GPT-4 中国玩家未进前十]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414611.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414611.htm"/>
-        <updated>2024-01-30T05:38:07.883Z</updated>
-        <content type="html"><![CDATA[<strong>今天GoogleBard的排名在Imsys的LLMs 排位赛上超过了GPT-4,直接跃居第二名</strong>（但没有超过OpenAI最新的 GPT-4 Turbo模型）:遇到这好事，Google首席科学家 Jeff Dean 当然是第一时间前来“炫耀”，并给自家的 Gemini Pro模型带货。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HMD官宣放弃诺基亚品牌]]></title>
@@ -90,25 +76,11 @@
         <content type="html"><![CDATA[近日，美国汽车租赁巨头赫兹宣布将卖掉其车队中约2万辆电动汽车，并购置燃油车，理由是电动车碰撞和损坏相关的费用较高。在赫兹的美国官网上，<strong>已经有755辆电动汽车挂牌出售，其中的绝大多数是特斯拉，价格最低的是一辆Model 3标准续航版，已行驶86929英里，标价20700美元（约合人民币14.85万元）；</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linus新年首骂：和谷歌大佬大吵4天 “你的代码就是垃圾”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415139.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415139.htm"/>
-        <updated>2024-02-02T05:38:04.616Z</updated>
-        <content type="html"><![CDATA[风风火火的<strong>Linux之父</strong>，Linus Torvalds，他又跃入公众的视线。“打开方式”依旧是熟悉的配方——<strong>骂人</strong>。我们先来看下Linus怒怼的名场面：你的代码就是垃圾。我要把你丢进垃圾邮件一周。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google设备认证封杀更多自定义内核ROM 连LineageOS都被封杀]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1415535.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1415535.htm"/>
         <updated>2024-02-04T05:38:19.597Z</updated>
         <content type="html"><![CDATA[Google完整性和签名服务即 Google Play Integrity，这是Google用来识别设备是否已经通过Google认证的一种机制，正常情况下 OEM 在推出新机型前需要找Google认证，认证后才能安装使用 Google Play 等服务。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大神用Excel做出16位CPU 频率仅3Hz 还有配套汇编语言]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414741.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414741.htm"/>
-        <updated>2024-01-29T10:16:31.000Z</updated>
-        <content type="html"><![CDATA[在大多数人眼里，Excel只是制作编辑表格的软件，但在大神手里，它无所不能，甚至可以造CPU处理器！油管博主Inkbox就做到了。<strong>他甚至没有使用VB脚本和插件，单纯地通过Excel，就搞定了一颗16位的CPU处理器。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一高铁因超载无法运行 无座无票旅客被请下车]]></title>
@@ -125,20 +97,46 @@
         <content type="html"><![CDATA[近日特斯拉Cybertruck电动皮卡开启了全国巡展，然而在西安展出时，出现非常戏剧性的一幕。现场拍摄的视频显示，一名身着黑色羽绒上衣的男子突然出现在展车旁，然后将手里的包丢在地上，众目睽睽之下，<strong>竟然直接俯下身子跪了下去，并对着Cybertruck磕了一个头</strong>，随后从容站起身来。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linus新年首骂：和谷歌大佬大吵4天 “你的代码就是垃圾”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415139.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415139.htm"/>
+        <updated>2024-02-02T05:38:04.616Z</updated>
+        <content type="html"><![CDATA[风风火火的<strong>Linux之父</strong>，Linus Torvalds，他又跃入公众的视线。“打开方式”依旧是熟悉的配方——<strong>骂人</strong>。我们先来看下Linus怒怼的名场面：你的代码就是垃圾。我要把你丢进垃圾邮件一周。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安徽一女子拍下罕见“冰针”雪 形成条件苛刻]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1415819.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1415819.htm"/>
+        <updated>2024-02-05T05:37:55.179Z</updated>
+        <content type="html"><![CDATA[2月2日消息，这两天全国多地普降大雪，但安徽一女子称自己活了30多年，第一次见到了“冰针”雪。从其拍摄的视频看，落在地上的雪花并不是常见的冰晶样式，而是细细长长，像是味精一般的形状，那么这种雪到底是怎么形成的呢？有网友猜测是“冻雨”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大神用Excel做出16位CPU 频率仅3Hz 还有配套汇编语言]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1414741.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1414741.htm"/>
+        <updated>2024-01-29T10:16:31.000Z</updated>
+        <content type="html"><![CDATA[在大多数人眼里，Excel只是制作编辑表格的软件，但在大神手里，它无所不能，甚至可以造CPU处理器！油管博主Inkbox就做到了。<strong>他甚至没有使用VB脚本和插件，单纯地通过Excel，就搞定了一颗16位的CPU处理器。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google宣布告别"Bard" 不久后将其更名为"Gemini"]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415849.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415849.htm"/>
+        <updated>2024-02-05T05:37:55.181Z</updated>
+        <content type="html"><![CDATA[Google决定做它最擅长的事情 - 重新命名它的另一项服务。这家搜索引擎巨头正准备将"巴德"（Bard）更名为"双子座"（Gemini），并将在现有的所有设备和服务中推广，这意味着"Bard"在未来将不再存在。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玩家将Windows系统时间改到10000年 "万年虫"带来全面崩溃]]></title>
+        <id>https://hot.cnbeta.com.tw/articles/funny/1415833.htm</id>
+        <link href="https://hot.cnbeta.com.tw/articles/funny/1415833.htm"/>
+        <updated>2024-02-05T05:37:55.182Z</updated>
+        <content type="html"><![CDATA[也许你听说过一些通过修改系统时间达成某种目的的使用技巧，但是系统时间是整个系统运行的基础，轻易不要改动，否则很容易出现莫名其妙的问题。但如果你“闲得无聊”，也不妨拿系统时间玩一玩，比如视频博主“<a class="f14_link" href="https://www.douyin.com/video/7330802738621713700" target="_blank">爱比较</a>”就尝试将系统时间修改到10000年1月1日。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ChatGPT用户现在可以在聊天中直接调用GPT]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1415223.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1415223.htm"/>
         <updated>2024-01-31T09:21:58.000Z</updated>
         <content type="html"><![CDATA[通过使ChatGPT用户能够在任何聊天中调用 GPT，OpenAI 正在推动由其人工智能模型驱动的第三方应用程序 GPT 的采用。从今天开始，OpenAI 的人工智能聊天机器人前端 ChatGPT 的付费用户可以通过输入"@"并从列表中选择一个 GPT，将 GPT 带入对话。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跑分显示骁龙8 Gen 4的Geekbench 6多核性能比前代领先46% 直逼苹果M3]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1414657.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1414657.htm"/>
-        <updated>2024-02-02T05:38:04.619Z</updated>
-        <content type="html"><![CDATA[围绕骁龙 8 Gen 4 的性能传言表明，高通公司的首款智能手机 SoC（拥有该公司的定制内核）将比苹果公司的 M2 更快，但只是在 GPU
-方面，而且还是在一个基准测试中。不过，我们现在有了据称属于同一芯片组的 Geekbench 6 单核心和多核心，不仅分数显示它比
-Snapdragon 8 Gen 3 跑得更快，而且其多线程结果也与 M3 不相上下。与此同时安兔兔跑分成绩也被分享了出来，让我们来详细了解一下。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[百度输入法 开启“套娃式”揽财？]]></title>
