@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-08T17:38:23.919Z</updated>
+    <updated>2024-02-09T05:37:56.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[中芯国际正在为华为5nm SoC建立新生产线 最早今年投产 (cnbeta一周点击排行)]]></title>
@@ -19,13 +19,6 @@
         <content type="html"><![CDATA[卫星通信电话已经成为智能手机新一波的角逐焦点，但毕竟是新鲜事物，难免会引发一些误会，<a class="f14_link" href="https://mp.weixin.qq.com/s/KDe0nQzbRdR92oSW5OmQsg" target="_blank">知名旅游博主“松鹤”</a>就遇到了因为使用卫星电话功能被运营商停机的尴尬。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HMD官宣放弃诺基亚品牌 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415499.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415499.htm"/>
-        <updated>2024-02-01T10:37:30.000Z</updated>
-        <content type="html"><![CDATA[HMD首席执行官Jean Francois Baril宣布<strong>推出自有品牌HMD手机。</strong>据悉，HMD会在2月份举行的MWC上正式发布全球首款HMD手机，与此同时，诺基亚品牌智能手机将被HMD放弃。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[鳄鱼被冻成冰棍后还能苏醒吗？冰冻鳄鱼的鼻子我劝你别摸 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1415923.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1415923.htm"/>
@@ -33,11 +26,11 @@
         <content type="html"><![CDATA[前不久，一条短视频火了起来，视频里有一只美国短吻鳄（Alligator missisipensis，又称密西西比鳄）被冻在了冰水里，只留鼻尖上的两个鼻孔露在冰面上，看起来就像一只“鳄鱼冰棍”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google设备认证封杀更多自定义内核ROM 连LineageOS都被封杀 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415535.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415535.htm"/>
-        <updated>2024-02-04T05:38:19.597Z</updated>
-        <content type="html"><![CDATA[Google完整性和签名服务即 Google Play Integrity，这是Google用来识别设备是否已经通过Google认证的一种机制，正常情况下 OEM 在推出新机型前需要找Google认证，认证后才能安装使用 Google Play 等服务。]]></content>
+        <title type="html"><![CDATA[博主用苹果Vision Pro给老婆打微信视频电话 被吐槽像鬼魂 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1416091.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1416091.htm"/>
+        <updated>2024-02-07T05:38:16.809Z</updated>
+        <content type="html"><![CDATA[苹果下一代“空间计算设备”的Vision Pro头显已经在美国正式开售，起售价3499美元（约合2.5万元）。不少国内博主已经第一时间拿到并分享了使用感受——惊艳之余，细节不足，目前只适合发烧友。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[安徽一女子拍下罕见“冰针”雪 形成条件苛刻 (cnbeta一周点击排行)]]></title>
@@ -54,25 +47,25 @@
         <content type="html"><![CDATA[也许你听说过一些通过修改系统时间达成某种目的的使用技巧，但是系统时间是整个系统运行的基础，轻易不要改动，否则很容易出现莫名其妙的问题。但如果你“闲得无聊”，也不妨拿系统时间玩一玩，比如视频博主“<a class="f14_link" href="https://www.douyin.com/video/7330802738621713700" target="_blank">爱比较</a>”就尝试将系统时间修改到10000年1月1日。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博主用苹果Vision Pro给老婆打微信视频电话 被吐槽像鬼魂 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1416091.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1416091.htm"/>
-        <updated>2024-02-07T05:38:16.809Z</updated>
-        <content type="html"><![CDATA[苹果下一代“空间计算设备”的Vision Pro头显已经在美国正式开售，起售价3499美元（约合2.5万元）。不少国内博主已经第一时间拿到并分享了使用感受——惊艳之余，细节不足，目前只适合发烧友。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一高铁因超载无法运行 无座无票旅客被请下车 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415595.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415595.htm"/>
-        <updated>2024-02-04T05:38:19.602Z</updated>
-        <content type="html"><![CDATA[有网友上传的视频显示，<strong>G1956次列车因车上旅客过多，触发超载警报，导致无法运行，无座无票旅客被请下车补票。</strong>视频中，该列高铁的过道都挤满了人，前后车厢连接处更是人挤人，无法正常通行。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google宣布告别"Bard" 不久后将其更名为"Gemini" (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1415849.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1415849.htm"/>
         <updated>2024-02-05T05:37:55.181Z</updated>
         <content type="html"><![CDATA[Google决定做它最擅长的事情 - 重新命名它的另一项服务。这家搜索引擎巨头正准备将"巴德"（Bard）更名为"双子座"（Gemini），并将在现有的所有设备和服务中推广，这意味着"Bard"在未来将不再存在。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[充电桩卷得人头皮发麻 现在大家盯上汽车充电宝了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1416379.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1416379.htm"/>
+        <updated>2024-02-06T08:58:10.000Z</updated>
+        <content type="html"><![CDATA[共享充电宝这股风，已经刮到<strong>新能源车</strong>这块了。前段时间，同事出去玩的时候，甩过来这样一张图，说是在嘉兴服务区，这玩意儿已经在满地溜达了。一开始我还以为服务区这是在学酒店送货机器人的那套，没啥可稀奇的。没想到同事紧接着又来了句，这是专门<strong>给新能源车充电</strong>的机器人。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16外观设计图曝光 重回iPhone X时代 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1416633.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1416633.htm"/>
+        <updated>2024-02-07T09:33:09.000Z</updated>
+        <content type="html"><![CDATA[爆料人Majin Bu在社交平台上曝光了iPhone 16系列标准版设计图，有设计师依据设计图绘制了iPhone 16渲染图。<strong>iPhone 16最大变化是回归了iPhone X时代的竖排双摄设计风格</strong>，提供了多彩配色，两颗摄像头分别是主摄和超广角。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信安装包突破700MB 2011年的第一版仅457KB (cnbeta一周点击排行)]]></title>
@@ -89,6 +82,13 @@
         <content type="html"><![CDATA[2024年2月2日，苹果公司第一代空间计算设备 Vision Pro 正式在美国发售，首批原生支持 visionOS 操作系统的 App 亦正式公布，著名 iOS 开发商每日科技旗下的&nbsp;<strong><a href="https://apps.apple.com/us/app/id6470272751" target="_blank">iDaily World</a>&nbsp;</strong>成为首个上架发布 Vision Pro 版的中国应用。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[这句话骗了网友25年 腾讯QQ转发得太阳终于成真了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1416709.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1416709.htm"/>
+        <updated>2024-02-09T05:37:55.719Z</updated>
+        <content type="html"><![CDATA[<strong>“今天是腾讯QQ的xx岁生日，转发这个消息，你的QQ会获得一个'太阳'。</strong>”这句骗了网友25年的话，今天终于成真了。转发消息得太阳曾被称为“中国互联网十大未解之谜”，<strong>2月7日，腾讯QQ在25周年倒数3天时推出特别活动：给转发消息的用户发放25周年太阳头像挂件，用户还可同步查询自己的QQ等级、太阳个数及全球排行等数据。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《幻兽帕鲁》2月服务器费用7000万日元 CEO笑称要破产了 (cnbeta一周点击排行)]]></title>
         <id>https://hot.cnbeta.com.tw/articles/game/1415909.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/game/1415909.htm"/>
@@ -96,13 +96,6 @@
         <content type="html"><![CDATA[《幻兽帕鲁》的爆火对于开发商来说也有着不小的代价——开发商 Pocketpair
 首席执行官沟部拓郎最近发布推文惊讶的意识到，自己可能会因为服务器运营费用而破产，因为2 月预计的服务器服务费高达 7053 万日元（约合
 47.8万美元/338.5 万元人民币）。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[充电桩卷得人头皮发麻 现在大家盯上汽车充电宝了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1416379.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1416379.htm"/>
-        <updated>2024-02-06T08:58:10.000Z</updated>
-        <content type="html"><![CDATA[共享充电宝这股风，已经刮到<strong>新能源车</strong>这块了。前段时间，同事出去玩的时候，甩过来这样一张图，说是在嘉兴服务区，这玩意儿已经在满地溜达了。一开始我还以为服务区这是在学酒店送货机器人的那套，没啥可稀奇的。没想到同事紧接着又来了句，这是专门<strong>给新能源车充电</strong>的机器人。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[麻省理工学院高材生在大肠杆菌上玩《毁灭战士》 通关仅需600年 (cnbeta一周点击排行)]]></title>
@@ -133,17 +126,24 @@
         <content type="html"><![CDATA[日前，特斯拉CEO埃隆·马斯克母亲梅耶·马斯克在X平台分享了她的中国行。据了解，<strong>梅耶·马斯克此次中国行来到了魔都上海，参观了上海著名景点豫园。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信输入法1.2.2 iOS/Android版双双更新 剪贴板、方言语音输入来了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1415469.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1415469.htm"/>
-        <updated>2024-02-01T09:36:09.000Z</updated>
-        <content type="html"><![CDATA[日前，微信输入法iOS、Android双端迎来1.2.2正式版升级，带来春节“彩蛋”和多项新功能。升级日志显示，<strong>微信输入法iOS 1.2.2正式版新增微信发“过年好”后可放鞭炮、支持剪贴板和选词粘贴功能、语音输入支持直接说方言。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[河北一女子充话费 1000元误充给对方要不回 中国电信、律师回应 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1415731.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1415731.htm"/>
         <updated>2024-02-02T10:11:53.000Z</updated>
         <content type="html"><![CDATA[河北一女子通过微信充话费结果把1000元充给了对方，结果索要无果。按照张女士的说法，自己通过微信小程序充值1000元，结果手机号输错给对方充值，但是协调后后者并不愿意归还这1000元话费，坚称这是自己充值的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 正准备加入著名的 sudo 命令 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1416185.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1416185.htm"/>
+        <updated>2024-02-05T10:30:54.000Z</updated>
+        <content type="html"><![CDATA[微软似乎带来了 macOS 和 Linux 中最让人熟悉的一个著名命令：sudo。Sudo 是"替代用户，执行"的缩写，允许以提升的权限执行命令，以安装应用程序、卸载组件、更改设置和执行其他操作。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉隐藏式门把手被冻上 一张纸巾就能解决难题 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1415949.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1415949.htm"/>
+        <updated>2024-02-09T05:37:55.740Z</updated>
+        <content type="html"><![CDATA[困扰不少车主多时的<strong>隐藏式门把手被冻上</strong>的问题，竟然被一张纸巾给解决了！近日有特斯拉车主发布视频称，自己为了不让门把手冻上，于是在停车的时候在外边贴上了一张纸巾，如此即便是雪落不停，在需要用车的时候，只需将纸巾取下，就能正常打开车门，非常简单，也很高效。]]></content>
     </entry>
 </feed>
