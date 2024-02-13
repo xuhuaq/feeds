@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-02-12T17:38:19.741Z</updated>
+    <updated>2024-02-13T05:39:25.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -34,32 +34,11 @@
         <content type="html"><![CDATA[<strong>“今天是腾讯QQ的xx岁生日，转发这个消息，你的QQ会获得一个'太阳'。</strong>”这句骗了网友25年的话，今天终于成真了。转发消息得太阳曾被称为“中国互联网十大未解之谜”，<strong>2月7日，腾讯QQ在25周年倒数3天时推出特别活动：给转发消息的用户发放25周年太阳头像挂件，用户还可同步查询自己的QQ等级、太阳个数及全球排行等数据。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[充电桩卷得人头皮发麻 现在大家盯上汽车充电宝了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1416379.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1416379.htm"/>
-        <updated>2024-02-06T08:58:10.000Z</updated>
-        <content type="html"><![CDATA[共享充电宝这股风，已经刮到<strong>新能源车</strong>这块了。前段时间，同事出去玩的时候，甩过来这样一张图，说是在嘉兴服务区，这玩意儿已经在满地溜达了。一开始我还以为服务区这是在学酒店送货机器人的那套，没啥可稀奇的。没想到同事紧接着又来了句，这是专门<strong>给新能源车充电</strong>的机器人。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国为何豪赌Chiplet芯片技术？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1417371.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1417371.htm"/>
         <updated>2024-02-12T05:38:32.668Z</updated>
         <content type="html"><![CDATA[在过去的几年里，美国的制裁使中国的半导体产业陷入困境。虽然中国公司仍然可以生产符合当今用途的芯片，但却不允许它们进口某些芯片制造技术，这使得它们几乎无法生产更先进的产品。不过，有一种变通办法。现在，一种被称为Chiplet的相对较新的技术为中国提供了一种规避这些出口禁令、建立一定程度的自力更生能力并与其他国家（尤其是美国）保持同步的途径。以下是TechnologyReview于2月6日发表的文章：《中国为何豪赌Chiplet芯片技术？》]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果iOS 17.3.1正式版发布 修复iPhone Bug]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417127.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417127.htm"/>
-        <updated>2024-02-09T10:01:03.000Z</updated>
-        <content type="html"><![CDATA[今天除夕，是兔年的最后一天。今天凌晨，<strong>苹果为iPhone用户推送了iOS 17.3.1正式版更新，安装包大小281MB左右，</strong>内部版本号为21D61，本次更新距上次发布间隔17天。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工学院高材生在大肠杆菌上玩《毁灭战士》 通关仅需600年]]></title>
-        <id>https://hot.cnbeta.com.tw/articles/game/1416211.htm</id>
-        <link href="https://hot.cnbeta.com.tw/articles/game/1416211.htm"/>
-        <updated>2024-02-08T05:38:16.394Z</updated>
-        <content type="html"><![CDATA[测试电子游戏的泛用性，往往需要经典FPS作品《毁灭战士》出马，不仅能在耳环、中央空调控制器、验孕棒等含有电子显示屏的设备上游玩，现在还能在细菌上玩《毁灭战士》。麻省理工学院（MIT）的研究员劳伦·拉姆兰 （Lauren Ramlan）近日完成了这一创举。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gemini Ultra每月19.9刀，前两月免费 网友实测：GPT-4不香了]]></title>
@@ -72,11 +51,25 @@ ogle 推出Gem ini Pro和Gemini Nano，人们可以通过聊天机器人Bard、P
 Advanced全新体验，同时推出支持Android和iOS客户端的手机移动应用。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克母亲逛上海豫园赞不绝口 马斯克：应该让更多人来中国旅游]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1416259.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1416259.htm"/>
-        <updated>2024-02-08T05:38:16.399Z</updated>
-        <content type="html"><![CDATA[日前，特斯拉CEO埃隆·马斯克母亲梅耶·马斯克在X平台分享了她的中国行。据了解，<strong>梅耶·马斯克此次中国行来到了魔都上海，参观了上海著名景点豫园。</strong>]]></content>
+        <title type="html"><![CDATA[充电桩卷得人头皮发麻 现在大家盯上汽车充电宝了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1416379.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1416379.htm"/>
+        <updated>2024-02-06T08:58:10.000Z</updated>
+        <content type="html"><![CDATA[共享充电宝这股风，已经刮到<strong>新能源车</strong>这块了。前段时间，同事出去玩的时候，甩过来这样一张图，说是在嘉兴服务区，这玩意儿已经在满地溜达了。一开始我还以为服务区这是在学酒店送货机器人的那套，没啥可稀奇的。没想到同事紧接着又来了句，这是专门<strong>给新能源车充电</strong>的机器人。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果iOS 17.3.1正式版发布 修复iPhone Bug]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417127.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417127.htm"/>
+        <updated>2024-02-09T10:01:03.000Z</updated>
+        <content type="html"><![CDATA[今天除夕，是兔年的最后一天。今天凌晨，<strong>苹果为iPhone用户推送了iOS 17.3.1正式版更新，安装包大小281MB左右，</strong>内部版本号为21D61，本次更新距上次发布间隔17天。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现光与磁之间的突破性联系]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1417339.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1417339.htm"/>
+        <updated>2024-02-13T05:39:25.093Z</updated>
+        <content type="html"><![CDATA[希伯来大学最近进行的研究发现了光与磁性之间以前未知的联系。这一发现为开发由光控制的超快存储技术以及能够检测光的磁性成分的先驱传感器铺平了道路。预计这一进展将改变数据存储实践和多个领域的设备制造。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android 15蓄势待发 “简易模式”首度曝光]]></title>
@@ -84,6 +77,13 @@ Advanced全新体验，同时推出支持Android和iOS客户端的手机移动�
         <link href="https://www.cnbeta.com.tw/articles/tech/1417219.htm"/>
         <updated>2024-02-12T05:38:32.684Z</updated>
         <content type="html"><![CDATA[谷歌推送了Android 14 QPR3 Beta 1版本，开发者发现，<strong>新版Android加入了简易模式（easy pre-set）功能。</strong>在简易模式下，<strong>用户可以放大APP图标和文本，让字体变粗，更适合长辈使用。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[即将推出的联想ThinkBook笔记本计划首次采用全透明OLED显示屏]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417229.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417229.htm"/>
+        <updated>2024-02-12T05:38:32.733Z</updated>
+        <content type="html"><![CDATA[当我们谈论笔记本电脑行业的设计语言时，一般来说，这几十年来制造商往往会坚持相同的"枯燥"布局，只是在换代时简单增加一些美学特征。不过，未来似乎正在向一种全新的设计语言过渡，据《<a href="https://windowsreport.com/exclusive-lenovo-is-working-on-a-transparent-laptop-might-showcase-it-at-mwc-2024/" target="_blank" rel="noopener">Windows Report》</a>报道，联想正在准备推出一款透明笔记本电脑。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[阿里云盘自3月1日起账号容量超限后将限制下载和分享等]]></title>
@@ -100,20 +100,6 @@ Advanced全新体验，同时推出支持Android和iOS客户端的手机移动�
         <content type="html"><![CDATA[2月7日，《三体》电视剧官微宣布，国产版《三体》将会在新春在美国流媒体平台正式推出。电视剧《三体》官微表示，2月10日起（大年初一），《三体》电视剧登录美国NBC环球流媒体平台Peacock，一次性全集上线该平台，覆盖全美范围播出。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[拆解分析显示Galaxy S24 Ultra使用的钛金属材质不如苹果所用的5级钛]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1416249.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1416249.htm"/>
-        <updated>2024-02-11T05:38:29.624Z</updated>
-        <content type="html"><![CDATA[三星在其最高端的 Galaxy S24 Ultra 上采用了钛金属，这表明三星也可以采用更新的材料来吸引消费者，并保持与苹果的竞争力。然而，钛有不同的质量等级，根据最新的拆解（也涉及使用先进机器）发现，与苹果去年采用的钛相比，三星的旗舰机使用的品质较差。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 正准备加入著名的 sudo 命令]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1416185.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1416185.htm"/>
-        <updated>2024-02-05T10:30:54.000Z</updated>
-        <content type="html"><![CDATA[微软似乎带来了 macOS 和 Linux 中最让人熟悉的一个著名命令：sudo。Sudo 是"替代用户，执行"的缩写，允许以提升的权限执行命令，以安装应用程序、卸载组件、更改设置和执行其他操作。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[地球可能真的曾经是平的 这可能是很久以前的事了]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1416511.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1416511.htm"/>
@@ -128,24 +114,40 @@ Advanced全新体验，同时推出支持Android和iOS客户端的手机移动�
         <content type="html"><![CDATA[在中国，如果说哪个汽车品牌最受车主喜爱，可能会从奔驰、宝马、保时捷等豪华品牌中诞生，然而在美国，这些品牌竟然被一新势力击败。近日，美国消费者报告（Consumer Reports）发布了一份调查报告，<strong>Rivian竟然成为美国最受车主喜爱的汽车品牌</strong>！]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国手机仅剩“六大金刚” 占据市场份额的96%]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1416241.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1416241.htm"/>
-        <updated>2024-02-10T05:38:12.428Z</updated>
-        <content type="html"><![CDATA[在愈发激烈的竞争环境下，<strong>中国手机市场仅剩下六大金刚，这六家主要厂商贡献了总市场的96%，成为绝对主流。</strong>TechInsights发布的最新数据显示，<strong>中国的智能手机出货量在2023年第四季度同比下降了-0.3%，达到了7120万部。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即将推出的联想ThinkBook笔记本计划首次采用全透明OLED显示屏]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417229.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417229.htm"/>
-        <updated>2024-02-12T05:38:32.733Z</updated>
-        <content type="html"><![CDATA[当我们谈论笔记本电脑行业的设计语言时，一般来说，这几十年来制造商往往会坚持相同的"枯燥"布局，只是在换代时简单增加一些美学特征。不过，未来似乎正在向一种全新的设计语言过渡，据《<a href="https://windowsreport.com/exclusive-lenovo-is-working-on-a-transparent-laptop-might-showcase-it-at-mwc-2024/" target="_blank" rel="noopener">Windows Report》</a>报道，联想正在准备推出一款透明笔记本电脑。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[亚马逊上销售的国产Mini PC被发现含有出厂安装的间谍软件]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1416827.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1416827.htm"/>
         <updated>2024-02-08T03:04:32.000Z</updated>
         <content type="html"><![CDATA[AceMagic品牌由一家中国深圳的科技公司拥有和经营，以其丰富的迷你 PC 产品线而闻名，这些产品以相对实惠的价格提供高性能。然而，该公司现在不得不承认，至少有一批设备在出厂时被安装了间谍软件。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vision Pro芯片级拆解：内含大量TI芯片 还有一颗国产芯片]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417113.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417113.htm"/>
+        <updated>2024-02-09T09:55:05.000Z</updated>
+        <content type="html"><![CDATA[国外专业的拆解机构iFixit在2月3日率先发布了对Vision Pro的拆解报告之后，2月7日，iFixit发布了对Vision Pro更为深入芯片级的分析报告，显示其中有着大量的德州仪器（TI）芯片，还有兆易创新的NorFlash。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的iPhone SE传言与之前泄露的信息一致 均暗示换用新机身]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417087.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417087.htm"/>
+        <updated>2024-02-09T06:12:58.000Z</updated>
+        <content type="html"><![CDATA[一位准确性记录一般的泄密者通过二次确认之前泄露的设计信息，提供了有关iPhone SE 4祖新传闻。此前曾有传言称，第四代 iPhone SE 将采用单摄像头和灵动岛，外观与iPhone 14相似。它的开发过程有些混乱，受到传闻中的自制调制解调器发展不顺利的影响，发布日期也遇到了延迟，但最终可能会在 2025 年面世。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保时捷全球代言人谷爱凌大年初一开豪车带奶奶兜风]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417411.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417411.htm"/>
+        <updated>2024-02-11T10:25:16.000Z</updated>
+        <content type="html"><![CDATA[大年初一，谷爱凌在ins、微博等社交平台上晒出了自己带奶奶兜风的照片，并配上了“新年红新气象”的文案，照片里，她驾驶着一台红色的敞篷版保时捷跑车，非常应景。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的浏览器内核Servo正在卷土重来 与谷歌Blink和苹果WebKit竞争]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1416525.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1416525.htm"/>
+        <updated>2024-02-13T05:39:25.105Z</updated>
+        <content type="html"><![CDATA[如果你没听说过 Servo 浏览器引擎 / 内核，那是很正常的，这是一个自 2012 年就被创建的实验性项目，而它的创作者正是
+Mozilla。Mozilla 使用 Rust 开发 Servo 引擎，不过这只是实验性项目主要用于研究目的，所以十几年以来 Servo
+引擎起起落落没有获得太多的关注，实际上也算是被 Mozilla 放弃了。]]></content>
     </entry>
 </feed>
