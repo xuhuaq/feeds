@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-02-18T17:38:23.538Z</updated>
+    <updated>2024-02-19T05:39:14.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -15,19 +15,19 @@ Android 定制系统。今天 LineageOS 项目组宣布 LineageOS 21.0
 正式版发布，这比往年发布新版本的时间要早些，这得益于项目组迎来了一些新的贡献者、一些老贡献者挺身而出以及几位新任命的项目总监。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bose发布新型Ultra Open Earbuds耳塞 佩戴时完全不进入耳朵内部]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418361.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418361.htm"/>
+        <updated>2024-02-18T05:38:27.592Z</updated>
+        <content type="html"><![CDATA[Bose 今天正式发布了新款 Ultra Open Earbuds。这款耳塞售价 299 美元，采用了非常独特的设计，可以缠绕并固定在外耳上，而不是伸入耳道。一个涂有硅树脂的柔性臂将"耳塞"连接到一个圆形电池筒上，电池筒位于耳后，并带有一个控制音乐的按钮。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美国政府4200万美元押注开放蜂窝网络 以抵抗华为在相关领域的统治地位]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1417749.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1417749.htm"/>
         <updated>2024-02-13T03:44:26.000Z</updated>
         <content type="html"><![CDATA[美国政府已承诺出资4200万美元进一步开发5G开放式RAN（O-RAN）标准，该标准将允许无线供应商混合和匹配蜂窝硬件和软件，为第三方设备开辟更广阔的市场，这些设备成本更低且具有互操作性。美国国家电信和信息管理局（NTIA）的这笔拨款将用于建立达拉斯
 O-RAN 测试中心，以证明该标准的可行性，从而阻止华为稳步走向全球蜂窝网络硬件垄断。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bose发布新型Ultra Open Earbuds耳塞 佩戴时完全不进入耳朵内部]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1418361.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1418361.htm"/>
-        <updated>2024-02-18T05:38:27.592Z</updated>
-        <content type="html"><![CDATA[Bose 今天正式发布了新款 Ultra Open Earbuds。这款耳塞售价 299 美元，采用了非常独特的设计，可以缠绕并固定在外耳上，而不是伸入耳道。一个涂有硅树脂的柔性臂将"耳塞"连接到一个圆形电池筒上，电池筒位于耳后，并带有一个控制音乐的按钮。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google提议被微软Windows淘汰的计算机将ChromeOS Flex作为替代系统]]></title>
@@ -103,39 +103,11 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <content type="html"><![CDATA[苹果似乎有意要扩大iPhone 16系列，其打算把SE系列融入其中，如果成真的话，那么该系列就至少拥有5款机型。具体来说，这五款机型分别是：iPhone 16 SE、SE PLus、16、16 Pro和16 Pro Max，不过这个消息还有待进一步确认。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[保时捷全球代言人谷爱凌大年初一开豪车带奶奶兜风]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417411.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417411.htm"/>
-        <updated>2024-02-11T10:25:16.000Z</updated>
-        <content type="html"><![CDATA[大年初一，谷爱凌在ins、微博等社交平台上晒出了自己带奶奶兜风的照片，并配上了“新年红新气象”的文案，照片里，她驾驶着一台红色的敞篷版保时捷跑车，非常应景。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vision Pro商标已被华为注册 苹果中国只能求和解]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1417567.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1417567.htm"/>
         <updated>2024-02-12T09:57:04.000Z</updated>
         <content type="html"><![CDATA[<strong>据供应链最新消息称，苹果Vision Pro推出后，就受到了很多厂商的关注，虽然这个产品可能要经历四代才可能完善，但整个产业布局需要提前布局和催化。</strong>在这样的大背景下，不少厂商都开始准备相关产品，比如华为等，后者早在2019年就注册了头显相关的商标。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你们不是说纯电才“先进” 怎么都来搞增程了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417985.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417985.htm"/>
-        <updated>2024-02-14T09:52:52.000Z</updated>
-        <content type="html"><![CDATA[这个春节，开车回去的朋友都还顺利吗。一到长假，新能源车出行又成了老生常谈的话题。特别是今年赶上高速大雪封路的，要是纯电车堵到没电，可就太遭罪了。不知道这个时候，车主们会不会纠结，当初应该选一辆能加油的？反正最近的销量榜，已经反应出了大伙儿这个心理。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麒麟供应问题解决 华为Mate 60全系春节全现货销售]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417787.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417787.htm"/>
-        <updated>2024-02-13T09:24:07.000Z</updated>
-        <content type="html"><![CDATA[华为Mate 60系列自从去年9月份突然发售之后就供不应求，尤其是Mate 60 Pro+和Mate 60 RS版本。据悉，很长一段时间的缺货都是因为麒麟9000S芯片供应不足，导致整机产能有限。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 17.4 Beta3预览版发布 历史首次开放侧载]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417989.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417989.htm"/>
-        <updated>2024-02-14T09:54:33.000Z</updated>
-        <content type="html"><![CDATA[今天凌晨，<strong>苹果向开发者推送了 iOS/iPadOS 17.4开发者预览版Beta 3更新，</strong>本次更新内部版本号为21E5200d。<strong>iOS 17.4最大的变化就是支持侧载，</strong>不过这一功能仅限欧盟覆盖的27个国家或地区iPhone用户，其他地区则无缘此功能。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为什么汉字“龙”这样写：由简到繁再到简 最早的龙字原来长这样]]></title>
@@ -145,10 +117,40 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <content type="html"><![CDATA[农历新年，是甲辰龙年。龙字始见于商代甲骨文及商代金文，其古字形像一条飞腾的巨龙。<strong>从甲骨文中的“龙”字，到今天的汉字“龙”，这个字经历了怎样的演变过程？</strong>甲骨文中的龙，头角峥嵘，龙须飘扬，好似腾空而起，正是人们想象中飞腾巨龙的形象。随后“龙”字的演变经历了“由简到繁”又“由繁到简”的发展过程，并最终定型。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这种专门设计的SSD可取代过时的SCSI硬盘]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417757.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417757.htm"/>
-        <updated>2024-02-13T05:19:19.000Z</updated>
-        <content type="html"><![CDATA[与机械硬盘相比，固态硬盘具有诸多优势，现在，IT 管理员和硬件发烧友可以利用固态硬盘的优势，而不必升级到全新的平台。一家名为Solid State Disks Ltd的公司最近推出了使用 SCSI 接口的机械硬盘的交换式升级/替代产品，这种硬盘兼容 68 针和 80 针SCSI接口，容量从 2 GB 到 1 TB 不等。]]></content>
+        <title type="html"><![CDATA[你们不是说纯电才“先进” 怎么都来搞增程了？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417985.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417985.htm"/>
+        <updated>2024-02-14T09:52:52.000Z</updated>
+        <content type="html"><![CDATA[这个春节，开车回去的朋友都还顺利吗。一到长假，新能源车出行又成了老生常谈的话题。特别是今年赶上高速大雪封路的，要是纯电车堵到没电，可就太遭罪了。不知道这个时候，车主们会不会纠结，当初应该选一辆能加油的？反正最近的销量榜，已经反应出了大伙儿这个心理。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火绒安全就重大失误道歉 不慎将资源管理器当病毒杀结果导致黑屏]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418701.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418701.htm"/>
+        <updated>2024-02-19T05:39:13.855Z</updated>
+        <content type="html"><![CDATA[这件事并不是这两天而生的，而是在春节之前就存在了，当时火绒安全的病毒库更新似乎存在问题，结果将 Windows
+系统的核心组件之一，资源管理器进程 eplorer.exe
+当病毒给杀了。正常情况下资源管理器进程一般是重启，重启时我们可以注意到桌面黑屏或者不显示任何图标，包括任务栏等都不显示。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麒麟供应问题解决 华为Mate 60全系春节全现货销售]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417787.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417787.htm"/>
+        <updated>2024-02-13T09:24:07.000Z</updated>
+        <content type="html"><![CDATA[华为Mate 60系列自从去年9月份突然发售之后就供不应求，尤其是Mate 60 Pro+和Mate 60 RS版本。据悉，很长一段时间的缺货都是因为麒麟9000S芯片供应不足，导致整机产能有限。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一只健康的青蛙被发现身体侧面长出了一个小蘑菇 让科学家们目瞪口呆]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1418521.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1418521.htm"/>
+        <updated>2024-02-19T05:39:13.855Z</updated>
+        <content type="html"><![CDATA[一只健康的青蛙被发现身体侧面长出了一个小蘑菇，这是首次在活体动物组织上观察到这种生长现象。这自然让科学家们目瞪口呆。虽然真菌入侵在小动物世界中相当常见，但这种真菌的生长似乎与僵尸寄生类型非常不同， 僵尸寄生类型会给被劫持的宿主带来坏消息。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 17.4 Beta3预览版发布 历史首次开放侧载]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417989.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417989.htm"/>
+        <updated>2024-02-14T09:54:33.000Z</updated>
+        <content type="html"><![CDATA[今天凌晨，<strong>苹果向开发者推送了 iOS/iPadOS 17.4开发者预览版Beta 3更新，</strong>本次更新内部版本号为21E5200d。<strong>iOS 17.4最大的变化就是支持侧载，</strong>不过这一功能仅限欧盟覆盖的27个国家或地区iPhone用户，其他地区则无缘此功能。]]></content>
     </entry>
 </feed>
