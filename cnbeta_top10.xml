@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-02-19T17:38:01.472Z</updated>
+    <updated>2024-02-20T05:38:43.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -22,14 +22,6 @@ Android 定制系统。今天 LineageOS 项目组宣布 LineageOS 21.0
         <content type="html"><![CDATA[Bose 今天正式发布了新款 Ultra Open Earbuds。这款耳塞售价 299 美元，采用了非常独特的设计，可以缠绕并固定在外耳上，而不是伸入耳道。一个涂有硅树脂的柔性臂将"耳塞"连接到一个圆形电池筒上，电池筒位于耳后，并带有一个控制音乐的按钮。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国政府4200万美元押注开放蜂窝网络 以抵抗华为在相关领域的统治地位]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417749.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417749.htm"/>
-        <updated>2024-02-13T03:44:26.000Z</updated>
-        <content type="html"><![CDATA[美国政府已承诺出资4200万美元进一步开发5G开放式RAN（O-RAN）标准，该标准将允许无线供应商混合和匹配蜂窝硬件和软件，为第三方设备开辟更广阔的市场，这些设备成本更低且具有互操作性。美国国家电信和信息管理局（NTIA）的这笔拨款将用于建立达拉斯
-O-RAN 测试中心，以证明该标准的可行性，从而阻止华为稳步走向全球蜂窝网络硬件垄断。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google提议被微软Windows淘汰的计算机将ChromeOS Flex作为替代系统]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1418467.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1418467.htm"/>
@@ -46,25 +38,11 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <content type="html"><![CDATA[在近日于阿联酋迪拜举行的2024年世界政府峰会上，英伟达创始人兼CEO黄仁勋在被问及，如果站在科技的前沿，人们到底应该学习什么时表示：<strong>“人人都必须学会计算机的时代过去了，人类生物学才是未来。”</strong>黄仁勋表示，在过去的10年15年中，几乎每个在座的人都会告诉你，学习计算机对于孩子来说是至关重要的，每个人都需要学习编程。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 Pro Max 可能拥有史上最长的电池续航时间]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417707.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417707.htm"/>
-        <updated>2024-02-15T05:38:47.625Z</updated>
-        <content type="html"><![CDATA[据来自韩国的传言称，iPhone16 Pro Max 的电池续航时间可能是有史以来最长的。名为"yeux1122"的 Naver 用户在上周的一篇文章中援引供应链消息来源，证实了一系列有关 iPhone 16 Pro 的传言，例如其显示屏尺寸从 6.1 英寸增至 6.3 英寸。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[超级碗料破收视纪录：满眼都是斯威夫特和拼多多]]></title>
         <id>https://hot.cnbeta.com.tw/articles/movie/1417761.htm</id>
         <link href="https://hot.cnbeta.com.tw/articles/movie/1417761.htm"/>
         <updated>2024-02-13T09:03:13.000Z</updated>
         <content type="html"><![CDATA[同一个世界，同一种狂热。中国看春晚，美国超级碗。今年的超级碗，预计会打破去年的收视纪录。长达四个多小时的比赛，印象最深的是猛撒狗粮的斯威夫特，还有简单粗暴且没完没了的拼多多广告。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拼多多Temu今年又在超级碗投放广告了 画风是这样的]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417675.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417675.htm"/>
-        <updated>2024-02-14T05:38:34.269Z</updated>
-        <content type="html"><![CDATA[北京时间今天（2月12日）上午，第58届超级碗在拉斯维加斯举行，酋长加时25-22绝杀49人，成功卫冕！超级碗多年来已经成为全美收视率最高的电视转播赛事，其中广告更是“寸秒寸金”。今年拼多多旗下跨境平台Temu大手笔买了两个时段的超级碗广告，广告词是“Shop like a Billionaire”（像亿万富豪一样购物）。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国用户开始退货，苹果Vision Pro为何让他们不满？]]></title>
@@ -103,13 +81,6 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <content type="html"><![CDATA[苹果似乎有意要扩大iPhone 16系列，其打算把SE系列融入其中，如果成真的话，那么该系列就至少拥有5款机型。具体来说，这五款机型分别是：iPhone 16 SE、SE PLus、16、16 Pro和16 Pro Max，不过这个消息还有待进一步确认。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vision Pro商标已被华为注册 苹果中国只能求和解]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417567.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417567.htm"/>
-        <updated>2024-02-12T09:57:04.000Z</updated>
-        <content type="html"><![CDATA[<strong>据供应链最新消息称，苹果Vision Pro推出后，就受到了很多厂商的关注，虽然这个产品可能要经历四代才可能完善，但整个产业布局需要提前布局和催化。</strong>在这样的大背景下，不少厂商都开始准备相关产品，比如华为等，后者早在2019年就注册了头显相关的商标。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为什么汉字“龙”这样写：由简到繁再到简 最早的龙字原来长这样]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1418291.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1418291.htm"/>
@@ -117,11 +88,18 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <content type="html"><![CDATA[农历新年，是甲辰龙年。龙字始见于商代甲骨文及商代金文，其古字形像一条飞腾的巨龙。<strong>从甲骨文中的“龙”字，到今天的汉字“龙”，这个字经历了怎样的演变过程？</strong>甲骨文中的龙，头角峥嵘，龙须飘扬，好似腾空而起，正是人们想象中飞腾巨龙的形象。随后“龙”字的演变经历了“由简到繁”又“由繁到简”的发展过程，并最终定型。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你们不是说纯电才“先进” 怎么都来搞增程了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417985.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417985.htm"/>
-        <updated>2024-02-14T09:52:52.000Z</updated>
-        <content type="html"><![CDATA[这个春节，开车回去的朋友都还顺利吗。一到长假，新能源车出行又成了老生常谈的话题。特别是今年赶上高速大雪封路的，要是纯电车堵到没电，可就太遭罪了。不知道这个时候，车主们会不会纠结，当初应该选一辆能加油的？反正最近的销量榜，已经反应出了大伙儿这个心理。]]></content>
+        <title type="html"><![CDATA[15TB秒变30TB 索尼研发出HDD硬盘容量翻倍技术]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418891.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418891.htm"/>
+        <updated>2024-02-20T05:38:42.419Z</updated>
+        <content type="html"><![CDATA[据日本媒体报道，<strong>索尼成功研发出用于大容量机械硬盘（HDD）的半导体激光器，可使硬盘的存储容量翻倍。</strong>通过在HDD硬盘写入和读取信息的磁头上安装该半导体激光器，可以写入比以往更多的信息。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16全系配置抢先曝光：首发史上最强A18/A18 Pro、标配8GB内存]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418827.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418827.htm"/>
+        <updated>2024-02-18T10:00:03.000Z</updated>
+        <content type="html"><![CDATA[iPhone 16后摄像头模组重回垂直排列的消息得到了证实。MR抢先曝光了iPhone 16系列四款机型的核心配置，一起来看看。今年，<strong>iPhone 16、16 Plus和16 Pro、16 Pro Max将分别升级A18、A18 Pro芯片，采用台积电“N3E”增强型3nm工艺。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[火绒安全就重大失误道歉 不慎将资源管理器当病毒杀结果导致黑屏]]></title>
@@ -133,11 +111,11 @@ Flex提供"自动更新"硬件兼容性。]]></content>
 当病毒给杀了。正常情况下资源管理器进程一般是重启，重启时我们可以注意到桌面黑屏或者不显示任何图标，包括任务栏等都不显示。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[麒麟供应问题解决 华为Mate 60全系春节全现货销售]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417787.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417787.htm"/>
-        <updated>2024-02-13T09:24:07.000Z</updated>
-        <content type="html"><![CDATA[华为Mate 60系列自从去年9月份突然发售之后就供不应求，尤其是Mate 60 Pro+和Mate 60 RS版本。据悉，很长一段时间的缺货都是因为麒麟9000S芯片供应不足，导致整机产能有限。]]></content>
+        <title type="html"><![CDATA[奔驰成电动车“暴跌王” 新车最高降价近40万]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418943.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418943.htm"/>
+        <updated>2024-02-20T05:38:42.429Z</updated>
+        <content type="html"><![CDATA[据汽车博主“麻辣车评”制作的视频显示，懂车帝近一年上市的新能源车降价榜单中（上海地区），奔驰坐实电动车“暴跌王”的位置。奔驰旗下EQA EQB EQS EQS(SUV)EQE(SUV）五款车型占据降价榜前五，<strong>降价幅度在15.91——36.51万之间，平均降幅在39%以上，</strong>也就是说以上奔驰车型的现价几乎是发售价格的一大半。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一只健康的青蛙被发现身体侧面长出了一个小蘑菇 让科学家们目瞪口呆]]></title>
@@ -145,6 +123,27 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <link href="https://www.cnbeta.com.tw/articles/science/1418521.htm"/>
         <updated>2024-02-19T05:39:13.855Z</updated>
         <content type="html"><![CDATA[一只健康的青蛙被发现身体侧面长出了一个小蘑菇，这是首次在活体动物组织上观察到这种生长现象。这自然让科学家们目瞪口呆。虽然真菌入侵在小动物世界中相当常见，但这种真菌的生长似乎与僵尸寄生类型非常不同， 僵尸寄生类型会给被劫持的宿主带来坏消息。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你们不是说纯电才“先进” 怎么都来搞增程了？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417985.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417985.htm"/>
+        <updated>2024-02-14T09:52:52.000Z</updated>
+        <content type="html"><![CDATA[这个春节，开车回去的朋友都还顺利吗。一到长假，新能源车出行又成了老生常谈的话题。特别是今年赶上高速大雪封路的，要是纯电车堵到没电，可就太遭罪了。不知道这个时候，车主们会不会纠结，当初应该选一辆能加油的？反正最近的销量榜，已经反应出了大伙儿这个心理。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麒麟供应问题解决 华为Mate 60全系春节全现货销售]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1417787.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1417787.htm"/>
+        <updated>2024-02-13T09:24:07.000Z</updated>
+        <content type="html"><![CDATA[华为Mate 60系列自从去年9月份突然发售之后就供不应求，尤其是Mate 60 Pro+和Mate 60 RS版本。据悉，很长一段时间的缺货都是因为麒麟9000S芯片供应不足，导致整机产能有限。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只需104秒 Windows 10安装速度创惊人纪录]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418983.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418983.htm"/>
+        <updated>2024-02-20T05:38:42.506Z</updated>
+        <content type="html"><![CDATA[Windows的漫长安装过程总是让人挠心，比如说在标准现代PC上安装Windows 10，一般需要二三十分钟，但是你能想象100多秒就搞定吗？Windows开发者NTDev就对这个问题非常执着，经过反复研究，最终达成了104秒的惊人记录！]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 17.4 Beta3预览版发布 历史首次开放侧载]]></title>
