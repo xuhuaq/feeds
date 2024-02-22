@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-02-21T17:38:19.381Z</updated>
+    <updated>2024-02-22T05:38:19.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -38,32 +38,11 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <content type="html"><![CDATA[在近日于阿联酋迪拜举行的2024年世界政府峰会上，英伟达创始人兼CEO黄仁勋在被问及，如果站在科技的前沿，人们到底应该学习什么时表示：<strong>“人人都必须学会计算机的时代过去了，人类生物学才是未来。”</strong>黄仁勋表示，在过去的10年15年中，几乎每个在座的人都会告诉你，学习计算机对于孩子来说是至关重要的，每个人都需要学习编程。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[奔驰成电动车“暴跌王” 新车最高降价近40万]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1418943.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1418943.htm"/>
-        <updated>2024-02-20T05:38:42.429Z</updated>
-        <content type="html"><![CDATA[据汽车博主“麻辣车评”制作的视频显示，懂车帝近一年上市的新能源车降价榜单中（上海地区），奔驰坐实电动车“暴跌王”的位置。奔驰旗下EQA EQB EQS EQS(SUV)EQE(SUV）五款车型占据降价榜前五，<strong>降价幅度在15.91——36.51万之间，平均降幅在39%以上，</strong>也就是说以上奔驰车型的现价几乎是发售价格的一大半。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[只需104秒 Windows 10安装速度创惊人纪录]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1418983.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1418983.htm"/>
         <updated>2024-02-20T05:38:42.506Z</updated>
         <content type="html"><![CDATA[Windows的漫长安装过程总是让人挠心，比如说在标准现代PC上安装Windows 10，一般需要二三十分钟，但是你能想象100多秒就搞定吗？Windows开发者NTDev就对这个问题非常执着，经过反复研究，最终达成了104秒的惊人记录！]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类建筑高度的极限是多少？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1418197.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1418197.htm"/>
-        <updated>2024-02-15T09:32:09.000Z</updated>
-        <content type="html"><![CDATA[<strong>高 828 米的迪拜哈利法塔</strong>是人类的建筑高度的极限吗？人类能不能造出超过 1 千米高度以上的建筑呢？而要想造一幢超高层摩天大楼，又需要解决什么问题？今天跟大家聊聊<strong>万丈高楼如何平地而起</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 24H2六大重磅新功能抢先看]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1418217.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1418217.htm"/>
-        <updated>2024-02-15T09:46:01.000Z</updated>
-        <content type="html"><![CDATA[微软官方已经确认，<strong>Windows的下一个大版本将命名为Windows 11 24H2（预计会在9月发布），</strong>并非早先外界猜测的Windows 12。WC抢先带来了24H2的部分新功能，一起来看看。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[女子手机重1000多克很异常 一查竟然塞了1千克黄金]]></title>
@@ -73,11 +52,11 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <content type="html"><![CDATA[2月19日消息，正常情况下，手机重量也就200g左右，即便加上手机壳，一般也不会超过半斤。而近日，<strong>一女子的手机壳重量超过2斤，引发海关人员的注意，检查后发现，竟然藏了1千克黄金。</strong>据海关发布消息，近日，拱北海关所属青茂海关查获一起旅客手机壳内藏黄金进境案。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国用户开始退货，苹果Vision Pro为何让他们不满？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1418109.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1418109.htm"/>
-        <updated>2024-02-16T05:38:40.783Z</updated>
-        <content type="html"><![CDATA[上市不到两周时间，苹果公司的首款头显Vision Pro已经开始陆续接到用户的退货。一些早期使用者反映，Vision Pro设计笨重、视觉效果不佳以及缺乏应用场景，不值得他们花上3500美元(约合2.5万元人民币)。]]></content>
+        <title type="html"><![CDATA[奔驰成电动车“暴跌王” 新车最高降价近40万]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418943.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418943.htm"/>
+        <updated>2024-02-20T05:38:42.429Z</updated>
+        <content type="html"><![CDATA[据汽车博主“麻辣车评”制作的视频显示，懂车帝近一年上市的新能源车降价榜单中（上海地区），奔驰坐实电动车“暴跌王”的位置。奔驰旗下EQA EQB EQS EQS(SUV)EQE(SUV）五款车型占据降价榜前五，<strong>降价幅度在15.91——36.51万之间，平均降幅在39%以上，</strong>也就是说以上奔驰车型的现价几乎是发售价格的一大半。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[15TB秒变30TB 索尼研发出HDD硬盘容量翻倍技术]]></title>
@@ -87,12 +66,18 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <content type="html"><![CDATA[据日本媒体报道，<strong>索尼成功研发出用于大容量机械硬盘（HDD）的半导体激光器，可使硬盘的存储容量翻倍。</strong>通过在HDD硬盘写入和读取信息的磁头上安装该半导体激光器，可以写入比以往更多的信息。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传言称OPPO、一加和vivo正打算退出可折叠手机市场]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1418329.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1418329.htm"/>
-        <updated>2024-02-17T05:38:17.724Z</updated>
-        <content type="html"><![CDATA[OPPO、OnePlus 和 Vivo
-一直在开发和制造可折叠手机，但来自韩国经济日报的一则新的传言表明，这种情况可能很快就会结束。尽管这两家公司在可折叠手机市场取得了相对成功，但为什么会终止呢？因为这两家公司去年的市场份额大幅下降，这是导致它们退出市场的主要原因。如果出现这种情况，那么其大部分份额将落入三星和华为之手。]]></content>
+        <title type="html"><![CDATA[Windows 11 24H2六大重磅新功能抢先看]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418217.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418217.htm"/>
+        <updated>2024-02-15T09:46:01.000Z</updated>
+        <content type="html"><![CDATA[微软官方已经确认，<strong>Windows的下一个大版本将命名为Windows 11 24H2（预计会在9月发布），</strong>并非早先外界猜测的Windows 12。WC抢先带来了24H2的部分新功能，一起来看看。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类建筑高度的极限是多少？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418197.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418197.htm"/>
+        <updated>2024-02-15T09:32:09.000Z</updated>
+        <content type="html"><![CDATA[<strong>高 828 米的迪拜哈利法塔</strong>是人类的建筑高度的极限吗？人类能不能造出超过 1 千米高度以上的建筑呢？而要想造一幢超高层摩天大楼，又需要解决什么问题？今天跟大家聊聊<strong>万丈高楼如何平地而起</strong>。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[火绒安全就重大失误道歉 不慎将资源管理器当病毒杀结果导致黑屏]]></title>
@@ -111,11 +96,35 @@ Flex提供"自动更新"硬件兼容性。]]></content>
         <content type="html"><![CDATA[iPhone 16后摄像头模组重回垂直排列的消息得到了证实。MR抢先曝光了iPhone 16系列四款机型的核心配置，一起来看看。今年，<strong>iPhone 16、16 Plus和16 Pro、16 Pro Max将分别升级A18、A18 Pro芯片，采用台积电“N3E”增强型3nm工艺。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[传言称OPPO、一加和vivo正打算退出可折叠手机市场]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1418329.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1418329.htm"/>
+        <updated>2024-02-17T05:38:17.724Z</updated>
+        <content type="html"><![CDATA[OPPO、OnePlus 和 Vivo
+一直在开发和制造可折叠手机，但来自韩国经济日报的一则新的传言表明，这种情况可能很快就会结束。尽管这两家公司在可折叠手机市场取得了相对成功，但为什么会终止呢？因为这两家公司去年的市场份额大幅下降，这是导致它们退出市场的主要原因。如果出现这种情况，那么其大部分份额将落入三星和华为之手。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[为什么汉字“龙”这样写：由简到繁再到简 最早的龙字原来长这样]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1418291.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1418291.htm"/>
         <updated>2024-02-18T05:38:27.659Z</updated>
         <content type="html"><![CDATA[农历新年，是甲辰龙年。龙字始见于商代甲骨文及商代金文，其古字形像一条飞腾的巨龙。<strong>从甲骨文中的“龙”字，到今天的汉字“龙”，这个字经历了怎样的演变过程？</strong>甲骨文中的龙，头角峥嵘，龙须飘扬，好似腾空而起，正是人们想象中飞腾巨龙的形象。随后“龙”字的演变经历了“由简到繁”又“由繁到简”的发展过程，并最终定型。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麒麟供应问题解决 华为Mate 60系列渠道开始降价 最高优惠1千]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1419125.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1419125.htm"/>
+        <updated>2024-02-22T05:38:18.675Z</updated>
+        <content type="html"><![CDATA[前不久有爆料称，<strong>麒麟9000S芯片供应问题已经解决，华为Mate 60供货也终于充足了。</strong>春节期间甚至，Mate 60全系在京东和官网上都已经现货敞开卖，Mate 60、Mate 60 Pro、Mate 60 Pro+、Mate 60 RS通通都是现货。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为即将推出的新款麒麟SoC据传性能表现与骁龙 8 Plus第一代相当]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1419225.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1419225.htm"/>
+        <updated>2024-02-22T05:38:18.676Z</updated>
+        <content type="html"><![CDATA[华为凭借麒麟 9000S
+重返智能手机市场，被视为行业奇迹，但这并不能改变它明显慢于竞争对手的事实。这是意料之中的事，因为华为的代工合作伙伴中芯国际目前只能在老式的
+DUV 设备上量产 7 纳米晶圆，这意味着中芯国际在技术上不如三星和台积电，从长远来看很可能落后于它们。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新泄露图像展示iPhone 16 Pro的相机模块细节：圆形镜头整合到一个单元中]]></title>
@@ -134,24 +143,19 @@ iPhone 15 和 15 Pro 机型的设计。一个看上去不太靠谱的传言展�
         <content type="html"><![CDATA[小米SU7很快就要上市，到底它要卖多少钱呢，这会是不少人关心的话题。<strong>近日，有博主发微博表示，小米的首款汽车（小米SU7），价格应该会比想象中要划算，起售价还是很多人消费得起的。其还在评论区强调，要是足够划算，这个外形可以买呀。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一只健康的青蛙被发现身体侧面长出了一个小蘑菇 让科学家们目瞪口呆]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1418521.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1418521.htm"/>
-        <updated>2024-02-19T05:39:13.855Z</updated>
-        <content type="html"><![CDATA[一只健康的青蛙被发现身体侧面长出了一个小蘑菇，这是首次在活体动物组织上观察到这种生长现象。这自然让科学家们目瞪口呆。虽然真菌入侵在小动物世界中相当常见，但这种真菌的生长似乎与僵尸寄生类型非常不同， 僵尸寄生类型会给被劫持的宿主带来坏消息。]]></content>
+        <title type="html"><![CDATA[iOS 17.4 让你对 iPhone 15 的电池健康状况一目了然]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1419581.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1419581.htm"/>
+        <updated>2024-02-21T03:42:58.000Z</updated>
+        <content type="html"><![CDATA[在 iOS 17.4 中，苹果调整了向iPhone 15用户报告电池健康状况的方式，使他们更容易一目了然地了解自己的电池状态。在"设置"应用的"电池"部分，"电池健康状况"列表现在有了"正常"等读数，无需点击进入之前的"电池健康状况和充电"部分即可访问。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你们不是说纯电才“先进” 怎么都来搞增程了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417985.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417985.htm"/>
-        <updated>2024-02-14T09:52:52.000Z</updated>
-        <content type="html"><![CDATA[这个春节，开车回去的朋友都还顺利吗。一到长假，新能源车出行又成了老生常谈的话题。特别是今年赶上高速大雪封路的，要是纯电车堵到没电，可就太遭罪了。不知道这个时候，车主们会不会纠结，当初应该选一辆能加油的？反正最近的销量榜，已经反应出了大伙儿这个心理。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 17.4 Beta3预览版发布 历史首次开放侧载]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1417989.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1417989.htm"/>
-        <updated>2024-02-14T09:54:33.000Z</updated>
-        <content type="html"><![CDATA[今天凌晨，<strong>苹果向开发者推送了 iOS/iPadOS 17.4开发者预览版Beta 3更新，</strong>本次更新内部版本号为21E5200d。<strong>iOS 17.4最大的变化就是支持侧载，</strong>不过这一功能仅限欧盟覆盖的27个国家或地区iPhone用户，其他地区则无缘此功能。]]></content>
+        <title type="html"><![CDATA[消息称华为Mate 70系列备货量提升40%以上]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1419117.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1419117.htm"/>
+        <updated>2024-02-22T05:38:18.683Z</updated>
+        <content type="html"><![CDATA[去年8月份，在没有任何预热的情况下，华为Mate 60
+Pro突然开售，其余机型也在9月突袭上市。虽然省去了预热和发布会的步骤，但凭借着久违的麒麟芯片以及多种全新科技加持，华为Mate
+60系列引发了极高的市场热度，过于火爆的人气也导致该系列手机上市半年依然处于一机难求的状态。]]></content>
     </entry>
 </feed>
