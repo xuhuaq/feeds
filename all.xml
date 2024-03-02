@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-02T05:38:56.248Z</updated>
+    <updated>2024-03-02T17:37:58.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[马斯克施压Google开除Gemini团队 (cnbeta一周点击排行)]]></title>
@@ -10,15 +10,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1420747.htm"/>
         <updated>2024-02-26T09:22:58.000Z</updated>
         <content type="html"><![CDATA[马斯克周末就谷歌人工智能聊天工具Gemini的“觉醒病毒”问题进一步向该公司管理层施压。马斯克发帖称：“考虑到Gemini AI将成为每一款谷歌产品和YouTube的核心，这是极度令人担忧的！谷歌的高管昨天又打电话给我，说要几个月才能解决。之前，他认为会更快。"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wubuntu：基于Ubuntu的Windows 11界面系统 还支持安装exe (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1420531.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1420531.htm"/>
-        <updated>2024-02-26T05:38:33.465Z</updated>
-        <content type="html"><![CDATA[微软正在 Windows 里集成各类 Linux 系统，也有开发者通过 Linux 系统开发 Windows 11，比如这个名为 Wubuntu
-的开源项目。Wubuntu 是一个基于 Ubuntu 的操作系统，但整个界面都是 Windows 11
-风格，无论是任务栏、开始菜单还是资源管理器，开发者称目的是为了拯救那些仍然想要使用 Windows 的老电脑。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克测试星链卫星直连 通过普通4G LTE手机连接卫星发推 (cnbeta一周点击排行)]]></title>
@@ -37,21 +28,18 @@
         <content type="html"><![CDATA[今日，有博主晒出特斯拉Cybertruck被追尾的图片。从该博主晒的图来看，<strong>Cybertruck车后被撞部位几乎没变样，且后车的前脸轮廓经过撞击被印在特斯拉车身上。</strong>博主戏谑道：“这看起来就像是给后车照镜子”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix《三体》3月21日开播 平均每集费用1.44亿人民币 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1420475.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1420475.htm"/>
-        <updated>2024-02-24T00:01:20.000Z</updated>
-        <content type="html"><![CDATA[在离开HBO转投Netflix并签署了价值数亿美元的开发协议（据传价值在2亿至3亿美元之间）近五年之后，“权力的游戏”创作人大卫·贝尼奥夫（David
-Benioff）和D·B·威斯（D.B. Weiss）终于准备揭开他们雄心勃勃且耗资巨大的新科幻系列《三体》。]]></content>
+        <title type="html"><![CDATA[全球首款Ultra大折叠 三星Galaxy Z Fold6 Ultra首度曝光 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1421821.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1421821.htm"/>
+        <updated>2024-03-02T17:37:57.385Z</updated>
+        <content type="html"><![CDATA[据媒体报道，<strong>三星将在今年7月份发布Galaxy Z Fold6系列折叠屏。</strong>据爆料，三星Galaxy Z Fold6系列有两款，分别是Galaxy Z Fold6（代号Q6）和Galaxy Z Fold6 Ultra（代号Q6A），后者是行业内第一款以Ultra命名的大折叠屏旗舰。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[正如人们所担心的那样 奥德修斯号月球着陆器在成功软着陆过程倾倒了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1420471.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1420471.htm"/>
-        <updated>2024-02-24T11:52:50.000Z</updated>
-        <content type="html"><![CDATA[在美国国家航空航天局（NASA）位于佛罗里达州的肯尼迪航天中心首次发射 Nova C 奥德修斯号月球着陆器，使 Intuitive
-Machines
-公司在美国航天界崭露头角之后，该公司已确认其着陆器在月球表面实现了近乎软着陆。]]></content>
+        <title type="html"><![CDATA[NASA月球勘测轨道飞行器捕捉到奥德修斯号着陆器躺倒在月球上的画面 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1421605.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1421605.htm"/>
+        <updated>2024-02-29T02:29:55.000Z</updated>
+        <content type="html"><![CDATA[2月22日，Intuitive Machines公司名为"奥德修斯"的Nova-C着陆器完成了为期七天的月球轨道之旅，并于美国东部时间下午6点24分在月球南极地区的马拉佩特A环形山附近软着陆，但不幸的是由于落地时出现一系列技术问题，导致着陆器落地后姿态不正确，因而无法产生足够的能源来支持设备运行，任务提前结束。<strong>2月24日，美国宇航局（NASA）的月球勘测轨道器（LRO）航天器在约56英里（90千米）的高度掠过着陆点，并拍摄了奥德修斯躺倒在月面的照片。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为发布新一代万兆网：25Gbps宽带到房间 比网线提速10倍 (cnbeta一周点击排行)]]></title>
@@ -61,26 +49,13 @@ Machines
         <content type="html"><![CDATA[在MWC24期间，<strong>华为发布了F5G全光园区2.0解决方案，号称是万兆园区网络的首选方案。</strong>华为政企光领域总裁谷云波表示，2016年华为在业界首次推出全光园区1.0解决方案，业界首创IP+POL融合园区组网架构，当前已在全球50个国家8000多个园区项目应用。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这对失散4.38亿年的兄弟被发现时 竟然相距不到200公里 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1420319.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1420319.htm"/>
-        <updated>2024-02-27T05:38:07.811Z</updated>
-        <content type="html"><![CDATA[前段时间，中国科学院古脊椎动物与古人类研究所又又又有了新的发现。这一次，古生物学家们发现了真盔甲鱼类的一个新种——九江江夏鱼（Jiangxialepis
-jiujiangensis）。我们将用这篇文章带你深入探访古生物学家的日常，了解找到这个新物种背后的故事。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Moment 5 更新即将开始推送 新功能一览 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421293.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421293.htm"/>
-        <updated>2024-02-28T02:08:33.000Z</updated>
-        <content type="html"><![CDATA[Windows 11 Moment 5 更新现已发布，其中包含大量升级，但并非所有升级都以 Copilot 为中心。虽然下一个版本升级 24H2 仍在开发中，但 Moment 5 为你提供了微小但实用的功能升级和对原生应用的改进。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA月球勘测轨道飞行器捕捉到奥德修斯号着陆器躺倒在月球上的画面 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1421605.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1421605.htm"/>
-        <updated>2024-02-29T02:29:55.000Z</updated>
-        <content type="html"><![CDATA[2月22日，Intuitive Machines公司名为"奥德修斯"的Nova-C着陆器完成了为期七天的月球轨道之旅，并于美国东部时间下午6点24分在月球南极地区的马拉佩特A环形山附近软着陆，但不幸的是由于落地时出现一系列技术问题，导致着陆器落地后姿态不正确，因而无法产生足够的能源来支持设备运行，任务提前结束。<strong>2月24日，美国宇航局（NASA）的月球勘测轨道器（LRO）航天器在约56英里（90千米）的高度掠过着陆点，并拍摄了奥德修斯躺倒在月面的照片。</strong>]]></content>
+        <title type="html"><![CDATA[即将爆发的北冕座新星不用望远镜也能看到 一生只有一次机会 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1421695.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1421695.htm"/>
+        <updated>2024-02-29T10:36:43.000Z</updated>
+        <content type="html"><![CDATA[<strong>即将爆发的北冕座新星不用望远镜也能看到，它的亮度将在 2024 年达到与北极星相当的亮度，这是<span aria-describedby="tt" data-cmtooltip="</p><p>white dwarf</p><p>A white dwarf star is the remnant of star that has exhausted its nuclear fuel, but it lacks the mass to become a neutron star. A typical white dwarf is only slightly bigger than Earth, yet it is 200,000 times as dense.</p><p>" data-gt-translate-attributes="[{&quot;attribute&quot;:&quot;data-cmtooltip&quot;, &quot;format&quot;:&quot;htm</dd>
+                        <a href=" https:="" www.cnbeta.com.tw="" articles="" science="" 1421695.htm"="" target="_blank"><img src="https://static.cnbetacdn.com/thumb/mini/article/2024/0229/2407666f7116f29.jpg">
+</span></strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[外媒评5款在美国买不到的优秀手机 有4款是国产机 (cnbeta一周点击排行)]]></title>
@@ -91,48 +66,11 @@ jiujiangensis）。我们将用这篇文章带你深入探访古生物学家的�
 Police称，我们推荐的大多数最好的Android智能手机都是由三星、Google和OnePlus（一加）制造的。虽然还有一些其他品牌（例如摩托罗拉）活跃在某些价格段，但没有一个品牌能够像这三家公司一样占据旗舰市场。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[预售70-100万 小鹏陆地航母谍照曝光：六轮驱动 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1420455.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1420455.htm"/>
-        <updated>2024-02-24T11:19:44.000Z</updated>
-        <content type="html"><![CDATA[没想到小鹏汽车真的把之前看似科幻的“陆地航母”给造出来了。近日，有用户在社交媒体曝光了一组<strong>小鹏陆地航母</strong>的测试谍照，该车曾在2024 CES消费展上首次预告，将于2024年第四季度开启预订，并计划于2025年第四季度开始量产交付，预计售价或在70-100万之间。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王自如被执行3383万 格力电器回应：正在核实情况 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421377.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421377.htm"/>
-        <updated>2024-02-28T10:32:09.000Z</updated>
-        <content type="html"><![CDATA[<strong>日前，王自如被强制执行3383万余元的消息引起大家关注。</strong>根据中国执行信息公开网显示，执行法院为深圳市南山区人民法院。王自如是国内知名科技自媒体Zealer创始人及CEO，之后加入格力，是目前格力的“明星”员工，年前还跟随董明珠上了一档访谈节目。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传 iOS 18 将改变设计 macOS 改版稍后推出 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1420697.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1420697.htm"/>
-        <updated>2024-02-26T02:48:13.000Z</updated>
-        <content type="html"><![CDATA[<strong>据彭博社的马克-古尔曼（Mark Gurman）称，iOS 18 可能会包括一些设计上的变化，但要看到 macOS 的改版可能还需要一两年的时间。</strong>在今天的Power On新闻通讯中，古尔曼表示苹果正在努力更新 iOS 的设计，"最早在今年"。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来自黄仁勋的警告：下一代GPU将会非常难买 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1420507.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1420507.htm"/>
-        <updated>2024-02-28T05:38:35.702Z</updated>
-        <content type="html"><![CDATA[无论在游戏显卡还是AI加速卡领域，NVIDIA GPU如今都是现象级的存在，尤其是AI加速卡，卖十几万都被疯抢，订单往往能排好几个月，导致游戏显卡的产能也很紧张。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想展示ThinkBook透明笔记本 窥探科幻未来 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1420741.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1420741.htm"/>
-        <updated>2024-02-26T07:19:45.000Z</updated>
-        <content type="html"><![CDATA[一年前，联想在巴塞罗那世界移动通信大会（Mobile World Congress）上推出了一款可滚动的笔记本电脑，只需按下按钮就能扩大屏幕。而今年的MWC，ThinkBook 透明显示笔记本电脑作为概念机呈现，这是一款 17.3 英寸的笔记本电脑，屏幕可以直接透视。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即将爆发的北冕座新星不用望远镜也能看到 一生只有一次机会 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1421695.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1421695.htm"/>
-        <updated>2024-02-29T10:36:43.000Z</updated>
-        <content type="html"><![CDATA[<strong>即将爆发的北冕座新星不用望远镜也能看到，它的亮度将在 2024 年达到与北极星相当的亮度，这是<span aria-describedby="tt" data-cmtooltip="</p><p>white dwarf</p><p>A white dwarf star is the remnant of star that has exhausted its nuclear fuel, but it lacks the mass to become a neutron star. A typical white dwarf is only slightly bigger than Earth, yet it is 200,000 times as dense.</p><p>" data-gt-translate-attributes="[{&quot;attribute&quot;:&quot;data-cmtooltip&quot;, &quot;format&quot;:&quot;htm</dd>
-                        <a href=" https:="" www.cnbeta.com.tw="" articles="" science="" 1421695.htm"="" target="_blank"><img src="https://static.cnbetacdn.com/thumb/mini/article/2024/0229/2407666f7116f29.jpg">
-</span></strong>]]></content>
+        <title type="html"><![CDATA[Windows 11 Moment 5 更新即将开始推送 新功能一览 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1421293.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1421293.htm"/>
+        <updated>2024-02-28T02:08:33.000Z</updated>
+        <content type="html"><![CDATA[Windows 11 Moment 5 更新现已发布，其中包含大量升级，但并非所有升级都以 Copilot 为中心。虽然下一个版本升级 24H2 仍在开发中，但 Moment 5 为你提供了微小但实用的功能升级和对原生应用的改进。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025年的苹果iPhone 17和iPhone 17 Plus将开始采用ProMotion常亮显示屏 (cnbeta一周点击排行)]]></title>
@@ -145,11 +83,62 @@ iPhone 15 Pro 机型使用的是更先进的低温多晶氧化物 (LPTO) 面板�
 ProMotion，使显示屏的刷新率提升到 120Hz，从而在需要时更流畅地滚动和显示视频内容。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[传 iOS 18 将改变设计 macOS 改版稍后推出 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1420697.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1420697.htm"/>
+        <updated>2024-02-26T02:48:13.000Z</updated>
+        <content type="html"><![CDATA[<strong>据彭博社的马克-古尔曼（Mark Gurman）称，iOS 18 可能会包括一些设计上的变化，但要看到 macOS 的改版可能还需要一两年的时间。</strong>在今天的Power On新闻通讯中，古尔曼表示苹果正在努力更新 iOS 的设计，"最早在今年"。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王自如被执行3383万 格力电器回应：正在核实情况 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1421377.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1421377.htm"/>
+        <updated>2024-02-28T10:32:09.000Z</updated>
+        <content type="html"><![CDATA[<strong>日前，王自如被强制执行3383万余元的消息引起大家关注。</strong>根据中国执行信息公开网显示，执行法院为深圳市南山区人民法院。王自如是国内知名科技自媒体Zealer创始人及CEO，之后加入格力，是目前格力的“明星”员工，年前还跟随董明珠上了一档访谈节目。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photomath正式成为Google Play Store上的最新第一方应用 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1421897.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1421897.htm"/>
+        <updated>2024-03-01T06:18:32.000Z</updated>
+        <content type="html"><![CDATA[2022 年 5 月，Google宣布收购一款名为 Photomath 的数学求解程序。该交易于去年经监管部门审查后完成，但Google直到今天才将该应用纳入其 Play Store 第一方发布者账户。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软正式发布Windows 11 "Moment 5"更新 开始逐步向用户推送 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1421886.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1421886.htm"/>
+        <updated>2024-03-01T02:41:18.000Z</updated>
+        <content type="html"><![CDATA[2024 年 2 月的最后一天，微软正式发布了 Windows 11"Moment
+5"更新。目前，该更新正在逐步向"主动寻求者"推出（意味着如果您想获得，需要主动在Windows Update中寻找更新），微软计划在2024年3月的可选非安全更新中全面启用新功能。符合条件的设备将在
+2024 年 4 月 9 日自动获得"Moment 5"更新，作为 2024 年 4 月"星期二补丁"的一部分。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联想展示ThinkBook透明笔记本 窥探科幻未来 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1420741.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1420741.htm"/>
+        <updated>2024-02-26T07:19:45.000Z</updated>
+        <content type="html"><![CDATA[一年前，联想在巴塞罗那世界移动通信大会（Mobile World Congress）上推出了一款可滚动的笔记本电脑，只需按下按钮就能扩大屏幕。而今年的MWC，ThinkBook 透明显示笔记本电脑作为概念机呈现，这是一款 17.3 英寸的笔记本电脑，屏幕可以直接透视。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[晚清中国人想象的纽约第一高楼 人无法描绘没见过的东西 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1421673.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1421673.htm"/>
+        <updated>2024-02-29T10:06:03.000Z</updated>
+        <content type="html"><![CDATA[都说是贫穷限制了想象力，但其实更是见识，谁也不能真实描绘自己没接触过的东西，人们可以想象出拼接组合的鬼神与怪兽，但没几个知道天天用的马桶构造的，更不知道原理。晚清时期官员凭想象绘制的纽约第一高楼。他能想到层数很多，但想象不出电梯，所以只好用辘轳和箩筐代替。因为中国古代城墙上是经常用这个上下的，避免敌军趁乱攻破城门。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[当心微信中的“文件传瑜助手” 有博主不慎泄露大量私人信息 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1421405.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1421405.htm"/>
         <updated>2024-02-28T11:08:44.000Z</updated>
         <content type="html"><![CDATA[微信上的文件传输助手是微信的一项基础功能，该功能允许用户将文件快速传输到手机或电脑上，日常使用微信办公的用户应该会高频使用此功能。然而长久以来假冒的文件传输助手一直都有，如果你现在尝试将账户名称修改为文件传输助手可能会被微信限制，但各种变通字符的山寨版层出不穷。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称英伟达暴力提升RTX 5090性能 比4090强近一倍 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1421675.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1421675.htm"/>
+        <updated>2024-02-29T10:06:37.000Z</updated>
+        <content type="html"><![CDATA[英伟达正在全力以赴打造新一代RTX 50系显卡，其中5090的性能提升相当明显。<strong>报道中提到，RTX 5090显卡将比RTX 4090快60%到70%。该卡基于即将推出的Blackwell架构，预计将于2024年底发售。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为泰山V120 CPU架构首次跑分 单核性能追上AMD Zen3 (cnbeta一周点击排行)]]></title>
@@ -158,5 +147,12 @@ ProMotion，使显示屏的刷新率提升到 120Hz，从而在需要时更流�
         <updated>2024-02-29T05:37:51.163Z</updated>
         <content type="html"><![CDATA[GeekBench 6测试数据库里第一次出现了华为泰山V120 CPU架构的跑分成绩，单核性能已经基本追上AMD
 Zen3架构，证明和世界先进水平已经没有太大的差距。泰山V120架构首次用于麒麟9000S，一共四个核心，搭配两个A510能效小核心，采用TSMC的第二代7nm工艺制造。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海到北京仅需2.5小时引热议：其实时间不能这样算 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1421247.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1421247.htm"/>
+        <updated>2024-03-02T17:37:57.433Z</updated>
+        <content type="html"><![CDATA[今日，一则“上海到北京仅需2.5小时”的话题引起网友热议。有媒体报道称，<strong>时速450公里的高铁将在2025年投用，届时，京沪之间高铁仅需2.5小时即可到达。</strong>]]></content>
     </entry>
 </feed>
