@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-03-06T05:38:04.897Z</updated>
+    <updated>2024-03-06T17:39:09.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[为什么面包店宁可扔掉也不打折？以前很愤怒 现在理解了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422157.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422157.htm"/>
+        <updated>2024-03-03T00:50:32.000Z</updated>
+        <content type="html"><![CDATA[一边是越卖越贵，一边是宁可扔掉也不打折。最近，有关面包价格和浪费的话题，多次登上热搜。<strong>那么，为什么面包店宁可扔掉也不打折呢？</strong>据报道，大家日常生活中经常能看到几十元一块的面包，上百元一份的吐司，几百元一个的蛋糕。与此同时，有的烘焙门店一天丢弃的面包能装满一麻袋，有的报损率超过50%。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[传言称华为已开发出能力相当于苹果M1的计算机CPU竞品]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1422018.htm</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[据媒体报道，<strong>三星将在今年7月份发布Galaxy Z Fold6系列折叠屏。</strong>据爆料，三星Galaxy Z Fold6系列有两款，分别是Galaxy Z Fold6（代号Q6）和Galaxy Z Fold6 Ultra（代号Q6A），后者是行业内第一款以Ultra命名的大折叠屏旗舰。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么面包店宁可扔掉也不打折？以前很愤怒 现在理解了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422157.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422157.htm"/>
-        <updated>2024-03-03T00:50:32.000Z</updated>
-        <content type="html"><![CDATA[一边是越卖越贵，一边是宁可扔掉也不打折。最近，有关面包价格和浪费的话题，多次登上热搜。<strong>那么，为什么面包店宁可扔掉也不打折呢？</strong>据报道，大家日常生活中经常能看到几十元一块的面包，上百元一份的吐司，几百元一个的蛋糕。与此同时，有的烘焙门店一天丢弃的面包能装满一麻袋，有的报损率超过50%。]]></content>
+        <title type="html"><![CDATA[马云现身阿曼餐厅被网友偶遇 头戴鸭舌帽风采依旧]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422300.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422300.htm"/>
+        <updated>2024-03-05T17:38:25.197Z</updated>
+        <content type="html"><![CDATA[日前，<strong>一位小红书网友分享了一张在阿曼马斯喀特Rozna餐厅偶遇阿里巴巴集团创始人马云的照片。</strong>从照片来看，马云身穿白色长袖上衣，头戴白色鸭舌帽出现在餐厅大堂，<strong>神情像普通人在饭店吃饭一样随意，状态看起来比较轻松，整个人风采依旧。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Photomath正式成为Google Play Store上的最新第一方应用]]></title>
@@ -32,6 +39,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1421897.htm"/>
         <updated>2024-03-01T06:18:32.000Z</updated>
         <content type="html"><![CDATA[2022 年 5 月，Google宣布收购一款名为 Photomath 的数学求解程序。该交易于去年经监管部门审查后完成，但Google直到今天才将该应用纳入其 Play Store 第一方发布者账户。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI CEO奥特曼：很享受与丈夫的婚姻生活 想尽快生孩子]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422147.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422147.htm"/>
+        <updated>2024-03-03T00:26:17.000Z</updated>
+        <content type="html"><![CDATA[3月3日消息，据外电《商业内幕》报道，OpenAI CEO萨姆·奥特曼非常享受现在的婚姻生活。这位OpenAI首席执行官在周五发表的一次采访中告诉LGBTQ+媒体Advocate，他现在与丈夫、软件工程师奥利弗·穆赫林结婚感觉好多了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NASA月球勘测轨道飞行器捕捉到奥德修斯号着陆器躺倒在月球上的画面]]></title>
@@ -51,13 +65,6 @@ Gemini
 Pichai)向员工发表讲话，称这种情况完全不可接受。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI CEO奥特曼：很享受与丈夫的婚姻生活 想尽快生孩子]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422147.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422147.htm"/>
-        <updated>2024-03-03T00:26:17.000Z</updated>
-        <content type="html"><![CDATA[3月3日消息，据外电《商业内幕》报道，OpenAI CEO萨姆·奥特曼非常享受现在的婚姻生活。这位OpenAI首席执行官在周五发表的一次采访中告诉LGBTQ+媒体Advocate，他现在与丈夫、软件工程师奥利弗·穆赫林结婚感觉好多了。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[即将爆发的北冕座新星不用望远镜也能看到 一生只有一次机会]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1421695.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1421695.htm"/>
@@ -65,28 +72,6 @@ Pichai)向员工发表讲话，称这种情况完全不可接受。]]></content>
         <content type="html"><![CDATA[<strong>即将爆发的北冕座新星不用望远镜也能看到，它的亮度将在 2024 年达到与北极星相当的亮度，这是<span aria-describedby="tt" data-cmtooltip="</p><p>white dwarf</p><p>A white dwarf star is the remnant of star that has exhausted its nuclear fuel, but it lacks the mass to become a neutron star. A typical white dwarf is only slightly bigger than Earth, yet it is 200,000 times as dense.</p><p>" data-gt-translate-attributes="[{&quot;attribute&quot;:&quot;data-cmtooltip&quot;, &quot;format&quot;:&quot;htm</dd>
                         <a href=" https:="" www.cnbeta.com.tw="" articles="" science="" 1421695.htm"="" target="_blank"><img src="https://static.cnbetacdn.com/thumb/mini/article/2024/0229/2407666f7116f29.jpg">
 </span></strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为发布新一代万兆网：25Gbps宽带到房间 比网线提速10倍]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421373.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421373.htm"/>
-        <updated>2024-02-28T10:31:07.000Z</updated>
-        <content type="html"><![CDATA[在MWC24期间，<strong>华为发布了F5G全光园区2.0解决方案，号称是万兆园区网络的首选方案。</strong>华为政企光领域总裁谷云波表示，2016年华为在业界首次推出全光园区1.0解决方案，业界首创IP+POL融合园区组网架构，当前已在全球50个国家8000多个园区项目应用。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马云现身阿曼餐厅被网友偶遇 头戴鸭舌帽风采依旧]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422300.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422300.htm"/>
-        <updated>2024-03-05T17:38:25.197Z</updated>
-        <content type="html"><![CDATA[日前，<strong>一位小红书网友分享了一张在阿曼马斯喀特Rozna餐厅偶遇阿里巴巴集团创始人马云的照片。</strong>从照片来看，马云身穿白色长袖上衣，头戴白色鸭舌帽出现在餐厅大堂，<strong>神情像普通人在饭店吃饭一样随意，状态看起来比较轻松，整个人风采依旧。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外媒评5款在美国买不到的优秀手机 有4款是国产机]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421467.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421467.htm"/>
-        <updated>2024-02-29T17:38:13.505Z</updated>
-        <content type="html"><![CDATA[美国智能手机市场被苹果和代表Android阵营的少数品牌垄断。外媒Android
-Police称，我们推荐的大多数最好的Android智能手机都是由三星、Google和OnePlus（一加）制造的。虽然还有一些其他品牌（例如摩托罗拉）活跃在某些价格段，但没有一个品牌能够像这三家公司一样占据旗舰市场。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S24在美国和韩国的销量打破八年纪录]]></title>
@@ -105,18 +90,18 @@ Police称，我们推荐的大多数最好的Android智能手机都是由三星�
 2024 年 4 月 9 日自动获得"Moment 5"更新，作为 2024 年 4 月"星期二补丁"的一部分。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11 Moment 5 更新即将开始推送 新功能一览]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421293.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421293.htm"/>
-        <updated>2024-02-28T02:08:33.000Z</updated>
-        <content type="html"><![CDATA[Windows 11 Moment 5 更新现已发布，其中包含大量升级，但并非所有升级都以 Copilot 为中心。虽然下一个版本升级 24H2 仍在开发中，但 Moment 5 为你提供了微小但实用的功能升级和对原生应用的改进。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[支付宝宣布响应央行指导提额：已于当天完成部分，近期做完]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1422016.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1422016.htm"/>
         <updated>2024-03-04T17:38:25.663Z</updated>
         <content type="html"><![CDATA[国务院新闻办公室举行国务院政策例行吹风会，介绍进一步优化支付服务提升支付便利性有关情况，指导支付机构推出一系列便利措施。今日支付宝快速响应相关决策部署，表示：“今天已完成部分提额要求，近期将全部完成。同时，支付宝将在人民银行、外汇局的支持和指导下，扎实推进落实各项措施，持续提升境外来华用户的支付安全性和便利性”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂Switch模拟器Yuzu将彻底关闭并支付240万美元以了结诉讼]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1422349.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1422349.htm"/>
+        <updated>2024-03-05T04:02:32.000Z</updated>
+        <content type="html"><![CDATA[就在一个多星期前，任天堂以"大规模助长盗版"为由，起诉了领先的任天堂 Switch 模拟器 Yuzu 的开发商。现在，Yuzu 似乎已经主动投降，让任天堂如愿以偿，不仅如此，任天堂 3DS 模拟器 Citra 也将受到影响。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[晚清中国人想象的纽约第一高楼 人无法描绘没见过的东西]]></title>
@@ -133,13 +118,6 @@ Police称，我们推荐的大多数最好的Android智能手机都是由三星�
         <content type="html"><![CDATA[<strong>天风国际证券分析师郭明錤表示，亚马逊将在明年推出彩色版Kindle，采用元太的彩色电子纸ACeP。</strong>据了解，苹果预计推出约6寸与10寸的彩色Kindle电子书阅读器，<strong>因为ACeP单价约较黑白高40–60%或以上，故单价显著高于Kaleido黑白电子纸。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[当心微信中的“文件传瑜助手” 有博主不慎泄露大量私人信息]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421405.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421405.htm"/>
-        <updated>2024-02-28T11:08:44.000Z</updated>
-        <content type="html"><![CDATA[微信上的文件传输助手是微信的一项基础功能，该功能允许用户将文件快速传输到手机或电脑上，日常使用微信办公的用户应该会高频使用此功能。然而长久以来假冒的文件传输助手一直都有，如果你现在尝试将账户名称修改为文件传输助手可能会被微信限制，但各种变通字符的山寨版层出不穷。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iPhone 15全系降至历史最低价背后：苹果中国需求不及预期]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1421930.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1421930.htm"/>
@@ -149,10 +127,33 @@ Police称，我们推荐的大多数最好的Android智能手机都是由三星�
 Pro Max起售价格为8849元。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尼日利亚将汇率暴跌70%归咎于币安 要求币安赔偿100亿美元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422106.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422106.htm"/>
+        <updated>2024-03-06T17:39:08.829Z</updated>
+        <content type="html"><![CDATA[在阻止国民访问币安并拘留两名币安高管后，日前尼日利亚政府宣布对币安索赔 100 亿美元，尼日利亚将其汇率暴跌 70% 归咎于币安导致的资本外流。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[消息称英伟达暴力提升RTX 5090性能 比4090强近一倍]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1421675.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1421675.htm"/>
         <updated>2024-02-29T10:06:37.000Z</updated>
         <content type="html"><![CDATA[英伟达正在全力以赴打造新一代RTX 50系显卡，其中5090的性能提升相当明显。<strong>报道中提到，RTX 5090显卡将比RTX 4090快60%到70%。该卡基于即将推出的Blackwell架构，预计将于2024年底发售。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汪峰女儿小苹果晒留学照 19岁少女黑丝短裙亭亭玉立]]></title>
+        <id>https://www.cnbeta.com.tw/articles/music/1421901.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/music/1421901.htm"/>
+        <updated>2024-03-01T07:03:19.000Z</updated>
+        <content type="html"><![CDATA[据搜狐娱乐报道，近日，18岁的汪峰大女儿“小苹果”汪曼熙晒出一组英国旅行近照，她身穿长风衣配短裙黑丝袜，黑长直发搭配漫画刘海，身材高挑，气质绝佳。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最受Android用户欢迎的iPhone机型是哪一款？事实与你想的不一样]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1421889.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1421889.htm"/>
+        <updated>2024-03-01T03:20:52.000Z</updated>
+        <content type="html"><![CDATA[一份新的报告显示了从Android设备转用 iPhone 的用户最喜欢的 iPhone
+机型，这个特殊市场并非你锁想象的那样，价格较低的iPhone 14 或 14 Plus 是最受Android用户欢迎的机型，超过 26%
+的Android用户选择了 iPhone 14 或 Plus。紧随其后的才是 Pro 系列设备，比例高达 25%。]]></content>
     </entry>
 </feed>
