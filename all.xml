@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-08T05:38:05.314Z</updated>
+    <updated>2024-03-08T17:38:17.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[为什么面包店宁可扔掉也不打折？以前很愤怒 现在理解了 (cnbeta一周点击排行)]]></title>
@@ -19,6 +19,13 @@
         <content type="html"><![CDATA[日前，<strong>一位小红书网友分享了一张在阿曼马斯喀特Rozna餐厅偶遇阿里巴巴集团创始人马云的照片。</strong>从照片来看，马云身穿白色长袖上衣，头戴白色鸭舌帽出现在餐厅大堂，<strong>神情像普通人在饭店吃饭一样随意，状态看起来比较轻松，整个人风采依旧。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[亚马逊发现巨蟒新物种：系现存最大蛇类 长7.5米重半吨 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1422709.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1422709.htm"/>
+        <updated>2024-03-07T10:02:28.000Z</updated>
+        <content type="html"><![CDATA[野生动物节目主持人弗里克·冯克身着“正装”和一条蟒蛇，来了一次水下亲密接触。视频里的蟒蛇个头很大，仅头部就有人类头部大小，身体和汽车轮胎一样粗，1.96米高的主持人在其身边并没有体型优势，肉眼可见，这绝对是一个大家伙。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[传言称华为已开发出能力相当于苹果M1的计算机CPU竞品 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1422018.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1422018.htm"/>
@@ -26,18 +33,18 @@
         <content type="html"><![CDATA[苹果对 ARM 笔记本和台式机领域的铁腕统治可能即将结束，首先是高通公司及其Snapdragon X Elite。不过，有传言称，华为是进入这一领域的另一个玩家，而且有说法称，这家前中国巨头已经开发出了 M1 的竞争对手。该公司被认为摆脱了对一系列外国公司的依赖，希望从麒麟 9000S 开始启动其智能手机业务，但这并不意味着还有其他障碍需要跨越。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Photomath正式成为Google Play Store上的最新第一方应用 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421897.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421897.htm"/>
-        <updated>2024-03-01T06:18:32.000Z</updated>
-        <content type="html"><![CDATA[2022 年 5 月，Google宣布收购一款名为 Photomath 的数学求解程序。该交易于去年经监管部门审查后完成，但Google直到今天才将该应用纳入其 Play Store 第一方发布者账户。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI CEO奥特曼：很享受与丈夫的婚姻生活 想尽快生孩子 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1422147.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1422147.htm"/>
         <updated>2024-03-03T00:26:17.000Z</updated>
         <content type="html"><![CDATA[3月3日消息，据外电《商业内幕》报道，OpenAI CEO萨姆·奥特曼非常享受现在的婚姻生活。这位OpenAI首席执行官在周五发表的一次采访中告诉LGBTQ+媒体Advocate，他现在与丈夫、软件工程师奥利弗·穆赫林结婚感觉好多了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[多图]iOS 17.4 新功能大盘点 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422550.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422550.htm"/>
+        <updated>2024-03-06T10:04:15.000Z</updated>
+        <content type="html"><![CDATA[苹果公司今天发布了 iOS 17.4 更新，为欧洲地区的iPhone（和iPad）带来了一些重大变化。iOS 17.4 中许多最大的变化仅限于欧盟国家的用户使用，但更新中的新功能在全球范围内都可使用。在本文中，我们汇总了 iOS 17.4 中的所有新功能。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[要求谷歌CEO皮查伊下台的呼声越来越高 (cnbeta一周点击排行)]]></title>
@@ -50,20 +57,13 @@ Gemini
 Pichai)向员工发表讲话，称这种情况完全不可接受。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[多图]iOS 17.4 新功能大盘点 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422550.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422550.htm"/>
-        <updated>2024-03-06T10:04:15.000Z</updated>
-        <content type="html"><![CDATA[苹果公司今天发布了 iOS 17.4 更新，为欧洲地区的iPhone（和iPad）带来了一些重大变化。iOS 17.4 中许多最大的变化仅限于欧盟国家的用户使用，但更新中的新功能在全球范围内都可使用。在本文中，我们汇总了 iOS 17.4 中的所有新功能。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软正式发布Windows 11 "Moment 5"更新 开始逐步向用户推送 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421886.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421886.htm"/>
-        <updated>2024-03-01T02:41:18.000Z</updated>
-        <content type="html"><![CDATA[2024 年 2 月的最后一天，微软正式发布了 Windows 11"Moment
-5"更新。目前，该更新正在逐步向"主动寻求者"推出（意味着如果您想获得，需要主动在Windows Update中寻找更新），微软计划在2024年3月的可选非安全更新中全面启用新功能。符合条件的设备将在
-2024 年 4 月 9 日自动获得"Moment 5"更新，作为 2024 年 4 月"星期二补丁"的一部分。]]></content>
+        <title type="html"><![CDATA[巨鲸醒来：在0.28美元时获得1000枚比特币 已获超6000万美元利润 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422638.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422638.htm"/>
+        <updated>2024-03-08T17:38:16.841Z</updated>
+        <content type="html"><![CDATA[在比特币历史上各种拥有可观数量比特币的巨鲸 (指比特币大户，也称为鲸鱼)
+并不少，这些巨鲸会在每轮牛市的时候突然苏醒然后将持有的比特币转到交易所卖出。链上数据显示，昨天有一个账户持有 1000
+枚比特币的巨鲸苏醒，这些比特币在当时 (2010 年) 大约在 0.28 美元，但实际上这个巨鲸的成本价为 0，因为是他挖矿获得的。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[任天堂Switch模拟器Yuzu将彻底关闭并支付240万美元以了结诉讼 (cnbeta一周点击排行)]]></title>
@@ -80,34 +80,11 @@ Pichai)向员工发表讲话，称这种情况完全不可接受。]]></content>
         <content type="html"><![CDATA[国务院新闻办公室举行国务院政策例行吹风会，介绍进一步优化支付服务提升支付便利性有关情况，指导支付机构推出一系列便利措施。今日支付宝快速响应相关决策部署，表示：“今天已完成部分提额要求，近期将全部完成。同时，支付宝将在人民银行、外汇局的支持和指导下，扎实推进落实各项措施，持续提升境外来华用户的支付安全性和便利性”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[亚马逊将推出彩色版Kindle 采用元太彩色电子纸技术 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421981.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421981.htm"/>
-        <updated>2024-03-03T17:38:11.905Z</updated>
-        <content type="html"><![CDATA[<strong>天风国际证券分析师郭明錤表示，亚马逊将在明年推出彩色版Kindle，采用元太的彩色电子纸ACeP。</strong>据了解，苹果预计推出约6寸与10寸的彩色Kindle电子书阅读器，<strong>因为ACeP单价约较黑白高40–60%或以上，故单价显著高于Kaleido黑白电子纸。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汪峰女儿小苹果晒留学照 19岁少女黑丝短裙亭亭玉立 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/music/1421901.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/music/1421901.htm"/>
-        <updated>2024-03-01T07:03:19.000Z</updated>
-        <content type="html"><![CDATA[据搜狐娱乐报道，近日，18岁的汪峰大女儿“小苹果”汪曼熙晒出一组英国旅行近照，她身穿长风衣配短裙黑丝袜，黑长直发搭配漫画刘海，身材高挑，气质绝佳。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 15全系降至历史最低价背后：苹果中国需求不及预期 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421930.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421930.htm"/>
-        <updated>2024-03-01T09:58:17.000Z</updated>
-        <content type="html"><![CDATA[据天猫Apple Store官方旗舰店价格显示，iPhone 15手机全系价格均刷新官方旗舰店史低，iPhone 15
-128G券后售价4849元。iPhone 15 Plus起售价格为5849元、iPhone 15 Pro起售价格为6849元、iPhone 15
-Pro Max起售价格为8849元。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼日利亚将汇率暴跌70%归咎于币安 要求币安赔偿100亿美元 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422106.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422106.htm"/>
-        <updated>2024-03-06T17:39:08.829Z</updated>
-        <content type="html"><![CDATA[在阻止国民访问币安并拘留两名币安高管后，日前尼日利亚政府宣布对币安索赔 100 亿美元，尼日利亚将其汇率暴跌 70% 归咎于币安导致的资本外流。]]></content>
+        <title type="html"><![CDATA[1元纸币上的女拖拉机手上热搜 今年91了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422434.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422434.htm"/>
+        <updated>2024-03-07T17:38:09.564Z</updated>
+        <content type="html"><![CDATA[今天话题#1元纸币上的女拖拉机手今年91了#登上热搜。<strong>金茂芳，1933年11月出生，现年91岁，是第三套人民币1元纸币上女拖机手原型之一。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Switch 2底座模式性能与PS4 Pro相当 图像质量和电池性能优于Steam Deck (cnbeta一周点击排行)]]></title>
@@ -124,11 +101,11 @@ Pro Max起售价格为8849元。]]></content>
         <content type="html"><![CDATA[Intel预计会在3月中旬发布新一代限量版旗舰处理器i9-14900KS，加速频率达到史无前例的6.2GHz，但付出的代价也不小，功耗、电压都非常高。最新曝光的BIOS截图显示，<strong>i9-14900KS为了达到6.2GHz的高频率，居然需要1.498V的超高电压。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1元纸币上的女拖拉机手上热搜 今年91了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422434.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422434.htm"/>
-        <updated>2024-03-07T17:38:09.564Z</updated>
-        <content type="html"><![CDATA[今天话题#1元纸币上的女拖拉机手今年91了#登上热搜。<strong>金茂芳，1933年11月出生，现年91岁，是第三套人民币1元纸币上女拖机手原型之一。</strong>]]></content>
+        <title type="html"><![CDATA[尼日利亚将汇率暴跌70%归咎于币安 要求币安赔偿100亿美元 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422106.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422106.htm"/>
+        <updated>2024-03-06T17:39:08.829Z</updated>
+        <content type="html"><![CDATA[在阻止国民访问币安并拘留两名币安高管后，日前尼日利亚政府宣布对币安索赔 100 亿美元，尼日利亚将其汇率暴跌 70% 归咎于币安导致的资本外流。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国企业首次拿到了卫星通信国际码号 (cnbeta一周点击排行)]]></title>
@@ -138,20 +115,40 @@ Pro Max起售价格为8849元。]]></content>
         <content type="html"><![CDATA[<strong>在工信部指导下，中国电信通过国际电信联盟批准，拿到了E.164 码号（882）52、E.212 码号（901）09，分别作为天通卫星业务的用户拨号码号和网络识别码号。</strong>这也是我国电信企业第一次获得用于卫星通信业务的国际电信码号资源。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最受Android用户欢迎的iPhone机型是哪一款？事实与你想的不一样 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1421889.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1421889.htm"/>
-        <updated>2024-03-01T03:20:52.000Z</updated>
-        <content type="html"><![CDATA[一份新的报告显示了从Android设备转用 iPhone 的用户最喜欢的 iPhone
-机型，这个特殊市场并非你锁想象的那样，价格较低的iPhone 14 或 14 Plus 是最受Android用户欢迎的机型，超过 26%
-的Android用户选择了 iPhone 14 或 Plus。紧随其后的才是 Pro 系列设备，比例高达 25%。]]></content>
+        <title type="html"><![CDATA[麻省理工学院的核聚变技术突破可能开创一个拥有几乎无限能源的时代 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1422603.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1422603.htm"/>
+        <updated>2024-03-08T17:38:16.857Z</updated>
+        <content type="html"><![CDATA[<strong>对<span aria-describedby="tt" data-cmtooltip="</p><p>MIT</p><p>MIT is an acronym for the Massachusetts Institute of Technology. It is a prestigious private research university in Cambridge, Massachusetts that was founded in 1861. It is organized into five Schools: architecture and planning; engineering; humanities, arts, and social sciences; management; and science. MIT&amp;#039;s impact includes many scientific breakthroughs and technological advances. Their st</dd>
+                        <a href=" https:="" www.cnbeta.com.tw="" articles="" science="" 1422603.htm"="" target="_blank"><img src="https://static.cnbetacdn.com/thumb/mini/article/2024/0306/012d001f2576e38.jpg">
+</span></strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[任天堂Switch 2传言：8纳米NVIDIA SoC、性能、定价等信息曝光 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1421890.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1421890.htm"/>
-        <updated>2024-03-01T03:24:45.000Z</updated>
-        <content type="html"><![CDATA[Switch 2 预计要到 2025
-年初的某个时候才会推出，关于任天堂为何要推迟这么久才推出继任者，坊间流传着许多传言。一些人认为推迟发售是一种战略举措，可以给任天堂更多的时间来制造足够的库存以阻止黄牛党，而另一些人似乎认为任天堂需要更多的时间来打磨第一方发售的游戏。]]></content>
+        <title type="html"><![CDATA[苹果iOS 17.4正式版重磅升级：国行iPhone支持下载离线地图 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422543.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422543.htm"/>
+        <updated>2024-03-06T09:51:25.000Z</updated>
+        <content type="html"><![CDATA[今日，苹果发布iOS 17.4正式版升级，安装包大小1.7GB左右。虽然苹果未在更新日志中介绍，但经过实测，<strong>苹果在iOS 17.4中正式开放了国行iPhone自带地图离线下载功能。</strong>下载离线地图后，在无Wi-Fi或蜂窝网络连接时，也可以使用“地图”获取信息和导航。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山姆的“穷鬼套餐”火了 4亿中产汗流浃背 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422044.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422044.htm"/>
+        <updated>2024-03-02T10:10:36.000Z</updated>
+        <content type="html"><![CDATA[近年来，受宏观经济环境影响，在大众消费领域，消费降级趋势凸显，平替经济蔚然成风。“不是xx买不起，而是xx更有性价比”句式不仅风靡全网成为热梗，也成为大众消费的真实写照。38元的星巴克坚决不买，9.9的瑞幸每天一杯。连锁快餐品牌店不去，10元出头菜式任选、米饭无限续的社区食堂人潮汹涌……<strong>不过有意思的是，这股消费新风不仅发生在那些平价消费场所，同样也吹到了中产消费的阵地。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不换卡、不换号、不改套餐就能畅连四大运营商 竟然真的实现了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422813.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422813.htm"/>
+        <updated>2024-03-08T17:38:16.862Z</updated>
+        <content type="html"><![CDATA[“不换卡、不换号，也不用改套餐，就能使用国内四大运营商的网络”，这事儿如果放在以前，我相信估计很多人都会觉得异想天开，<strong>但是我没想到这会儿竟然真的实现了！</strong>事情起因是这样的，前两天托尼在折腾手机的时候，无意间在开发者模式里看到一个名为 “ 异网漫游 ” 的开关：]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年民营企业100强发布：京东稳居第一 华为第三 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422431.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422431.htm"/>
+        <updated>2024-03-08T17:38:16.866Z</updated>
+        <content type="html"><![CDATA[3月5日，任泽平团队发布中国民营企业百强排行榜2024。据CNMO了解，该团队对比工商联、中企协、《财富》等榜单，结合Wind在中国及海外上市、发债的中国民营企业，统计了民营企业2022年的营业收入情况。从排名来看，京东稳居第一，阿里巴巴紧随其后，二者与上一年相比维持不变，华为则上升一名进入前三。]]></content>
     </entry>
 </feed>
