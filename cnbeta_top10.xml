@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-03-09T05:38:16.603Z</updated>
+    <updated>2024-03-09T17:37:51.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[亚马逊发现巨蟒新物种：系现存最大蛇类 长7.5米重半吨]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1422709.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1422709.htm"/>
+        <updated>2024-03-07T10:02:28.000Z</updated>
+        <content type="html"><![CDATA[野生动物节目主持人弗里克·冯克身着“正装”和一条蟒蛇，来了一次水下亲密接触。视频里的蟒蛇个头很大，仅头部就有人类头部大小，身体和汽车轮胎一样粗，1.96米高的主持人在其身边并没有体型优势，肉眼可见，这绝对是一个大家伙。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么面包店宁可扔掉也不打折？以前很愤怒 现在理解了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1422157.htm</id>
@@ -20,18 +27,20 @@
         <content type="html"><![CDATA[日前，<strong>一位小红书网友分享了一张在阿曼马斯喀特Rozna餐厅偶遇阿里巴巴集团创始人马云的照片。</strong>从照片来看，马云身穿白色长袖上衣，头戴白色鸭舌帽出现在餐厅大堂，<strong>神情像普通人在饭店吃饭一样随意，状态看起来比较轻松，整个人风采依旧。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[亚马逊发现巨蟒新物种：系现存最大蛇类 长7.5米重半吨]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1422709.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1422709.htm"/>
-        <updated>2024-03-07T10:02:28.000Z</updated>
-        <content type="html"><![CDATA[野生动物节目主持人弗里克·冯克身着“正装”和一条蟒蛇，来了一次水下亲密接触。视频里的蟒蛇个头很大，仅头部就有人类头部大小，身体和汽车轮胎一样粗，1.96米高的主持人在其身边并没有体型优势，肉眼可见，这绝对是一个大家伙。]]></content>
+        <title type="html"><![CDATA[巨鲸醒来：在0.28美元时获得1000枚比特币 已获超6000万美元利润]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422638.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422638.htm"/>
+        <updated>2024-03-08T17:38:16.841Z</updated>
+        <content type="html"><![CDATA[在比特币历史上各种拥有可观数量比特币的巨鲸 (指比特币大户，也称为鲸鱼)
+并不少，这些巨鲸会在每轮牛市的时候突然苏醒然后将持有的比特币转到交易所卖出。链上数据显示，昨天有一个账户持有 1000
+枚比特币的巨鲸苏醒，这些比特币在当时 (2010 年) 大约在 0.28 美元，但实际上这个巨鲸的成本价为 0，因为是他挖矿获得的。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传言称华为已开发出能力相当于苹果M1的计算机CPU竞品]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422018.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422018.htm"/>
-        <updated>2024-03-03T17:38:11.885Z</updated>
-        <content type="html"><![CDATA[苹果对 ARM 笔记本和台式机领域的铁腕统治可能即将结束，首先是高通公司及其Snapdragon X Elite。不过，有传言称，华为是进入这一领域的另一个玩家，而且有说法称，这家前中国巨头已经开发出了 M1 的竞争对手。该公司被认为摆脱了对一系列外国公司的依赖，希望从麒麟 9000S 开始启动其智能手机业务，但这并不意味着还有其他障碍需要跨越。]]></content>
+        <title type="html"><![CDATA[不换卡、不换号、不改套餐就能畅连四大运营商 竟然真的实现了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422813.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422813.htm"/>
+        <updated>2024-03-08T17:38:16.862Z</updated>
+        <content type="html"><![CDATA[“不换卡、不换号，也不用改套餐，就能使用国内四大运营商的网络”，这事儿如果放在以前，我相信估计很多人都会觉得异想天开，<strong>但是我没想到这会儿竟然真的实现了！</strong>事情起因是这样的，前两天托尼在折腾手机的时候，无意间在开发者模式里看到一个名为 “ 异网漫游 ” 的开关：]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI CEO奥特曼：很享受与丈夫的婚姻生活 想尽快生孩子]]></title>
@@ -58,13 +67,11 @@ Gemini
 Pichai)向员工发表讲话，称这种情况完全不可接受。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[巨鲸醒来：在0.28美元时获得1000枚比特币 已获超6000万美元利润]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422638.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422638.htm"/>
-        <updated>2024-03-08T17:38:16.841Z</updated>
-        <content type="html"><![CDATA[在比特币历史上各种拥有可观数量比特币的巨鲸 (指比特币大户，也称为鲸鱼)
-并不少，这些巨鲸会在每轮牛市的时候突然苏醒然后将持有的比特币转到交易所卖出。链上数据显示，昨天有一个账户持有 1000
-枚比特币的巨鲸苏醒，这些比特币在当时 (2010 年) 大约在 0.28 美元，但实际上这个巨鲸的成本价为 0，因为是他挖矿获得的。]]></content>
+        <title type="html"><![CDATA[银鹭八宝粥官方认证：罐盖成小米14 Ultra最强配件 盖镜头严丝合缝]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422816.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422816.htm"/>
+        <updated>2024-03-09T17:37:51.298Z</updated>
+        <content type="html"><![CDATA[小米14 Ultra已经上市一段时间，很多第三方配件商都专门为其打造了手机壳、贴膜等配件。<strong>但令人万万没想到的是，做八宝粥的银鹭竟然成了最佳配件商之一。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[任天堂Switch模拟器Yuzu将彻底关闭并支付240万美元以了结诉讼]]></title>
@@ -72,48 +79,6 @@ Pichai)向员工发表讲话，称这种情况完全不可接受。]]></content>
         <link href="https://www.cnbeta.com.tw/articles/game/1422349.htm"/>
         <updated>2024-03-05T04:02:32.000Z</updated>
         <content type="html"><![CDATA[就在一个多星期前，任天堂以"大规模助长盗版"为由，起诉了领先的任天堂 Switch 模拟器 Yuzu 的开发商。现在，Yuzu 似乎已经主动投降，让任天堂如愿以偿，不仅如此，任天堂 3DS 模拟器 Citra 也将受到影响。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝宣布响应央行指导提额：已于当天完成部分，近期做完]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422016.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422016.htm"/>
-        <updated>2024-03-04T17:38:25.663Z</updated>
-        <content type="html"><![CDATA[国务院新闻办公室举行国务院政策例行吹风会，介绍进一步优化支付服务提升支付便利性有关情况，指导支付机构推出一系列便利措施。今日支付宝快速响应相关决策部署，表示：“今天已完成部分提额要求，近期将全部完成。同时，支付宝将在人民银行、外汇局的支持和指导下，扎实推进落实各项措施，持续提升境外来华用户的支付安全性和便利性”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1元纸币上的女拖拉机手上热搜 今年91了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422434.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422434.htm"/>
-        <updated>2024-03-07T17:38:09.564Z</updated>
-        <content type="html"><![CDATA[今天话题#1元纸币上的女拖拉机手今年91了#登上热搜。<strong>金茂芳，1933年11月出生，现年91岁，是第三套人民币1元纸币上女拖机手原型之一。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch 2底座模式性能与PS4 Pro相当 图像质量和电池性能优于Steam Deck]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1422178.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1422178.htm"/>
-        <updated>2024-03-07T17:38:09.560Z</updated>
-        <content type="html"><![CDATA[Nintendo Switch 2 在底座对接模式下的性能很可能与 PlayStation 4 Pro 不相上下。至少，知名科技 YouTuber"摩尔定律已死"<a href="https://www.youtube.com/watch?v=6hwvERAzzm4&amp;t=1142s" target="_blank" rel="noopener">在他最新的视频</a>中是这么说的，他在视频中确认 Switch 后继机将使用传闻中的三星 8nm 工艺节点，并可能配备 12GB 内存。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.2GHz i9-14900KS出厂即灰烬 电压高得不可思议 功耗达409W]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422200.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422200.htm"/>
-        <updated>2024-03-07T17:38:09.561Z</updated>
-        <content type="html"><![CDATA[Intel预计会在3月中旬发布新一代限量版旗舰处理器i9-14900KS，加速频率达到史无前例的6.2GHz，但付出的代价也不小，功耗、电压都非常高。最新曝光的BIOS截图显示，<strong>i9-14900KS为了达到6.2GHz的高频率，居然需要1.498V的超高电压。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼日利亚将汇率暴跌70%归咎于币安 要求币安赔偿100亿美元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422106.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422106.htm"/>
-        <updated>2024-03-06T17:39:08.829Z</updated>
-        <content type="html"><![CDATA[在阻止国民访问币安并拘留两名币安高管后，日前尼日利亚政府宣布对币安索赔 100 亿美元，尼日利亚将其汇率暴跌 70% 归咎于币安导致的资本外流。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国企业首次拿到了卫星通信国际码号]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422376.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422376.htm"/>
-        <updated>2024-03-05T09:32:06.000Z</updated>
-        <content type="html"><![CDATA[<strong>在工信部指导下，中国电信通过国际电信联盟批准，拿到了E.164 码号（882）52、E.212 码号（901）09，分别作为天通卫星业务的用户拨号码号和网络识别码号。</strong>这也是我国电信企业第一次获得用于卫星通信业务的国际电信码号资源。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[麻省理工学院的核聚变技术突破可能开创一个拥有几乎无限能源的时代]]></title>
@@ -125,6 +90,41 @@ Pichai)向员工发表讲话，称这种情况完全不可接受。]]></content>
 </span></strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Switch 2底座模式性能与PS4 Pro相当 图像质量和电池性能优于Steam Deck]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1422178.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1422178.htm"/>
+        <updated>2024-03-07T17:38:09.560Z</updated>
+        <content type="html"><![CDATA[Nintendo Switch 2 在底座对接模式下的性能很可能与 PlayStation 4 Pro 不相上下。至少，知名科技 YouTuber"摩尔定律已死"<a href="https://www.youtube.com/watch?v=6hwvERAzzm4&amp;t=1142s" target="_blank" rel="noopener">在他最新的视频</a>中是这么说的，他在视频中确认 Switch 后继机将使用传闻中的三星 8nm 工艺节点，并可能配备 12GB 内存。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1元纸币上的女拖拉机手上热搜 今年91了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422434.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422434.htm"/>
+        <updated>2024-03-07T17:38:09.564Z</updated>
+        <content type="html"><![CDATA[今天话题#1元纸币上的女拖拉机手今年91了#登上热搜。<strong>金茂芳，1933年11月出生，现年91岁，是第三套人民币1元纸币上女拖机手原型之一。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.2GHz i9-14900KS出厂即灰烬 电压高得不可思议 功耗达409W]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422200.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422200.htm"/>
+        <updated>2024-03-07T17:38:09.561Z</updated>
+        <content type="html"><![CDATA[Intel预计会在3月中旬发布新一代限量版旗舰处理器i9-14900KS，加速频率达到史无前例的6.2GHz，但付出的代价也不小，功耗、电压都非常高。最新曝光的BIOS截图显示，<strong>i9-14900KS为了达到6.2GHz的高频率，居然需要1.498V的超高电压。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“微信占用了我200多G的内存”上热搜 网友戏称其为巨信]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422872.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422872.htm"/>
+        <updated>2024-03-08T09:54:16.000Z</updated>
+        <content type="html"><![CDATA[#微信占用了我200多G的内存#挤上了热搜，而这已经不是第一次出现这样的话题，以至于不少网友亲切的把微信称为巨信。<strong>有网友表示，微信占用了我200G多的内存，引起网友热议，大家纷纷感慨，这么下去1TB手机都不够用了。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国企业首次拿到了卫星通信国际码号]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422376.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422376.htm"/>
+        <updated>2024-03-05T09:32:06.000Z</updated>
+        <content type="html"><![CDATA[<strong>在工信部指导下，中国电信通过国际电信联盟批准，拿到了E.164 码号（882）52、E.212 码号（901）09，分别作为天通卫星业务的用户拨号码号和网络识别码号。</strong>这也是我国电信企业第一次获得用于卫星通信业务的国际电信码号资源。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[苹果iOS 17.4正式版重磅升级：国行iPhone支持下载离线地图]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1422543.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1422543.htm"/>
@@ -132,24 +132,26 @@ Pichai)向员工发表讲话，称这种情况完全不可接受。]]></content>
         <content type="html"><![CDATA[今日，苹果发布iOS 17.4正式版升级，安装包大小1.7GB左右。虽然苹果未在更新日志中介绍，但经过实测，<strong>苹果在iOS 17.4中正式开放了国行iPhone自带地图离线下载功能。</strong>下载离线地图后，在无Wi-Fi或蜂窝网络连接时，也可以使用“地图”获取信息和导航。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[山姆的“穷鬼套餐”火了 4亿中产汗流浃背]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422044.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422044.htm"/>
-        <updated>2024-03-02T10:10:36.000Z</updated>
-        <content type="html"><![CDATA[近年来，受宏观经济环境影响，在大众消费领域，消费降级趋势凸显，平替经济蔚然成风。“不是xx买不起，而是xx更有性价比”句式不仅风靡全网成为热梗，也成为大众消费的真实写照。38元的星巴克坚决不买，9.9的瑞幸每天一杯。连锁快餐品牌店不去，10元出头菜式任选、米饭无限续的社区食堂人潮汹涌……<strong>不过有意思的是，这股消费新风不仅发生在那些平价消费场所，同样也吹到了中产消费的阵地。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不换卡、不换号、不改套餐就能畅连四大运营商 竟然真的实现了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1422813.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1422813.htm"/>
-        <updated>2024-03-08T17:38:16.862Z</updated>
-        <content type="html"><![CDATA[“不换卡、不换号，也不用改套餐，就能使用国内四大运营商的网络”，这事儿如果放在以前，我相信估计很多人都会觉得异想天开，<strong>但是我没想到这会儿竟然真的实现了！</strong>事情起因是这样的，前两天托尼在折腾手机的时候，无意间在开发者模式里看到一个名为 “ 异网漫游 ” 的开关：]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024年民营企业100强发布：京东稳居第一 华为第三]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1422431.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1422431.htm"/>
         <updated>2024-03-08T17:38:16.866Z</updated>
         <content type="html"><![CDATA[3月5日，任泽平团队发布中国民营企业百强排行榜2024。据CNMO了解，该团队对比工商联、中企协、《财富》等榜单，结合Wind在中国及海外上市、发债的中国民营企业，统计了民营企业2022年的营业收入情况。从排名来看，京东稳居第一，阿里巴巴紧随其后，二者与上一年相比维持不变，华为则上升一名进入前三。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布配备M3芯片的新款MacBook Air机型 1099美元起售]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422326.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422326.htm"/>
+        <updated>2024-03-09T17:37:51.317Z</updated>
+        <content type="html"><![CDATA[<strong>苹果公司今天发布了新一代 M3 MacBook Air 系列，提供 13 英寸和 15 英寸两种尺寸。新机型今天就可以订购，3 月 8
+日开始发货。</strong>新款笔记本电脑采用 M3 芯片，CPU 和 GPU 性能更快，神经引擎升级，Wi-Fi 速度提升 2
+倍。该芯片现在还支持同时连接两台外接显示器，终于弥补了从英特尔处理器向Apple Silicon过渡过程中为数不多的功能倒退。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为P70手机壳曝光 外观确定：行业独创三角Deco]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1422259.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1422259.htm"/>
+        <updated>2024-03-09T17:37:51.319Z</updated>
+        <content type="html"><![CDATA[据多方爆料，华为极大概率在三月份召开发布会，推出华为P70系列旗舰手机。<strong>目前P70的手机壳已经被曝光出来，与此前传出的外观渲染图保持一致，背部造型基本板上钉钉了。</strong>]]></content>
     </entry>
 </feed>
