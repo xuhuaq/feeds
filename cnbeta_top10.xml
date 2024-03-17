@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周点击排行</title>
-    <updated>2024-03-17T05:38:29.545Z</updated>
+    <updated>2024-03-17T17:38:05.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,20 +13,6 @@
         <content type="html"><![CDATA[近日，一组刘亦菲17岁时的跑步旧照在社交媒体上引起广泛关注。照片中，刘亦菲身着一套简洁的白色运动服，在阳光下自由奔跑，仿佛一位仙女在凡间嬉戏。她的每一个动作都充满了青春的活力与灵动，连随风飘动的发丝都显得那么美丽动人。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软在免费版 Copilot 中添加了 GPT-4 Turbo LLM]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1423435.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1423435.htm"/>
-        <updated>2024-03-13T05:23:27.000Z</updated>
-        <content type="html"><![CDATA[微软今天提升了其 Copilot 生成式人工智能聊天机器人的性能。据证实，所有免费 Copilot 用户现在都可以访问 OpenAI 的 GPT-4 Turbo 大语言模型。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧美纷纷“倒戈” 中国恐成“电动车孤岛”？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1423083.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1423083.htm"/>
-        <updated>2024-03-10T07:29:27.000Z</updated>
-        <content type="html"><![CDATA[回顾过去十多年，电动车在全球市场经历了高速发展的黄金时期，电动化也一度成为全球汽车业的共识。如今，一场前所未有的“逆流”出现了。就在中国电动汽车的产销量持续创下新高时，国际车企对电动车的态度却发生了戏剧性的转变。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[苹果MacBook Pro价格暴跌3000多元 比新款Air还便宜]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1423179.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1423179.htm"/>
@@ -34,18 +20,18 @@
         <content type="html"><![CDATA[拼多多百亿补贴频道显示，MacBook Pro 14英寸价格大跌，<strong>16GB内存+512GB SSD版本领券后的到手价是13337元，</strong>比苹果官网价格便宜3662元。这个价格甚至比苹果官网新款MacBook Air还要便宜，<strong>官网显示MacBook Air 15英寸16GB+512GB定价是13499元。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[微软在免费版 Copilot 中添加了 GPT-4 Turbo LLM]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1423435.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1423435.htm"/>
+        <updated>2024-03-13T05:23:27.000Z</updated>
+        <content type="html"><![CDATA[微软今天提升了其 Copilot 生成式人工智能聊天机器人的性能。据证实，所有免费 Copilot 用户现在都可以访问 OpenAI 的 GPT-4 Turbo 大语言模型。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“苹果的C口和安卓机的C口”上热搜 两者有区别没法互充电？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1423184.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1423184.htm"/>
         <updated>2024-03-11T09:46:48.000Z</updated>
         <content type="html"><![CDATA[“苹果的C口和安卓机的C口”的话题被重新提起，两个接口确实有所不同，但互相充电也是没有问题的。<strong>首先要明确的一点就是，两者其实都是标准的USB-C接口，机器基本上都能兼容USB-PD充电。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网飞《三体》分数出炉：烂番茄新鲜度63%、IMDb9.0]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1423072.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1423072.htm"/>
-        <updated>2024-03-11T17:38:03.916Z</updated>
-        <content type="html"><![CDATA[网飞版《三体》已在SXSW首播，烂番茄开局新鲜度63%，IMDb 9.0，第一批口碑出炉。目前普遍评价：场景宏大，特效精彩；对原著改编力度极大，尤其是科学部分删减较多，但整体来说保留了精髓；前期剧本薄弱混乱，最后几集因为高科幻概念的揭示受到好评；Jess Hong饰演的中心人物金城（理论物理学家之一）表现最为出彩。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信朋友圈的这条横线为何有长有短？教你用它判断对方是否删你好友]]></title>
@@ -69,13 +55,6 @@
         <content type="html"><![CDATA[据韩国《中央日报》报道，继中芯国际为华为建立芯片生产基地，以便在今年晚些时候开始大规模生产 5 纳米晶圆之后，中国最大的半导体制造商现在又传出正在组建一支专门从事 3 纳米芯片开发的团队。出于显而易见的原因，该公司将寻求援助以帮助实现这一远大目标，并在此过程中获得完全技术自主，摆脱外国公司和美国对其的严格控制。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为鸿蒙OS 4新体验版上线：操作更丝滑 系统更安全 支持18款机型]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1423313.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1423313.htm"/>
-        <updated>2024-03-12T09:31:41.000Z</updated>
-        <content type="html"><![CDATA[日前，<strong>华为开启鸿蒙OS 4新体验版本花粉尝鲜招募，本次共支持华为Mate 60、华为P60、华为Mate 50等18款机型。</strong>据华为客服介绍，该体验版将为用户在界面、系统安全、流畅等方面带来全新使用体验。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[雷克萨斯中国销量崩塌：降价狂甩，无人心动？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1423580.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1423580.htm"/>
@@ -84,11 +63,25 @@
 200汽车。仅2023年，雷克萨斯就发布了七次中国市场的召回信息，累计涉及车辆超过20万辆。如果算上此次的召回，这意味着一年多时间，雷克萨斯就因车辆缺陷召回了超过30万辆汽车。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[华为鸿蒙OS 4新体验版上线：操作更丝滑 系统更安全 支持18款机型]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1423313.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1423313.htm"/>
+        <updated>2024-03-12T09:31:41.000Z</updated>
+        <content type="html"><![CDATA[日前，<strong>华为开启鸿蒙OS 4新体验版本花粉尝鲜招募，本次共支持华为Mate 60、华为P60、华为Mate 50等18款机型。</strong>据华为客服介绍，该体验版将为用户在界面、系统安全、流畅等方面带来全新使用体验。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[三星中国市场变卦 打响AI手机收费第一枪]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1423346.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1423346.htm"/>
         <updated>2024-03-14T17:38:15.768Z</updated>
         <content type="html"><![CDATA[三星前不久发布的最新款旗舰手机Galaxy S24系列，<strong>引入了全新“Galaxy AI”功能，</strong>主打通话实时翻译、写作助手、笔记助手、即圈即搜等AI功能。与海外市场不同的是，在中国市场，三星Galaxy S24的AI功能主要是通过与百度、美图、WPS等合作实现的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电动车被世界抛弃 中国就此成为孤岛？现实异常残酷]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1423763.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1423763.htm"/>
+        <updated>2024-03-15T10:37:01.000Z</updated>
+        <content type="html"><![CDATA[用常识思考，不人云亦云，在当下成为一种奢侈。信息越来越多，变化越来越快，真真假假，虚虚实实。要通过纷繁复杂的信息，厘清一些东西，还原一些客观，很不容易。<strong>最近，电动车消息满天飞，烦恼的，喜悦的，无厘头的，都有。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[赵喜娜全裸登奥斯卡舞台 颁发最佳服装设计奖]]></title>
@@ -119,11 +112,11 @@
         <content type="html"><![CDATA[小葱拌豆腐、芹菜炒香干、素鸡、烫火锅的油豆皮......一想到各种各样的豆制品，很多人可能忍不住流口水。而这些以豆制品为主角的美食，也在我们中国人的餐桌上占据了相当大的分量。不夸张地说，综合营养价值、烹饪方便性、产品价格等方面因素来看，豆制品完全不输于肉、蛋。快看看有没有你常吃的吧。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[电动车被世界抛弃 中国就此成为孤岛？现实异常残酷]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1423763.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1423763.htm"/>
-        <updated>2024-03-15T10:37:01.000Z</updated>
-        <content type="html"><![CDATA[用常识思考，不人云亦云，在当下成为一种奢侈。信息越来越多，变化越来越快，真真假假，虚虚实实。要通过纷繁复杂的信息，厘清一些东西，还原一些客观，很不容易。<strong>最近，电动车消息满天飞，烦恼的，喜悦的，无厘头的，都有。</strong>]]></content>
+        <title type="html"><![CDATA[SpaceX：我是说在座的各位，都是垃圾]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1423476.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1423476.htm"/>
+        <updated>2024-03-15T17:38:09.387Z</updated>
+        <content type="html"><![CDATA[大气层以内，马斯克看上去焦头烂额。特斯拉股价下滑，Twitter营收不佳，Grok前途未卜，还要忙着跟OpenAI打官司。但在大气层之外，马斯克的SpaceX正在统治着近地轨道。SpaceX的统治力有多么恐怖？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[英伟达CEO回应常年穿皮衣：老婆买的 有的穿不错了]]></title>
@@ -133,17 +126,24 @@
         <content type="html"><![CDATA[NVIDIA公司创始人兼首席执行官黄仁勋，因为常年穿一件黑色的皮衣，被不少网友称为“皮衣黄”。而据媒体报道，3月初，英伟达CEO黄仁勋参加了他母校斯坦福大学的一系列活动，现场黄仁勋回应了“皮衣黄”来历。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX：我是说在座的各位，都是垃圾]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1423476.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1423476.htm"/>
-        <updated>2024-03-15T17:38:09.387Z</updated>
-        <content type="html"><![CDATA[大气层以内，马斯克看上去焦头烂额。特斯拉股价下滑，Twitter营收不佳，Grok前途未卜，还要忙着跟OpenAI打官司。但在大气层之外，马斯克的SpaceX正在统治着近地轨道。SpaceX的统治力有多么恐怖？]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI生成的美女登上《花花公子》封面 非常逼真吸睛]]></title>
         <id>https://www.cnbeta.com.tw/articles/movie/1423394.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/movie/1423394.htm"/>
         <updated>2024-03-16T17:38:20.438Z</updated>
         <content type="html"><![CDATA[最近AI的发展非常迅速，在数据处理和自我学习方面令人惊叹，但最显著的进步是在图像处理领域。在AI的帮助下，用户可以将他们最喜爱的游戏女主角变为现实人物，或是创造出他们梦想中的女孩。她们的形象已经几乎无法与真实照片区分开来，因此《花花公子》杂志决定让一个完全由AI创造的性感模特登上新一期封面。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[产品发布前 盘点2024年款iPad Pro的主要传闻]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1423319.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1423319.htm"/>
+        <updated>2024-03-12T09:46:16.000Z</updated>
+        <content type="html"><![CDATA[<strong>苹果公司的新一代iPad Pro机型预计将在几周内发布，那么消费者对这款备受期待的新机有哪些期待呢？</strong>毕竟2022 年的 iPad Pro 只是一次小更新，增加了M2芯片、Apple Pencil悬浮以及 Wi-Fi 6E 和蓝牙 5.3 连接等规格升级。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打开闲鱼，你才知道年轻人现在玩得有多花]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1423867.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1423867.htm"/>
+        <updated>2024-03-16T10:12:39.000Z</updated>
+        <content type="html"><![CDATA[闲鱼真的越来越难评了。同样都是买东西，在小红书种草，在淘宝天猫下单，<strong>在闲鱼……玩。</strong>闲鱼是一个 “ 二手交易平台 ” ，一说这话，曾经谁都认可。<strong>但如果 2024 年了还这么想，你可能已经成为前浪，半只脚进土里，忽略了闲鱼的基本盘……</strong>]]></content>
     </entry>
 </feed>
