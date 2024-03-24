@@ -2,23 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-24T05:38:00.085Z</updated>
+    <updated>2024-03-24T17:38:08.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[3月22日起，Windows可以一键召唤GPT-4了 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424647.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424647.htm"/>
+        <updated>2024-03-23T17:38:04.977Z</updated>
+        <content type="html"><![CDATA[微软 AI 大计的最后一块拼图完成了？把 Copilot 按钮放在 Windows 桌面的任务栏，甚至实体键盘上，用大模型提升每个人的生产效率。美东时间 3 月 21 日周四，生成式 AI 领军的微软又为我们带来了一点小小的震撼。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克一语成谶，富士康代工梦碎 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1424560.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1424560.htm"/>
         <updated>2024-03-22T17:37:51.051Z</updated>
         <content type="html"><![CDATA[苹果正式放弃造车。“苹果雇佣了特斯拉开除的工程师。我们总开玩笑说苹果是特斯拉的墓地。如果一个工程师在特斯拉无法胜任工作，那就去苹果工作吧”。这是在2015年，特斯拉CEO埃隆·马斯克谈及苹果为推进造车计划，频频从特斯拉挖人时的表态。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传三星Galaxy S25将有"重大"设计变更 增大入门型号的显示屏尺寸 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1423993.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1423993.htm"/>
-        <updated>2024-03-19T17:37:58.024Z</updated>
-        <content type="html"><![CDATA[过去几代 Galaxy S
-系列的发布很可能让消费者觉得三星缺乏为其旗舰家族带来重大设计变化的动力。一位爆料者指出，在经历了几代产品之后，三星终于为 Galaxy S25
-带来了美学上的转变，首先是基本型号，据说其显示屏尺寸将比目前的 Galaxy S24 有所增大。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Android手机系统将开始逐步采用无缝更新机制 (cnbeta一周点击排行)]]></title>
@@ -28,25 +26,18 @@
         <content type="html"><![CDATA[对三星实现所谓无缝 Android 更新的看似永恒的等待可能终于结束了。据Android Authority 援引记者米沙尔-拉赫曼（Mishaal Rahman）在 X（原 Twitter）上的帖子报道，印度首批新款三星 Galaxy A55 G5 的用户正在见证一种与Google早在 2016 年随 Android 7.0 Nougat 一起发布的功能一致的行为。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《周处除三害》抄袭案新进展 法院裁定抄袭证据可信 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1424198.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1424198.htm"/>
-        <updated>2024-03-19T10:31:46.000Z</updated>
-        <content type="html"><![CDATA[导演钱人豪发文透露诉《周处除三害》抄袭案最新进展。钱人豪可向对方申请执行新台币3000万（约680万人民币）财产假扣押。今天下午他也前往法院递交了申请书。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷军晒小米汽车工厂工服照 网友：这服装卖吗？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424317.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424317.htm"/>
-        <updated>2024-03-20T10:05:24.000Z</updated>
-        <content type="html"><![CDATA[今天一早，小米雷军发布微博：“小米SU7 发布会，倒计时8天！”<strong>一同晒出的还有小米汽车工厂的工服照，并称不少米粉特别喜欢我们的工服。</strong>不得不说，雷军这身工服一上身，整个人帅气干练起来，感觉年轻不少。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[泰国一度假村购买一批比亚迪海豚：拆掉车门当高尔夫球车 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1424467.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1424467.htm"/>
         <updated>2024-03-21T10:35:33.000Z</updated>
         <content type="html"><![CDATA[一些旅游度假村会购买一些电动摆渡车来接送客人，由于速度低，这些车往往都不配车门，方便进出，而且基本都是定制，并非普通乘用车。但总有人不走寻常路，近日，泰国一度假村就购买了一批比亚迪海豚当做观光车（高尔夫球车）使用，并将它们的车门全部拆除。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《周处除三害》抄袭案新进展 法院裁定抄袭证据可信 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1424198.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1424198.htm"/>
+        <updated>2024-03-19T10:31:46.000Z</updated>
+        <content type="html"><![CDATA[导演钱人豪发文透露诉《周处除三害》抄袭案最新进展。钱人豪可向对方申请执行新台币3000万（约680万人民币）财产假扣押。今天下午他也前往法院递交了申请书。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网飞版《三体》全季正式上线：自带官方中文字幕 国语配音 (cnbeta一周点击排行)]]></title>
@@ -56,11 +47,11 @@
         <content type="html"><![CDATA[今天下午3点，网飞版《三体》剧集全季正式上线，第一季更新8集，每集60分钟。据了解，<strong>网飞版《三体》提供官方中文字幕和国语配音，</strong>无需自行搜索字幕，上线就能直接观看。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3月22日起，Windows可以一键召唤GPT-4了 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424647.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424647.htm"/>
-        <updated>2024-03-23T17:38:04.977Z</updated>
-        <content type="html"><![CDATA[微软 AI 大计的最后一块拼图完成了？把 Copilot 按钮放在 Windows 桌面的任务栏，甚至实体键盘上，用大模型提升每个人的生产效率。美东时间 3 月 21 日周四，生成式 AI 领军的微软又为我们带来了一点小小的震撼。]]></content>
+        <title type="html"><![CDATA[雷军晒小米汽车工厂工服照 网友：这服装卖吗？ (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424317.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424317.htm"/>
+        <updated>2024-03-20T10:05:24.000Z</updated>
+        <content type="html"><![CDATA[今天一早，小米雷军发布微博：“小米SU7 发布会，倒计时8天！”<strong>一同晒出的还有小米汽车工厂的工服照，并称不少米粉特别喜欢我们的工服。</strong>不得不说，雷军这身工服一上身，整个人帅气干练起来，感觉年轻不少。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[性能超越巅峰骁龙？消息称华为下一代麒麟处理器将采用全大核设计 (cnbeta一周点击排行)]]></title>
@@ -70,6 +61,13 @@
         <content type="html"><![CDATA[有博主通过微博爆料，称华为正计划将32位应用彻底逐出历史舞台，其下一代麒麟处理器将全面采用64位全大核设计。据了解，华为正在研发多款新的麒麟芯片，这些芯片将彻底放弃32位设计，全面拥抱64位内核结构。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[微信官方回应朋友圈横线：新版本全都是“短线” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424668.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424668.htm"/>
+        <updated>2024-03-23T17:38:05.008Z</updated>
+        <content type="html"><![CDATA[3月中旬，一则#为什么朋友圈这条线有长有短#话题冲上微博热搜榜，引起网友们的热议。有网友指出，<strong>“被拉黑或仅限于聊天时会显示短线，而被单方删除则显示长线”。</strong>这一说法一经提出，引发了不少人查看自己的微信好友列表，结果发现有“短线”的情况，令人“扎心”。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[华为正在开发一种神秘的新型"磁电"存储技术 (cnbeta一周点击排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1424304.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1424304.htm"/>
@@ -77,18 +75,11 @@
         <content type="html"><![CDATA[华为受到了美国对华技术出口制裁的严重影响，但该公司的发展远未结束。该公司的工程师正在研究一种新型存储技术，这种创新介质理论上可以大大改进传统的磁带或硬盘设备。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么要等待OLED iPad Pro 而不是现在去购买 M2 iPad Pro？ (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1423988.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1423988.htm"/>
-        <updated>2024-03-19T17:37:58.029Z</updated>
-        <content type="html"><![CDATA[预计苹果公司将很快宣布改款 iPad Pro 机型，整个设备将发生重大变化。如果你现在就想决定购买 M2 iPad Pro，我们建议等待 OLED iPad Pro 的发布。届时，你不仅可以获得更多升级后的功能，还可以看到新的产品定价方案。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT的前辈GPT-2被塞入Excel表格：体积达1.25GB之巨 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424008.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424008.htm"/>
-        <updated>2024-03-21T05:38:12.651Z</updated>
-        <content type="html"><![CDATA[<strong>Excel真是无所不能，酷爱它的软件开发者Ishan Anand居然将OpenAI GPT-2大模型硬生生放到了Excel之中，体积达到1.2GB，关键是还能正常运行！</strong>我们熟悉的ChatGPT，其实支持GPT系列大模型的一种呈现形式，后者已经延后演化了GPT-1、GPT-2、GPT-3、GPT-3.5、GPT-4等多个重大版本。]]></content>
+        <title type="html"><![CDATA[Google 将为 Android 15 带来卫星消息传递服务 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424577.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424577.htm"/>
+        <updated>2024-03-22T02:11:53.000Z</updated>
+        <content type="html"><![CDATA[Google Android 15 的第二个开发者预览版已经发布，它带来了期待已久的卫星连接支持，同时还对非接触式支付、多语言识别、音量一致性以及通过应用程序与 PDF 的交互进行了多项改进。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新款iPad Air发布前已从中国发货 首次分为两个尺寸 (cnbeta一周点击排行)]]></title>
@@ -98,11 +89,39 @@
         <content type="html"><![CDATA[据报道，新一代 iPad Air 现已从中国组装厂运往美国和其他国家，为上市做准备。该传言来自名为“刹那数码”的泄密者，他声称中国的制造商目前正在向海外地区运送两种尺寸的 2024 版 iPad Air。这位微博用户说，"一切准备就绪"，就等上市了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信官方回应朋友圈横线：新版本全都是“短线” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424668.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424668.htm"/>
-        <updated>2024-03-23T17:38:05.008Z</updated>
-        <content type="html"><![CDATA[3月中旬，一则#为什么朋友圈这条线有长有短#话题冲上微博热搜榜，引起网友们的热议。有网友指出，<strong>“被拉黑或仅限于聊天时会显示短线，而被单方删除则显示长线”。</strong>这一说法一经提出，引发了不少人查看自己的微信好友列表，结果发现有“短线”的情况，令人“扎心”。]]></content>
+        <title type="html"><![CDATA[ChatGPT的前辈GPT-2被塞入Excel表格：体积达1.25GB之巨 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424008.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424008.htm"/>
+        <updated>2024-03-21T05:38:12.651Z</updated>
+        <content type="html"><![CDATA[<strong>Excel真是无所不能，酷爱它的软件开发者Ishan Anand居然将OpenAI GPT-2大模型硬生生放到了Excel之中，体积达到1.2GB，关键是还能正常运行！</strong>我们熟悉的ChatGPT，其实支持GPT系列大模型的一种呈现形式，后者已经延后演化了GPT-1、GPT-2、GPT-3、GPT-3.5、GPT-4等多个重大版本。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米汽车多个商标申请被驳回 包括“小米SU7”“XIAOMI SU7” (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424533.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424533.htm"/>
+        <updated>2024-03-23T17:38:05.012Z</updated>
+        <content type="html"><![CDATA[天眼查APP显示，近日，小米科技有限责任公司申请的部分“小米SU7”“XIAOMI SU7”“XIAOMI SU”商标，<strong>流程信息变更为驳回通知发文、驳回复审申请收文。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王传福与库克见面 比亚迪进入果链 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424607.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424607.htm"/>
+        <updated>2024-03-22T10:18:11.000Z</updated>
+        <content type="html"><![CDATA[比亚迪总裁王传福与苹果CEO蒂姆·库克在上海的苹果中国总部会面，引发广泛关注。在会面期间，<strong>双方参观了比亚迪的展台，展示了比亚迪电子的智能制造技术以及为苹果生产的零部件和产品。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四年蓄势，TikTok决定硬刚 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424628.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424628.htm"/>
+        <updated>2024-03-24T17:38:08.341Z</updated>
+        <content type="html"><![CDATA[在X平台（原Twitter）上线的一则视频里，周受资看起来又焦急，又强硬。他的眉毛扭到了一起，完全不像去年那个在美国国会听证会上，接受了5小时高压问询，仍风度翩翩的跨国公司CEO。“过去几年来，TikTok一直在致力于维护用户的数据安全。如果该法案通过成为法律，将导致TikTok在美国被禁止。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子带44张二手显卡入境被查 加一起不如RTX4080贵 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424690.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424690.htm"/>
+        <updated>2024-03-24T17:38:08.345Z</updated>
+        <content type="html"><![CDATA[据“海关发布”公众号，近日，上海浦东国际机场海关旅检关员在对入境航班开展监管任务时，发现1名选择“无申报通道”入境的旅客托运行李机检图像异常。该男子疑似携带超量计算机部件，随即下达布控拦截指令。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[索尼将翻拍英文版《你好李焕英》 网友洛杉矶偶遇贾玲 (cnbeta一周点击排行)]]></title>
@@ -119,32 +138,10 @@
         <content type="html"><![CDATA[日前，知名汽车博主“@ 二师兄”发文称，虽然特斯拉在国内的很多产品力已经跟不上时代了，<strong>但是所有中国新能源品牌，都得起立感谢特斯拉。</strong>该博主给出了三个理由：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米汽车多个商标申请被驳回 包括“小米SU7”“XIAOMI SU7” (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424533.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424533.htm"/>
-        <updated>2024-03-23T17:38:05.012Z</updated>
-        <content type="html"><![CDATA[天眼查APP显示，近日，小米科技有限责任公司申请的部分“小米SU7”“XIAOMI SU7”“XIAOMI SU”商标，<strong>流程信息变更为驳回通知发文、驳回复审申请收文。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赌城“大圆球”技术细节：配备4000TB闪存：分辨率高达16K (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1423998.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1423998.htm"/>
-        <updated>2024-03-21T05:38:12.654Z</updated>
-        <content type="html"><![CDATA[诞生还不到一年，赌城拉斯维加斯的“大圆球”(MGS
-Sphere)已经赚足了噱头和关注度，吸引海量游客，更多技术细节也被披露出来。这个世界最大的球形结构剧场耗资达23亿美元，高达112米，最宽157米，外表面覆盖120万个超高分辨率LED光源，总面积5.4万平方米，可以播放预先编程的3D动态影像，内部则是面积超过1.5万平方米的环形LED屏幕，分辨率19000x1350。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上/下行10000M 全球首个万兆宽带落户上海一小区 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424464.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424464.htm"/>
-        <updated>2024-03-21T10:32:09.000Z</updated>
-        <content type="html"><![CDATA[中国电信上海公司在杨浦区保利天汇小区正式推出首个“万兆云宽带示范小区”，预计今年内将推出万兆云宽带产品。50G-PON作为全光万兆的关键技术，被ITU-T（国际电联-电信标准化局）定义为10G-PON之后的下一代PON标准。具备超大带宽、低时延、应用级灵活切片等特性，是全球主流运营商认可的万兆宽带接入技术。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称华为P系列内部重要性已超过Mate 新机预计4月份发布 (cnbeta一周点击排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424049.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424049.htm"/>
-        <updated>2024-03-18T10:38:28.000Z</updated>
-        <content type="html"><![CDATA[华为P70系列会在4月份发布，这次的定位会更加重磅。据博主定焦数码透露，<strong>华为内部回应上将P系列的重要性定位超过Mate系列，肩负着重回影像TOP的重任。</strong>]]></content>
+        <title type="html"><![CDATA[Google Pixel 手机在美国的市场份额大幅增长 (cnbeta一周点击排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424439.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424439.htm"/>
+        <updated>2024-03-21T06:31:03.000Z</updated>
+        <content type="html"><![CDATA[Google Pixel 手机似乎比过去受到了更多的关注。不过，它仍然不如三星和苹果那样受欢迎，但一份新的报告显示，Google的设备实际上正在取得一些进展，因为它在美国地区的市场份额有所增加，这是一个好迹象。]]></content>
     </entry>
 </feed>
