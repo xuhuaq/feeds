@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
-    <title>cnbeta一周点击排行</title>
-    <updated>2024-03-26T15:20:25.967Z</updated>
+    <title>cnbeta一周排行</title>
+    <updated>2024-03-26T15:52:23.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
