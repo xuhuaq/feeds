@@ -1,16 +1,6 @@
 [cnbeta_top10]
-title = "cnbeta一周点击排行"
+title = "cnbeta一周排行"
 url = "https://www.cnbeta.com.tw/top10.htm"
-entrySelector = ".cnbeta-update-list.rank-list.category-update.counter_news .items-area.rank-list .item"
-titleSelector = "dl dt"
-linkSelector = "dl dt a"
-contentSelector = "dl dd p"
-dateSelector = ".meta-data label.labels"
-dateFormat = "yyyy-MM-dd hh:mm:ss"
-
-[m_cnbeta_top10]
-title = "m.cnbeta一周排行"
-url = "https://m.cnbeta.com.tw/top10.htm"
 entrySelector = ".cnbeta-update-list.rank-list.category-update.counter_news .items-area.rank-list .item"
 titleSelector = "dl dt"
 linkSelector = "dl dt a"
