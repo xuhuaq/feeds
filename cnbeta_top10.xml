@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-03-28T05:38:04.353Z</updated>
+    <updated>2024-03-28T17:38:06.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -41,39 +41,11 @@
         <content type="html"><![CDATA[中国移动发布的2023年全年财报显示，尽管客户人均消费略有下降，但仍保持领先地位。其年度营业收入达到人民币10,093亿元，同比增长7.7%，主营业务收入达到人民币8635亿元，同比增长6.3%，高于行业平均增速。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[泰国一度假村购买一批比亚迪海豚：拆掉车门当高尔夫球车]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424467.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424467.htm"/>
-        <updated>2024-03-21T10:35:33.000Z</updated>
-        <content type="html"><![CDATA[一些旅游度假村会购买一些电动摆渡车来接送客人，由于速度低，这些车往往都不配车门，方便进出，而且基本都是定制，并非普通乘用车。但总有人不走寻常路，近日，泰国一度假村就购买了一批比亚迪海豚当做观光车（高尔夫球车）使用，并将它们的车门全部拆除。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网飞版《三体》全季正式上线：自带官方中文字幕 国语配音]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1424517.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1424517.htm"/>
-        <updated>2024-03-22T17:37:51.038Z</updated>
-        <content type="html"><![CDATA[今天下午3点，网飞版《三体》剧集全季正式上线，第一季更新8集，每集60分钟。据了解，<strong>网飞版《三体》提供官方中文字幕和国语配音，</strong>无需自行搜索字幕，上线就能直接观看。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[华为公开四重曝光工艺专利 猜测能造5nm芯片]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1424938.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1424938.htm"/>
         <updated>2024-03-26T15:20:21.753Z</updated>
         <content type="html"><![CDATA[<strong>近日，国家知识产权局公布了华为技术有限公司的多项新专利，其中一项专利号CN117751427A的涉及到“自对准四重图案化(SAQP)半导体装置的制作方法以及半导体装置”，也就是江湖传闻已久的多重曝光芯片制造工艺。</strong>传统的芯片制造方法严重依赖极其复杂、精确的掩膜图案来蚀刻芯片电路，而随着半导体工艺日益复杂化，所面临的挑战也越来越严峻，代价越来越高。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信官方回应朋友圈横线：新版本全都是“短线”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424668.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424668.htm"/>
-        <updated>2024-03-23T17:38:05.008Z</updated>
-        <content type="html"><![CDATA[3月中旬，一则#为什么朋友圈这条线有长有短#话题冲上微博热搜榜，引起网友们的热议。有网友指出，<strong>“被拉黑或仅限于聊天时会显示短线，而被单方删除则显示长线”。</strong>这一说法一经提出，引发了不少人查看自己的微信好友列表，结果发现有“短线”的情况，令人“扎心”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为Mate 70细节曝光 芯片性能比肩5.5nm 运行新鸿蒙5.0系统]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424832.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424832.htm"/>
-        <updated>2024-03-25T17:37:58.565Z</updated>
-        <content type="html"><![CDATA[今天数码博主“厂长是关同学”曝光了华为Mate 70系列手机的部分配置信息。该博主表示，<strong>华为全新的Mate 70系列首发会搭载新的芯片，芯片的性能差不多可以比肩5.5nm，</strong>还是值得期待的。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为P70又要搞突然袭击：随时上架官网开卖 起售价不到5000元]]></title>
@@ -83,11 +55,18 @@
         <content type="html"><![CDATA[据近期多位爆料者透露，华为P70系列已经全方位布局完成，甚至连线下海报都已经备齐，随时会上架官网直接开售。<strong>华为P70系列很可能像Mate 60系列一样，加入先锋计划，在4月份的某一天12:08突然上架官网。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google 将为 Android 15 带来卫星消息传递服务]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424577.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424577.htm"/>
-        <updated>2024-03-22T02:11:53.000Z</updated>
-        <content type="html"><![CDATA[Google Android 15 的第二个开发者预览版已经发布，它带来了期待已久的卫星连接支持，同时还对非接触式支付、多语言识别、音量一致性以及通过应用程序与 PDF 的交互进行了多项改进。]]></content>
+        <title type="html"><![CDATA[华为Mate 70细节曝光 芯片性能比肩5.5nm 运行新鸿蒙5.0系统]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424832.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424832.htm"/>
+        <updated>2024-03-25T17:37:58.565Z</updated>
+        <content type="html"><![CDATA[今天数码博主“厂长是关同学”曝光了华为Mate 70系列手机的部分配置信息。该博主表示，<strong>华为全新的Mate 70系列首发会搭载新的芯片，芯片的性能差不多可以比肩5.5nm，</strong>还是值得期待的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信官方回应朋友圈横线：新版本全都是“短线”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424668.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424668.htm"/>
+        <updated>2024-03-23T17:38:05.008Z</updated>
+        <content type="html"><![CDATA[3月中旬，一则#为什么朋友圈这条线有长有短#话题冲上微博热搜榜，引起网友们的热议。有网友指出，<strong>“被拉黑或仅限于聊天时会显示短线，而被单方删除则显示长线”。</strong>这一说法一经提出，引发了不少人查看自己的微信好友列表，结果发现有“短线”的情况，令人“扎心”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为什么32位系统被淘汰而128位系统还未出现？]]></title>
@@ -95,6 +74,20 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1425046.htm"/>
         <updated>2024-03-26T10:04:54.000Z</updated>
         <content type="html"><![CDATA[从Windows 11开始，微软的Windows系统就不再提供32位版本，全部使用64位系统了。那为什么32位会被淘汰，64位的优势有哪些，未来会有128位的系统吗？下面我们就来聊一聊操作系统的小秘密。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 将为 Android 15 带来卫星消息传递服务]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424577.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424577.htm"/>
+        <updated>2024-03-22T02:11:53.000Z</updated>
+        <content type="html"><![CDATA[Google Android 15 的第二个开发者预览版已经发布，它带来了期待已久的卫星连接支持，同时还对非接触式支付、多语言识别、音量一致性以及通过应用程序与 PDF 的交互进行了多项改进。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[替Telegram发送验证码是一种每月节省5美元换取高级订阅的冒险方式]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425055.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425055.htm"/>
+        <updated>2024-03-26T10:25:22.000Z</updated>
+        <content type="html"><![CDATA[Telegram 正在提供<a href="https://www.androidpolice.com/telegram-use-your-phone-send-other-people-login-codes/">一种</a>免费<a>获得高级订阅的新方法</a>：你所要做的就是自愿提供你的电话号码，向其他用户转发一次性密码（OTP）。事实上，这听起来是个糟糕的主意--尤其是对于一个以隐私为基础的信息服务来说。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[比特币"减半"引发美国老式挖矿计算机翻新后外流海外]]></title>
@@ -121,11 +114,11 @@ Soojin Park、先进材料科学部博士生 Sangyeop Lee、化学系博士 Sung
 博士组成的研究小组最近成功提高了全固态电池的性能和耐用性。他们的研究成果发表在国际期刊《Small》上。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[替Telegram发送验证码是一种每月节省5美元换取高级订阅的冒险方式]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425055.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425055.htm"/>
-        <updated>2024-03-26T10:25:22.000Z</updated>
-        <content type="html"><![CDATA[Telegram 正在提供<a href="https://www.androidpolice.com/telegram-use-your-phone-send-other-people-login-codes/">一种</a>免费<a>获得高级订阅的新方法</a>：你所要做的就是自愿提供你的电话号码，向其他用户转发一次性密码（OTP）。事实上，这听起来是个糟糕的主意--尤其是对于一个以隐私为基础的信息服务来说。]]></content>
+        <title type="html"><![CDATA[Galaxy S25 Ultra有四款原型机测试中 但原始设计与S24 Ultra相似]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425019.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425019.htm"/>
+        <updated>2024-03-26T04:07:06.000Z</updated>
+        <content type="html"><![CDATA[三星已经提前开始了其 Galaxy S25 系列的研发工作，最新消息围绕着明年的高端机型 Galaxy S25 Ultra 展开。从最新的渲染图来看，似乎有四款原型机正在进行测试，每个版本都有不同的尺寸，边框尺寸也各不相同，显然产品正在测试中，三星很可能还未决定选择哪款机型。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[官方通报：网络微短剧《老师不要跑》全网下线 小程序下架]]></title>
@@ -142,10 +135,17 @@ Soojin Park、先进材料科学部博士生 Sangyeop Lee、化学系博士 Sung
         <content type="html"><![CDATA[比亚迪总裁王传福与苹果CEO蒂姆·库克在上海的苹果中国总部会面，引发广泛关注。在会面期间，<strong>双方参观了比亚迪的展台，展示了比亚迪电子的智能制造技术以及为苹果生产的零部件和产品。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米汽车多个商标申请被驳回 包括“小米SU7”“XIAOMI SU7”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424533.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424533.htm"/>
-        <updated>2024-03-23T17:38:05.012Z</updated>
-        <content type="html"><![CDATA[天眼查APP显示，近日，小米科技有限责任公司申请的部分“小米SU7”“XIAOMI SU7”“XIAOMI SU”商标，<strong>流程信息变更为驳回通知发文、驳回复审申请收文。</strong>]]></content>
+        <title type="html"><![CDATA[四年蓄势，TikTok决定硬刚]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424628.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424628.htm"/>
+        <updated>2024-03-28T17:38:06.399Z</updated>
+        <content type="html"><![CDATA[在X平台（原Twitter）上线的一则视频里，周受资看起来又焦急，又强硬。他的眉毛扭到了一起，完全不像去年那个在美国国会听证会上，接受了5小时高压问询，仍风度翩翩的跨国公司CEO。“过去几年来，TikTok一直在致力于维护用户的数据安全。如果该法案通过成为法律，将导致TikTok在美国被禁止。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布 iOS 17.4.1、iPadOS 17.4.1 和 visionOS 1.1.1 更新]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424568.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424568.htm"/>
+        <updated>2024-03-22T01:50:19.000Z</updated>
+        <content type="html"><![CDATA[苹果公司向公众发布了 iOS 17.4.1 和 iPadOS 17.4.1，同时将 visionOS 升级到 1.1.1，并发布了 iOS 16.7.7。这次更新是在3 月 5 日发布iOS 17.4和iPadOS 17.4 之后不久推出的。17.4.1 版本也是在没有发布任何测试版的情况下发布的。]]></content>
     </entry>
 </feed>
