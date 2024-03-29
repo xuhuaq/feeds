@@ -2,28 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-29T05:38:22.763Z</updated>
+    <updated>2024-03-29T17:39:12.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[3月22日起，Windows可以一键召唤GPT-4了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424647.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424647.htm"/>
-        <updated>2024-03-23T17:38:04.977Z</updated>
-        <content type="html"><![CDATA[微软 AI 大计的最后一块拼图完成了？把 Copilot 按钮放在 Windows 桌面的任务栏，甚至实体键盘上，用大模型提升每个人的生产效率。美东时间 3 月 21 日周四，生成式 AI 领军的微软又为我们带来了一点小小的震撼。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克一语成谶，富士康代工梦碎 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424560.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424560.htm"/>
-        <updated>2024-03-22T17:37:51.051Z</updated>
-        <content type="html"><![CDATA[苹果正式放弃造车。“苹果雇佣了特斯拉开除的工程师。我们总开玩笑说苹果是特斯拉的墓地。如果一个工程师在特斯拉无法胜任工作，那就去苹果工作吧”。这是在2015年，特斯拉CEO埃隆·马斯克谈及苹果为推进造车计划，频频从特斯拉挖人时的表态。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Android手机系统将开始逐步采用无缝更新机制 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424578.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424578.htm"/>
-        <updated>2024-03-22T03:39:03.000Z</updated>
-        <content type="html"><![CDATA[对三星实现所谓无缝 Android 更新的看似永恒的等待可能终于结束了。据Android Authority 援引记者米沙尔-拉赫曼（Mishaal Rahman）在 X（原 Twitter）上的帖子报道，印度首批新款三星 Galaxy A55 G5 的用户正在见证一种与Google早在 2016 年随 Android 7.0 Nougat 一起发布的功能一致的行为。]]></content>
+        <title type="html"><![CDATA[“华为微信谈判进入僵局”上热榜 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425319.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425319.htm"/>
+        <updated>2024-03-28T09:53:19.000Z</updated>
+        <content type="html"><![CDATA[<strong>“华为微信谈判进入僵局”登上了热榜，引发了广泛的关注和热议。</strong>近日网络上流传着一则消息，声称华为鸿蒙操作系统与微信的合作谈判陷入了僵局，这一消息进一步加剧了人们的关注度。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上海开建又一世界级超级大工程“东方枢纽” 占全市面积近1/40 (cnbeta一周排行)]]></title>
@@ -61,13 +47,6 @@
         <content type="html"><![CDATA[今天数码博主“厂长是关同学”曝光了华为Mate 70系列手机的部分配置信息。该博主表示，<strong>华为全新的Mate 70系列首发会搭载新的芯片，芯片的性能差不多可以比肩5.5nm，</strong>还是值得期待的。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信官方回应朋友圈横线：新版本全都是“短线” (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424668.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424668.htm"/>
-        <updated>2024-03-23T17:38:05.008Z</updated>
-        <content type="html"><![CDATA[3月中旬，一则#为什么朋友圈这条线有长有短#话题冲上微博热搜榜，引起网友们的热议。有网友指出，<strong>“被拉黑或仅限于聊天时会显示短线，而被单方删除则显示长线”。</strong>这一说法一经提出，引发了不少人查看自己的微信好友列表，结果发现有“短线”的情况，令人“扎心”。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为什么32位系统被淘汰而128位系统还未出现？ (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425046.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425046.htm"/>
@@ -75,11 +54,11 @@
         <content type="html"><![CDATA[从Windows 11开始，微软的Windows系统就不再提供32位版本，全部使用64位系统了。那为什么32位会被淘汰，64位的优势有哪些，未来会有128位的系统吗？下面我们就来聊一聊操作系统的小秘密。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google 将为 Android 15 带来卫星消息传递服务 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424577.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424577.htm"/>
-        <updated>2024-03-22T02:11:53.000Z</updated>
-        <content type="html"><![CDATA[Google Android 15 的第二个开发者预览版已经发布，它带来了期待已久的卫星连接支持，同时还对非接触式支付、多语言识别、音量一致性以及通过应用程序与 PDF 的交互进行了多项改进。]]></content>
+        <title type="html"><![CDATA[Google Play出现多款带有恶意行为的VPN软件 将用户手机变成家宽代理 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425289.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425289.htm"/>
+        <updated>2024-03-29T17:39:12.240Z</updated>
+        <content type="html"><![CDATA[家庭宽带代理是灰产行业一直都有巨大需求的一种产品，部分网站的安全策略会禁止数据中心 IP 地址访问，因此一些恶意爬虫或不良行为的爬虫会通过购买家庭宽带来代理自己的爬虫，即爬虫会经过家宽 IP 中转，这样可以避免被拦截。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[替Telegram发送验证码是一种每月节省5美元换取高级订阅的冒险方式 (cnbeta一周排行)]]></title>
@@ -120,31 +99,56 @@ Soojin Park、先进材料科学部博士生 Sangyeop Lee、化学系博士 Sung
         <content type="html"><![CDATA[三星已经提前开始了其 Galaxy S25 系列的研发工作，最新消息围绕着明年的高端机型 Galaxy S25 Ultra 展开。从最新的渲染图来看，似乎有四款原型机正在进行测试，每个版本都有不同的尺寸，边框尺寸也各不相同，显然产品正在测试中，三星很可能还未决定选择哪款机型。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[官方通报：网络微短剧《老师不要跑》全网下线 小程序下架 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1424605.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1424605.htm"/>
-        <updated>2024-03-22T10:14:58.000Z</updated>
-        <content type="html"><![CDATA[网络微短剧最近两年非常火爆，诞生了无数爆款剧目，但其中也夹杂着一些参差不齐的内容，尤其是低俗引导问题严重。<strong>近日，中国网络视听节目服务协会微信公众号发布通报：网络微短剧《老师不要跑》全网下架。</strong>]]></content>
+        <title type="html"><![CDATA[Google禁止VLC播放器发布更新 逼迫其放弃支持旧版Android TV (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424741.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424741.htm"/>
+        <updated>2024-03-23T00:12:51.000Z</updated>
+        <content type="html"><![CDATA[知名的跨平台开源播放器 VLC 开发商 VideoLAN 昨天在 X/Twitter 上<a href="https://twitter.com/videolan/status/1771102415279763909" target="_blank" rel="nofollow">发帖</a>解释为什么他们无法更新 Android 版的 VLC 播放器。VideoLAN 称谷歌拒绝 VLC 播放器发布更新，要么 VLC 向谷歌提供私人签名密钥、要么 VLC 放弃支持 API 级别 30 之前的 Android TV 设备。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[王传福与库克见面 比亚迪进入果链 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424607.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424607.htm"/>
-        <updated>2024-03-22T10:18:11.000Z</updated>
-        <content type="html"><![CDATA[比亚迪总裁王传福与苹果CEO蒂姆·库克在上海的苹果中国总部会面，引发广泛关注。在会面期间，<strong>双方参观了比亚迪的展台，展示了比亚迪电子的智能制造技术以及为苹果生产的零部件和产品。</strong>]]></content>
+        <title type="html"><![CDATA[26.14万元 小米SU7购车发票曝光 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425357.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425357.htm"/>
+        <updated>2024-03-29T17:39:12.251Z</updated>
+        <content type="html"><![CDATA[小米SU7价格曝光了！开票价26.14万元。就在刚刚，一张由厦门市国税局开出的厦门机动车销售统一发票上显示，一辆型号为“BJ7000MBEVR2”的新车以26.14万的价格开票。纸质发票的开票日期为2024年3月20日，随后网传的一张发票查验明细图中可以看到更多详细信息，查询日期为3月27日，这说明这张发票的真实性还是很高的。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[四年蓄势，TikTok决定硬刚 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424628.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424628.htm"/>
-        <updated>2024-03-28T17:38:06.399Z</updated>
-        <content type="html"><![CDATA[在X平台（原Twitter）上线的一则视频里，周受资看起来又焦急，又强硬。他的眉毛扭到了一起，完全不像去年那个在美国国会听证会上，接受了5小时高压问询，仍风度翩翩的跨国公司CEO。“过去几年来，TikTok一直在致力于维护用户的数据安全。如果该法案通过成为法律，将导致TikTok在美国被禁止。”]]></content>
+        <title type="html"><![CDATA[美国商务部正调查中芯国际是否非法获取美国工具以制造麒麟9000S芯片 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424687.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424687.htm"/>
+        <updated>2024-03-29T17:39:12.253Z</updated>
+        <content type="html"><![CDATA[美国商务部正在调查中芯国际是否非法获取美国工具来制造麒麟 9000S 芯片。据该部门高级官员艾伦-埃斯特维兹（Alan Estevez）称，该芯片制造商可能违反了出口规定，但目前仍在对情况进行评估。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果发布 iOS 17.4.1、iPadOS 17.4.1 和 visionOS 1.1.1 更新 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424568.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424568.htm"/>
-        <updated>2024-03-22T01:50:19.000Z</updated>
-        <content type="html"><![CDATA[苹果公司向公众发布了 iOS 17.4.1 和 iPadOS 17.4.1，同时将 visionOS 升级到 1.1.1，并发布了 iOS 16.7.7。这次更新是在3 月 5 日发布iOS 17.4和iPadOS 17.4 之后不久推出的。17.4.1 版本也是在没有发布任何测试版的情况下发布的。]]></content>
+        <title type="html"><![CDATA[中国加速在政府计算机系统中限制和替代进口CPU及操作系统 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424856.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424856.htm"/>
+        <updated>2024-03-29T17:39:12.255Z</updated>
+        <content type="html"><![CDATA[中国开始逐步在政府个人电脑中减少和停用英特尔、AMD
+和微软产品，提倡采用国产解决方案。中美交恶在科技市场掀起了一场风暴，尤其是对英伟达（NVIDIA）和 AMD
+等美国芯片制造商而言，它们在该地区建立了一个占主导地位的消费群。看来，中国已经采取了下一步行动。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒聚焦中国电动汽车：一款小型车为何让西方如此紧张？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424749.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424749.htm"/>
+        <updated>2024-03-29T17:39:12.256Z</updated>
+        <content type="html"><![CDATA[<strong>一款小型电动汽车正在对全球汽车行业产生巨大影响。</strong>它之所以能够引起轰动，原因并不是因为它是一辆电动汽车，而是它的价格以及它所具备的颠覆全球各国汽车行业的潜力。这辆车就是中国制造的比亚迪海鸥。它是一款小型全电动掀背车，起售价仅为人民币6.98万元(约合不到1万美元)，但依旧能够为比亚迪创造利润。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google推出原生ARM版Windows Chrome浏览器 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425149.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425149.htm"/>
+        <updated>2024-03-27T01:33:50.000Z</updated>
+        <content type="html"><![CDATA[Google ARM 版 Windows Chrome 浏览器终于正式发布了。今天，该公司<a href="https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/">宣布</a>推出全球最流行浏览器的完整 ARM64 原生版本，为使用 ARM 处理器的用户提供更快、更流畅、更高效的浏览器。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows格式化对话框一开始是一个临时解决方案 但已存在了30年之久 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424975.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424975.htm"/>
+        <updated>2024-03-29T17:39:12.261Z</updated>
+        <content type="html"><![CDATA[你可能对现代（或不太现代）Windows
+版本中的"格式化"对话框并不陌生。这是一个高大的窗口，包含多个选项，如文件系统、分配大小等。如果你想知道为什么它在现代 Windows
+版本中看起来有点格格不入，答案是：这个用户界面是一个临时解决方案，而这个方案却又如此不需要改变，以至于它已经被多个Windows系统沿用了近 30 年。]]></content>
     </entry>
 </feed>
