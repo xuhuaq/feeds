@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-31T05:37:57.789Z</updated>
+    <updated>2024-03-31T17:39:20.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[“华为微信谈判进入僵局”上热榜 (cnbeta一周排行)]]></title>
@@ -12,20 +12,6 @@
         <content type="html"><![CDATA[<strong>“华为微信谈判进入僵局”登上了热榜，引发了广泛的关注和热议。</strong>近日网络上流传着一则消息，声称华为鸿蒙操作系统与微信的合作谈判陷入了僵局，这一消息进一步加剧了人们的关注度。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上海开建又一世界级超级大工程“东方枢纽” 占全市面积近1/40 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424887.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424887.htm"/>
-        <updated>2024-03-25T09:50:20.000Z</updated>
-        <content type="html"><![CDATA[<strong>上海的东南角正酝酿着一项世界级超级大工程，名为“东方枢纽”。</strong>据了解，未来的“东方枢纽”将集结上海东站、上海浦东国际机场和城市轨道交通，打造成一个空铁深度一体化的大型综合交通枢纽。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8、18元套餐关停后 中国移动用户均消费达到78.2元 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424883.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424883.htm"/>
-        <updated>2024-03-25T09:46:56.000Z</updated>
-        <content type="html"><![CDATA[中国移动发布的2023年全年财报显示，尽管客户人均消费略有下降，但仍保持领先地位。其年度营业收入达到人民币10,093亿元，同比增长7.7%，主营业务收入达到人民币8635亿元，同比增长6.3%，高于行业平均增速。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Play出现多款带有恶意行为的VPN软件 将用户手机变成家宽代理 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425289.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425289.htm"/>
@@ -33,11 +19,25 @@
         <content type="html"><![CDATA[家庭宽带代理是灰产行业一直都有巨大需求的一种产品，部分网站的安全策略会禁止数据中心 IP 地址访问，因此一些恶意爬虫或不良行为的爬虫会通过购买家庭宽带来代理自己的爬虫，即爬虫会经过家宽 IP 中转，这样可以避免被拦截。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[上海开建又一世界级超级大工程“东方枢纽” 占全市面积近1/40 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424887.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424887.htm"/>
+        <updated>2024-03-25T09:50:20.000Z</updated>
+        <content type="html"><![CDATA[<strong>上海的东南角正酝酿着一项世界级超级大工程，名为“东方枢纽”。</strong>据了解，未来的“东方枢纽”将集结上海东站、上海浦东国际机场和城市轨道交通，打造成一个空铁深度一体化的大型综合交通枢纽。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[华为公开四重曝光工艺专利 猜测能造5nm芯片 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1424938.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1424938.htm"/>
         <updated>2024-03-26T15:20:21.753Z</updated>
         <content type="html"><![CDATA[<strong>近日，国家知识产权局公布了华为技术有限公司的多项新专利，其中一项专利号CN117751427A的涉及到“自对准四重图案化(SAQP)半导体装置的制作方法以及半导体装置”，也就是江湖传闻已久的多重曝光芯片制造工艺。</strong>传统的芯片制造方法严重依赖极其复杂、精确的掩膜图案来蚀刻芯片电路，而随着半导体工艺日益复杂化，所面临的挑战也越来越严峻，代价越来越高。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8、18元套餐关停后 中国移动用户均消费达到78.2元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424883.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424883.htm"/>
+        <updated>2024-03-25T09:46:56.000Z</updated>
+        <content type="html"><![CDATA[中国移动发布的2023年全年财报显示，尽管客户人均消费略有下降，但仍保持领先地位。其年度营业收入达到人民币10,093亿元，同比增长7.7%，主营业务收入达到人民币8635亿元，同比增长6.3%，高于行业平均增速。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为什么32位系统被淘汰而128位系统还未出现？ (cnbeta一周排行)]]></title>
@@ -54,13 +54,6 @@
         <content type="html"><![CDATA[据近期多位爆料者透露，华为P70系列已经全方位布局完成，甚至连线下海报都已经备齐，随时会上架官网直接开售。<strong>华为P70系列很可能像Mate 60系列一样，加入先锋计划，在4月份的某一天12:08突然上架官网。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为Mate 70细节曝光 芯片性能比肩5.5nm 运行新鸿蒙5.0系统 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424832.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424832.htm"/>
-        <updated>2024-03-25T17:37:58.565Z</updated>
-        <content type="html"><![CDATA[今天数码博主“厂长是关同学”曝光了华为Mate 70系列手机的部分配置信息。该博主表示，<strong>华为全新的Mate 70系列首发会搭载新的芯片，芯片的性能差不多可以比肩5.5nm，</strong>还是值得期待的。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[替Telegram发送验证码是一种每月节省5美元换取高级订阅的冒险方式 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425055.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425055.htm"/>
@@ -68,18 +61,27 @@
         <content type="html"><![CDATA[Telegram 正在提供<a href="https://www.androidpolice.com/telegram-use-your-phone-send-other-people-login-codes/">一种</a>免费<a>获得高级订阅的新方法</a>：你所要做的就是自愿提供你的电话号码，向其他用户转发一次性密码（OTP）。事实上，这听起来是个糟糕的主意--尤其是对于一个以隐私为基础的信息服务来说。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比特币"减半"引发美国老式挖矿计算机翻新后外流海外 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424833.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424833.htm"/>
-        <updated>2024-03-26T15:20:21.747Z</updated>
-        <content type="html"><![CDATA[彭博社报道，即将到来的比特币 "减半 "事件促使人们因奖励减少和电费高昂而转向更高效的技术。美国 6000 台老式比特币挖矿机将被翻新并销往海外，目标是成本较低的挖矿环境。埃塞俄比亚成为美国采矿钻机搬迁的重要目的地，其电费更便宜，约为每千瓦时 3 美分。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Galaxy S25 Ultra有四款原型机测试中 但原始设计与S24 Ultra相似 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425019.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425019.htm"/>
         <updated>2024-03-26T04:07:06.000Z</updated>
         <content type="html"><![CDATA[三星已经提前开始了其 Galaxy S25 系列的研发工作，最新消息围绕着明年的高端机型 Galaxy S25 Ultra 展开。从最新的渲染图来看，似乎有四款原型机正在进行测试，每个版本都有不同的尺寸，边框尺寸也各不相同，显然产品正在测试中，三星很可能还未决定选择哪款机型。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高德竟然要收费了 这几块钱是想割谁？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425475.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425475.htm"/>
+        <updated>2024-03-29T10:01:50.000Z</updated>
+        <content type="html"><![CDATA[就在前几天，不知道从哪传出来高德地图服务要收费的风声。什么高德地图打响收费第一枪、高德地图收费 3.5 的媒体标题满天飞，还炸出不少拱火的网友，大有一种，高德要是敢收费他就敢卸载的愤慨。怎么没有低德？]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心机黑客潜伏两年后向xz-utils添加后门 多个Linux发行版中招 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425585.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425585.htm"/>
+        <updated>2024-03-30T10:39:16.000Z</updated>
+        <content type="html"><![CDATA[今天 Linux 社区最关注的事情就是 xz-utils (以前被称为 LZMA Utils) 项目被植入后门的事情，xz 是被 Linux
+发行版广泛使用的压缩格式之一，xz-utils 是一个开源项目，2022 年起有个名为 Jia Tan
+的账号开始向该项目贡献代码，然后逐步接手该项目成为项目的主要贡献者。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马克·扎克伯格会面黄仁勋 两人互换标志性的穿搭 (cnbeta一周排行)]]></title>
@@ -96,20 +98,25 @@
         <content type="html"><![CDATA[小米SU7价格曝光了！开票价26.14万元。就在刚刚，一张由厦门市国税局开出的厦门机动车销售统一发票上显示，一辆型号为“BJ7000MBEVR2”的新车以26.14万的价格开票。纸质发票的开票日期为2024年3月20日，随后网传的一张发票查验明细图中可以看到更多详细信息，查询日期为3月27日，这说明这张发票的真实性还是很高的。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[客户抱怨Copilot表现不如ChatGPT 微软解释两者的区别 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425433.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425433.htm"/>
+        <updated>2024-03-30T17:38:19.406Z</updated>
+        <content type="html"><![CDATA[微软正竭尽全力让更多人使用其 Copilot 人工智能工具，但一些客户报告了一个问题：它的性表现不如 ChatGPT。但微软认为，问题在于人们没有正确使用 Copilot，或者不了解这两种产品之间的区别。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网飞《三体》三体人用中文发音 因为英文听起来很蠢 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1425526.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1425526.htm"/>
+        <updated>2024-03-31T17:39:19.415Z</updated>
+        <content type="html"><![CDATA[网飞《三体》剧集将三体人这一外星种族重新命名了，在《三体》英文小说中，他们被称为“Trisolarans”，而在网飞剧集中，团队采用了“三体”的中文发音，将三体人称为San-Ti。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google推出原生ARM版Windows Chrome浏览器 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425149.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425149.htm"/>
         <updated>2024-03-27T01:33:50.000Z</updated>
         <content type="html"><![CDATA[Google ARM 版 Windows Chrome 浏览器终于正式发布了。今天，该公司<a href="https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/">宣布</a>推出全球最流行浏览器的完整 ARM64 原生版本，为使用 ARM 处理器的用户提供更快、更流畅、更高效的浏览器。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国加速在政府计算机系统中限制和替代进口CPU及操作系统 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424856.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424856.htm"/>
-        <updated>2024-03-29T17:39:12.255Z</updated>
-        <content type="html"><![CDATA[中国开始逐步在政府个人电脑中减少和停用英特尔、AMD
-和微软产品，提倡采用国产解决方案。中美交恶在科技市场掀起了一场风暴，尤其是对英伟达（NVIDIA）和 AMD
-等美国芯片制造商而言，它们在该地区建立了一个占主导地位的消费群。看来，中国已经采取了下一步行动。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows格式化对话框一开始是一个临时解决方案 但已存在了30年之久 (cnbeta一周排行)]]></title>
@@ -121,6 +128,15 @@
 版本中看起来有点格格不入，答案是：这个用户界面是一个临时解决方案，而这个方案却又如此不需要改变，以至于它已经被多个Windows系统沿用了近 30 年。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[中国加速在政府计算机系统中限制和替代进口CPU及操作系统 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1424856.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1424856.htm"/>
+        <updated>2024-03-29T17:39:12.255Z</updated>
+        <content type="html"><![CDATA[中国开始逐步在政府个人电脑中减少和停用英特尔、AMD
+和微软产品，提倡采用国产解决方案。中美交恶在科技市场掀起了一场风暴，尤其是对英伟达（NVIDIA）和 AMD
+等美国芯片制造商而言，它们在该地区建立了一个占主导地位的消费群。看来，中国已经采取了下一步行动。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pixel 9渲染图和360度视频泄露 新机体积更小边缘更平整 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425279.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425279.htm"/>
@@ -130,26 +146,12 @@
 2020 年发布 iPhone 12 系列时所采用的圆角边缘设计。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软将允许用户通过GUI管理Windows 11上运行的Linux发行版 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1424839.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1424839.htm"/>
-        <updated>2024-03-30T17:38:19.405Z</updated>
-        <content type="html"><![CDATA[微软的 Windows Subsystem for Linux（WSL）让任何人都能直接运行 Linux 发行版。有了
-WSA，计算机就不需要双启动 Linux 或创建虚拟机，但该功能仅限于 Windows
-终端。微软明白有些人可能不习惯使用命令行，因此正在创建一个用于管理 Linux 发行版的图形用户界面。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[客户抱怨Copilot表现不如ChatGPT 微软解释两者的区别 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425433.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425433.htm"/>
-        <updated>2024-03-30T17:38:19.406Z</updated>
-        <content type="html"><![CDATA[微软正竭尽全力让更多人使用其 Copilot 人工智能工具，但一些客户报告了一个问题：它的性表现不如 ChatGPT。但微软认为，问题在于人们没有正确使用 Copilot，或者不了解这两种产品之间的区别。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[索尼Xperia 1 VI尺寸曝光 手机相比同门将略短略宽 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425162.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425162.htm"/>
-        <updated>2024-03-27T05:17:44.000Z</updated>
-        <content type="html"><![CDATA[几周前，我们听说索尼将在下一代 Xperia 1 机型中放弃 4K 显示屏--这将发生在纵横比从 21:9 变为 19.5:9 的情况下（这表明垂直分辨率将不再是 3840px），同时这也将导致手机尺寸的变化，而新泄露的信息揭示了新的数值。]]></content>
+        <title type="html"><![CDATA[英特尔"Family 6"CPU时代即将结束 接下来几年的改变会非常令人兴奋 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425448.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425448.htm"/>
+        <updated>2024-03-29T02:46:12.000Z</updated>
+        <content type="html"><![CDATA[自 90 年代中期奔腾 Pro 开始的 P6 微体系结构成为第六代 x86 微体系结构以来，英特尔一直使用"Family 6"CPU
+ID。从那时起，英特尔就开始为每一种新的微架构/核心修改 Family 6 中的型号。例如，Meteor Lake 是 Family 6
+Model 170，Emerald Rapids 是 Family 6 Model 207。这种 CPU ID 标识在 Linux 内核和其他操作系统中用于识别 CPU 的世代，以便正确处理等。<strong>但英特尔 Linux 工程师今天透露，"Family 6 即将"结束。</strong>]]></content>
     </entry>
 </feed>
