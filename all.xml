@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-03T05:38:22.056Z</updated>
+    <updated>2024-04-03T17:37:58.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[“华为微信谈判进入僵局”上热榜 (cnbeta一周排行)]]></title>
@@ -12,13 +12,6 @@
         <content type="html"><![CDATA[<strong>“华为微信谈判进入僵局”登上了热榜，引发了广泛的关注和热议。</strong>近日网络上流传着一则消息，声称华为鸿蒙操作系统与微信的合作谈判陷入了僵局，这一消息进一步加剧了人们的关注度。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Play出现多款带有恶意行为的VPN软件 将用户手机变成家宽代理 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425289.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425289.htm"/>
-        <updated>2024-03-29T17:39:12.240Z</updated>
-        <content type="html"><![CDATA[家庭宽带代理是灰产行业一直都有巨大需求的一种产品，部分网站的安全策略会禁止数据中心 IP 地址访问，因此一些恶意爬虫或不良行为的爬虫会通过购买家庭宽带来代理自己的爬虫，即爬虫会经过家宽 IP 中转，这样可以避免被拦截。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国特供RTX 4090D偷偷解锁600W功耗 性能反超RTX 4090 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425708.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425708.htm"/>
@@ -26,11 +19,34 @@
         <content type="html"><![CDATA[作为一款中国特供版显卡，RTX 4090D严格限制超频，也不能解锁功耗，之前任何尝试都只能提升2-5％。但是现在发现，某厂商的RTX 4090D已经偷偷解锁，可以将最高功耗限制从425W提高到600W，然后就能大幅超频了。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Play出现多款带有恶意行为的VPN软件 将用户手机变成家宽代理 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425289.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425289.htm"/>
+        <updated>2024-03-29T17:39:12.240Z</updated>
+        <content type="html"><![CDATA[家庭宽带代理是灰产行业一直都有巨大需求的一种产品，部分网站的安全策略会禁止数据中心 IP 地址访问，因此一些恶意爬虫或不良行为的爬虫会通过购买家庭宽带来代理自己的爬虫，即爬虫会经过家宽 IP 中转，这样可以避免被拦截。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[终于意识到不对劲 微软从Windows Server 2025中删除Copilot (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425860.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425860.htm"/>
+        <updated>2024-04-02T09:38:38.000Z</updated>
+        <content type="html"><![CDATA[在 2 月 26 日发布的 Windows Server 2025 Build 26063 预览版中，微软竟然给 Windows Server
+系统也添加了 Copilot 人工智能应用并且还要求管理员登录微软账号。这一消息在 IT 管理员圈子里引起了不少争议，毕竟这是 Windows
+Server 服务器系统，注重的是稳定性而不是丰富的功能，集成 Copilot 让人无法理解。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[高德竟然要收费了 这几块钱是想割谁？ (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425475.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425475.htm"/>
         <updated>2024-03-29T10:01:50.000Z</updated>
         <content type="html"><![CDATA[就在前几天，不知道从哪传出来高德地图服务要收费的风声。什么高德地图打响收费第一枪、高德地图收费 3.5 的媒体标题满天飞，还炸出不少拱火的网友，大有一种，高德要是敢收费他就敢卸载的愤慨。怎么没有低德？]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 宣布将让人们无需注册账户即可免费使用 ChatGPT (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425834.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425834.htm"/>
+        <updated>2024-04-02T02:32:59.000Z</updated>
+        <content type="html"><![CDATA[自 2022 年底首次向公众推出以来，OpenAI 一直要求想要访问该聊天机器人的用户注册 OpenAI 账户。今天，该公司透露将向所有人免费开放 ChatGPT，无需创建账户。OpenAI<a href="https://openai.com/blog/start-using-chatgpt-instantly">在今天的一篇博文中</a>表示，它将"逐步"推出这一新的访问权限，因此，根据您居住的地方，您可能仍需要先注册一个账户，然后才能向所有人提供这一改进。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[心机黑客潜伏两年后向xz-utils添加后门 多个Linux发行版中招 (cnbeta一周排行)]]></title>
@@ -65,6 +81,16 @@ iPhone SE 3 相比将如何彻底改变，因为苹果将放弃 Home 键，转�
         <content type="html"><![CDATA[Meta 公司首席执行官马克-扎克伯格（Mark Zuckerberg）会面英伟达公司的黄仁勋（Jensen Huang），两人进行了标志性衣着的交换，并可能就人工智能问题进行了一两次交谈。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[英特尔意识到拯救x86的唯一方法是重新开放x86知识产权许可 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425783.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425783.htm"/>
+        <updated>2024-04-02T17:38:25.611Z</updated>
+        <content type="html"><![CDATA[在 20 世纪 90 年代 x86 的辉煌时代，你不仅可以从英特尔和 AMD 购买 IBM PC 兼容 x86 处理器，还可以从
+Cyrix、IDT、Transmeta 和 NEC 等公司购买。不同 x86 授权厂商之间的竞争推动了 32
+位时代前半段的创新，但在世纪末，随着千年虫狂潮的逼近，PC 处理器市场出现了一系列整合，如 Cyrix 和 IDT（后来的
+Centaur）被威盛电子收购。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[客户抱怨Copilot表现不如ChatGPT 微软解释两者的区别 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425433.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425433.htm"/>
@@ -72,25 +98,11 @@ iPhone SE 3 相比将如何彻底改变，因为苹果将放弃 Home 键，转�
         <content type="html"><![CDATA[微软正竭尽全力让更多人使用其 Copilot 人工智能工具，但一些客户报告了一个问题：它的性表现不如 ChatGPT。但微软认为，问题在于人们没有正确使用 Copilot，或者不了解这两种产品之间的区别。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 机模展示外形设计变化和新按钮 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425133.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425133.htm"/>
-        <updated>2024-04-01T17:37:54.234Z</updated>
-        <content type="html"><![CDATA[有人在网上分享了据称是精确的 iPhone 16 系列模型的对比图片，让我们近距离观察了传闻中即将推出的设备的设计。据多个消息来源称，iPhone 16 Pro 和 iPhone 16 Pro Max 预计将在今年获得更大的显示屏尺寸，而 iPhone 16 和 iPhone 16 Plus 将与 iPhone 15 和 iPhone 15 Plus 大小相同。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[此时此刻两个Claude智能体正在无休止对话 无人干预 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425694.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425694.htm"/>
         <updated>2024-04-01T17:37:54.246Z</updated>
         <content type="html"><![CDATA[现在，AI 大模型已经疯狂到这种地步了吗？此时此刻，正有两个 Claude 模型在无休止地对话，它们在探索整个宇宙的奥妙。项目主页介绍称，这是两个 Claude 3 Opus 模型实例之间的自动对话，它们被指示使用命令行界面的比喻（metaphor）来无限地探索它的好奇心，不存在任何人为干预。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26.14万元 小米SU7购车发票曝光 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425357.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425357.htm"/>
-        <updated>2024-03-29T17:39:12.251Z</updated>
-        <content type="html"><![CDATA[小米SU7价格曝光了！开票价26.14万元。就在刚刚，一张由厦门市国税局开出的厦门机动车销售统一发票上显示，一辆型号为“BJ7000MBEVR2”的新车以26.14万的价格开票。纸质发票的开票日期为2024年3月20日，随后网传的一张发票查验明细图中可以看到更多详细信息，查询日期为3月27日，这说明这张发票的真实性还是很高的。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[抖音有个叫Mortal的网友 一个作品都没 却拥有400万粉丝 (cnbeta一周排行)]]></title>
@@ -109,28 +121,25 @@ iPhone SE 3 相比将如何彻底改变，因为苹果将放弃 Home 键，转�
 2020 年发布 iPhone 12 系列时所采用的圆角边缘设计。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英特尔意识到拯救x86的唯一方法是重新开放x86知识产权许可 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425783.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425783.htm"/>
-        <updated>2024-04-02T17:38:25.611Z</updated>
-        <content type="html"><![CDATA[在 20 世纪 90 年代 x86 的辉煌时代，你不仅可以从英特尔和 AMD 购买 IBM PC 兼容 x86 处理器，还可以从
-Cyrix、IDT、Transmeta 和 NEC 等公司购买。不同 x86 授权厂商之间的竞争推动了 32
-位时代前半段的创新，但在世纪末，随着千年虫狂潮的逼近，PC 处理器市场出现了一系列整合，如 Cyrix 和 IDT（后来的
-Centaur）被威盛电子收购。]]></content>
+        <title type="html"><![CDATA[26.14万元 小米SU7购车发票曝光 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425357.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425357.htm"/>
+        <updated>2024-03-29T17:39:12.251Z</updated>
+        <content type="html"><![CDATA[小米SU7价格曝光了！开票价26.14万元。就在刚刚，一张由厦门市国税局开出的厦门机动车销售统一发票上显示，一辆型号为“BJ7000MBEVR2”的新车以26.14万的价格开票。纸质发票的开票日期为2024年3月20日，随后网传的一张发票查验明细图中可以看到更多详细信息，查询日期为3月27日，这说明这张发票的真实性还是很高的。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google推出原生ARM版Windows Chrome浏览器 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425149.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425149.htm"/>
-        <updated>2024-03-27T01:33:50.000Z</updated>
-        <content type="html"><![CDATA[Google ARM 版 Windows Chrome 浏览器终于正式发布了。今天，该公司<a href="https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/">宣布</a>推出全球最流行浏览器的完整 ARM64 原生版本，为使用 ARM 处理器的用户提供更快、更流畅、更高效的浏览器。]]></content>
+        <title type="html"><![CDATA[苹果iPad mini 7今年亮相 优化“果冻屏”效应 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425734.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425734.htm"/>
+        <updated>2024-04-01T09:33:50.000Z</updated>
+        <content type="html"><![CDATA[爆料人Mark Gurman透露，<strong>苹果计划在今年晚些时候发布iPad mini 7。</strong>针对上一代产品iPad mini 6存在的“果冻屏”问题，苹果将在iPad mini 7上进行优化。为了解决这一问题，苹果改变了iPad mini 7的屏幕装配方向。尽管如此，iPad mini 7屏幕的刷新率仍然是60Hz，并采用LCD材质。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI 宣布将让人们无需注册账户即可免费使用 ChatGPT (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425834.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425834.htm"/>
-        <updated>2024-04-02T02:32:59.000Z</updated>
-        <content type="html"><![CDATA[自 2022 年底首次向公众推出以来，OpenAI 一直要求想要访问该聊天机器人的用户注册 OpenAI 账户。今天，该公司透露将向所有人免费开放 ChatGPT，无需创建账户。OpenAI<a href="https://openai.com/blog/start-using-chatgpt-instantly">在今天的一篇博文中</a>表示，它将"逐步"推出这一新的访问权限，因此，根据您居住的地方，您可能仍需要先注册一个账户，然后才能向所有人提供这一改进。]]></content>
+        <title type="html"><![CDATA[微软员工意外从CVE-2024-3094 XZ后门中挽救了全球Linux系统 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425919.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425919.htm"/>
+        <updated>2024-04-03T17:37:57.764Z</updated>
+        <content type="html"><![CDATA[微软今天，微软发布了关于 XZ Utils 后门漏洞（CVE-2024-3094）的指导和公告。该安全漏洞是一个重大漏洞，CVSS（通用漏洞计分系统）得分为 10.0，影响了多个 Linux 发行版，即 Fedora、Kali Linux、OpenSUSE 和 Alpine，可能会对全球造成巨大影响。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[首批iPhone 16手机壳勾勒出新的后置垂直摄像头模组轮廓 (cnbeta一周排行)]]></title>
@@ -140,19 +149,10 @@ Centaur）被威盛电子收购。]]></content>
         <content type="html"><![CDATA[人们在网上分享了首批 iPhone 16 手机壳的照片，再次预览了传闻中 iPhone 16 和 iPhone 16 Plus 标准版新的垂直后置摄像头布局。在过去的几个月里，苹果公司一直在为标准版 iPhone 16 机型尝试不同的摄像头凸起设计，所有这些机型都采用了垂直摄像头排列。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英特尔"Family 6"CPU时代即将结束 接下来几年的改变会非常令人兴奋 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425448.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425448.htm"/>
-        <updated>2024-03-29T02:46:12.000Z</updated>
-        <content type="html"><![CDATA[自 90 年代中期奔腾 Pro 开始的 P6 微体系结构成为第六代 x86 微体系结构以来，英特尔一直使用"Family 6"CPU
-ID。从那时起，英特尔就开始为每一种新的微架构/核心修改 Family 6 中的型号。例如，Meteor Lake 是 Family 6
-Model 170，Emerald Rapids 是 Family 6 Model 207。这种 CPU ID 标识在 Linux 内核和其他操作系统中用于识别 CPU 的世代，以便正确处理等。<strong>但英特尔 Linux 工程师今天透露，"Family 6 即将"结束。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[索尼Xperia 1 VI尺寸曝光 手机相比同门将略短略宽 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425162.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425162.htm"/>
-        <updated>2024-03-27T05:17:44.000Z</updated>
-        <content type="html"><![CDATA[几周前，我们听说索尼将在下一代 Xperia 1 机型中放弃 4K 显示屏--这将发生在纵横比从 21:9 变为 19.5:9 的情况下（这表明垂直分辨率将不再是 3840px），同时这也将导致手机尺寸的变化，而新泄露的信息揭示了新的数值。]]></content>
+        <title type="html"><![CDATA[华硕掌机ROG Ally大降价40% 已到历史最低价：300美元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1425816.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1425816.htm"/>
+        <updated>2024-04-03T17:37:57.769Z</updated>
+        <content type="html"><![CDATA[在寻找新款掌上游戏机时，玩家可能会发现自己需要在Steam Deck和华硕ROG Ally之间做出选择。虽然两款产品都能提供不错的性能，但华硕ROG Ally Z1非极限版在整体性价比方面更胜一筹。]]></content>
     </entry>
 </feed>
