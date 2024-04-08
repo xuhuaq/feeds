@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-08T05:38:01.719Z</updated>
+    <updated>2024-04-08T17:37:57.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[为了让父母多投喂自己 这种雏鸟长出恐怖的鸟嘴 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1426360.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1426360.htm"/>
+        <updated>2024-04-06T11:03:00.000Z</updated>
+        <content type="html"><![CDATA[这是<strong>七彩文鸟</strong>，因为长得漂亮，而深受人们的喜爱，但你可能不想知道它的雏鸟长什么样。这便是它的雏鸟（下图），它们的嘴巴周围布满了一圈奇怪的斑纹和乳突，这种特征有点像毒疮，我们看起来会非常不舒服，被认为是<strong>世界上最恐怖的鸟类嘴巴</strong>。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[终于意识到不对劲 微软从Windows Server 2025中删除Copilot (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425860.htm</id>
@@ -21,34 +28,11 @@ Server 服务器系统，注重的是稳定性而不是丰富的功能，集成 
         <content type="html"><![CDATA[自 2022 年底首次向公众推出以来，OpenAI 一直要求想要访问该聊天机器人的用户注册 OpenAI 账户。今天，该公司透露将向所有人免费开放 ChatGPT，无需创建账户。OpenAI<a href="https://openai.com/blog/start-using-chatgpt-instantly">在今天的一篇博文中</a>表示，它将"逐步"推出这一新的访问权限，因此，根据您居住的地方，您可能仍需要先注册一个账户，然后才能向所有人提供这一改进。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone SE 4手机壳曝光 提示新机各项设计有重大变化 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425721.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425721.htm"/>
-        <updated>2024-04-01T04:19:58.000Z</updated>
-        <content type="html"><![CDATA[苹果公司的第四代 iPhone SE 目前正在开发中，该公司已计划对其经济型 iPhone 的设计进行重大改革。我们曾多次报道过该设备的设计与
-iPhone SE 3 相比将如何彻底改变，因为苹果将放弃 Home 键，转而采用 Touch ID
-和类似于最近发布的全面屏设计。现在，网上出现了 iPhone SE 4 手机壳的图片，展示了该设备的设计和尺寸。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微软员工意外从CVE-2024-3094 XZ后门中挽救了全球Linux系统 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425919.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425919.htm"/>
         <updated>2024-04-03T17:37:57.764Z</updated>
         <content type="html"><![CDATA[微软今天，微软发布了关于 XZ Utils 后门漏洞（CVE-2024-3094）的指导和公告。该安全漏洞是一个重大漏洞，CVSS（通用漏洞计分系统）得分为 10.0，影响了多个 Linux 发行版，即 Fedora、Kali Linux、OpenSUSE 和 Alpine，可能会对全球造成巨大影响。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了让父母多投喂自己 这种雏鸟长出恐怖的鸟嘴 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1426360.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1426360.htm"/>
-        <updated>2024-04-06T11:03:00.000Z</updated>
-        <content type="html"><![CDATA[这是<strong>七彩文鸟</strong>，因为长得漂亮，而深受人们的喜爱，但你可能不想知道它的雏鸟长什么样。这便是它的雏鸟（下图），它们的嘴巴周围布满了一圈奇怪的斑纹和乳突，这种特征有点像毒疮，我们看起来会非常不舒服，被认为是<strong>世界上最恐怖的鸟类嘴巴</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果iPad mini 7今年亮相 优化“果冻屏”效应 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425734.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425734.htm"/>
-        <updated>2024-04-01T09:33:50.000Z</updated>
-        <content type="html"><![CDATA[爆料人Mark Gurman透露，<strong>苹果计划在今年晚些时候发布iPad mini 7。</strong>针对上一代产品iPad mini 6存在的“果冻屏”问题，苹果将在iPad mini 7上进行优化。为了解决这一问题，苹果改变了iPad mini 7的屏幕装配方向。尽管如此，iPad mini 7屏幕的刷新率仍然是60Hz，并采用LCD材质。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[光伏业产能过剩有多严重？欧洲人把太阳能板当花园栅栏 (cnbeta一周排行)]]></title>
@@ -58,11 +42,11 @@ iPhone SE 3 相比将如何彻底改变，因为苹果将放弃 Home 键，转�
         <content type="html"><![CDATA[国内光伏行业近阶段“内卷”严重，日子普遍难过，作为全球最大单晶硅生产制造商的隆基绿能市值已较峰值蒸发近4000亿元。而事实上，在全球光伏行业趋于饱和、价格日渐内卷的当下，类似的“寒冬”景象已比比皆是。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华硕掌机ROG Ally大降价40% 已到历史最低价：300美元 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1425816.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1425816.htm"/>
-        <updated>2024-04-03T17:37:57.769Z</updated>
-        <content type="html"><![CDATA[在寻找新款掌上游戏机时，玩家可能会发现自己需要在Steam Deck和华硕ROG Ally之间做出选择。虽然两款产品都能提供不错的性能，但华硕ROG Ally Z1非极限版在整体性价比方面更胜一筹。]]></content>
+        <title type="html"><![CDATA[几块钱的醋和几十块钱的醋 到底差在哪里？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1426445.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1426445.htm"/>
+        <updated>2024-04-07T10:57:36.000Z</updated>
+        <content type="html"><![CDATA[在快节奏的生活中，人们在选购食材时往往追求简单、方便。醋作为常见的调味品，其价格差异却让人摸不着头脑。有些人认为，醋只是用来调味的，无需花大价钱购买；而有些人则坚信，高价醋必定有其独特之处。面对这样的困惑，我们不禁要问：几块钱的醋和几十块钱的醋，到底差在哪里？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[史上最强辨识度 华为P70 Art真机镜头模组零部件曝光 (cnbeta一周排行)]]></title>
@@ -70,16 +54,6 @@ iPhone SE 3 相比将如何彻底改变，因为苹果将放弃 Home 键，转�
         <link href="https://www.cnbeta.com.tw/articles/tech/1425958.htm"/>
         <updated>2024-04-04T17:38:02.899Z</updated>
         <content type="html"><![CDATA[<strong>华为P70全系列三款机型目前已全部入网，分为P70、P70 Pro、P70 Art三款机型。</strong>有爆料者最新公布了华为P70 Art真机的镜头模组零部件，该机的背部造型与此前传闻一致，继续沿用不规则的造型设计，<strong>比上一代的“海岛”方案更独特，辨识度依然是行业无人能敌。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔意识到拯救x86的唯一方法是重新开放x86知识产权许可 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425783.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425783.htm"/>
-        <updated>2024-04-02T17:38:25.611Z</updated>
-        <content type="html"><![CDATA[在 20 世纪 90 年代 x86 的辉煌时代，你不仅可以从英特尔和 AMD 购买 IBM PC 兼容 x86 处理器，还可以从
-Cyrix、IDT、Transmeta 和 NEC 等公司购买。不同 x86 授权厂商之间的竞争推动了 32
-位时代前半段的创新，但在世纪末，随着千年虫狂潮的逼近，PC 处理器市场出现了一系列整合，如 Cyrix 和 IDT（后来的
-Centaur）被威盛电子收购。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[王思聪接班万达，悬了？ (cnbeta一周排行)]]></title>
@@ -94,6 +68,15 @@ Centaur）被威盛电子收购。]]></content>
         <link href="https://www.cnbeta.com.tw/articles/tech/1426214.htm"/>
         <updated>2024-04-06T17:38:28.779Z</updated>
         <content type="html"><![CDATA[iPhone 16的边框可能会更薄，但目前似乎还没有任何供应商成功获得苹果的批准。自 iPhone X 发布以来，苹果公司一直致力于为消费者提供边框更薄的iPhone，并随着时间的推移不断推出更薄的版本。虽然苹果希望在 iPhone 16 上更进一步，但供应链却很难适应。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google VPN被发现会覆盖Windows 11/10的DNS配置 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426388.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426388.htm"/>
+        <updated>2024-04-08T17:37:56.486Z</updated>
+        <content type="html"><![CDATA[如果用户开通 Google One 全家桶级订阅，则还可以使用谷歌提供的 Google One VPN
+来加密互联网流量提高隐私保护。不过有用户注意到使用 Windows 版的 Google One VPN 服务后，一旦开启连接那么谷歌将会自动修改
+Windows 10/11 的 DNS 服务器，将其修改为谷歌的 DNS，而在关闭 VPN 后也不会恢复为用户自定义的 DNS 服务器。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta的AI图像生成器无法想象亚洲男子与白人女子在一起的场景 (cnbeta一周排行)]]></title>
@@ -114,20 +97,6 @@ Centaur）被威盛电子收购。]]></content>
 StartAllBack 等第三方应用程序的帮助。显然，微软对此并不满意：该公司开始屏蔽该程序，并阻止用户升级安装了StartAllBack的Windows 11版本。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Copilot for Microsoft 365新增GPT-4 Turbo模型 取消聊天上限限制 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1425978.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1425978.htm"/>
-        <updated>2024-04-03T02:55:09.000Z</updated>
-        <content type="html"><![CDATA[就在几天前，微软宣布了其Copilot for Microsoft 365 AI 助手服务的一些新功能和即将推出的功能。不过，该公司似乎决定今天再为这项特定服务发布一些新消息。该公司今天在Microsoft 365 博客上发布了一篇文章，宣布从现在开始，微软 365 的 Copilot 将优先访问 OpenAI 最强大的大型语言模型 GPT-4 Turbo。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长城首款摩托车曝光 搭载水平对置八缸发动机 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426043.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426043.htm"/>
-        <updated>2024-04-05T17:37:57.628Z</updated>
-        <content type="html"><![CDATA[近日长城汽车董事长魏建军在个人微博发布了内部高管和专家评审小米SU7的视频片段，而在视频中出现了一台<strong>神秘的摩托车</strong>，这引起了众人的关注。虽然被蓝布给遮盖住，但大体可以判断其定位复古风格的巡航车型，结合已知信息可以推断，它正是长城自研自产的<strong>水平对置八缸摩托车</strong>！]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 24H2 LTSC 镜像文件在正式发布前泄露 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1426224.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1426224.htm"/>
@@ -142,6 +111,20 @@ StartAllBack 等第三方应用程序的帮助。显然，微软对此并不满�
         <content type="html"><![CDATA[Pixel 9 CAD 渲染图来了，它们展示了这款手机的各种颜色。虽然我们还不能确定这些颜色是否就是这款手机将推出的颜色，但这些渲染图让我们对这款手机的外观有了更好的了解。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Copilot for Microsoft 365新增GPT-4 Turbo模型 取消聊天上限限制 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1425978.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1425978.htm"/>
+        <updated>2024-04-03T02:55:09.000Z</updated>
+        <content type="html"><![CDATA[就在几天前，微软宣布了其Copilot for Microsoft 365 AI 助手服务的一些新功能和即将推出的功能。不过，该公司似乎决定今天再为这项特定服务发布一些新消息。该公司今天在Microsoft 365 博客上发布了一篇文章，宣布从现在开始，微软 365 的 Copilot 将优先访问 OpenAI 最强大的大型语言模型 GPT-4 Turbo。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长城首款摩托车曝光 搭载水平对置八缸发动机 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426043.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426043.htm"/>
+        <updated>2024-04-05T17:37:57.628Z</updated>
+        <content type="html"><![CDATA[近日长城汽车董事长魏建军在个人微博发布了内部高管和专家评审小米SU7的视频片段，而在视频中出现了一台<strong>神秘的摩托车</strong>，这引起了众人的关注。虽然被蓝布给遮盖住，但大体可以判断其定位复古风格的巡航车型，结合已知信息可以推断，它正是长城自研自产的<strong>水平对置八缸摩托车</strong>！]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微软新定义的Copilot键利用了现代键盘上没有的功能键：左Ctrl+Win+F23 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1425985.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1425985.htm"/>
@@ -154,5 +137,20 @@ StartAllBack 等第三方应用程序的帮助。显然，微软对此并不满�
         <link href="https://www.cnbeta.com.tw/articles/tech/1426005.htm"/>
         <updated>2024-04-03T09:24:11.000Z</updated>
         <content type="html"><![CDATA[<strong>今日上午10:00，小米67W桌面快充插座Pro在小米有品、小米商城开启众筹，<strong>建议零售价199元，众筹价185元。</strong>小米67W桌面快充插座Pro集七大接口于一身，</strong>具体如下：]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从修女到退伍老兵，揭秘TikTok是如何反击美国剥离法案的？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426275.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426275.htm"/>
+        <updated>2024-04-08T17:37:56.504Z</updated>
+        <content type="html"><![CDATA[在一条TikTok电视广告中，来自新泽西州北部的修女莫妮卡·克莱尔(Monica
+Clare)走过一座沐浴在阳光下的教堂，坐在长椅上画着十字。她要传达的信息是：TikTok是一股向善的力量。“多亏了TikTok，我创建了一个社区，让人们在这里安心地询问有关灵性的问题。”58岁的克莱尔修女表示。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网飞版《三体》成为本周全球观看人次最多的剧集 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1426006.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1426006.htm"/>
+        <updated>2024-04-03T09:25:01.000Z</updated>
+        <content type="html"><![CDATA[网飞的《三体》版在中国遭到用户的诟病，但在国外却备受欢迎。<strong>据官方数据显示，该剧在Netflix上的观看时长达到了1.156亿小时，观看人次达到了1560万人，成为本周全球观看人次最多的剧集。</strong>]]></content>
     </entry>
 </feed>
