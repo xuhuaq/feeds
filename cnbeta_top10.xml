@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-04-11T05:38:33.018Z</updated>
+    <updated>2024-04-11T17:38:09.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[基兰，是英国约克郡的一名捕鼠员，自2018年入行以来，他已经杀死了至少5万只老鼠。据报道，<strong>近日，基兰捕获了一只比小狗还要大的老鼠，体长是吉娃娃的2倍，从头到尾长度可达22英寸，差不多56厘米。</strong>除此以外，他还表示，平时捕获的老鼠也很大，长度大多在46厘米左右。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[马斯克发布日全食的卫星视角：地球上的巨大黑影]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1426785.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1426785.htm"/>
+        <updated>2024-04-11T17:38:09.135Z</updated>
+        <content type="html"><![CDATA[今天凌晨（北美中部时间中午），今年全球唯一的日全食在北美洲地区精彩上演。特斯拉和SpaceX的首席执行官<strong>埃隆·马斯克分享了由部署在近地轨道上的星链卫星捕捉到的日全食图像。</strong>这些图像展示了<strong>月球在地球表面投射下的阴影，形成了一个仿佛是巨大黑洞的视觉效果，既壮观又令人震撼。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[威尔·史密斯为成龙庆生：感谢你帮忙培育了我儿子贾登]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1426578.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1426578.htm"/>
@@ -34,13 +41,11 @@
         <content type="html"><![CDATA[在快节奏的生活中，人们在选购食材时往往追求简单、方便。醋作为常见的调味品，其价格差异却让人摸不着头脑。有些人认为，醋只是用来调味的，无需花大价钱购买；而有些人则坚信，高价醋必定有其独特之处。面对这样的困惑，我们不禁要问：几块钱的醋和几十块钱的醋，到底差在哪里？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google VPN被发现会覆盖Windows 11/10的DNS配置]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426388.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426388.htm"/>
-        <updated>2024-04-08T17:37:56.486Z</updated>
-        <content type="html"><![CDATA[如果用户开通 Google One 全家桶级订阅，则还可以使用谷歌提供的 Google One VPN
-来加密互联网流量提高隐私保护。不过有用户注意到使用 Windows 版的 Google One VPN 服务后，一旦开启连接那么谷歌将会自动修改
-Windows 10/11 的 DNS 服务器，将其修改为谷歌的 DNS，而在关闭 VPN 后也不会恢复为用户自定义的 DNS 服务器。]]></content>
+        <title type="html"><![CDATA[传女车主车内不雅照遭泄 高合汽车声明：已报警 将追责]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426828.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426828.htm"/>
+        <updated>2024-04-10T10:11:49.000Z</updated>
+        <content type="html"><![CDATA[这两天一张网络上流传的不雅照片再次将高合汽车推到了风口浪尖之上，<strong>不少人纷纷指责高合汽车获取并泄漏车主隐私</strong>。针对此事，高合汽车发布了官方声明，其表示：关于近日车主群和社交媒体中，散播的所谓“高合车内摄像头拍摄照片泄露”，我们声明绝不存在高合官方获取或泄漏相关图像的行为，<strong>高合车机后台从技术和法律上都无法远程调取摄像头本地影像</strong>。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[镇江移动关闭宽带用户IPv6功能 要开通需保证不使用PCDN]]></title>
@@ -50,27 +55,20 @@ Windows 10/11 的 DNS 服务器，将其修改为谷歌的 DNS，而在关闭 VP
         <content type="html"><![CDATA[目前关于网络运营商打击 PCDN 的消息真是多得不得了，此前蓝点网已经提过多次部分地区运营商为打击 PCDN，检测到用户可能存在 PCDN 行为就直接封停宽带，需要运维人员上门拍照、用户签署保证书后才可以恢复宽带。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google VPN被发现会覆盖Windows 11/10的DNS配置]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426388.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426388.htm"/>
+        <updated>2024-04-08T17:37:56.486Z</updated>
+        <content type="html"><![CDATA[如果用户开通 Google One 全家桶级订阅，则还可以使用谷歌提供的 Google One VPN
+来加密互联网流量提高隐私保护。不过有用户注意到使用 Windows 版的 Google One VPN 服务后，一旦开启连接那么谷歌将会自动修改
+Windows 10/11 的 DNS 服务器，将其修改为谷歌的 DNS，而在关闭 VPN 后也不会恢复为用户自定义的 DNS 服务器。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[史上最薄的iPhone 16显示屏边框仍是一众OLED供应商的难题]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1426214.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1426214.htm"/>
         <updated>2024-04-06T17:38:28.779Z</updated>
         <content type="html"><![CDATA[iPhone 16的边框可能会更薄，但目前似乎还没有任何供应商成功获得苹果的批准。自 iPhone X 发布以来，苹果公司一直致力于为消费者提供边框更薄的iPhone，并随着时间的推移不断推出更薄的版本。虽然苹果希望在 iPhone 16 上更进一步，但供应链却很难适应。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王思聪接班万达，悬了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426141.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426141.htm"/>
-        <updated>2024-04-04T09:43:05.000Z</updated>
-        <content type="html"><![CDATA[王健林掌舵的万达，找到了新金主。据媒体公开报道，近日大连万达商管集团与太盟投资集团等5家机构正式签署投资协议。根据协议，5家机构将联合向大连新达盟商业管理有限公司（下称“大连新达盟”）投资约600亿元人民币。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta的AI图像生成器无法想象亚洲男子与白人女子在一起的场景]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426125.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426125.htm"/>
-        <updated>2024-04-04T03:08:04.000Z</updated>
-        <content type="html"><![CDATA[你见过亚洲人和白人在一起吗，无论是混血儿还是不同种族的朋友？在我看来这很常见--我有很多白人朋友！但对于 Meta
-的人工智能图像生成器来说，这显然是无法想象的。我尝试了几十次，用"亚裔男子和高加索朋友"、"亚裔男子和白人妻子"、"亚裔女子和高加索丈夫"等提示语创建图片。只有一次，Meta
-的图像生成器能准确返回我指定种族的图像。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新款 iPad Pro、iPad Air 和新配件将于五月第二周发布]]></title>
@@ -82,11 +80,11 @@ Windows 10/11 的 DNS 服务器，将其修改为谷歌的 DNS，而在关闭 VP
 英寸平板电脑可能在哪周上市的见解，同时还提到了新的 iPad Air 和配件，它们也可能是这些新品的一部分。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传女车主车内不雅照遭泄 高合汽车声明：已报警 将追责]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426828.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426828.htm"/>
-        <updated>2024-04-10T10:11:49.000Z</updated>
-        <content type="html"><![CDATA[这两天一张网络上流传的不雅照片再次将高合汽车推到了风口浪尖之上，<strong>不少人纷纷指责高合汽车获取并泄漏车主隐私</strong>。针对此事，高合汽车发布了官方声明，其表示：关于近日车主群和社交媒体中，散播的所谓“高合车内摄像头拍摄照片泄露”，我们声明绝不存在高合官方获取或泄漏相关图像的行为，<strong>高合车机后台从技术和法律上都无法远程调取摄像头本地影像</strong>。]]></content>
+        <title type="html"><![CDATA[Google宣布 Gemini Pro 登陆 Android Studio]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426689.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426689.htm"/>
+        <updated>2024-04-09T09:52:50.000Z</updated>
+        <content type="html"><![CDATA[去年Google I/O 大会的一个重要主题就是推出了大量利用人工智能帮助完成工作的<a>工具和功能</a>。对于开发人员来说，<a href="https://developer.android.com/studio/preview/studio-bot" target="_blank">Studio Bot</a> 就是最好的例子，它是 Android Studio 内置的人工智能聊天机器人，可以回答问题并提供直接的编程协助。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软正在阻止装有StartAllBack的系统进行Windows 11版本升级]]></title>
@@ -98,6 +96,13 @@ Windows 10/11 的 DNS 服务器，将其修改为谷歌的 DNS，而在关闭 VP
 StartAllBack 等第三方应用程序的帮助。显然，微软对此并不满意：该公司开始屏蔽该程序，并阻止用户升级安装了StartAllBack的Windows 11版本。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[升级后的Android"查找我的设备"网络正式上线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426649.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426649.htm"/>
+        <updated>2024-04-10T17:37:58.324Z</updated>
+        <content type="html"><![CDATA[Android 的增强版"查找我的设备"网络正式到来。它从今天开始推出，原理是使用众包网络来帮助 Android 设备用户找到自己的设备，就像iOS 的"Find My"网络一样。更新后，即使手机处于离线状态，用户也能通过其他Android设备的帮助，无声地转发手机的大致位置。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows 11 24H2 LTSC 镜像文件在正式发布前泄露]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1426224.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1426224.htm"/>
@@ -105,26 +110,19 @@ StartAllBack 等第三方应用程序的帮助。显然，微软对此并不满�
         <content type="html"><![CDATA[<strong>第一份 Windows 11 LTSC 镜像文件刚刚在互联网上泄露。</strong>有人上传了即将发布的版本号为 26100.1 的安装盘，让所有人都能在正式发布和推出之前试用这款长支持周期的操作系统。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google宣布 Gemini Pro 登陆 Android Studio]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426689.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426689.htm"/>
-        <updated>2024-04-09T09:52:50.000Z</updated>
-        <content type="html"><![CDATA[去年Google I/O 大会的一个重要主题就是推出了大量利用人工智能帮助完成工作的<a>工具和功能</a>。对于开发人员来说，<a href="https://developer.android.com/studio/preview/studio-bot" target="_blank">Studio Bot</a> 就是最好的例子，它是 Android Studio 内置的人工智能聊天机器人，可以回答问题并提供直接的编程协助。]]></content>
+        <title type="html"><![CDATA[Windows 11 KB5036893更新已上线 使Moment 5生效]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426796.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426796.htm"/>
+        <updated>2024-04-10T02:03:32.000Z</updated>
+        <content type="html"><![CDATA[Windows 11 KB5036893 是 2024 年 4 月的"星期二补丁"更新之一，包含大量新内容，其中包括对"Windows 11
+Moment 5"的支持。您可以前往"设置"获取更新，也可以在"微软更新目录"中找到 KB5036893 脱机安装程序（.msu）文件。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从修女到退伍老兵，揭秘TikTok是如何反击美国剥离法案的？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426275.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426275.htm"/>
-        <updated>2024-04-08T17:37:56.504Z</updated>
-        <content type="html"><![CDATA[在一条TikTok电视广告中，来自新泽西州北部的修女莫妮卡·克莱尔(Monica
-Clare)走过一座沐浴在阳光下的教堂，坐在长椅上画着十字。她要传达的信息是：TikTok是一股向善的力量。“多亏了TikTok，我创建了一个社区，让人们在这里安心地询问有关灵性的问题。”58岁的克莱尔修女表示。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[升级后的Android"查找我的设备"网络正式上线]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426649.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426649.htm"/>
-        <updated>2024-04-10T17:37:58.324Z</updated>
-        <content type="html"><![CDATA[Android 的增强版"查找我的设备"网络正式到来。它从今天开始推出，原理是使用众包网络来帮助 Android 设备用户找到自己的设备，就像iOS 的"Find My"网络一样。更新后，即使手机处于离线状态，用户也能通过其他Android设备的帮助，无声地转发手机的大致位置。]]></content>
+        <title type="html"><![CDATA[微软坚信 Arm 版 Windows PC最终能击败苹果]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426652.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426652.htm"/>
+        <updated>2024-04-10T17:37:58.333Z</updated>
+        <content type="html"><![CDATA[微软正准备在下个月于西雅图举行的一次活动上全面展示其"人工智能 PC"的愿景。熟悉微软计划的消息人士透露：<strong>微软有信心让新一轮搭载 Arm 处理器的 Windows 笔记本电脑将在 CPU 性能和 AI 加速任务方面击败苹果搭载 M3 处理器的 MacBook Air。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[连杀2任追求者 23岁雌鹤爱上美国男饲养员 相伴19年孕育8个后代]]></title>
@@ -134,6 +132,13 @@ Clare)走过一座沐浴在阳光下的教堂，坐在长椅上画着十字。�
         <content type="html"><![CDATA[2024年1月，美国史密森尼国家动物园里，网红白枕鹤胡桃（Walnut ）去世了，享年42岁。对白枕鹤来说，这个年龄算是高寿了。<strong>它的身后，留下了8个后代，以及它最心爱的人类伴侣，男性动物饲养员克罗（Chris Crowe）。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小罗伯特·唐尼有意重返漫威宇宙饰演钢铁侠]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1426672.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1426672.htm"/>
+        <updated>2024-04-09T08:56:47.000Z</updated>
+        <content type="html"><![CDATA[虽然《复仇者联盟：终局之战》中钢铁侠牺牲，似乎为小罗伯特·唐尼在漫威电影宇宙中的时光画上了句号，但这位奥斯卡奖得主十分愿意再次扮演托尼·斯塔克/钢铁侠。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone 16高清渲染图出炉：“灵动岛版”iPhone X]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1426604.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1426604.htm"/>
@@ -141,17 +146,11 @@ Clare)走过一座沐浴在阳光下的教堂，坐在长椅上画着十字。�
         <content type="html"><![CDATA[根据yankodesign基于iPhone 16系列模具绘制的渲染图显示，iPhone 16标准版可以被看作是“iPhone X灵动岛版”。二者摄像头排列方式相似，<strong>主要区别在于屏幕，iPhone 16采用了灵动岛“药丸屏”。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果现在允许经典游戏模拟器上架App Store]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426330.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426330.htm"/>
-        <updated>2024-04-06T04:25:49.000Z</updated>
-        <content type="html"><![CDATA[对App Store条款的修改推翻了禁止在 iPhone 和 iPad 上使用模拟器的旧规则。App Store 的一项长期规定是禁止运行外部代码的应用程序。这意味着事实上禁止了游戏机和经典游戏模拟器。而今App Store<a href="https://developer.apple.com/app-store/review/guidelines/#third-party-software">指南 4.7</a>的修改改变了这一切。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软坚信 Arm 版 Windows PC最终能击败苹果]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1426652.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1426652.htm"/>
-        <updated>2024-04-10T17:37:58.333Z</updated>
-        <content type="html"><![CDATA[微软正准备在下个月于西雅图举行的一次活动上全面展示其"人工智能 PC"的愿景。熟悉微软计划的消息人士透露：<strong>微软有信心让新一轮搭载 Arm 处理器的 Windows 笔记本电脑将在 CPU 性能和 AI 加速任务方面击败苹果搭载 M3 处理器的 MacBook Air。</strong>]]></content>
+        <title type="html"><![CDATA[从修女到退伍老兵，揭秘TikTok是如何反击美国剥离法案的？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1426275.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1426275.htm"/>
+        <updated>2024-04-08T17:37:56.504Z</updated>
+        <content type="html"><![CDATA[在一条TikTok电视广告中，来自新泽西州北部的修女莫妮卡·克莱尔(Monica
+Clare)走过一座沐浴在阳光下的教堂，坐在长椅上画着十字。她要传达的信息是：TikTok是一股向善的力量。“多亏了TikTok，我创建了一个社区，让人们在这里安心地询问有关灵性的问题。”58岁的克莱尔修女表示。]]></content>
     </entry>
 </feed>
