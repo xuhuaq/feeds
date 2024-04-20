@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-04-20T05:38:06.053Z</updated>
+    <updated>2024-04-20T17:37:53.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1427326.htm"/>
         <updated>2024-04-15T09:07:09.000Z</updated>
         <content type="html"><![CDATA[华为之前宣布，今年第四季度将正式推出HarmonyOS NEXT，即纯血版鸿蒙。<strong>最近，有网友曝光了Mate 60上的纯血版鸿蒙系统界面。据该博主透露，新版本中原生安卓应用已无法使用。</strong>他指出，一些数据较多的本地应用（如微信聊天、笔记软件）可能需要特殊处理，否则即使重新从云端拉取，用户体验也会受到影响。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为Pura 70 Ultra全网首拆 全新麒麟芯片现真身]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427774.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427774.htm"/>
+        <updated>2024-04-19T17:38:14.658Z</updated>
+        <content type="html"><![CDATA[今日，<strong>华为Pura 70系列开启先锋计划，其中，Pura 70 Ultra和Pura 70 Pro率先开售。</strong>不过，两款机型在华为商城开售不到一分钟就显示已经售罄。当消费者还在找渠道或在华为线下门店排队购机时，已有多位博主将Pura 70 Ultra进行全网首拆。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bose睡眠产品悄然退出大陆：高价耳机一夜间变电子垃圾？]]></title>
@@ -28,69 +35,6 @@ II耳机（睡眠遮噪耳塞二代），因为产品退出，导致下架并停
         <content type="html"><![CDATA[在自然纪录片中我们经常可以看到这样一幕，在一处广袤无垠的大草原上，有一个并不算深的泥水坑，水坑边聚集着不少饮水的野生动物，有些动物还在泥水里欢快地打滚。当你看到这一幕时，你的脑海中有没有闪过一个念头，这水能喝吗？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为Pura 70 Ultra全网首拆 全新麒麟芯片现真身]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427774.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427774.htm"/>
-        <updated>2024-04-19T17:38:14.658Z</updated>
-        <content type="html"><![CDATA[今日，<strong>华为Pura 70系列开启先锋计划，其中，Pura 70 Ultra和Pura 70 Pro率先开售。</strong>不过，两款机型在华为商城开售不到一分钟就显示已经售罄。当消费者还在找渠道或在华为线下门店排队购机时，已有多位博主将Pura 70 Ultra进行全网首拆。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTX 4090持续大量烧毁 中国玩家却没法修理]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427192.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427192.htm"/>
-        <updated>2024-04-13T10:08:02.000Z</updated>
-        <content type="html"><![CDATA[现在似乎很少再听说RTX 4090因为新的12VHPWR 16针供电接口而烧毁的事情，但事实上它从未停止，而且一直不少。<strong>显卡维修店NorthridgeFix就披露说，他们每天都能接到来自世界各地的烧毁的RTX 4090的报修。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仅有1715平方米的晶圆厂 要颠覆芯片制造]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427213.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427213.htm"/>
-        <updated>2024-04-15T17:38:35.462Z</updated>
-        <content type="html"><![CDATA[在布鲁克林海军造船厂的一栋改造建筑中，曾经是纽约市造船的中心，初创公司Nanotronics正在制定下一代芯片制造设施的计划。该公司雄心壮志的核心是所谓的“Cubefab”，这是一个模块化芯片制造设施，与人工智能驱动的软件捆绑在一起，可以运送到任何地方并在现场组装。<strong>这家拥有 14 年历史的公司表示，Cubefab 可以在一年内启动并运行，几乎可以在任何地点生产半导体</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻人开始买“二手黄金”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427320.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427320.htm"/>
-        <updated>2024-04-15T08:58:54.000Z</updated>
-        <content type="html"><![CDATA[<strong>黄金暴涨之下，不再满足于在网购平台上算满减和在直播间蹲福利款的年轻人，纷纷涌入二手交易平台，连赚差价的空间也不想再给中间商留了。</strong>喜欢攒金的95后女生汪雨涵，今年已经在二手平台上完成了3次黄金饰品交易，分别是4颗金豆、一枚戒指和一条手链，收入价格分别为实时大盘价、高于大盘价3元和低于大盘价1元。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P70首发的华为麒麟9010性能表现首秀：提升不少]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427761.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427761.htm"/>
-        <updated>2024-04-19T17:38:14.669Z</updated>
-        <content type="html"><![CDATA[<strong>备受期待的华为Pura 70系列手机终于面世，并首次搭载了全新的麒麟处理器。<strong>根据不少网友晒出的真机图来看，华为P70搭载了麒麟9010处理器，整体性能相比上一代有了显著提升。</strong></strong>麒麟9010的GPU则是麒麟9000S同款的Maleoon 910，现在问题是，这款处理器的产能会不会有所保证。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SU7被追尾撞掉气罐 小米汽车回应：后车是跑车 车头太低了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427186.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427186.htm"/>
-        <updated>2024-04-13T09:56:35.000Z</updated>
-        <content type="html"><![CDATA[4月12日晚间，小米汽车发布了小米SU7答网友问（第十五集）。官方对近期发生的小米SU7 Max追尾事故回应称由于后车系跑车，其车头非常低，躲过了小米SU7 Max后防撞梁进而钻入底部，最终才造成了气罐脱落。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉裁员开启：扫描员工工卡 失效即立刻送回]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427446.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427446.htm"/>
-        <updated>2024-04-16T09:12:25.000Z</updated>
-        <content type="html"><![CDATA[北京时间4月16日，昨天下午马斯克发布全球邮件，邮件显示特斯拉即将在全球范围内裁员10%的员工，但一些工人直到来到在公司才意识到他们被解雇了。此次大规模裁员对工程师和生产人员都产生了较大影响。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编造“秦朗丢寒假作业” 猫一杯被微信封号]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1427231.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1427231.htm"/>
-        <updated>2024-04-18T17:37:59.598Z</updated>
-        <content type="html"><![CDATA[近日，警方通报“在巴黎拾到小学生秦朗作业本”视频系编造，公安机关已依法对相关人员作出行政处罚。微信官方宣布，根据中央网信办《关于加强“自媒体”管理的通知》及平台规则，<strong>对视频账号“Thurman猫一杯”进行封号处置</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 9/9 Pro将配备全新三星5G调制解调器 两款旗舰机均支持卫星连接]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427305.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427305.htm"/>
-        <updated>2024-04-18T17:37:59.601Z</updated>
-        <content type="html"><![CDATA[Google的Pixel 9 和 Pixel 9 Pro不仅在设计上会有显著的变化，而且据说这两款机型还将迎来两项有意义的升级。根据最新报道，一项是新的 5G 调制解调器，另一项是卫星连接功能，这是苹果在 2022 年推出 iPhone 14 系列时引入的功能。<br>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[单价4亿美元的光刻机 ASML又卖了一台]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1427823.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1427823.htm"/>
@@ -100,18 +44,46 @@ II耳机（睡眠遮噪耳塞二代），因为产品退出，导致下架并停
 0.55 数值孔径投影光学器件的 EUV 工具的公司。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[多图]美国国家航空航天局（NASA）拍摄的日全食最佳照片]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1427164.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1427164.htm"/>
-        <updated>2024-04-19T17:38:14.676Z</updated>
-        <content type="html"><![CDATA[2024 年 4 月 8 日，当月影无声无息、令人敬畏地穿过北美时，无数目光转向天空，目睹日全食这一天体奇观。在这些观测者中，有美国国家航空航天局（NASA）技术精湛的摄影师和科学家，他们配备了最新的成像技术，在有利位置捕捉这一天文事件的惊人细节。在此，我们将介绍美国国家航空航天局拍摄的 2024 年日全食的部分最佳照片。]]></content>
+        <title type="html"><![CDATA[微信聊天加个#号 居然如此方便]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427916.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427916.htm"/>
+        <updated>2024-04-20T17:37:53.235Z</updated>
+        <content type="html"><![CDATA[微信聊天中经常需要分享各种信息，比如天气、地点、电视剧、火车票等等。其实，有时只需一个#号，往往就能让聊天效率事半功倍。今天，微信官方就分享了几个非常实用的案例，一起来学习下：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博主爆料华为Mate70系列10月份亮相 芯片更强 首发纯血鸿蒙]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427199.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427199.htm"/>
-        <updated>2024-04-13T10:25:55.000Z</updated>
-        <content type="html"><![CDATA[今年，华为手机的任务仍然繁重，P70之外，还有Mate 70系列。据博主爆料，Mate 70系列将在6个月后推出，新款芯片性能更强，影像表现也更出色。<strong>如此推算的话，Mate 70系列预计将于今年10月发布，相较于P70系列，该系列的芯片性能更强，影像功能也更加出色。</strong>]]></content>
+        <title type="html"><![CDATA[P70首发的华为麒麟9010性能表现首秀：提升不少]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427761.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427761.htm"/>
+        <updated>2024-04-19T17:38:14.669Z</updated>
+        <content type="html"><![CDATA[<strong>备受期待的华为Pura 70系列手机终于面世，并首次搭载了全新的麒麟处理器。<strong>根据不少网友晒出的真机图来看，华为P70搭载了麒麟9010处理器，整体性能相比上一代有了显著提升。</strong></strong>麒麟9010的GPU则是麒麟9000S同款的Maleoon 910，现在问题是，这款处理器的产能会不会有所保证。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年轻人开始买“二手黄金”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427320.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427320.htm"/>
+        <updated>2024-04-15T08:58:54.000Z</updated>
+        <content type="html"><![CDATA[<strong>黄金暴涨之下，不再满足于在网购平台上算满减和在直播间蹲福利款的年轻人，纷纷涌入二手交易平台，连赚差价的空间也不想再给中间商留了。</strong>喜欢攒金的95后女生汪雨涵，今年已经在二手平台上完成了3次黄金饰品交易，分别是4颗金豆、一枚戒指和一条手链，收入价格分别为实时大盘价、高于大盘价3元和低于大盘价1元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉裁员开启：扫描员工工卡 失效即立刻送回]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427446.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427446.htm"/>
+        <updated>2024-04-16T09:12:25.000Z</updated>
+        <content type="html"><![CDATA[北京时间4月16日，昨天下午马斯克发布全球邮件，邮件显示特斯拉即将在全球范围内裁员10%的员工，但一些工人直到来到在公司才意识到他们被解雇了。此次大规模裁员对工程师和生产人员都产生了较大影响。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 9/9 Pro将配备全新三星5G调制解调器 两款旗舰机均支持卫星连接]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427305.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427305.htm"/>
+        <updated>2024-04-18T17:37:59.601Z</updated>
+        <content type="html"><![CDATA[Google的Pixel 9 和 Pixel 9 Pro不仅在设计上会有显著的变化，而且据说这两款机型还将迎来两项有意义的升级。根据最新报道，一项是新的 5G 调制解调器，另一项是卫星连接功能，这是苹果在 2022 年推出 iPhone 14 系列时引入的功能。<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抢到华为Pura 70 Ultra之后 我把你想知道的全测了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427862.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427862.htm"/>
+        <updated>2024-04-19T09:18:13.000Z</updated>
+        <content type="html"><![CDATA[就在今天早上，我们亲爱的华子梅开二度，再次使用了去年 Mate60 系列的突然袭击技能，<strong>上架了全新的 Pura 70 系列手机。</strong>不过托尼自从上次被 Mate60 系列 “ 偷袭 ” 之后，这次的准备还是很充足的，可以说是有备而来。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 16 机模展示了我们可能在9月份看到的设计变化]]></title>
@@ -121,18 +93,18 @@ II耳机（睡眠遮噪耳塞二代），因为产品退出，导致下架并停
         <content type="html"><![CDATA[距离 iPhone 16 系列的盛大发布还有近四个月的时间。但正如你所期待的那样，这款万众期待的年度手机已经在互联网上流传了大量谣言。有传言说它将采用全新的捕捉键、增大电池和屏幕尺寸、提供两种新的钛金属配色选择、采用新的涂层技术来减少镜头眩光等等。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[测试表明麒麟9010的功耗与初代高通骁龙8 Plus类似 但性能低30%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427905.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427905.htm"/>
+        <updated>2024-04-20T17:37:53.247Z</updated>
+        <content type="html"><![CDATA[与麒麟 9000S 相比，华为最新的麒麟 9010 增加了一系列改进，如 12 核 CPU，但这些升级并不一定意味着该芯片组比其他竞争对手更快或更省电。根据一系列测试显示，该公司最新的 SoC 性能比高通公司2022年发布的骁龙 8 Plus Gen 1低 30%，但功耗相同。让我们来详细看看这些结果。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[余承东宣布华为P系列升级为“华为Pura”]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1427333.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1427333.htm"/>
         <updated>2024-04-15T09:26:37.000Z</updated>
         <content type="html"><![CDATA[今天华为官方发布一段“P70”的超前预热视频。<strong>余承东宣布，华为P系列正式升级为“华为Pura”，</strong>而原定的P70将会是新系列的第一款产品。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周鸿祎支持雷军：手机导航非常必要 不然会被女朋友拿去检查]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427215.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427215.htm"/>
-        <updated>2024-04-19T17:38:14.683Z</updated>
-        <content type="html"><![CDATA[最近余承东和雷军关于手机支架的观点引发网友热议。360公司的创始人周鸿祎也通过视频表达了自己的立场，<strong>他支持雷军，认为雷军更能理解用户的需求，思考问题更加周全细致</strong>，并直言余承东是“钢铁直男”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PHP是否越来越不受欢迎？]]></title>
@@ -147,5 +119,33 @@ II耳机（睡眠遮噪耳塞二代），因为产品退出，导致下架并停
         <link href="https://www.cnbeta.com.tw/articles/tech/1427319.htm"/>
         <updated>2024-04-15T08:57:32.000Z</updated>
         <content type="html"><![CDATA[前不久智己汽车在L6的发布会上标错小米SU7参数，导致小米接连发文催促道歉。之后智己汽车似乎找到了泼天的流量密码，不断通过此事做文章，引起不小的关注。不过最近却被网友发现“翻车”，<strong>智己曾经在三个月前与“Thurman猫一杯”合作拍摄宣传视频，甚至还用到了朋友圈广告中，而后者正是近日刚刚被封号的造谣网红。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA A100计算卡新变体现身闲鱼 含7936个核心 比原版多15%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427504.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427504.htm"/>
+        <updated>2024-04-20T17:37:53.254Z</updated>
+        <content type="html"><![CDATA[根据最近的零售清单，英伟达似乎正在中国销售核心数量高于原始规格的 A100"安培"图形处理器。这并不奇怪，中国市场上总会充斥着各种奇特的产品供我们观赏和探索，比如我们看到NVIDIA 旗舰产品 Ada Lovelace SKU的移动版通过转接板被改头换面成台式机型号，或者 RTX 4090 GPU 的原型散热器。<strong>现在，中国市场上出现了英伟达 A100 AI GPU 的新变体，其规格甚至还优于原始设计。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果iPhone 16 Pro影像系统细节曝光 万年不变的1200万超广角升级了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427662.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427662.htm"/>
+        <updated>2024-04-20T17:37:53.256Z</updated>
+        <content type="html"><![CDATA[在iPhone 14 Pro系列中，<strong>苹果将主摄镜头的像素从1200万提升到了4800万，但超广角镜头仍然保持着1200万像素的水准。</strong>直至iPhone 15 Pro系列，1200万像素的超广角镜头仍然是苹果的标配。然而，据媒体爆料，这一情况将在iPhone 16 Pro上得到改观。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为Pura 70系列首销版本一图看懂]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427502.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427502.htm"/>
+        <updated>2024-04-20T17:37:53.257Z</updated>
+        <content type="html"><![CDATA[日前，<strong>华为宣布P系列全面升级为Pura系列，新系列首款机型华为Pura&nbsp;70即将登场。</strong>今日，华为经销商“看山的叔叔”公布了华为Pura&nbsp;70首销版本信息，包括型号、存储规格、配色以及保护壳等周边产品。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为Pura 70系列首发的麒麟9010跑分实测 表现还不错]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427775.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427775.htm"/>
+        <updated>2024-04-20T17:37:53.258Z</updated>
+        <content type="html"><![CDATA[Pura 70系列今天突然发售，引来了不少用户的抢购，同时也带来了更多关于它的细节。现在，不少博主已经拿到手机，第一时间展示了搭载麒麟9010处理器的Pura 70的性能。从实际跑分情况看，麒麟9010处理器在Geekbench 6.2上的成绩分别是：单核1447分、多核4765分（此代依旧支持超线程技术）。]]></content>
     </entry>
 </feed>
