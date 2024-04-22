@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-04-22T05:38:24.642Z</updated>
+    <updated>2024-04-22T17:37:57.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[华为纯血鸿蒙真机界面曝光 无法运行Android应用]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427326.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427326.htm"/>
-        <updated>2024-04-15T09:07:09.000Z</updated>
-        <content type="html"><![CDATA[华为之前宣布，今年第四季度将正式推出HarmonyOS NEXT，即纯血版鸿蒙。<strong>最近，有网友曝光了Mate 60上的纯血版鸿蒙系统界面。据该博主透露，新版本中原生安卓应用已无法使用。</strong>他指出，一些数据较多的本地应用（如微信聊天、笔记软件）可能需要特殊处理，否则即使重新从云端拉取，用户体验也会受到影响。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为Pura 70 Ultra全网首拆 全新麒麟芯片现真身]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427774.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427774.htm"/>
-        <updated>2024-04-19T17:38:14.658Z</updated>
-        <content type="html"><![CDATA[今日，<strong>华为Pura 70系列开启先锋计划，其中，Pura 70 Ultra和Pura 70 Pro率先开售。</strong>不过，两款机型在华为商城开售不到一分钟就显示已经售罄。当消费者还在找渠道或在华为线下门店排队购机时，已有多位博主将Pura 70 Ultra进行全网首拆。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[微信聊天加个#号 居然如此方便]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1427916.htm</id>
@@ -27,11 +13,11 @@
         <content type="html"><![CDATA[微信聊天中经常需要分享各种信息，比如天气、地点、电视剧、火车票等等。其实，有时只需一个#号，往往就能让聊天效率事半功倍。今天，微信官方就分享了几个非常实用的案例，一起来学习下：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么人类不能喝生水，动物都直接喝？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427409.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427409.htm"/>
-        <updated>2024-04-17T17:38:17.909Z</updated>
-        <content type="html"><![CDATA[在自然纪录片中我们经常可以看到这样一幕，在一处广袤无垠的大草原上，有一个并不算深的泥水坑，水坑边聚集着不少饮水的野生动物，有些动物还在泥水里欢快地打滚。当你看到这一幕时，你的脑海中有没有闪过一个念头，这水能喝吗？]]></content>
+        <title type="html"><![CDATA[华为Pura 70 Ultra全网首拆 全新麒麟芯片现真身]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427774.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427774.htm"/>
+        <updated>2024-04-19T17:38:14.658Z</updated>
+        <content type="html"><![CDATA[今日，<strong>华为Pura 70系列开启先锋计划，其中，Pura 70 Ultra和Pura 70 Pro率先开售。</strong>不过，两款机型在华为商城开售不到一分钟就显示已经售罄。当消费者还在找渠道或在华为线下门店排队购机时，已有多位博主将Pura 70 Ultra进行全网首拆。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bose睡眠产品悄然退出大陆：高价耳机一夜间变电子垃圾？]]></title>
@@ -65,18 +51,11 @@ II耳机（睡眠遮噪耳塞二代），因为产品退出，导致下架并停
         <content type="html"><![CDATA[<strong>备受期待的华为Pura 70系列手机终于面世，并首次搭载了全新的麒麟处理器。<strong>根据不少网友晒出的真机图来看，华为P70搭载了麒麟9010处理器，整体性能相比上一代有了显著提升。</strong></strong>麒麟9010的GPU则是麒麟9000S同款的Maleoon 910，现在问题是，这款处理器的产能会不会有所保证。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[年轻人开始买“二手黄金”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427320.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427320.htm"/>
-        <updated>2024-04-15T08:58:54.000Z</updated>
-        <content type="html"><![CDATA[<strong>黄金暴涨之下，不再满足于在网购平台上算满减和在直播间蹲福利款的年轻人，纷纷涌入二手交易平台，连赚差价的空间也不想再给中间商留了。</strong>喜欢攒金的95后女生汪雨涵，今年已经在二手平台上完成了3次黄金饰品交易，分别是4颗金豆、一枚戒指和一条手链，收入价格分别为实时大盘价、高于大盘价3元和低于大盘价1元。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉裁员开启：扫描员工工卡 失效即立刻送回]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427446.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427446.htm"/>
-        <updated>2024-04-16T09:12:25.000Z</updated>
-        <content type="html"><![CDATA[北京时间4月16日，昨天下午马斯克发布全球邮件，邮件显示特斯拉即将在全球范围内裁员10%的员工，但一些工人直到来到在公司才意识到他们被解雇了。此次大规模裁员对工程师和生产人员都产生了较大影响。]]></content>
+        <title type="html"><![CDATA[iPhone 16 机模展示了我们可能在9月份看到的设计变化]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427534.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427534.htm"/>
+        <updated>2024-04-19T17:38:14.678Z</updated>
+        <content type="html"><![CDATA[距离 iPhone 16 系列的盛大发布还有近四个月的时间。但正如你所期待的那样，这款万众期待的年度手机已经在互联网上流传了大量谣言。有传言说它将采用全新的捕捉键、增大电池和屏幕尺寸、提供两种新的钛金属配色选择、采用新的涂层技术来减少镜头眩光等等。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[抢到华为Pura 70 Ultra之后 我把你想知道的全测了]]></title>
@@ -86,18 +65,34 @@ II耳机（睡眠遮噪耳塞二代），因为产品退出，导致下架并停
         <content type="html"><![CDATA[就在今天早上，我们亲爱的华子梅开二度，再次使用了去年 Mate60 系列的突然袭击技能，<strong>上架了全新的 Pura 70 系列手机。</strong>不过托尼自从上次被 Mate60 系列 “ 偷袭 ” 之后，这次的准备还是很充足的，可以说是有备而来。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pixel 9/9 Pro将配备全新三星5G调制解调器 两款旗舰机均支持卫星连接]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427305.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427305.htm"/>
-        <updated>2024-04-18T17:37:59.601Z</updated>
-        <content type="html"><![CDATA[Google的Pixel 9 和 Pixel 9 Pro不仅在设计上会有显著的变化，而且据说这两款机型还将迎来两项有意义的升级。根据最新报道，一项是新的 5G 调制解调器，另一项是卫星连接功能，这是苹果在 2022 年推出 iPhone 14 系列时引入的功能。<br>]]></content>
+        <title type="html"><![CDATA[特斯拉裁员开启：扫描员工工卡 失效即立刻送回]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427446.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427446.htm"/>
+        <updated>2024-04-16T09:12:25.000Z</updated>
+        <content type="html"><![CDATA[北京时间4月16日，昨天下午马斯克发布全球邮件，邮件显示特斯拉即将在全球范围内裁员10%的员工，但一些工人直到来到在公司才意识到他们被解雇了。此次大规模裁员对工程师和生产人员都产生了较大影响。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 机模展示了我们可能在9月份看到的设计变化]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427534.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427534.htm"/>
-        <updated>2024-04-19T17:38:14.678Z</updated>
-        <content type="html"><![CDATA[距离 iPhone 16 系列的盛大发布还有近四个月的时间。但正如你所期待的那样，这款万众期待的年度手机已经在互联网上流传了大量谣言。有传言说它将采用全新的捕捉键、增大电池和屏幕尺寸、提供两种新的钛金属配色选择、采用新的涂层技术来减少镜头眩光等等。]]></content>
+        <title type="html"><![CDATA[美国商务部长雷蒙多谈华为芯片现状：出口管制奏效了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428167.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428167.htm"/>
+        <updated>2024-04-22T09:57:49.000Z</updated>
+        <content type="html"><![CDATA[美国商务部长吉娜·雷蒙多(Gina Raimondo)周日表示，华为公司的手机Mate 60
+Pro表明，中国在尖端芯片技术方面仍然落后于美国。当地时间周日，美国哥伦比亚广播公司新闻的《60分钟》节目播出了对雷蒙多的采访。雷蒙多在采访中淡化了华为取得的芯片突破，表示Mate
+60 Pro芯片存在的技术差距表明，拜登政府对中国实施的出口管制成功了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼Xperia 1 VI将于5月17日发布：“电老虎”4K带鱼屏终于被砍]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427776.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427776.htm"/>
+        <updated>2024-04-21T17:37:54.633Z</updated>
+        <content type="html"><![CDATA[<strong>据最新爆料，索尼将于5月17日召开Xperia新品发布会。</strong>虽然曝光的海报并未揭晓具体机型，但鉴于去年Xperia 1 V在5月11日发布，<strong>这次新机大概率就是续作索尼Xperia 1 VI。</strong>这款新旗舰的外观和配置此前已经被泄露出来，其外观依然继承家族式设计，<strong>采用一块6.5英寸屏幕，但祖传的4K带鱼屏终于取消。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博主放出迄今为止最恐怖的太空照片之一：人类首次无系绳行走]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1427991.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1427991.htm"/>
+        <updated>2024-04-20T10:20:16.000Z</updated>
+        <content type="html"><![CDATA[人类在探索浩渺太空的过程中留下了很多精彩的瞬间，近日，有博主“NASA爱好者”发布了一张宇航员太空行走的太空照片，并称其是“<strong>迄今为止最恐怖的太空照片之一</strong>”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果iPhone 16 Pro影像系统细节曝光 万年不变的1200万超广角升级了]]></title>
@@ -107,13 +102,6 @@ II耳机（睡眠遮噪耳塞二代），因为产品退出，导致下架并停
         <content type="html"><![CDATA[在iPhone 14 Pro系列中，<strong>苹果将主摄镜头的像素从1200万提升到了4800万，但超广角镜头仍然保持着1200万像素的水准。</strong>直至iPhone 15 Pro系列，1200万像素的超广角镜头仍然是苹果的标配。然而，据媒体爆料，这一情况将在iPhone 16 Pro上得到改观。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP是否越来越不受欢迎？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427417.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427417.htm"/>
-        <updated>2024-04-19T17:38:14.685Z</updated>
-        <content type="html"><![CDATA[在<a href="https://www.tiobe.com/tiobe-index/">TIOBE</a>长期跟踪的编程语言流行<a>指数</a>中，PHP 编程语言的排名跌至历史最低点。 &nbsp;它现在排名第 17 位，低于汇编语言、Ruby、Swift、Scratch 和 MATLAB。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[华为Pura 70系列首发的麒麟9010跑分实测 表现还不错]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1427775.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1427775.htm"/>
@@ -121,18 +109,11 @@ II耳机（睡眠遮噪耳塞二代），因为产品退出，导致下架并停
         <content type="html"><![CDATA[Pura 70系列今天突然发售，引来了不少用户的抢购，同时也带来了更多关于它的细节。现在，不少博主已经拿到手机，第一时间展示了搭载麒麟9010处理器的Pura 70的性能。从实际跑分情况看，麒麟9010处理器在Geekbench 6.2上的成绩分别是：单核1447分、多核4765分（此代依旧支持超线程技术）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[余承东宣布华为P系列升级为“华为Pura”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427333.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427333.htm"/>
-        <updated>2024-04-15T09:26:37.000Z</updated>
-        <content type="html"><![CDATA[今天华为官方发布一段“P70”的超前预热视频。<strong>余承东宣布，华为P系列正式升级为“华为Pura”，</strong>而原定的P70将会是新系列的第一款产品。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA A100计算卡新变体现身闲鱼 含7936个核心 比原版多15%]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427504.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427504.htm"/>
-        <updated>2024-04-20T17:37:53.254Z</updated>
-        <content type="html"><![CDATA[根据最近的零售清单，英伟达似乎正在中国销售核心数量高于原始规格的 A100"安培"图形处理器。这并不奇怪，中国市场上总会充斥着各种奇特的产品供我们观赏和探索，比如我们看到NVIDIA 旗舰产品 Ada Lovelace SKU的移动版通过转接板被改头换面成台式机型号，或者 RTX 4090 GPU 的原型散热器。<strong>现在，中国市场上出现了英伟达 A100 AI GPU 的新变体，其规格甚至还优于原始设计。</strong>]]></content>
+        <title type="html"><![CDATA[华为新一代“小方表”Watch Fit 3外观曝光 造型神似Apple Watch]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427983.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427983.htm"/>
+        <updated>2024-04-20T10:03:12.000Z</updated>
+        <content type="html"><![CDATA[<strong>爆料者Roland Quandt最新发文，曝光了华为Watch Fit 3智能手表的渲染图。</strong>根据渲染图显示，Watch Fit 3依然采用系列家族式的“小方表”方案，不过这次的比例有所变化，<strong>更像正方形了，屏幕边框明显收窄，且四边等宽。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[世界上最支持比特币的国家将拥抱黄金？]]></title>
@@ -143,10 +124,33 @@ II耳机（睡眠遮噪耳塞二代），因为产品退出，导致下架并停
 Bukele）担任萨尔瓦多总统以来，美国媒体和全球政治讨论对萨尔瓦多的关注比以往任何时候都多。除了布克尔的扫黑行动帮助推动萨尔瓦多谋杀率下降超过70%，吸引了国际社会的大部分注意力之外，其对比特币的偏爱以及推动萨尔瓦多接受加密货币也很受关注。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[索尼Xperia 1 VI将于5月17日发布：“电老虎”4K带鱼屏终于被砍]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1427776.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1427776.htm"/>
-        <updated>2024-04-21T17:37:54.633Z</updated>
-        <content type="html"><![CDATA[<strong>据最新爆料，索尼将于5月17日召开Xperia新品发布会。</strong>虽然曝光的海报并未揭晓具体机型，但鉴于去年Xperia 1 V在5月11日发布，<strong>这次新机大概率就是续作索尼Xperia 1 VI。</strong>这款新旗舰的外观和配置此前已经被泄露出来，其外观依然继承家族式设计，<strong>采用一块6.5英寸屏幕，但祖传的4K带鱼屏终于取消。</strong>]]></content>
+        <title type="html"><![CDATA[NVIDIA A100计算卡新变体现身闲鱼 含7936个核心 比原版多15%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427504.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427504.htm"/>
+        <updated>2024-04-20T17:37:53.254Z</updated>
+        <content type="html"><![CDATA[根据最近的零售清单，英伟达似乎正在中国销售核心数量高于原始规格的 A100"安培"图形处理器。这并不奇怪，中国市场上总会充斥着各种奇特的产品供我们观赏和探索，比如我们看到NVIDIA 旗舰产品 Ada Lovelace SKU的移动版通过转接板被改头换面成台式机型号，或者 RTX 4090 GPU 的原型散热器。<strong>现在，中国市场上出现了英伟达 A100 AI GPU 的新变体，其规格甚至还优于原始设计。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新款 12.9 英寸 iPad Air 可能不是大屏幕特价机]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1427830.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1427830.htm"/>
+        <updated>2024-04-22T17:37:56.573Z</updated>
+        <content type="html"><![CDATA[一则新的传言称，即将推出的 12.9 英寸iPad Air将使用与目前较大的 iPad Pro 相同的显示屏，这对期待低成本大屏幕的买家来说可能是好消息，也可能是坏消息。随着"将首次推出更大尺寸的 iPad Air"的传言不断出现，人们还推测它的价格将低于iPad Pro。因为iPad Air 的价格一直低于 iPad Pro，但也必须如此，否则它就没有存在的理由。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国第一季度半导体产量猛增 40% 成熟制程芯片的主导地位日益增强]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428021.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428021.htm"/>
+        <updated>2024-04-22T17:37:56.574Z</updated>
+        <content type="html"><![CDATA[中国第一季度集成电路总产量激增 40%，达到 981
+亿个，这表明中国正在扩大成熟制程芯片的生产，同时也表现出收到美国对先进芯片制造设备贸易限制的制约。中国国家统计局周二公布的最新数据显示，仅三月份全国集成电路产量就猛增
+28.4%，达到 362 亿片，创下历史新高。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现黄铁矿中隐藏的宝藏：大量的锂]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1427678.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1427678.htm"/>
+        <updated>2024-04-22T17:37:56.579Z</updated>
+        <content type="html"><![CDATA[西弗吉尼亚大学领导的最新研究探索了锂的新来源，如矿山尾矿和钻屑，因为对这种关键矿物质的需求不断增加，而这种矿物质对电动汽车和可再生能源储存中使用的锂离子电池至关重要。研究结果表明，页岩中黄铁矿矿物的锂含量出乎意料地高。这一发现可能会带来不需要新矿的可持续采矿方法，强调了锂硫电池的潜力，并促进了环境友好型资源开采。]]></content>
     </entry>
 </feed>
