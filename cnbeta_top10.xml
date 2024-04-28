@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-04-28T05:37:55.286Z</updated>
+    <updated>2024-04-28T17:38:23.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -45,11 +45,26 @@ Pro表明，中国在尖端芯片技术方面仍然落后于美国。当地时�
 的成就系统。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google推出"口语练习"功能 利用人工智能帮助用户提高英语技能]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428766.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428766.htm"/>
+        <updated>2024-04-28T17:38:22.977Z</updated>
+        <content type="html"><![CDATA[Google正在测试搜索中一项新的"口语练习"功能，以帮助用户提高英语会话技能。阿根廷、哥伦比亚、印度、印度尼西亚、墨西哥和委内瑞拉的英语学习者可以使用该功能，他们已经加入了搜索实验室（Search
+Labs）计划，该计划为用户提供早期Google搜索体验实验。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone 16将采用由日月光提供的两种SiP 电容式解决方案将取代音量和电源按钮]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1428215.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1428215.htm"/>
         <updated>2024-04-23T17:38:22.382Z</updated>
         <content type="html"><![CDATA[据台湾媒体联合新闻网报道，日月光（ASE）赢得了苹果公司的独家订单，为即将推出的 iPhone 16 系列提供两个 SiPs（即"封装系统"）。这些产品将取代即将推出的手机上的音量键和电源键，呈现出具有额外功能的电容式按键。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram上线钱包可发送或接收USDT/BTC 同时支持将USDT发送给好友]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428189.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428189.htm"/>
+        <updated>2024-04-23T17:38:22.399Z</updated>
+        <content type="html"><![CDATA[加密通讯应用 Telegram 日前上线了新的认证小程序 @Wallet 即钱包应用，用户可以使用该应用创建加密货币钱包用来接收 USDT、BTC 和 Ton，亦可将加密货币快速发送给 Telegram 上的好友。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新款iPad Air和iPad Pro将于5月7日发布]]></title>
@@ -61,11 +76,11 @@ Pro表明，中国在尖端芯片技术方面仍然落后于美国。当地时�
 "Let Loose"，名为"放飞自我"的活动将于 5 月 7 日举行。不过，活动时间比平时早了一些，安排在东部时间上午 10 点，邀请函里似乎重点展示了 Apple Pencil，这表明 iPad 将是此次活动的重点。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Telegram上线钱包可发送或接收USDT/BTC 同时支持将USDT发送给好友]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428189.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428189.htm"/>
-        <updated>2024-04-23T17:38:22.399Z</updated>
-        <content type="html"><![CDATA[加密通讯应用 Telegram 日前上线了新的认证小程序 @Wallet 即钱包应用，用户可以使用该应用创建加密货币钱包用来接收 USDT、BTC 和 Ton，亦可将加密货币快速发送给 Telegram 上的好友。]]></content>
+        <title type="html"><![CDATA[新款诺基亚220 4G手机上架：大字体按键、USB-C 2.0接口 售价299元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428720.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428720.htm"/>
+        <updated>2024-04-27T17:38:08.138Z</updated>
+        <content type="html"><![CDATA[<strong>诺基亚220 2024款4G功能机国行版将于4月29日上架开售，售价299元。</strong>据悉，新款手机配备2.8英寸IPS屏幕，字体图标更易识别，操作更加从容。同时，<strong>其搭载USB-C 2.0接口，正反都能充电，内置1450毫安时电池，出场“9级大音量”，支持蓝牙5.0，可使用支付宝移动支付功能。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为Pura 70修复“一键除衣”Bug 博主实测小米、vivo手机仍可实现]]></title>
@@ -73,6 +88,13 @@ Pro表明，中国在尖端芯片技术方面仍然落后于美国。当地时�
         <link href="https://www.cnbeta.com.tw/articles/tech/1428551.htm"/>
         <updated>2024-04-25T09:13:42.000Z</updated>
         <content type="html"><![CDATA[近日，华为Pura 70手机的“一键除衣”漏洞引起了网友的广泛关注和热烈讨论。对此，华为客服迅速做出回应，确认该AI功能是自主研发的大模型存在错误，并承诺将进行优化处理。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安创始人赵长鹏向法官道歉 将于4月30日被判刑]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428647.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428647.htm"/>
+        <updated>2024-04-27T17:38:08.129Z</updated>
+        <content type="html"><![CDATA[当时间周二，币安（Binance）创始人赵长鹏致信法官，为他之前做出的糟糕决定而道歉。因违反反洗钱法，赵长鹏将于当地时间4月30日被判刑，刑期预计为36个月。与此同时，约161封来自家人、朋友和数字加密货币行业专业人士的支持信，也一同被提交。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Telegram创始人：苹果公司在中国将利润置于自由之上并不是明智的长期战略]]></title>
@@ -84,18 +106,19 @@ Durov）表示，这些外部因素可能只是导致这家科技巨头无法保
 iPhone，那么将利润置于自由之上并不是一个好的长期战略。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[币安创始人赵长鹏向法官道歉 将于4月30日被判刑]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428647.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428647.htm"/>
-        <updated>2024-04-27T17:38:08.129Z</updated>
-        <content type="html"><![CDATA[当时间周二，币安（Binance）创始人赵长鹏致信法官，为他之前做出的糟糕决定而道歉。因违反反洗钱法，赵长鹏将于当地时间4月30日被判刑，刑期预计为36个月。与此同时，约161封来自家人、朋友和数字加密货币行业专业人士的支持信，也一同被提交。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美国真正意义上的第一条高铁开工 时速300公里]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1428419.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1428419.htm"/>
         <updated>2024-04-24T09:14:10.000Z</updated>
         <content type="html"><![CDATA[当地时间4月22日，美国洛杉矶至拉斯维加斯高速铁路“西部光明线”正式开工，总投资120亿美元，其中联邦政府投资30亿美元。从拉斯维加斯南部到洛杉矶郊区库卡蒙加牧场，新铺设350公里的高铁轨道，预计时速300公里，计划2028年洛杉矶夏季奥运会之前投入运营。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星推出价格高得离谱的50W双端口充电头]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428606.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428606.htm"/>
+        <updated>2024-04-27T17:38:08.132Z</updated>
+        <content type="html"><![CDATA[如果你购买的是三星中端智能手机，甚至是高端型号，包装盒里都不会有充电器，当然，如果你愿意，三星公司会很乐意卖给你各种价格昂贵的充电器。今天，该公司推出了其中最昂贵的产品--双
+50W 充电器，它既能以 50W 的功率为一个端口充电，也能以 25W 的功率同时为两个端口充电。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[拼多多被发现违反开发规范使用iPhone灵动岛推送广告内容]]></title>
@@ -112,12 +135,11 @@ iPhone，那么将利润置于自由之上并不是一个好的长期战略。</
         <content type="html"><![CDATA[这两年出现了不少集成Intel、AMD笔记本移动处理器的桌面主板，深圳尔英(Erying)更是首次将Intel 13代酷睿HX系列放在了mATX小主板之上，标准的244 x 244毫米尺寸。新板子隶属于PoleStar极星系列，别看面积不大，配置却相当彪悍，比如<strong>10相供电电路和一体式散热装甲</strong>、四个4针风扇插针，可控制多达16个风扇，CPU处理器也覆盖了一体式VC均热板，功耗再高也不怕爆表。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星推出价格高得离谱的50W双端口充电头]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428606.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428606.htm"/>
-        <updated>2024-04-27T17:38:08.132Z</updated>
-        <content type="html"><![CDATA[如果你购买的是三星中端智能手机，甚至是高端型号，包装盒里都不会有充电器，当然，如果你愿意，三星公司会很乐意卖给你各种价格昂贵的充电器。今天，该公司推出了其中最昂贵的产品--双
-50W 充电器，它既能以 50W 的功率为一个端口充电，也能以 25W 的功率同时为两个端口充电。]]></content>
+        <title type="html"><![CDATA[核聚变实验已经克服了两个关键障碍 达到“最佳点”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1428660.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1428660.htm"/>
+        <updated>2024-04-26T01:33:49.000Z</updated>
+        <content type="html"><![CDATA[核聚变反应已经克服了两个关键障碍——提高等离子体密度和保持稠密等离子体，以达到发电所需的“最佳点”。这是迈向核聚变发电的又一里程碑，尽管实现商用反应堆可能还需要数年时间。相关论文4月24日发表于《自然》。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软向美国/英国用户推出安全VPN 需订阅Microsoft 365个人或家庭版使用]]></title>
@@ -127,31 +149,10 @@ iPhone，那么将利润置于自由之上并不是一个好的长期战略。</
         <content type="html"><![CDATA[微软正在扩展 Microsoft 365 消费者版的订阅功能，新功能是 Microsoft Defender for Individuals (适用于家庭用户的 Microsoft Defender) 加密 VPN 服务。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[支付宝大楼换上新Logo 简化为一个“支”字]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428420.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428420.htm"/>
-        <updated>2024-04-24T09:15:44.000Z</updated>
-        <content type="html"><![CDATA[随着支付宝即将迎来其20周年庆典，该支付巨头不仅在1月份更换了新的标志，而且<strong>位于上海陆家嘴的支付宝大厦也即将展示全新的企业形象。</strong>目前，更新工程正在进行中，预计在未来几天内，新的Logo将被正式安装亮相。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新款诺基亚220 4G手机上架：大字体按键、USB-C 2.0接口 售价299元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428720.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428720.htm"/>
-        <updated>2024-04-27T17:38:08.138Z</updated>
-        <content type="html"><![CDATA[<strong>诺基亚220 2024款4G功能机国行版将于4月29日上架开售，售价299元。</strong>据悉，新款手机配备2.8英寸IPS屏幕，字体图标更易识别，操作更加从容。同时，<strong>其搭载USB-C 2.0接口，正反都能充电，内置1450毫安时电池，出场“9级大音量”，支持蓝牙5.0，可使用支付宝移动支付功能。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核聚变实验已经克服了两个关键障碍 达到“最佳点”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1428660.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1428660.htm"/>
-        <updated>2024-04-26T01:33:49.000Z</updated>
-        <content type="html"><![CDATA[核聚变反应已经克服了两个关键障碍——提高等离子体密度和保持稠密等离子体，以达到发电所需的“最佳点”。这是迈向核聚变发电的又一里程碑，尽管实现商用反应堆可能还需要数年时间。相关论文4月24日发表于《自然》。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曝《黑神话：悟空》5月19日上架腾讯WeGame：8月20日发售 预售价268元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1428337.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1428337.htm"/>
-        <updated>2024-04-27T17:38:08.142Z</updated>
-        <content type="html"><![CDATA[<strong>国产3A大作《黑神话：悟空》此前在TGA 2023宣布定档，游戏将于2024年8月20日正式发售，登陆PS5、XSX|S、PC。</strong>该作被认为是国产单机3A巅峰之作，是国产游戏的希望。]]></content>
+        <title type="html"><![CDATA[全球首款骁龙8 Gen3小折叠 三星Galaxy Z Flip6/Fold6蓄势待发]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428728.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428728.htm"/>
+        <updated>2024-04-28T17:38:22.998Z</updated>
+        <content type="html"><![CDATA[<strong>三星将于7月10日举行Galaxy Unpacked活动，本次发布会将在巴黎举行，</strong>三星将正式推出Galaxy Z Fold6系列大折叠、Galaxy Z Flip6小折叠以及Galaxy Ring、Galaxy Watch 7系列等新品。其中Galaxy Z Flip6是全球首款搭载高通骁龙8 Gen3平台的小折叠机型，该机整体设计语言跟上代保持一致。]]></content>
     </entry>
 </feed>
