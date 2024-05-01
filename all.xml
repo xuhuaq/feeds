@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-01T05:38:06.333Z</updated>
+    <updated>2024-05-01T17:39:17.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[微信支付宣布外籍用户也可以使用数字人民币 无需提供证件信息 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428491.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428491.htm"/>
-        <updated>2024-04-25T17:38:18.467Z</updated>
-        <content type="html"><![CDATA[<strong>微信支付宣布，外籍朋友也可以使用数字人民币来微信支付了。</strong>微信内的出行、酒旅、餐饮、零售、景区等领域数百万小程序、视频号场景支持使用数字人民币；<strong>同时超百万的微信支付商业收款码与经营收款码支持使用数字人民币App扫码支付。</strong>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Google推出"口语练习"功能 利用人工智能帮助用户提高英语技能 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1428766.htm</id>
@@ -25,13 +18,6 @@ Labs）计划，该计划为用户提供早期Google搜索体验实验。]]></co
         <link href="https://www.cnbeta.com.tw/articles/tech/1428720.htm"/>
         <updated>2024-04-27T17:38:08.138Z</updated>
         <content type="html"><![CDATA[<strong>诺基亚220 2024款4G功能机国行版将于4月29日上架开售，售价299元。</strong>据悉，新款手机配备2.8英寸IPS屏幕，字体图标更易识别，操作更加从容。同时，<strong>其搭载USB-C 2.0接口，正反都能充电，内置1450毫安时电池，出场“9级大音量”，支持蓝牙5.0，可使用支付宝移动支付功能。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为回应Pura 70一键消除衣服；自研大模型漏洞 后续会优化 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428421.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428421.htm"/>
-        <updated>2024-04-24T09:18:19.000Z</updated>
-        <content type="html"><![CDATA[<strong>有网友发现，华为Pura70手机竟然可以一键消除衣服。</strong>据了解，这项功能基于华为Pura70手机在图像编辑时提供的AI消除技术，原本设计用于移除照片中的障碍物或对图片元素进行修改。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX终于将一枚20手猎鹰9号火箭坠入大海 (cnbeta一周排行)]]></title>
@@ -56,6 +42,13 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[当时间周二，币安（Binance）创始人赵长鹏致信法官，为他之前做出的糟糕决定而道歉。因违反反洗钱法，赵长鹏将于当地时间4月30日被判刑，刑期预计为36个月。与此同时，约161封来自家人、朋友和数字加密货币行业专业人士的支持信，也一同被提交。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iPhone 16 机身与屏幕尺寸细节已被泄露 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428948.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428948.htm"/>
+        <updated>2024-04-30T17:38:14.066Z</updated>
+        <content type="html"><![CDATA[泄密者 Sonny Dickson 曝光了一张照片，声称其中有即将推出的iPhone 16系列，以及四款机型的屏幕尺寸信息。这张出现在 Dickson 的 X/Twitter 账户上的图片证实了最近关于每款机型屏幕尺寸不同的传言。在 iPhone 14 和 15 系列中，标准版和 Pro 版的屏幕尺寸相同，都是 6.1 英寸。现有的 Plus 和 Pro Max 屏幕尺寸也相同，均为 6.7 英寸，iPhone 14 系列也是如此。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全球首款骁龙8 Gen3小折叠 三星Galaxy Z Flip6/Fold6蓄势待发 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1428728.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1428728.htm"/>
@@ -71,11 +64,11 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
 50W 充电器，它既能以 50W 的功率为一个端口充电，也能以 25W 的功率同时为两个端口充电。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 机身与屏幕尺寸细节已被泄露 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428948.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428948.htm"/>
-        <updated>2024-04-30T17:38:14.066Z</updated>
-        <content type="html"><![CDATA[泄密者 Sonny Dickson 曝光了一张照片，声称其中有即将推出的iPhone 16系列，以及四款机型的屏幕尺寸信息。这张出现在 Dickson 的 X/Twitter 账户上的图片证实了最近关于每款机型屏幕尺寸不同的传言。在 iPhone 14 和 15 系列中，标准版和 Pro 版的屏幕尺寸相同，都是 6.1 英寸。现有的 Plus 和 Pro Max 屏幕尺寸也相同，均为 6.7 英寸，iPhone 14 系列也是如此。]]></content>
+        <title type="html"><![CDATA[华为Pura 70零件已实现90%本土制造 全国产化仅差一步 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428893.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428893.htm"/>
+        <updated>2024-04-28T11:12:40.000Z</updated>
+        <content type="html"><![CDATA[近日，华为新款旗舰手机Pura 70系列上市后引发抢购热潮。各大渠道均出现缺货状态，二级市场疯狂加价出售。据报道，海外机构的拆解报告显示，<strong>华为Pura 70除最高端机型外，其余机型超过90%关键零组件均由大陆企业供应，距离100%全国产化仅差一步。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[拼多多被发现违反开发规范使用iPhone灵动岛推送广告内容 (cnbeta一周排行)]]></title>
@@ -85,32 +78,11 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[iPhone 14 Pro 及后续机型均支持灵动岛功能，开发者可以在灵动岛中显示一些实时内容方便用户快速查看，当然按照苹果的开发规范，开发者不应该在灵动岛里投放广告内容。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为Pura 70零件已实现90%本土制造 全国产化仅差一步 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428893.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428893.htm"/>
-        <updated>2024-04-28T11:12:40.000Z</updated>
-        <content type="html"><![CDATA[近日，华为新款旗舰手机Pura 70系列上市后引发抢购热潮。各大渠道均出现缺货状态，二级市场疯狂加价出售。据报道，海外机构的拆解报告显示，<strong>华为Pura 70除最高端机型外，其余机型超过90%关键零组件均由大陆企业供应，距离100%全国产化仅差一步。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国真正意义上的第一条高铁开工 时速300公里 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428419.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428419.htm"/>
-        <updated>2024-04-24T09:14:10.000Z</updated>
-        <content type="html"><![CDATA[当地时间4月22日，美国洛杉矶至拉斯维加斯高速铁路“西部光明线”正式开工，总投资120亿美元，其中联邦政府投资30亿美元。从拉斯维加斯南部到洛杉矶郊区库卡蒙加牧场，新铺设350公里的高铁轨道，预计时速300公里，计划2028年洛杉矶夏季奥运会之前投入运营。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[比亚迪高管：华为和小米手机大部分都是比亚迪生产 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1428872.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1428872.htm"/>
         <updated>2024-04-28T09:50:25.000Z</updated>
         <content type="html"><![CDATA[在近日召开的2024中关村论坛年会上，比亚迪储能及新型电池事业部副总经理王皓宇向与会者揭示了比亚迪在智能手机制造领域的深厚实力。王皓宇表示，尽管许多人将比亚迪视作一家车企，但实际上比亚迪在电子制造领域的地位同样举足轻重。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核聚变实验已经克服了两个关键障碍 达到“最佳点” (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1428660.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1428660.htm"/>
-        <updated>2024-04-26T01:33:49.000Z</updated>
-        <content type="html"><![CDATA[核聚变反应已经克服了两个关键障碍——提高等离子体密度和保持稠密等离子体，以达到发电所需的“最佳点”。这是迈向核聚变发电的又一里程碑，尽管实现商用反应堆可能还需要数年时间。相关论文4月24日发表于《自然》。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[揭秘TikTok输掉美国会之战内幕：周受资错失机会 (cnbeta一周排行)]]></title>
@@ -120,11 +92,25 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[过去四年，TikTok一直在不遗余力地抵抗美国的封禁令，但是它从未弄明白华盛顿到底在想什么。<strong>美国总统拜登周三签署了强制字节跳动出售TikTok的法案，这在一定程度上是国会内部的TikTok批评人士协调一致、暗中努力的结果。</strong>这些因素加上一系列误判，最终导致TikTok寻求在用户中争取支持，但是结果却无效甚至适得其反。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[核聚变实验已经克服了两个关键障碍 达到“最佳点” (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1428660.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1428660.htm"/>
+        <updated>2024-04-26T01:33:49.000Z</updated>
+        <content type="html"><![CDATA[核聚变反应已经克服了两个关键障碍——提高等离子体密度和保持稠密等离子体，以达到发电所需的“最佳点”。这是迈向核聚变发电的又一里程碑，尽管实现商用反应堆可能还需要数年时间。相关论文4月24日发表于《自然》。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[诺基亚复刻版3210谍照曝光：经典复古设计 梦回1999年 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1428911.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1428911.htm"/>
         <updated>2024-04-30T17:38:14.073Z</updated>
         <content type="html"><![CDATA[提及诺基亚，相信许多60后、70后都情怀拉满。据了解，HMD正计划重启部分诺基亚经典的功能手机。日前，<strong>新款诺基亚3210谍照曝光，新机采用经典复古设计风格，正面依然是传统的物理键盘，</strong>但键盘布局与老款3210明显不同，屏幕也更大。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4000年前的沙特巨石被精准地切割成两半：成因至今是个谜 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1428951.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1428951.htm"/>
+        <updated>2024-04-29T01:15:47.000Z</updated>
+        <content type="html"><![CDATA[这两块砂岩被称作阿纳斯拉巨石，位于沙特阿拉伯泰马绿洲以南50公里处。<strong>两块石头的高度差不多是9米，宽度4.5米，它们最不同寻常的地方就是，中间被完美地切割开来，就像被一束激光精确的直线切割一样。</strong>虽然以现代的技术可以做到这一点，但也不是一件容易的事，而这两块岩石已经存在4000多年了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[传任天堂Switch 2将于今年下半年发布 OLED版本已在生产中 (cnbeta一周排行)]]></title>
@@ -143,10 +129,24 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
 纳米工艺来量产其最新 SoC。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[支付宝大楼换上新Logo 简化为一个“支”字 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428420.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428420.htm"/>
-        <updated>2024-04-24T09:15:44.000Z</updated>
-        <content type="html"><![CDATA[随着支付宝即将迎来其20周年庆典，该支付巨头不仅在1月份更换了新的标志，而且<strong>位于上海陆家嘴的支付宝大厦也即将展示全新的企业形象。</strong>目前，更新工程正在进行中，预计在未来几天内，新的Logo将被正式安装亮相。]]></content>
+        <title type="html"><![CDATA[发布两个月降价2000+ 现在旗舰机跳水真的有点猛…… (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429114.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429114.htm"/>
+        <updated>2024-04-30T09:16:58.000Z</updated>
+        <content type="html"><![CDATA[奉劝各位手机能不买首发千万别买，不然你大概率就会像我一样，成为大冤种。事情起因是这样的，今年二月份小米不是发布了自家超大杯旗舰小米 14 Ultra？那场发布会我看了，还提前拿公司测评机用了大半个月，因为它拍照确实顶，所以当时想都没想就冲了顶配版的首发：]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米SU7铝线替代铜线惹争议 博主：降成本以后会越来越多 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428830.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428830.htm"/>
+        <updated>2024-05-01T17:39:16.907Z</updated>
+        <content type="html"><![CDATA[小米汽车曾在小米SU7上市后就“线束用铝不用铜”进行过回应。小米方面称，当前<strong>大多数汽车制造商在充电线束等部件中选择使用铝质导体</strong>，小米SU7同样遵循这一趋势。官方强调，虽然铝导体与铜导体在导电性能上有所区别，但通过调整截面积，它们可以实现相同的电流承载能力，同时，铝导体具有轻量化的优势，其重量比铜轻约30%。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C919订单数已超千架、三大航订300架 国产大飞机未来全面取代波音空客？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429126.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429126.htm"/>
+        <updated>2024-04-30T09:41:22.000Z</updated>
+        <content type="html"><![CDATA[4月30日消息，根据中国商飞透露，C919订单数量已超过千架。东方航空率先与中国商飞签署了增订100架C919飞机的协议，今年计划将C919飞机订单增至10架。<strong>中国国际航空也发布了公告，宣布向中国商飞订购了100架C919飞机。这次南方航空的最新公告显示，三大国有航空公司订购的C919飞机数量已超过300架。</strong>]]></content>
     </entry>
 </feed>
