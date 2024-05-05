@@ -2,24 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-05-05T05:38:19.253Z</updated>
+    <updated>2024-05-05T17:38:03.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[只需59分钟 RTX 4090轻松破解你的超级复杂密码]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1429383.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1429383.htm"/>
-        <updated>2024-05-03T17:38:04.347Z</updated>
-        <content type="html"><![CDATA[网络安全公司Hive Systems近日公布了他们使用NVIDIA GPU显卡破解密码的研究成果。怎么说呢，很厉害，也挺吓人。不同于其他使用AI破解密码的做法，Hive Systems利用的是<strong>哈希破解</strong>，也就是GPU暴力计算撞库，并测试了<strong>MD5、bcrypt两种加密方式</strong>，后者更加复杂，破解难度更高。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX终于将一枚20手猎鹰9号火箭坠入大海]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1428889.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1428889.htm"/>
-        <updated>2024-04-28T10:56:46.000Z</updated>
-        <content type="html"><![CDATA[为了保持2024年的快速发射节奏，SpaceX公司今天早些时候又从佛罗里达州发射了一次任务，这是一个繁忙周末的一部分，明天还将发射"星链"（Starlink）。今天的发射对
-SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发射猎鹰 9 号火箭助推器，而且还因为任务需要而放弃了这枚火箭。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Google刚刚从Android内核中移除了对RISC-V的支持]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1429465.htm</id>
@@ -28,11 +13,11 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[从其他精简指令集计算机（RISC）架构演变而来的开源 RISC-V 指令集架构正在赢得国际支持与合作。然而，Google已决定停止参与 RISC-V 的游戏。最近<a href="https://android-review.googlesource.com/q/topic:%22ack_riscv64_turndown%22">合并</a>的一系列补丁删除了Android通用内核代码库中对"riscv64"处理器架构的支持。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 机身与屏幕尺寸细节已被泄露]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428948.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428948.htm"/>
-        <updated>2024-04-30T17:38:14.066Z</updated>
-        <content type="html"><![CDATA[泄密者 Sonny Dickson 曝光了一张照片，声称其中有即将推出的iPhone 16系列，以及四款机型的屏幕尺寸信息。这张出现在 Dickson 的 X/Twitter 账户上的图片证实了最近关于每款机型屏幕尺寸不同的传言。在 iPhone 14 和 15 系列中，标准版和 Pro 版的屏幕尺寸相同，都是 6.1 英寸。现有的 Plus 和 Pro Max 屏幕尺寸也相同，均为 6.7 英寸，iPhone 14 系列也是如此。]]></content>
+        <title type="html"><![CDATA[只需59分钟 RTX 4090轻松破解你的超级复杂密码]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429383.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429383.htm"/>
+        <updated>2024-05-03T17:38:04.347Z</updated>
+        <content type="html"><![CDATA[网络安全公司Hive Systems近日公布了他们使用NVIDIA GPU显卡破解密码的研究成果。怎么说呢，很厉害，也挺吓人。不同于其他使用AI破解密码的做法，Hive Systems利用的是<strong>哈希破解</strong>，也就是GPU暴力计算撞库，并测试了<strong>MD5、bcrypt两种加密方式</strong>，后者更加复杂，破解难度更高。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[是谁杀死了谷歌搜索？]]></title>
@@ -42,6 +27,13 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[这是关于Google搜索如何消亡的故事，通过真实的邮件往来从产品理念的变化讲到管理方式的变革，揭示了技术产品只有服务于用户才能创造真正的价值。故事始于2019年的Google，一个平静的下午被一封紧急的邮件打破。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iPhone 16 机身与屏幕尺寸细节已被泄露]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428948.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428948.htm"/>
+        <updated>2024-04-30T17:38:14.066Z</updated>
+        <content type="html"><![CDATA[泄密者 Sonny Dickson 曝光了一张照片，声称其中有即将推出的iPhone 16系列，以及四款机型的屏幕尺寸信息。这张出现在 Dickson 的 X/Twitter 账户上的图片证实了最近关于每款机型屏幕尺寸不同的传言。在 iPhone 14 和 15 系列中，标准版和 Pro 版的屏幕尺寸相同，都是 6.1 英寸。现有的 Plus 和 Pro Max 屏幕尺寸也相同，均为 6.7 英寸，iPhone 14 系列也是如此。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[4000年前的沙特巨石被精准地切割成两半：成因至今是个谜]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1428951.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1428951.htm"/>
@@ -49,11 +41,12 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[这两块砂岩被称作阿纳斯拉巨石，位于沙特阿拉伯泰马绿洲以南50公里处。<strong>两块石头的高度差不多是9米，宽度4.5米，它们最不同寻常的地方就是，中间被完美地切割开来，就像被一束激光精确的直线切割一样。</strong>虽然以现代的技术可以做到这一点，但也不是一件容易的事，而这两块岩石已经存在4000多年了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[发布两个月降价2000+ 现在旗舰机跳水真的有点猛……]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1429114.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1429114.htm"/>
-        <updated>2024-04-30T09:16:58.000Z</updated>
-        <content type="html"><![CDATA[奉劝各位手机能不买首发千万别买，不然你大概率就会像我一样，成为大冤种。事情起因是这样的，今年二月份小米不是发布了自家超大杯旗舰小米 14 Ultra？那场发布会我看了，还提前拿公司测评机用了大半个月，因为它拍照确实顶，所以当时想都没想就冲了顶配版的首发：]]></content>
+        <title type="html"><![CDATA[币圈黑客的大力出奇迹：碰撞首位相似钱包地址成功骗到7000万美元的比特币]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429605.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429605.htm"/>
+        <updated>2024-05-05T17:38:02.699Z</updated>
+        <content type="html"><![CDATA[在以太坊链上投资者可以将比特币 (BTC) 换成 WBTC 以便在不同的跨链接桥上流转，日前就有投资者在以太坊区块链上被黑客钓鱼 1155 个
+WBTC，目前价值超过 7000 万美元或人民币 5.066 亿元。此次黑客发起钓鱼的方式非常特别，可以说是币圈领域的大力出奇迹。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[德国判决三星侵犯中国大唐4G专利 几乎所有在售手机均面临销毁]]></title>
@@ -63,18 +56,27 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[近日，德国慕尼黑地方法院就一起专利侵权案件作出裁决，<strong>认定三星侵犯了大唐移动所持有的一项4G/LTE标准必要专利。</strong>判决书显示，三星需就自2021年8月21日起在德国销售的几乎所有（因为基本都支持4G）智能手机支付固定赔偿款。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为Pura 70零件已实现90%本土制造 全国产化仅差一步]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428893.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428893.htm"/>
-        <updated>2024-04-28T11:12:40.000Z</updated>
-        <content type="html"><![CDATA[近日，华为新款旗舰手机Pura 70系列上市后引发抢购热潮。各大渠道均出现缺货状态，二级市场疯狂加价出售。据报道，海外机构的拆解报告显示，<strong>华为Pura 70除最高端机型外，其余机型超过90%关键零组件均由大陆企业供应，距离100%全国产化仅差一步。</strong>]]></content>
+        <title type="html"><![CDATA[发布两个月降价2000+ 现在旗舰机跳水真的有点猛……]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429114.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429114.htm"/>
+        <updated>2024-04-30T09:16:58.000Z</updated>
+        <content type="html"><![CDATA[奉劝各位手机能不买首发千万别买，不然你大概率就会像我一样，成为大冤种。事情起因是这样的，今年二月份小米不是发布了自家超大杯旗舰小米 14 Ultra？那场发布会我看了，还提前拿公司测评机用了大半个月，因为它拍照确实顶，所以当时想都没想就冲了顶配版的首发：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比亚迪高管：华为和小米手机大部分都是比亚迪生产]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428872.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428872.htm"/>
-        <updated>2024-04-28T09:50:25.000Z</updated>
-        <content type="html"><![CDATA[在近日召开的2024中关村论坛年会上，比亚迪储能及新型电池事业部副总经理王皓宇向与会者揭示了比亚迪在智能手机制造领域的深厚实力。王皓宇表示，尽管许多人将比亚迪视作一家车企，但实际上比亚迪在电子制造领域的地位同样举足轻重。]]></content>
+        <title type="html"><![CDATA[马斯克确认：最便宜的特斯拉Model 2明年上市]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1428975.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1428975.htm"/>
+        <updated>2024-04-29T09:40:09.000Z</updated>
+        <content type="html"><![CDATA[特斯拉CEO埃隆·马斯克确认，品牌旗下全新入门级车型<strong>Model 2将于2025年上市开售</strong>，其项目名称为“Redwood”。据悉新车将于墨西哥、柏林以及上海工厂开启投产工作，<strong>市场定价将保持在25000美元上下（当前约为18.2万人民币）</strong>，后期国内市场投产后其价格也有望迎来进一步下探。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICQ还活着，这么多年时间里它都经历了什么？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429409.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429409.htm"/>
+        <updated>2024-05-04T17:38:11.941Z</updated>
+        <content type="html"><![CDATA[ICQ 是"I Seek You（我找你）"的缩写，它于 1996 年 11
+月首次亮相，奠定了独立即时通讯客户端的基础。想想那是多久以前的事了...当时，微软的开创性产品 Windows 95
+刚刚问世不到一年，任天堂刚刚推出 N64，而那些有理由拥有手机的人实际上是在用手机通话。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[揭秘TikTok输掉美国会之战内幕：周受资错失机会]]></title>
@@ -91,15 +93,6 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[几个月前，我们报道了计算机工程师兼TechPowerUp固态硬盘数据库维护者Gabriel Ferraz超频提升2.5英寸SATA III NAND闪存固态硬盘的神操作。现在，他又带来了另一个同样有趣的项目：将四级单元（QLC）SATA III 固态硬盘改装成更耐用、性能更高的单级单元（SLC）SATA III 固态硬盘。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICQ还活着，这么多年时间里它都经历了什么？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1429409.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1429409.htm"/>
-        <updated>2024-05-04T17:38:11.941Z</updated>
-        <content type="html"><![CDATA[ICQ 是"I Seek You（我找你）"的缩写，它于 1996 年 11
-月首次亮相，奠定了独立即时通讯客户端的基础。想想那是多久以前的事了...当时，微软的开创性产品 Windows 95
-刚刚问世不到一年，任天堂刚刚推出 N64，而那些有理由拥有手机的人实际上是在用手机通话。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[C919订单数已超千架、三大航订300架 国产大飞机未来全面取代波音空客？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1429126.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1429126.htm"/>
@@ -107,18 +100,11 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[4月30日消息，根据中国商飞透露，C919订单数量已超过千架。东方航空率先与中国商飞签署了增订100架C919飞机的协议，今年计划将C919飞机订单增至10架。<strong>中国国际航空也发布了公告，宣布向中国商飞订购了100架C919飞机。这次南方航空的最新公告显示，三大国有航空公司订购的C919飞机数量已超过300架。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克确认：最便宜的特斯拉Model 2明年上市]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428975.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428975.htm"/>
-        <updated>2024-04-29T09:40:09.000Z</updated>
-        <content type="html"><![CDATA[特斯拉CEO埃隆·马斯克确认，品牌旗下全新入门级车型<strong>Model 2将于2025年上市开售</strong>，其项目名称为“Redwood”。据悉新车将于墨西哥、柏林以及上海工厂开启投产工作，<strong>市场定价将保持在25000美元上下（当前约为18.2万人民币）</strong>，后期国内市场投产后其价格也有望迎来进一步下探。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诺基亚复刻版3210谍照曝光：经典复古设计 梦回1999年]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428911.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428911.htm"/>
-        <updated>2024-04-30T17:38:14.073Z</updated>
-        <content type="html"><![CDATA[提及诺基亚，相信许多60后、70后都情怀拉满。据了解，HMD正计划重启部分诺基亚经典的功能手机。日前，<strong>新款诺基亚3210谍照曝光，新机采用经典复古设计风格，正面依然是传统的物理键盘，</strong>但键盘布局与老款3210明显不同，屏幕也更大。]]></content>
+        <title type="html"><![CDATA[贾跃亭面临着在美国以来的最大麻烦]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429503.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429503.htm"/>
+        <updated>2024-05-05T17:38:02.714Z</updated>
+        <content type="html"><![CDATA[谁说吹牛没有代价？贾跃亭的一句话，正让他陷入万劫不复。4月30日，中国“五一”节前的最后一天，大洋彼岸FF创始人、“下周回国”贾跃亭面临着在美国有史以来的最大麻烦——“纳斯达克交易所，要把FF除名、踢出美股。”一旦FF退市，贾跃亭造车梦碎，他可能还会遭遇资本、供应商、房东等各方反噬，彻底完蛋。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[达墨推出3.5寸HDD家庭式硬盘：自带Type-C接口 8TB仅799元]]></title>
@@ -128,6 +114,13 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[<strong>国产存储厂商达墨最新宣布了新品——3.5寸HDD家庭式硬盘。新品将于5月8日上架，共三个版本，8TB售价799元、14TB售价1259元、20TB售价2299元。</strong>这个价格比目前市面上单独购买机械硬盘还要便宜，这也是达墨的一贯风格了。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[为网恋女友花费51万后被分手 21岁王者代练“胖猫”跳江自杀]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1429528.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1429528.htm"/>
+        <updated>2024-05-05T17:38:02.727Z</updated>
+        <content type="html"><![CDATA[昨日晚间，有网友在社媒爆料21岁王者荣耀代练“胖猫”因被网恋女友长期PUA、骗取自己辛苦赚的51万后被冷暴力、分手崩溃跳江自杀。“胖猫”21岁，湖南人。因为游戏天赋过人，是一名游戏代练，喜欢玩王者荣耀的角色“梦奇”，于是他就给他的游戏id名字起名“胖猫”。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[完全自研不兼容安卓 曝鸿蒙星河版流畅度已追平现版本]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1429125.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1429125.htm"/>
@@ -135,17 +128,24 @@ SpaceX 来说是一次罕见的发射，因为这不仅是该公司第 20 次发
         <content type="html"><![CDATA[据博主数码闲聊站最新爆料，<strong>鸿蒙星河版的原生应用都在积极适配，目前流畅度已经追平了现在的鸿蒙系统。</strong>这对于个完全自研的新系统来说，是一个非常可喜可贺的成绩，意味着未来切换系统之后，用户也不会因为系统体验和生态受到太大影响。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TechInsights探秘华为麒麟9010：中芯国际的第二代7nm]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428943.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428943.htm"/>
-        <updated>2024-05-04T17:38:11.954Z</updated>
-        <content type="html"><![CDATA[华为Pura 70系列搭载了最新的麒麟9010处理器，和几位前辈一样蒙着神秘的面纱，而权威机构TechInsights经过初步研究，有了惊喜发现。TechInsights认为，<strong>麒麟9010是中芯国际制造的，所用工艺是第二代7nm，也就是N+2。</strong>此前华为Mate 60 Pro中搭载的麒麟9000S，也是同样的制造工艺。]]></content>
+        <title type="html"><![CDATA[一问界M7高速智驾行驶 包括司机一车人都在玩手机]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429278.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429278.htm"/>
+        <updated>2024-05-05T17:38:02.733Z</updated>
+        <content type="html"><![CDATA[随着越来越多带高阶智驾的车型上市销售，会出现非常多的极端案例，比如<strong>驾车时脱手不管方向盘而干其他事</strong>。近日，有博主公布了一条视频，怒斥其“不良诱导”，视频里（<a class="f14_link" href="http://t.cn/A6Tkgl9w" target="_blank">戳链接跳转观看</a>），一台问界M7开启NCA高阶智驾行驶在高速公路上，坐在后排的女子怀中抱着一个熟睡的儿童，而她正在玩手机游戏，看起来像是《王者荣耀》。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google员工爆料Python基础团队原地解散]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428900.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428900.htm"/>
-        <updated>2024-05-03T17:38:04.390Z</updated>
-        <content type="html"><![CDATA[Google解雇了整个 Python 基础团队？“当与你直接共事的每个人，包括你的主管，都被裁员 —— 哦，是职位被削减，而你被要求安排他们的替代者入职，这些人被告知在不同的国家担任同样的职位，但他们并不为此感到高兴，这是很艰难的一天。”]]></content>
+        <title type="html"><![CDATA[又一半导体领域 中国厂商做到世界第二]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429478.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429478.htm"/>
+        <updated>2024-05-03T09:19:32.000Z</updated>
+        <content type="html"><![CDATA[日本富士经济多年的跟踪报告显示，2023年全球碳化硅衬底市场，中国两家厂商份额首次进入前五，其中天岳先进挤下千年老二Coherent，排名仅次于Wolfspeed。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉FSD中国版售价曝光：64000元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429128.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429128.htm"/>
+        <updated>2024-04-30T09:44:30.000Z</updated>
+        <content type="html"><![CDATA[美国特斯拉公司首席执行官马斯克于4月29日乘飞机离开北京。虽然马斯克在中国逗留时间仅约24小时，但特斯拉却迎来了一系列利好消息。特斯拉股价受到多重利好消息的影响，在美股盘前大涨超过10%。]]></content>
     </entry>
 </feed>
