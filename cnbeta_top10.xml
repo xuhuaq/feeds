@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-05-06T05:38:06.817Z</updated>
+    <updated>2024-05-06T17:38:19.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Google刚刚从Android内核中移除了对RISC-V的支持]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1429465.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1429465.htm"/>
-        <updated>2024-05-03T05:08:53.000Z</updated>
-        <content type="html"><![CDATA[从其他精简指令集计算机（RISC）架构演变而来的开源 RISC-V 指令集架构正在赢得国际支持与合作。然而，Google已决定停止参与 RISC-V 的游戏。最近<a href="https://android-review.googlesource.com/q/topic:%22ack_riscv64_turndown%22">合并</a>的一系列补丁删除了Android通用内核代码库中对"riscv64"处理器架构的支持。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[只需59分钟 RTX 4090轻松破解你的超级复杂密码]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1429383.htm</id>
@@ -27,18 +20,11 @@
         <content type="html"><![CDATA[这是关于Google搜索如何消亡的故事，通过真实的邮件往来从产品理念的变化讲到管理方式的变革，揭示了技术产品只有服务于用户才能创造真正的价值。故事始于2019年的Google，一个平静的下午被一封紧急的邮件打破。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 机身与屏幕尺寸细节已被泄露]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428948.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428948.htm"/>
-        <updated>2024-04-30T17:38:14.066Z</updated>
-        <content type="html"><![CDATA[泄密者 Sonny Dickson 曝光了一张照片，声称其中有即将推出的iPhone 16系列，以及四款机型的屏幕尺寸信息。这张出现在 Dickson 的 X/Twitter 账户上的图片证实了最近关于每款机型屏幕尺寸不同的传言。在 iPhone 14 和 15 系列中，标准版和 Pro 版的屏幕尺寸相同，都是 6.1 英寸。现有的 Plus 和 Pro Max 屏幕尺寸也相同，均为 6.7 英寸，iPhone 14 系列也是如此。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4000年前的沙特巨石被精准地切割成两半：成因至今是个谜]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1428951.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1428951.htm"/>
-        <updated>2024-04-29T01:15:47.000Z</updated>
-        <content type="html"><![CDATA[这两块砂岩被称作阿纳斯拉巨石，位于沙特阿拉伯泰马绿洲以南50公里处。<strong>两块石头的高度差不多是9米，宽度4.5米，它们最不同寻常的地方就是，中间被完美地切割开来，就像被一束激光精确的直线切割一样。</strong>虽然以现代的技术可以做到这一点，但也不是一件容易的事，而这两块岩石已经存在4000多年了。]]></content>
+        <title type="html"><![CDATA[Google刚刚从Android内核中移除了对RISC-V的支持]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429465.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429465.htm"/>
+        <updated>2024-05-03T05:08:53.000Z</updated>
+        <content type="html"><![CDATA[从其他精简指令集计算机（RISC）架构演变而来的开源 RISC-V 指令集架构正在赢得国际支持与合作。然而，Google已决定停止参与 RISC-V 的游戏。最近<a href="https://android-review.googlesource.com/q/topic:%22ack_riscv64_turndown%22">合并</a>的一系列补丁删除了Android通用内核代码库中对"riscv64"处理器架构的支持。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[币圈黑客的大力出奇迹：碰撞首位相似钱包地址成功骗到7000万美元的比特币]]></title>
@@ -63,13 +49,6 @@ WBTC，目前价值超过 7000 万美元或人民币 5.066 亿元。此次黑客
         <content type="html"><![CDATA[奉劝各位手机能不买首发千万别买，不然你大概率就会像我一样，成为大冤种。事情起因是这样的，今年二月份小米不是发布了自家超大杯旗舰小米 14 Ultra？那场发布会我看了，还提前拿公司测评机用了大半个月，因为它拍照确实顶，所以当时想都没想就冲了顶配版的首发：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克确认：最便宜的特斯拉Model 2明年上市]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428975.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428975.htm"/>
-        <updated>2024-04-29T09:40:09.000Z</updated>
-        <content type="html"><![CDATA[特斯拉CEO埃隆·马斯克确认，品牌旗下全新入门级车型<strong>Model 2将于2025年上市开售</strong>，其项目名称为“Redwood”。据悉新车将于墨西哥、柏林以及上海工厂开启投产工作，<strong>市场定价将保持在25000美元上下（当前约为18.2万人民币）</strong>，后期国内市场投产后其价格也有望迎来进一步下探。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ICQ还活着，这么多年时间里它都经历了什么？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1429409.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1429409.htm"/>
@@ -79,25 +58,11 @@ WBTC，目前价值超过 7000 万美元或人民币 5.066 亿元。此次黑客
 刚刚问世不到一年，任天堂刚刚推出 N64，而那些有理由拥有手机的人实际上是在用手机通话。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[揭秘TikTok输掉美国会之战内幕：周受资错失机会]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1428945.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1428945.htm"/>
-        <updated>2024-04-30T17:38:14.072Z</updated>
-        <content type="html"><![CDATA[过去四年，TikTok一直在不遗余力地抵抗美国的封禁令，但是它从未弄明白华盛顿到底在想什么。<strong>美国总统拜登周三签署了强制字节跳动出售TikTok的法案，这在一定程度上是国会内部的TikTok批评人士协调一致、暗中努力的结果。</strong>这些因素加上一系列误判，最终导致TikTok寻求在用户中争取支持，但是结果却无效甚至适得其反。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[发烧友将QLC SSD转换为SLC 大幅提高了耐用性和性能]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1429178.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1429178.htm"/>
         <updated>2024-05-02T17:38:14.694Z</updated>
         <content type="html"><![CDATA[几个月前，我们报道了计算机工程师兼TechPowerUp固态硬盘数据库维护者Gabriel Ferraz超频提升2.5英寸SATA III NAND闪存固态硬盘的神操作。现在，他又带来了另一个同样有趣的项目：将四级单元（QLC）SATA III 固态硬盘改装成更耐用、性能更高的单级单元（SLC）SATA III 固态硬盘。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C919订单数已超千架、三大航订300架 国产大飞机未来全面取代波音空客？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1429126.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1429126.htm"/>
-        <updated>2024-04-30T09:41:22.000Z</updated>
-        <content type="html"><![CDATA[4月30日消息，根据中国商飞透露，C919订单数量已超过千架。东方航空率先与中国商飞签署了增订100架C919飞机的协议，今年计划将C919飞机订单增至10架。<strong>中国国际航空也发布了公告，宣布向中国商飞订购了100架C919飞机。这次南方航空的最新公告显示，三大国有航空公司订购的C919飞机数量已超过300架。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[贾跃亭面临着在美国以来的最大麻烦]]></title>
@@ -107,11 +72,11 @@ WBTC，目前价值超过 7000 万美元或人民币 5.066 亿元。此次黑客
         <content type="html"><![CDATA[谁说吹牛没有代价？贾跃亭的一句话，正让他陷入万劫不复。4月30日，中国“五一”节前的最后一天，大洋彼岸FF创始人、“下周回国”贾跃亭面临着在美国有史以来的最大麻烦——“纳斯达克交易所，要把FF除名、踢出美股。”一旦FF退市，贾跃亭造车梦碎，他可能还会遭遇资本、供应商、房东等各方反噬，彻底完蛋。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[达墨推出3.5寸HDD家庭式硬盘：自带Type-C接口 8TB仅799元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1429049.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1429049.htm"/>
-        <updated>2024-05-02T17:38:14.701Z</updated>
-        <content type="html"><![CDATA[<strong>国产存储厂商达墨最新宣布了新品——3.5寸HDD家庭式硬盘。新品将于5月8日上架，共三个版本，8TB售价799元、14TB售价1259元、20TB售价2299元。</strong>这个价格比目前市面上单独购买机械硬盘还要便宜，这也是达墨的一贯风格了。]]></content>
+        <title type="html"><![CDATA[C919订单数已超千架、三大航订300架 国产大飞机未来全面取代波音空客？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429126.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429126.htm"/>
+        <updated>2024-04-30T09:41:22.000Z</updated>
+        <content type="html"><![CDATA[4月30日消息，根据中国商飞透露，C919订单数量已超过千架。东方航空率先与中国商飞签署了增订100架C919飞机的协议，今年计划将C919飞机订单增至10架。<strong>中国国际航空也发布了公告，宣布向中国商飞订购了100架C919飞机。这次南方航空的最新公告显示，三大国有航空公司订购的C919飞机数量已超过300架。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为网恋女友花费51万后被分手 21岁王者代练“胖猫”跳江自杀]]></title>
@@ -119,13 +84,6 @@ WBTC，目前价值超过 7000 万美元或人民币 5.066 亿元。此次黑客
         <link href="https://www.cnbeta.com.tw/articles/game/1429528.htm"/>
         <updated>2024-05-05T17:38:02.727Z</updated>
         <content type="html"><![CDATA[昨日晚间，有网友在社媒爆料21岁王者荣耀代练“胖猫”因被网恋女友长期PUA、骗取自己辛苦赚的51万后被冷暴力、分手崩溃跳江自杀。“胖猫”21岁，湖南人。因为游戏天赋过人，是一名游戏代练，喜欢玩王者荣耀的角色“梦奇”，于是他就给他的游戏id名字起名“胖猫”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完全自研不兼容安卓 曝鸿蒙星河版流畅度已追平现版本]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1429125.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1429125.htm"/>
-        <updated>2024-04-30T09:40:29.000Z</updated>
-        <content type="html"><![CDATA[据博主数码闲聊站最新爆料，<strong>鸿蒙星河版的原生应用都在积极适配，目前流畅度已经追平了现在的鸿蒙系统。</strong>这对于个完全自研的新系统来说，是一个非常可喜可贺的成绩，意味着未来切换系统之后，用户也不会因为系统体验和生态受到太大影响。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一问界M7高速智驾行驶 包括司机一车人都在玩手机]]></title>
@@ -142,10 +100,55 @@ WBTC，目前价值超过 7000 万美元或人民币 5.066 亿元。此次黑客
         <content type="html"><![CDATA[日本富士经济多年的跟踪报告显示，2023年全球碳化硅衬底市场，中国两家厂商份额首次进入前五，其中天岳先进挤下千年老二Coherent，排名仅次于Wolfspeed。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[完全自研不兼容安卓 曝鸿蒙星河版流畅度已追平现版本]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429125.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429125.htm"/>
+        <updated>2024-04-30T09:40:29.000Z</updated>
+        <content type="html"><![CDATA[据博主数码闲聊站最新爆料，<strong>鸿蒙星河版的原生应用都在积极适配，目前流畅度已经追平了现在的鸿蒙系统。</strong>这对于个完全自研的新系统来说，是一个非常可喜可贺的成绩，意味着未来切换系统之后，用户也不会因为系统体验和生态受到太大影响。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[特斯拉FSD中国版售价曝光：64000元]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1429128.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1429128.htm"/>
         <updated>2024-04-30T09:44:30.000Z</updated>
         <content type="html"><![CDATA[美国特斯拉公司首席执行官马斯克于4月29日乘飞机离开北京。虽然马斯克在中国逗留时间仅约24小时，但特斯拉却迎来了一系列利好消息。特斯拉股价受到多重利好消息的影响，在美股盘前大涨超过10%。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软确认四月份的Windows更新会破坏 VPN 连接]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429435.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429435.htm"/>
+        <updated>2024-05-06T17:38:19.024Z</updated>
+        <content type="html"><![CDATA[微软已确认，2024 年 4 月的 Windows 安全更新会破坏跨客户端和服务器平台的 VPN 连接。该公司在 Windows 健康仪表板上<a href="https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-23h2#vpn-connections-might-fail-after-installing-the-april-2024-security-update" target="_blank" rel="nofollow noopener">解释说</a>："Windows 设备在安装 4 月 2024 日安全更新或 4 月 2024 日非安全预览版更新后，可能会面临 VPN 连接失败。"]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克讽刺加州高铁：投入90亿美元 16年才建好一座桥]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429594.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429594.htm"/>
+        <updated>2024-05-06T17:38:19.030Z</updated>
+        <content type="html"><![CDATA[特斯拉CEO埃隆·马斯克在X平台上与网友的互动中，对加州高铁项目的进展缓慢进行了辛辣嘲讽。“加州高铁”官方账号在X平台上发帖称：“马德拉县的弗雷斯诺河高架桥是首批建成的高速铁路结构之一。长近1600英尺，高速列车将在河床上行驶，并与BNSF铁路平行运行。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一架C919国产大飞机完成4A检]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429255.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429255.htm"/>
+        <updated>2024-05-01T09:13:55.000Z</updated>
+        <content type="html"><![CDATA[<strong>4月底，东方航空技术有限公司的虹桥机库内，“ABC”首次集合，一架空客A330、一架波音737、一架中国商飞C919，同时在进行定检。其中C919的编号是B-919A，是全球首架交付机，这也是国产大飞机首度开展4A检定检。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蓝牙耳机丢失 东京大学学霸用数学公式神速找回]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1429208.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1429208.htm"/>
+        <updated>2024-05-06T17:38:19.032Z</updated>
+        <content type="html"><![CDATA[为了找回丢失的蓝牙耳机，东京大学学霸动用了数学公式。按照这位学霸的描述，利用数学中的三角形外心性质定位耳机，并在短短10分钟找回了耳机。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google误转25万美元 男子网上求着退钱 结果钱太少人家都没发现]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1429747.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1429747.htm"/>
+        <updated>2024-05-06T09:11:59.000Z</updated>
+        <content type="html"><![CDATA[话说，财大气粗，就是不一样！早前，一名为Sam
+Curry的博主在Twitter上@了Google，大喊着要退钱！根据Sam的推文，事情发生在约摸3周前。当天，Google误打了249,999
+美元 （约175万人民币）
+，到他账户上。作为一名帮各大公司寻找软件缺陷和漏洞的安全专家，Sam此前确实会接一些外包活，里面也曾有过Google。但是，据Sam所知，他已经很长一段时间没接过这活了。]]></content>
     </entry>
 </feed>
