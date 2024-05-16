@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-05-16T05:39:34.700Z</updated>
+    <updated>2024-05-16T17:38:53.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -15,11 +15,34 @@
 65%，从而提高了下游产品和服务的采用率。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[消息称中芯国际成功开发出5纳米DUV工艺 华为Mate 70系列可能成为首批受益者]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1431027.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1431027.htm"/>
+        <updated>2024-05-16T17:38:52.513Z</updated>
+        <content type="html"><![CDATA[据《韩国经济日报》报道，中国最大的半导体制造公司中芯国际（SMIC）已经实现了一个新的里程碑，而且是在不使用先进的紫外可见光（EUV）设备的情况下实现的。最新消息称，使用
+DUV 设备的 5 纳米工艺已经完成，中芯国际已准备好批量生产首批晶圆。此前有消息称，华为正与其本地代工合作伙伴密切合作，推出新一代麒麟
+SoC，该芯片将出现在今年 10 月晚些时候即将发布的 Mate 70 系列中。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[中国首款自研洲际客机C929新进展 准备适航申请]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1430597.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1430597.htm"/>
         <updated>2024-05-13T17:39:20.721Z</updated>
         <content type="html"><![CDATA[据中国民航上海航空器适航审定中心副主任、C919型飞机型号合格审定审查组组长揭裕文最新披露，<strong>中国商飞正开展C929适航申请前的相关工作，预计年底向民航局提出型号合格证申请。上海审定中心也已介入前期研究中，从而为更好地建立标准、发现技术难题奠定基础。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 17.5 的新功能概览]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1430796.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1430796.htm"/>
+        <updated>2024-05-14T09:41:47.000Z</updated>
+        <content type="html"><![CDATA[苹果公司最近发布了 iOS 最新版本 iOS 17.5。如果你在欧盟国家，它将为iPhone带来一些重大变化；如果你不在欧盟国家，它也会带来一些较小的更新。在本文中，我们汇总了 iOS 17.5 中的所有新功能。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[70岁赵雅芝穿粉裙、踩高跟鞋跳起 网友感慨万千]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1430792.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1430792.htm"/>
+        <updated>2024-05-14T09:34:29.000Z</updated>
+        <content type="html"><![CDATA[近日，有网友发现赵雅芝在五一假期发布了一组美照，照片中，她如同一个优雅的公主一般，穿着粉色裙子，娇嫩无比，根本看不出她已经70岁了。更让人惊讶的是有张照片中，赵雅芝脚踩细高跟，跳跃起来，整个状态十分的美丽，同时也充满了活力。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[任天堂为Switch带来重制版《塞尔达传说：旷野之息》]]></title>
@@ -36,13 +59,6 @@
         <content type="html"><![CDATA[MacBook Air 终于可以外接两块屏幕了，但是<strong>性能会砍半</strong>！事情是这样的，前阵子发布的 M3 MacBook Air 支持外接双屏显示了。没错，就是这么一个见怪不怪的功能，放在苹果这边都算是个 “ 重磅 ” 更新，甚至 MacBook Air 到今年才支持……]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[被美撤销向中企出口芯片许可 英特尔发声]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1430289.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1430289.htm"/>
-        <updated>2024-05-12T17:38:30.292Z</updated>
-        <content type="html"><![CDATA[5月8日，英特尔在提交给美国证券交易委员会（SEC）的一份文件中指出，美商务部“撤销了向中国客户出口消费者相关产品的某些许可证，立即生效，因此， <strong>公司预计2024年第二季度的收入将保持在原指导区间125亿美元至135亿美元之间，但实际收入将低于此前预期的中间值。”</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[谁在买小米SU7？103位真实车主的不满和担忧]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1430324.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1430324.htm"/>
@@ -57,11 +73,11 @@
         <content type="html"><![CDATA[酒店“刷脸”办理入住登记的时代，成为了过去式。近期，上海、杭州等地相继传出酒店已开始调整办理入住政策，不再要求客人“强制刷脸”。新浪科技走访发现，在北京地区，希尔顿欢朋酒店、全季酒店、汉庭酒店、北京瑞吉酒店、北京金隅喜来登大酒店等酒店，均已不再要求“刷脸”入住。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 17.5 的新功能概览]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1430796.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1430796.htm"/>
-        <updated>2024-05-14T09:41:47.000Z</updated>
-        <content type="html"><![CDATA[苹果公司最近发布了 iOS 最新版本 iOS 17.5。如果你在欧盟国家，它将为iPhone带来一些重大变化；如果你不在欧盟国家，它也会带来一些较小的更新。在本文中，我们汇总了 iOS 17.5 中的所有新功能。]]></content>
+        <title type="html"><![CDATA[中国半导体产能将跃居世界第一]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1430779.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1430779.htm"/>
+        <updated>2024-05-14T09:05:16.000Z</updated>
+        <content type="html"><![CDATA[近日，半导体产能研究业务公司 Knometa Research 公布了截至 2023 年底各国/地区的半导体产能（在工厂所在国家/地区生产的半导体晶圆产品的产量，与总部所在地无关）和未来预测。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[15年前上了“FFmpeg 耻辱柱” 今天他却得谢谢咱：腾讯QQ影音一雪前耻？]]></title>
@@ -69,20 +85,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1430451.htm"/>
         <updated>2024-05-11T09:51:24.000Z</updated>
         <content type="html"><![CDATA[就在刚刚，FFmpeg 在社交媒体<a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Ftwitter.com%2FFFmpeg%2Fstatus%2F1788931968509309172" target="_blank">公开感谢</a>腾讯公司向项目提交的高质量补丁。这称得上是历史性时刻 —— 毕竟 15 年前，腾讯的知名产品 QQ 影音因不遵循开源协议使用代码被 FFmpeg 钉在了 <strong>“耻辱柱”（Hall of Shame）</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70岁赵雅芝穿粉裙、踩高跟鞋跳起 网友感慨万千]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1430792.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1430792.htm"/>
-        <updated>2024-05-14T09:34:29.000Z</updated>
-        <content type="html"><![CDATA[近日，有网友发现赵雅芝在五一假期发布了一组美照，照片中，她如同一个优雅的公主一般，穿着粉色裙子，娇嫩无比，根本看不出她已经70岁了。更让人惊讶的是有张照片中，赵雅芝脚踩细高跟，跳跃起来，整个状态十分的美丽，同时也充满了活力。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国半导体产能将跃居世界第一]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1430779.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1430779.htm"/>
-        <updated>2024-05-14T09:05:16.000Z</updated>
-        <content type="html"><![CDATA[近日，半导体产能研究业务公司 Knometa Research 公布了截至 2023 年底各国/地区的半导体产能（在工厂所在国家/地区生产的半导体晶圆产品的产量，与总部所在地无关）和未来预测。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[消息称华为今年下半年将全面转向其自主平台HarmonyOS 放弃Android系统]]></title>
@@ -93,12 +95,11 @@
 Android 操作系统，完全转向 HarmonyOS Next。据报道，新平台将首先容纳 4000 个应用程序。<br>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[管理1250亿美元的澳洲大学退休基金被谷歌云连同备份数据全部删除]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1430514.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1430514.htm"/>
-        <updated>2024-05-13T17:39:20.718Z</updated>
-        <content type="html"><![CDATA[这段时间公有云领域各种问题引起不少吃瓜群众关注，但这次谷歌出现的问题可能有点离谱过头了，以至于都可能会让人怀疑公有云提供商的能力。管理着
-1250 亿美元资金的澳洲大学退休基金 (UniSuper) 日前各种服务全部出错，包括投资者无法查看自己的账户余额和投资收益情况等。]]></content>
+        <title type="html"><![CDATA[VMware Workstation Pro 和 Fusion Pro 现免费供个人使用]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1430897.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1430897.htm"/>
+        <updated>2024-05-15T01:28:17.000Z</updated>
+        <content type="html"><![CDATA[博通公司以 610 亿美元收购的VMware 宣布对其虚拟化软件套件进行一些重大调整。从今天起，Windows 和 Linux 版VMware Workstation Pro 和 Mac 版VMware Fusion 不再需要个人使用许可证。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI发布最新旗舰生成式AI模型GPT-4o 改进文本、视觉和音频功能]]></title>
@@ -108,6 +109,21 @@ Android 操作系统，完全转向 HarmonyOS Next。据报道，新平台将首
         <content type="html"><![CDATA[OpenAI 发布了一个名为 GPT-4o 的新旗舰生成式人工智能模型，并将在未来几周内"迭代式"地在公司产品中推出。<strong>OpenAI
 首席技术官穆里-穆拉提（Muri Murati）说，GPT-4o 提供了"GPT-4 级"智能，但在 GPT-4
 的基础上改进了文本、视觉和音频功能，所有用户都可以免费使用，付费用户将继续 "拥有五倍于免费用户的容量限制"。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[管理1250亿美元的澳洲大学退休基金被谷歌云连同备份数据全部删除]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1430514.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1430514.htm"/>
+        <updated>2024-05-13T17:39:20.718Z</updated>
+        <content type="html"><![CDATA[这段时间公有云领域各种问题引起不少吃瓜群众关注，但这次谷歌出现的问题可能有点离谱过头了，以至于都可能会让人怀疑公有云提供商的能力。管理着
+1250 亿美元资金的澳洲大学退休基金 (UniSuper) 日前各种服务全部出错，包括投资者无法查看自己的账户余额和投资收益情况等。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抖音发布新规不可再发布时政、财经等内容？知情人士回应]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1430636.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1430636.htm"/>
+        <updated>2024-05-13T08:27:36.000Z</updated>
+        <content type="html"><![CDATA[日前，有抖音创作者收到该平台创作者中心的通知称，为优化创作者体验，抖音不再支持以发布社会时政、财经、法律或医疗等内容为主，或者粉丝量较高、影响力较大的账号与商业推广账户建立包含内容发布能力的授权关系。如果创作者的账号曾作出该类授权，相应授权关系将自5月15日起陆续终止。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[今天可能有中等以上地磁暴：有机会看到极光 对人体几乎无影响]]></title>
@@ -124,11 +140,11 @@ Android 操作系统，完全转向 HarmonyOS Next。据报道，新平台将首
         <content type="html"><![CDATA[百度副总裁、公关负责人璩静因为在短视频平台上发表出格言论引发争议。媒体此前报道称，璩静已经离职。根据《华尔街日报》的最新报道，是李彦宏开除了她。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[抖音发布新规不可再发布时政、财经等内容？知情人士回应]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1430636.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1430636.htm"/>
-        <updated>2024-05-13T08:27:36.000Z</updated>
-        <content type="html"><![CDATA[日前，有抖音创作者收到该平台创作者中心的通知称，为优化创作者体验，抖音不再支持以发布社会时政、财经、法律或医疗等内容为主，或者粉丝量较高、影响力较大的账号与商业推广账户建立包含内容发布能力的授权关系。如果创作者的账号曾作出该类授权，相应授权关系将自5月15日起陆续终止。]]></content>
+        <title type="html"><![CDATA[中国最聪明的那一群人，为什么没有去当科学家？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1430790.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1430790.htm"/>
+        <updated>2024-05-14T09:29:09.000Z</updated>
+        <content type="html"><![CDATA[最近在清华大学任教的知名华人数学家丘成桐的一场演讲引起了热议，他提到<strong>中国的数学还没达到美国在上世纪40年代的水平</strong>，这个言论引发了关于中国的数学研究，乃至基础科研水平的大讨论。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“如果没有Office，WPS揽财将更加疯狂”]]></title>
@@ -136,19 +152,5 @@ Android 操作系统，完全转向 HarmonyOS Next。据报道，新平台将首
         <link href="https://www.cnbeta.com.tw/articles/tech/1430452.htm"/>
         <updated>2024-05-11T09:52:25.000Z</updated>
         <content type="html"><![CDATA[WPS在国内疯狂到了什么地步？一款办公软件，已经先后叠加了包括WPS会员、稻壳会员、超级会员、超级会员Pro、AI会员、大会员……一位网友的言论直击要害：“感谢Office的存在，否则WPS揽财将更肆无忌惮”。昨日，网友们指控WPS“套娃式收费”登上了热搜。不少用户吐槽“吃相难看”，直言“雷布斯在走下坡路”，这是“逼着我卸载”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一颗被证实有大气层的行星出现了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1430271.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1430271.htm"/>
-        <updated>2024-05-15T17:38:24.626Z</updated>
-        <content type="html"><![CDATA[天文学家使用詹姆斯·韦伯太空望远镜（JWST），首次探测到太阳系外一颗岩石行星的大气层，富含二氧化碳或一氧化碳。尽管该行星可能被岩浆海洋覆盖，无法维持生命，但对其研究可增进对地球早期历史的了解。相关论文5月8日发表于《自然》。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《漫长的季节》央视定档5月16日：豆瓣9.4分 近5年评分最高国产剧]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1430194.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1430194.htm"/>
-        <updated>2024-05-09T09:35:11.000Z</updated>
-        <content type="html"><![CDATA[据“CCTV电视剧官微”，<strong>电视剧《漫长的季节》央视定档，将于5月16日起在CCTV-8经典剧场开播。</strong>《漫长的季节》由辛爽执导，范伟、秦昊、陈明昊领衔主演，于2023年4月22日在腾讯视频播出。截稿前，<strong>该剧豆瓣评分为9.4分，是过去5年来豆瓣评分最高的本土电视剧。</strong>]]></content>
     </entry>
 </feed>
