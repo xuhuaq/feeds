@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-05-24T05:38:20.043Z</updated>
+    <updated>2024-05-24T17:37:54.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[先问你一个小问题：如果我们在百度上搜索“马云”这两个字，把时间设定在1998年到2005年，能搜出来的信息，大概有多少条呢？是1亿条，还是1000万条，还是100万条？我在几个群问过，大家普遍的猜想是，应该是百万或者千万的级别。毕竟，互联网信息如此浩如烟海。马云作为那个时代的风云企业家，在网上留下的痕迹肯定是非常多的。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[加微信好友是我扫你还是你扫我 微信：这里大有学问]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432041.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432041.htm"/>
+        <updated>2024-05-24T17:37:54.024Z</updated>
+        <content type="html"><![CDATA[日前，#微信扫一扫加好友有讲究吗#的话题登上热搜，引起许多网友热议，<strong>出门在外加微信好友，是我扫你还是你扫我？</strong>今日，“微信派”公众号发布题为“扫一扫加好友，大有学问！”的文章，微信加好友扫一扫如何应对？官方给支了几招。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[中国芯片产能飙升速度惊人]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1431414.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1431414.htm"/>
         <updated>2024-05-19T17:38:10.704Z</updated>
         <content type="html"><![CDATA[半导体产业迎来新一轮产能比拼，各国都在疯狂新建或扩建晶圆厂。近期数据显示，尽管受到美国禁令限制，中国在芯片建厂、生产的规模上依然领先，主要表现在晶圆厂建设和购买半导体设备，特别是光刻机上。据SEMI统计，2022~2024年，全球半导体产业计划将有82座新设施投产，其中2023年、2024分别有11座及42座投产，涵盖4英寸（100mm）到12英寸（300mm）晶圆的生产线。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国海军电磁轨道炮以5马赫的速度发射智能炸弹 试验宣告失败]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1431930.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1431930.htm"/>
+        <updated>2024-05-23T17:38:01.782Z</updated>
+        <content type="html"><![CDATA[据报道，中国海军对电磁轨道炮进行了测试，以超过 5 马赫（3836 英里/小时）的速度向平流层发射了一枚智能炸弹。然而，由于炸弹没有达到预定高度，也没有按照预期轨迹飞行，试验宣告失败。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4o的中文词元训练数据被发现受到垃圾信息和色情内容的污染]]></title>
@@ -43,6 +57,13 @@
 5nm 工艺及其“麒麟PC芯片”。然而，基于一项新主张的策略是，300 美元起价的主打性价比的设备将被视为芯片库存供应的对象。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[微软VS Code中的GitHub Copilot现已全面可用]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1431801.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1431801.htm"/>
+        <updated>2024-05-23T17:38:01.782Z</updated>
+        <content type="html"><![CDATA[早在 2021 年，也就是 Windows 11 正式推出的时候，微软就展示了GitHub Copilot作为Visual Studio Code（VS Code）的扩展。随着时间的推移，VS Code 代码编辑器的 GitHub Copilot 不断得到更新，变得越来越好。今年 3 月，Visual Studio 17.10 - Preview 2 更新又进行了多项改进，旨在提高开发人员的工作效率。今天在 Build 2024 大会上，微软宣布 GitHub Copilot 已退出预览版阶段，转向正式发布（GA）。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[火星上惊现完美正圆形的巨型大坑 光滑得不正常]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1431516.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1431516.htm"/>
@@ -57,13 +78,6 @@
         <content type="html"><![CDATA[特斯拉首席执行官埃隆·马斯克最近的一篇帖子似乎引发了又一轮争议。这位科技亿万富翁似乎重申了他的要求，即股东给予他特斯拉 25% 的所有权，否则他将停止为该公司开发人工智能和机器人产品。<strong>据Electrek 报道，整件事始于马斯克一再声称特斯拉不仅仅是一家汽车公司；它是人工智能和机器人技术的领导者。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[靠着模仿拼多多京东 阿里成功让老外直呼“你好香”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431357.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431357.htm"/>
-        <updated>2024-05-18T09:40:05.000Z</updated>
-        <content type="html"><![CDATA[折腾了一年多，阿里到底是更好了还是更坏了？前两天，阿里发布了最新一季度的财报，差评君也在第一时间就去瞅了瞅。总的来说，<strong>成绩平平</strong>。比如虽然淘天集团的 GMV 和订单量，实现了双位数的增长，但阿里的净利润却下降了 96%。不过这数据把他们买股票、搞投资亏了的部分也算了进去，不能反映实际经营状况，但刨去这部分亏的钱，他们的经调整净利润也同比小降了 11% 。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[传iPhone 17系列将带来“重大重新设计”引入全新超薄机身]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1431345.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1431345.htm"/>
@@ -71,25 +85,18 @@
         <content type="html"><![CDATA[<strong>据 The Information 报道，苹果公司计划明年推出一款全新的 iPhone 17 机型，采用 "明显更薄 "的设计。</strong>该报道称，这款设备的价格可能高于目前起价 1199 美元的 Pro Max 机型，这表明该设备将成为新的最高端机型。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软VS Code中的GitHub Copilot现已全面可用]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431801.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431801.htm"/>
-        <updated>2024-05-23T17:38:01.782Z</updated>
-        <content type="html"><![CDATA[早在 2021 年，也就是 Windows 11 正式推出的时候，微软就展示了GitHub Copilot作为Visual Studio Code（VS Code）的扩展。随着时间的推移，VS Code 代码编辑器的 GitHub Copilot 不断得到更新，变得越来越好。今年 3 月，Visual Studio 17.10 - Preview 2 更新又进行了多项改进，旨在提高开发人员的工作效率。今天在 Build 2024 大会上，微软宣布 GitHub Copilot 已退出预览版阶段，转向正式发布（GA）。]]></content>
+        <title type="html"><![CDATA[靠着模仿拼多多京东 阿里成功让老外直呼“你好香”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1431357.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1431357.htm"/>
+        <updated>2024-05-18T09:40:05.000Z</updated>
+        <content type="html"><![CDATA[折腾了一年多，阿里到底是更好了还是更坏了？前两天，阿里发布了最新一季度的财报，差评君也在第一时间就去瞅了瞅。总的来说，<strong>成绩平平</strong>。比如虽然淘天集团的 GMV 和订单量，实现了双位数的增长，但阿里的净利润却下降了 96%。不过这数据把他们买股票、搞投资亏了的部分也算了进去，不能反映实际经营状况，但刨去这部分亏的钱，他们的经调整净利润也同比小降了 11% 。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国海军电磁轨道炮以5马赫的速度发射智能炸弹 试验宣告失败]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1431930.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1431930.htm"/>
-        <updated>2024-05-23T17:38:01.782Z</updated>
-        <content type="html"><![CDATA[据报道，中国海军对电磁轨道炮进行了测试，以超过 5 马赫（3836 英里/小时）的速度向平流层发射了一枚智能炸弹。然而，由于炸弹没有达到预定高度，也没有按照预期轨迹飞行，试验宣告失败。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信试行“出入境证件换补发全程网办” 首批20城尝鲜]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431281.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431281.htm"/>
-        <updated>2024-05-22T17:39:54.454Z</updated>
-        <content type="html"><![CDATA[<strong>微信试行“出入境证件换补发全程网办”功能，首批包括20个城市。</strong>这20城为：广州、北京、天津、沈阳、哈尔滨、上海、南京、杭州、宁波、合肥、厦门、济南、青岛、郑州、深圳、珠海、重庆、成都、昆明、西安。]]></content>
+        <title type="html"><![CDATA[三峡坝区首次发现阳彩臂金龟：濒危物种 以腐朽木质为食]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1431884.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1431884.htm"/>
+        <updated>2024-05-24T17:37:54.046Z</updated>
+        <content type="html"><![CDATA[<strong>据“中国三峡集团”官微发文，长江生态环境工程研究中心长江生物多样性研究中心植物保护团队在三峡坝区发现了一只外形奇特的鞘翅目臂金龟科昆虫——阳彩臂金龟。</strong>阳彩臂金龟，作为鞘翅目臂金龟科的一员，以其独特的外形和生态习性吸引了研究人员的注意。<strong>这种昆虫主要以腐朽的木质为食，是大自然中不可或缺的分解者，对于维持生态平衡具有举足轻重的作用。</strong>同时，阳彩臂金龟还拥有极高的观赏价值，是自然界中的瑰宝。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX上调星链“全球漫游”月费：涨幅100% 速度媲美4G]]></title>
@@ -99,40 +106,11 @@
         <content type="html"><![CDATA[近日，SpaceX给出的公告显示，提高星链“全球漫游计划”的月服务价格，涨幅达到了100%<strong>，用户的星链费用从每月200美元提高到400美元（欧洲</strong><strong>每月服务价格上涨至450欧元</strong><strong>），购买后30天内取消，可以获得硬件和服务的全额退款；如果是在去年购买的硬件，可以获得一半退款。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星发布首款Copilot+ PC 预购就送一台50寸电视机]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431674.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431674.htm"/>
-        <updated>2024-05-21T04:47:20.000Z</updated>
-        <content type="html"><![CDATA[微软在周一举行的Surface 发布会上发布了一系列 Copilot Plus PC，三星的参展产品包括一款 14 英寸笔记本电脑和两款 16 英寸笔记本电脑，它们被统称为Galaxy Book4 Edge。如果你今天预购，三星还将免费赠送一台 50 英寸的电视机！]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“摸摸党”退掉十几部手机后遭京东制裁]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1431763.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1431763.htm"/>
         <updated>2024-05-23T17:38:01.788Z</updated>
         <content type="html"><![CDATA[熟悉数码圈的朋友应该都知道“摸摸党”，指的是经常购买某一产品后，使用七天内无理由退货的人群。多用于数码产品领域。很多消费者对“摸摸党”深恶痛绝，因为有时候会买到“摸摸机”，给人一种“买新机买到二手机”的不良体验。据CNMO了解，近日便有一名“摸摸党”故技重施后遭到京东平台“制裁”，结局令人舒适。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果在中国市场宣布史上最大降价 最高降2300元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431613.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431613.htm"/>
-        <updated>2024-05-22T17:39:54.461Z</updated>
-        <content type="html"><![CDATA[在618购物节前夕，<strong>苹果率先在主流手机厂商中宣布对旗下产品进行降价，</strong>最高降幅达到2300元。此次降价活动中，iPhone系列成为焦点，尤其是iPhone 15和iPhone 15 Plus起售价下调1400元，<strong>而高端的iPhone 15 Pro系列更是降价1900元至2300元不等。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有的人一出门就路痴，有的人到哪都是活地图？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1431722.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1431722.htm"/>
-        <updated>2024-05-23T17:38:01.791Z</updated>
-        <content type="html"><![CDATA[像许多研究人们是如何找到从一个地方到另一个地方的路的研究者一样，戴维·乌塔尔（David Uttal）也是一个不善于导航的人。这位美国西北大学的认知科学家回忆道：“13 岁时，我在一次徒步旅行中迷了路，足足走了两天半。”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克回应粉丝吐槽：中国希望特斯拉成功 美国却在攻击它]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431529.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431529.htm"/>
-        <updated>2024-05-20T08:52:40.000Z</updated>
-        <content type="html"><![CDATA[特斯拉CEO埃隆·马斯克（Elon
-Musk）周末在X平台上发帖，对那些希望该公司倒闭的“反对者”表示遗憾。一位特斯拉投资者发帖称：“很多人希望特斯拉（一家美国公司）破产，而宁愿看到比亚迪（一家中国公司）蓬勃发展并获胜，这是令人担忧的、荒谬的和倒退的。疯狂的是，中国希望特斯拉成功，而美国却在攻击它。我不明白。”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[支付宝支持9位数手机号 中国多个城市可领乘车码出行]]></title>
@@ -142,10 +120,31 @@ Musk）周末在X平台上发帖，对那些希望该公司倒闭的“反对者
         <content type="html"><![CDATA[今年“五一”假期，外籍人士出入境较2023年同期增长98.7%，越来越多的海外友人奔赴中国各地旅行，感受长城、西湖、东方明珠等文旅热点目的地。为积极响应《国务院办公厅关于进一步优化支付服务提升支付便利性的意见》，提高外籍人士来华的出行支付便利，<strong>支付宝乘车码服务在以往支持外籍人士用护照、永久居留证等证件基础上，</strong><strong>新增对国外9位数手机号领码出行的支持。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[吴彦祖发布第一条抖音 喊话各地彦祖“收手吧”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1431430.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1431430.htm"/>
-        <updated>2024-05-23T17:38:01.796Z</updated>
-        <content type="html"><![CDATA[今天吴彦祖发布了个人第一条抖音，并喊话各地彦祖“收手吧”。视频中，吴彦祖在抖音搜索自己的名字，发现叫“吴彦祖”的人非常多，他感慨：如果你们都是吴彦祖，那我是谁呢？]]></content>
+        <title type="html"><![CDATA[三星发布首款Copilot+ PC 预购就送一台50寸电视机]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1431674.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1431674.htm"/>
+        <updated>2024-05-21T04:47:20.000Z</updated>
+        <content type="html"><![CDATA[微软在周一举行的Surface 发布会上发布了一系列 Copilot Plus PC，三星的参展产品包括一款 14 英寸笔记本电脑和两款 16 英寸笔记本电脑，它们被统称为Galaxy Book4 Edge。如果你今天预购，三星还将免费赠送一台 50 英寸的电视机！]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有的人一出门就路痴，有的人到哪都是活地图？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1431722.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1431722.htm"/>
+        <updated>2024-05-23T17:38:01.791Z</updated>
+        <content type="html"><![CDATA[像许多研究人们是如何找到从一个地方到另一个地方的路的研究者一样，戴维·乌塔尔（David Uttal）也是一个不善于导航的人。这位美国西北大学的认知科学家回忆道：“13 岁时，我在一次徒步旅行中迷了路，足足走了两天半。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每月花5万，我在新加坡当陪读妈妈]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432037.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432037.htm"/>
+        <updated>2024-05-24T17:37:54.053Z</updated>
+        <content type="html"><![CDATA[看着12岁的儿子A在戏剧课上自信的表现，陈姐觉得，新加坡，来对了。多年前，为了能让A进上海紧俏的公办小学，上海本地人、房产众多的陈姐花大价钱额外购置了一套学区房。但A性格内向，不太合群，一直到三年级，都处于抑郁状态。上体育课的时候，A会在操场的角落背对着老师独自坐着。这一切让陈姐心疼不已。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16 Pro Max首发全新窄边框技术 屏占比创系列新高]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1431902.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1431902.htm"/>
+        <updated>2024-05-24T17:37:54.054Z</updated>
+        <content type="html"><![CDATA[据媒体报道，iPhone 16 Pro Max采用6.9英寸大屏幕，这是苹果史上尺寸最大的手机。<strong>并且苹果iPhone 16 Pro Max采用了BRS技术，进一步缩窄手机边框，实现更高的屏占比。BRS全称是Border Reduction Structure，</strong>这是苹果研发的一项无边框显示技术，BRS允许屏幕底层电路更紧凑和更高效的布局，使边框更窄。]]></content>
     </entry>
 </feed>
