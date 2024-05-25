@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-05-25T05:38:04.548Z</updated>
+    <updated>2024-05-25T17:38:12.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[日前，#微信扫一扫加好友有讲究吗#的话题登上热搜，引起许多网友热议，<strong>出门在外加微信好友，是我扫你还是你扫我？</strong>今日，“微信派”公众号发布题为“扫一扫加好友，大有学问！”的文章，微信加好友扫一扫如何应对？官方给支了几招。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国芯片产能飙升速度惊人]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431414.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431414.htm"/>
-        <updated>2024-05-19T17:38:10.704Z</updated>
-        <content type="html"><![CDATA[半导体产业迎来新一轮产能比拼，各国都在疯狂新建或扩建晶圆厂。近期数据显示，尽管受到美国禁令限制，中国在芯片建厂、生产的规模上依然领先，主要表现在晶圆厂建设和购买半导体设备，特别是光刻机上。据SEMI统计，2022~2024年，全球半导体产业计划将有82座新设施投产，其中2023年、2024分别有11座及42座投产，涵盖4英寸（100mm）到12英寸（300mm）晶圆的生产线。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国海军电磁轨道炮以5马赫的速度发射智能炸弹 试验宣告失败]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1431930.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1431930.htm"/>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[据报道，中国海军对电磁轨道炮进行了测试，以超过 5 马赫（3836 英里/小时）的速度向平流层发射了一枚智能炸弹。然而，由于炸弹没有达到预定高度，也没有按照预期轨迹飞行，试验宣告失败。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4o的中文词元训练数据被发现受到垃圾信息和色情内容的污染]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431377.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431377.htm"/>
-        <updated>2024-05-18T10:21:50.000Z</updated>
-        <content type="html"><![CDATA[OpenAI 于 5 月 13 日（周一）发布 GPT-4o 后不久，一些会说中文的人开始注意到这个最新版本的聊天机器人似乎有些不对劲：它用来解析文本的标记充满了垃圾信息和色情短语。5 月 14 日，普林斯顿大学研究大型语言模型推理效率的博士生蔡天乐（Tianle Cai）访问了 GPT-4o 的公共标记库，并调出了该模型用于解析和压缩中文提示的 100 个最长中文标记的列表。]]></content>
+        <title type="html"><![CDATA[2024年Q1全球手机销量Top 10榜单中只有苹果和三星]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1431998.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1431998.htm"/>
+        <updated>2024-05-23T09:30:02.000Z</updated>
+        <content type="html"><![CDATA[Counterpoint Research发布了2024年第一季度全球畅销智能手机榜单。榜单中，<strong>苹果和三星各占五席，没有留给其他品牌任何席位。</strong>此外，高端化趋势愈演愈烈，十大畅销智能手机中有7款属于高端机型（批发价600美元及以上）。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[收购TikTok可能花费1000亿美元 还不包括算法]]></title>
@@ -46,15 +39,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1431691.htm"/>
         <updated>2024-05-21T09:01:33.000Z</updated>
         <content type="html"><![CDATA[5月21日消息，据外电报道，一家美国公司收购TikTok似乎是该应用程序在美国生存的唯一途径，也可能在欧洲生存。但潜在买家可能会发现自己花了很多钱却得不到他们真正想要的东西：算法。房地产亿万富翁弗兰克·麦考特和前财政部长史蒂文·姆努钦等人已确认他们正在计划竞购该应用程序。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为将在售价300美元左右的设备中使用剩余的麒麟9000芯片库存]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431344.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431344.htm"/>
-        <updated>2024-05-20T17:38:10.301Z</updated>
-        <content type="html"><![CDATA[麒麟 9000S 和该芯片的其他变体让华为收复了在中国的失地，令其竞争对手对其惊人的卷土重来感到高度紧张。
-不幸的是，该公司需要在每一代产品中都引入更先进的工艺来跟上竞争对手的步伐，这就是为什么有传言称该公司将减少所有麒麟9000芯片组的供应，因为它将时间和资源投入到
-5nm 工艺及其“麒麟PC芯片”。然而，基于一项新主张的策略是，300 美元起价的主打性价比的设备将被视为芯片库存供应的对象。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软VS Code中的GitHub Copilot现已全面可用]]></title>
@@ -71,6 +55,13 @@
         <content type="html"><![CDATA[最近，欧空局的“ExoMars火星微量气体轨道器”在火星表面拍到了一个奇怪的的大坑，几乎是完美的正圆形，而且非常光滑。<strong>这个的圆坑直径达到了大约8000米</strong>，而且探测器拍摄时距离火星表面只有400千米，因此呈现了大量细节。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[imec CEO：先进科技上不可能再与中国大陆合作]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1431980.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1431980.htm"/>
+        <updated>2024-05-23T09:09:01.000Z</updated>
+        <content type="html"><![CDATA[与全球各大半导体厂合作的比利时微电子研究中心（imec）CEO范登霍夫在媒体联访时指出，台积电需分散设厂以降低生产太集中的风险，但因成本效益问题，外地提供诱因变得重要。imec聚焦在半导体科技最前端的研发创新，包括台积电、联电、联发科，以及韩国三星、美国英特尔（Intel）等全球重要半导体厂商，都是它的客户。它也是欧洲联盟（EU）推动芯片自主的要角。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[马斯克：给我特斯拉25%股份 否则剥离人工智能和机器人技术]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1431692.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1431692.htm"/>
@@ -78,18 +69,54 @@
         <content type="html"><![CDATA[特斯拉首席执行官埃隆·马斯克最近的一篇帖子似乎引发了又一轮争议。这位科技亿万富翁似乎重申了他的要求，即股东给予他特斯拉 25% 的所有权，否则他将停止为该公司开发人工智能和机器人产品。<strong>据Electrek 报道，整件事始于马斯克一再声称特斯拉不仅仅是一家汽车公司；它是人工智能和机器人技术的领导者。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传iPhone 17系列将带来“重大重新设计”引入全新超薄机身]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431345.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431345.htm"/>
-        <updated>2024-05-21T17:37:56.565Z</updated>
-        <content type="html"><![CDATA[<strong>据 The Information 报道，苹果公司计划明年推出一款全新的 iPhone 17 机型，采用 "明显更薄 "的设计。</strong>该报道称，这款设备的价格可能高于目前起价 1199 美元的 Pro Max 机型，这表明该设备将成为新的最高端机型。]]></content>
+        <title type="html"><![CDATA[最轻薄的等深四曲屏手机 OPPO Reno12发布：2699元起]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432069.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432069.htm"/>
+        <updated>2024-05-25T17:38:12.097Z</updated>
+        <content type="html"><![CDATA[今天下午，<strong>OPPO Reno12正式发布，起售价是2699元。</strong>该机首发OPPO定制的等深四曲屏，它的四曲柔边直屏形态更加柔和自然，上手即有鹅卵石般的温和手感。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[靠着模仿拼多多京东 阿里成功让老外直呼“你好香”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431357.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431357.htm"/>
-        <updated>2024-05-18T09:40:05.000Z</updated>
-        <content type="html"><![CDATA[折腾了一年多，阿里到底是更好了还是更坏了？前两天，阿里发布了最新一季度的财报，差评君也在第一时间就去瞅了瞅。总的来说，<strong>成绩平平</strong>。比如虽然淘天集团的 GMV 和订单量，实现了双位数的增长，但阿里的净利润却下降了 96%。不过这数据把他们买股票、搞投资亏了的部分也算了进去，不能反映实际经营状况，但刨去这部分亏的钱，他们的经调整净利润也同比小降了 11% 。]]></content>
+        <title type="html"><![CDATA[SU7充73.6度电池费了87.86度电？小米官方回应]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432136.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432136.htm"/>
+        <updated>2024-05-24T09:02:49.000Z</updated>
+        <content type="html"><![CDATA[5月24日，针对此前媒体曝光的“小米SU7充满73.6度电池费了87.86度电”的现象。小米官方在《小米SU7答网友问（第四十二集）》中回应表示，这并不是“反向虚标”，也不会额外花费更多的电费，而是真实充电量、放电量的如实体现。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉推出新款水杯：Cybertruck设计风格 上架便迅速售罄]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432045.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432045.htm"/>
+        <updated>2024-05-25T17:38:12.101Z</updated>
+        <content type="html"><![CDATA[<strong>特斯拉受到Cybertruck启发，推出了一款Cybervessel水杯，售价为50美元（约合人民币360元）。</strong>这款Cybervessel水杯提供了两种时尚的颜色选项：经典不锈钢和深邃黑色。<strong>其中，不锈钢版本巧妙地模仿了Cybertruck车身钢板的光泽和质感，让人一眼就能感受到特斯拉品牌的独特魅力。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 5090公版16颗GDDR7显存排得密密麻麻 三层PCB前所未有]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432081.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432081.htm"/>
+        <updated>2024-05-25T17:38:12.101Z</updated>
+        <content type="html"><![CDATA[NVIDIA应该会在今年四季度发布下一代RTX 50系列，有的说只有卡皇RTX 5090一根独苗，也有的说先发RTX 5080再发RTX
+5090，极大概率NVIDIA自己都还没有完全定下来。之前有曝料称，RTX 50系列将会升级到GDDR7显存，而按照最新说法，<strong>RTX 5090 FE公版不但有GDDR7显存，而且排列更加密集，GB202 GPU核心上方4颗、左右各5颗、下方2颗，总计多达16颗。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传苹果20英寸MacBook配备近乎 "无褶皱"的可折叠屏幕]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432090.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432090.htm"/>
+        <updated>2024-05-25T17:38:12.102Z</updated>
+        <content type="html"><![CDATA[据苹果供应链分析师郭明錤（Ming-Chi Kuo）今天透露的信息，LG 计划在 2025 年第四季度开始为配备 18.8 英寸或 20.2 英寸可折叠屏幕的 MacBook 量产显示面板。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16 Pro Max首发全新窄边框技术 屏占比创系列新高]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1431902.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1431902.htm"/>
+        <updated>2024-05-24T17:37:54.054Z</updated>
+        <content type="html"><![CDATA[据媒体报道，iPhone 16 Pro Max采用6.9英寸大屏幕，这是苹果史上尺寸最大的手机。<strong>并且苹果iPhone 16 Pro Max采用了BRS技术，进一步缩窄手机边框，实现更高的屏占比。BRS全称是Border Reduction Structure，</strong>这是苹果研发的一项无边框显示技术，BRS允许屏幕底层电路更紧凑和更高效的布局，使边框更窄。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贾跃亭：套现问题背了十几年的锅 今天正式澄清一下]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432192.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432192.htm"/>
+        <updated>2024-05-25T17:38:12.105Z</updated>
+        <content type="html"><![CDATA[4月24日，贾跃亭发布采访视频，称自己背了十几年的锅，今天正式澄清一下。关于套现问题，贾跃亭表示自己从乐视大约套现两三百亿人民币，用于还债、乐视创业以及FF公司早期投入中。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三峡坝区首次发现阳彩臂金龟：濒危物种 以腐朽木质为食]]></title>
@@ -99,41 +126,6 @@
         <content type="html"><![CDATA[<strong>据“中国三峡集团”官微发文，长江生态环境工程研究中心长江生物多样性研究中心植物保护团队在三峡坝区发现了一只外形奇特的鞘翅目臂金龟科昆虫——阳彩臂金龟。</strong>阳彩臂金龟，作为鞘翅目臂金龟科的一员，以其独特的外形和生态习性吸引了研究人员的注意。<strong>这种昆虫主要以腐朽的木质为食，是大自然中不可或缺的分解者，对于维持生态平衡具有举足轻重的作用。</strong>同时，阳彩臂金龟还拥有极高的观赏价值，是自然界中的瑰宝。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX上调星链“全球漫游”月费：涨幅100% 速度媲美4G]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431694.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431694.htm"/>
-        <updated>2024-05-21T09:11:26.000Z</updated>
-        <content type="html"><![CDATA[近日，SpaceX给出的公告显示，提高星链“全球漫游计划”的月服务价格，涨幅达到了100%<strong>，用户的星链费用从每月200美元提高到400美元（欧洲</strong><strong>每月服务价格上涨至450欧元</strong><strong>），购买后30天内取消，可以获得硬件和服务的全额退款；如果是在去年购买的硬件，可以获得一半退款。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“摸摸党”退掉十几部手机后遭京东制裁]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431763.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431763.htm"/>
-        <updated>2024-05-23T17:38:01.788Z</updated>
-        <content type="html"><![CDATA[熟悉数码圈的朋友应该都知道“摸摸党”，指的是经常购买某一产品后，使用七天内无理由退货的人群。多用于数码产品领域。很多消费者对“摸摸党”深恶痛绝，因为有时候会买到“摸摸机”，给人一种“买新机买到二手机”的不良体验。据CNMO了解，近日便有一名“摸摸党”故技重施后遭到京东平台“制裁”，结局令人舒适。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝支持9位数手机号 中国多个城市可领乘车码出行]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431838.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431838.htm"/>
-        <updated>2024-05-22T09:39:53.000Z</updated>
-        <content type="html"><![CDATA[今年“五一”假期，外籍人士出入境较2023年同期增长98.7%，越来越多的海外友人奔赴中国各地旅行，感受长城、西湖、东方明珠等文旅热点目的地。为积极响应《国务院办公厅关于进一步优化支付服务提升支付便利性的意见》，提高外籍人士来华的出行支付便利，<strong>支付宝乘车码服务在以往支持外籍人士用护照、永久居留证等证件基础上，</strong><strong>新增对国外9位数手机号领码出行的支持。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星发布首款Copilot+ PC 预购就送一台50寸电视机]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431674.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431674.htm"/>
-        <updated>2024-05-21T04:47:20.000Z</updated>
-        <content type="html"><![CDATA[微软在周一举行的Surface 发布会上发布了一系列 Copilot Plus PC，三星的参展产品包括一款 14 英寸笔记本电脑和两款 16 英寸笔记本电脑，它们被统称为Galaxy Book4 Edge。如果你今天预购，三星还将免费赠送一台 50 英寸的电视机！]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有的人一出门就路痴，有的人到哪都是活地图？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1431722.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1431722.htm"/>
-        <updated>2024-05-23T17:38:01.791Z</updated>
-        <content type="html"><![CDATA[像许多研究人们是如何找到从一个地方到另一个地方的路的研究者一样，戴维·乌塔尔（David Uttal）也是一个不善于导航的人。这位美国西北大学的认知科学家回忆道：“13 岁时，我在一次徒步旅行中迷了路，足足走了两天半。”]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[每月花5万，我在新加坡当陪读妈妈]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1432037.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1432037.htm"/>
@@ -141,10 +133,19 @@
         <content type="html"><![CDATA[看着12岁的儿子A在戏剧课上自信的表现，陈姐觉得，新加坡，来对了。多年前，为了能让A进上海紧俏的公办小学，上海本地人、房产众多的陈姐花大价钱额外购置了一套学区房。但A性格内向，不太合群，一直到三年级，都处于抑郁状态。上体育课的时候，A会在操场的角落背对着老师独自坐着。这一切让陈姐心疼不已。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 Pro Max首发全新窄边框技术 屏占比创系列新高]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431902.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431902.htm"/>
-        <updated>2024-05-24T17:37:54.054Z</updated>
-        <content type="html"><![CDATA[据媒体报道，iPhone 16 Pro Max采用6.9英寸大屏幕，这是苹果史上尺寸最大的手机。<strong>并且苹果iPhone 16 Pro Max采用了BRS技术，进一步缩窄手机边框，实现更高的屏占比。BRS全称是Border Reduction Structure，</strong>这是苹果研发的一项无边框显示技术，BRS允许屏幕底层电路更紧凑和更高效的布局，使边框更窄。]]></content>
+        <title type="html"><![CDATA[悲哀的现实：法拉第暴涨 却与贾跃亭无关]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432114.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432114.htm"/>
+        <updated>2024-05-24T01:40:44.000Z</updated>
+        <content type="html"><![CDATA[5 月 14 日起的一周之内，原本已经注定退市、每股股价不到 0.04 美元的法拉第未来，迎来了一场累计涨幅达 3487%
+的回光返照。过去十年仅交付11辆车的法拉第未来（下文简称 FF），在本次时隔三年再度掀起的 meme 股浪潮中与游戏驿站、AMC
+一道，成为散户挤压空头的选择。但比起后两者平均两位数的涨幅，FF 过去一周的涨幅足以用“抽象”来形容。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国人拆了辆比亚迪电车后，彻底破防了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432060.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432060.htm"/>
+        <updated>2024-05-25T17:38:12.111Z</updated>
+        <content type="html"><![CDATA[最近，一家美国公司对比亚迪海鸥进行了深入拆解，结果被惊讶到了。他们本以为价格低廉的情况下，会粗制滥造，但拆解后发现，这款车不但驾驶性能出色，生产工艺甚至还可以和价格更高的美国产电动车媲美。]]></content>
     </entry>
 </feed>
