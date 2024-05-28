@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-28T05:38:06.727Z</updated>
+    <updated>2024-05-28T17:38:12.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[中文互联网正在加速崩塌 (cnbeta一周排行)]]></title>
@@ -24,6 +24,14 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1432242.htm"/>
         <updated>2024-05-26T17:38:11.963Z</updated>
         <content type="html"><![CDATA[德国的晴天意味着太阳能盈利能力的阴云密布，因为该国对可再生能源的投入使其能源过剩。根据SEB Research的一份报告，在过去的10天里，太阳能生产商不得不在生产时间内降价87%。事实上，当产量达到峰值时，价格已跌至远低于零的水平。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因为没人介绍Android 15更新 我决定给大家写一份超全汇总 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432326.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432326.htm"/>
+        <updated>2024-05-26T09:42:06.000Z</updated>
+        <content type="html"><![CDATA[前几天的Google开发者大会（ Google IO ），不知道大家都看过了没？没看也没事，发布的东西和 ChatGPT 4o
+非常像。最近这两年，Google IO 大会的核心议题几乎全都是 AI ，但再往前数几届，Android系统的大版本更新才是主角。可惜如今， Android 系统俨然成了 AI 的配角，一点儿声量都没有，让我这种老机油一阵唏嘘。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SU7充73.6度电池费了87.86度电？小米官方回应 (cnbeta一周排行)]]></title>
@@ -54,11 +62,32 @@
         <content type="html"><![CDATA[与全球各大半导体厂合作的比利时微电子研究中心（imec）CEO范登霍夫在媒体联访时指出，台积电需分散设厂以降低生产太集中的风险，但因成本效益问题，外地提供诱因变得重要。imec聚焦在半导体科技最前端的研发创新，包括台积电、联电、联发科，以及韩国三星、美国英特尔（Intel）等全球重要半导体厂商，都是它的客户。它也是欧洲联盟（EU）推动芯片自主的要角。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[苹果上架iPhone 14/Pro官翻机：起售价不到5000元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432270.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432270.htm"/>
+        <updated>2024-05-25T09:58:11.000Z</updated>
+        <content type="html"><![CDATA[苹果每年在推出新iPhone之后，都会将前一代的Pro系列直接下架，无法通过官网购买。<strong>不过苹果最新在美国官网重新上架了iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max三款机型，都是官方翻新机。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有俄企一次性下单采购40台小米SU7 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432342.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432342.htm"/>
+        <updated>2024-05-26T10:10:21.000Z</updated>
+        <content type="html"><![CDATA[小米SU7在国内已是现象级热销车型，而小米SU7在海外，也同样吸引了不少老外用户。近日，广东省对俄贸易促进会发布了一条“国外企业采购小米汽车通知”。其上显示，<strong>有海外企业一次性采购40台小米SU7，要求外观湿沥青（橄榄绿）；内饰颜色为银河灰、nappa真皮、需要配备基本设备等。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[最轻薄的等深四曲屏手机 OPPO Reno12发布：2699元起 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1432069.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1432069.htm"/>
         <updated>2024-05-25T17:38:12.097Z</updated>
         <content type="html"><![CDATA[今天下午，<strong>OPPO Reno12正式发布，起售价是2699元。</strong>该机首发OPPO定制的等深四曲屏，它的四曲柔边直屏形态更加柔和自然，上手即有鹅卵石般的温和手感。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯首台光刻机已经制造完成并正在进行测试 可生产350纳米工艺芯片 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432289.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432289.htm"/>
+        <updated>2024-05-27T17:38:10.812Z</updated>
+        <content type="html"><![CDATA[据塔斯社报道，俄罗斯首台光刻机已经制造完成并正在进行测试。俄罗斯联邦工业和贸易部副部长瓦西里-什帕克（Vasily Shpak）指出，该设备可确保生产350纳米的芯片。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[有关稀土元素钷的新发现将改写化学教科书 (cnbeta一周排行)]]></title>
@@ -69,18 +98,11 @@
 80 年前在同一个实验室首次发现的。他们的发现为探索从医学到太空旅行等现代技术中的关键元素开辟了一条新途径。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果上架iPhone 14/Pro官翻机：起售价不到5000元 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432270.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432270.htm"/>
-        <updated>2024-05-25T09:58:11.000Z</updated>
-        <content type="html"><![CDATA[苹果每年在推出新iPhone之后，都会将前一代的Pro系列直接下架，无法通过官网购买。<strong>不过苹果最新在美国官网重新上架了iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max三款机型，都是官方翻新机。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[收购TikTok可能花费1000亿美元 还不包括算法 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431691.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431691.htm"/>
-        <updated>2024-05-21T09:01:33.000Z</updated>
-        <content type="html"><![CDATA[5月21日消息，据外电报道，一家美国公司收购TikTok似乎是该应用程序在美国生存的唯一途径，也可能在欧洲生存。但潜在买家可能会发现自己花了很多钱却得不到他们真正想要的东西：算法。房地产亿万富翁弗兰克·麦考特和前财政部长史蒂文·姆努钦等人已确认他们正在计划竞购该应用程序。]]></content>
+        <title type="html"><![CDATA[特斯拉推出新款水杯：Cybertruck设计风格 上架便迅速售罄 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432045.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432045.htm"/>
+        <updated>2024-05-25T17:38:12.101Z</updated>
+        <content type="html"><![CDATA[<strong>特斯拉受到Cybertruck启发，推出了一款Cybervessel水杯，售价为50美元（约合人民币360元）。</strong>这款Cybervessel水杯提供了两种时尚的颜色选项：经典不锈钢和深邃黑色。<strong>其中，不锈钢版本巧妙地模仿了Cybertruck车身钢板的光泽和质感，让人一眼就能感受到特斯拉品牌的独特魅力。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中芯国际市场份额跃升至全球第三 仅次于台积电、三星 (cnbeta一周排行)]]></title>
@@ -90,13 +112,6 @@
         <content type="html"><![CDATA[根据研究机构Counterpoint的最新报告，中芯国际在2024年第一季度的全球晶圆代工行业中取得了历史性的突破，<strong>以6%的市场份额升至全球第三大晶圆代工厂，仅次于台积电和三星。</strong>报告指出，尽管2024年第一季度全球晶圆代工业营收环比下滑了5%，但同比增长了12%。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉推出新款水杯：Cybertruck设计风格 上架便迅速售罄 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432045.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432045.htm"/>
-        <updated>2024-05-25T17:38:12.101Z</updated>
-        <content type="html"><![CDATA[<strong>特斯拉受到Cybertruck启发，推出了一款Cybervessel水杯，售价为50美元（约合人民币360元）。</strong>这款Cybervessel水杯提供了两种时尚的颜色选项：经典不锈钢和深邃黑色。<strong>其中，不锈钢版本巧妙地模仿了Cybertruck车身钢板的光泽和质感，让人一眼就能感受到特斯拉品牌的独特魅力。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微软VS Code中的GitHub Copilot现已全面可用 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1431801.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1431801.htm"/>
@@ -104,19 +119,11 @@
         <content type="html"><![CDATA[早在 2021 年，也就是 Windows 11 正式推出的时候，微软就展示了GitHub Copilot作为Visual Studio Code（VS Code）的扩展。随着时间的推移，VS Code 代码编辑器的 GitHub Copilot 不断得到更新，变得越来越好。今年 3 月，Visual Studio 17.10 - Preview 2 更新又进行了多项改进，旨在提高开发人员的工作效率。今天在 Build 2024 大会上，微软宣布 GitHub Copilot 已退出预览版阶段，转向正式发布（GA）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[因为没人介绍Android 15更新 我决定给大家写一份超全汇总 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432326.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432326.htm"/>
-        <updated>2024-05-26T09:42:06.000Z</updated>
-        <content type="html"><![CDATA[前几天的Google开发者大会（ Google IO ），不知道大家都看过了没？没看也没事，发布的东西和 ChatGPT 4o
-非常像。最近这两年，Google IO 大会的核心议题几乎全都是 AI ，但再往前数几届，Android系统的大版本更新才是主角。可惜如今， Android 系统俨然成了 AI 的配角，一点儿声量都没有，让我这种老机油一阵唏嘘。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贾跃亭：套现问题背了十几年的锅 今天正式澄清一下 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432192.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432192.htm"/>
-        <updated>2024-05-25T17:38:12.105Z</updated>
-        <content type="html"><![CDATA[4月24日，贾跃亭发布采访视频，称自己背了十几年的锅，今天正式澄清一下。关于套现问题，贾跃亭表示自己从乐视大约套现两三百亿人民币，用于还债、乐视创业以及FF公司早期投入中。]]></content>
+        <title type="html"><![CDATA[华为手机时隔13个季度重回中国第一 苹果大跌25%滑落至第五 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432337.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432337.htm"/>
+        <updated>2024-05-26T10:04:14.000Z</updated>
+        <content type="html"><![CDATA[Canalys最新数据报告显示，<strong>2024年第一季度，中国大陆智能手机市场时隔两年首次回暖，出货量与去年同期持平，达6770万台。</strong>其中，<strong>华为经历了13个季度，重夺中国大陆市场第一，凭借Mate及nova系列热烈的市场反响，出货量达1170万台，市场份额达17%，年增长率高达70%。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[工资太低还没招到司机 印度驻华大使馆再发招聘：月薪上调到6500元 (cnbeta一周排行)]]></title>
@@ -126,25 +133,17 @@
         <content type="html"><![CDATA[上月底，印度驻华大使馆发布招聘公告，招聘一名司机。要求有至少五年驾龄，同时有用英语交流的能力并且熟悉北京路况，且持有中国境内有效的驾照，可以开12-14座位的机动车，<strong>当时给出的薪资标准为4500元人民币起和额外津贴</strong>。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[贾跃亭：套现问题背了十几年的锅 今天正式澄清一下 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432192.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432192.htm"/>
+        <updated>2024-05-25T17:38:12.105Z</updated>
+        <content type="html"><![CDATA[4月24日，贾跃亭发布采访视频，称自己背了十几年的锅，今天正式澄清一下。关于套现问题，贾跃亭表示自己从乐视大约套现两三百亿人民币，用于还债、乐视创业以及FF公司早期投入中。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone 16 Pro Max首发全新窄边框技术 屏占比创系列新高 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1431902.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1431902.htm"/>
         <updated>2024-05-24T17:37:54.054Z</updated>
         <content type="html"><![CDATA[据媒体报道，iPhone 16 Pro Max采用6.9英寸大屏幕，这是苹果史上尺寸最大的手机。<strong>并且苹果iPhone 16 Pro Max采用了BRS技术，进一步缩窄手机边框，实现更高的屏占比。BRS全称是Border Reduction Structure，</strong>这是苹果研发的一项无边框显示技术，BRS允许屏幕底层电路更紧凑和更高效的布局，使边框更窄。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTX 5090公版16颗GDDR7显存排得密密麻麻 三层PCB前所未有 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432081.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432081.htm"/>
-        <updated>2024-05-25T17:38:12.101Z</updated>
-        <content type="html"><![CDATA[NVIDIA应该会在今年四季度发布下一代RTX 50系列，有的说只有卡皇RTX 5090一根独苗，也有的说先发RTX 5080再发RTX
-5090，极大概率NVIDIA自己都还没有完全定下来。之前有曝料称，RTX 50系列将会升级到GDDR7显存，而按照最新说法，<strong>RTX 5090 FE公版不但有GDDR7显存，而且排列更加密集，GB202 GPU核心上方4颗、左右各5颗、下方2颗，总计多达16颗。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯首台光刻机已经制造完成并正在进行测试 可生产350纳米工艺芯片 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432289.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432289.htm"/>
-        <updated>2024-05-27T17:38:10.812Z</updated>
-        <content type="html"><![CDATA[据塔斯社报道，俄罗斯首台光刻机已经制造完成并正在进行测试。俄罗斯联邦工业和贸易部副部长瓦西里-什帕克（Vasily Shpak）指出，该设备可确保生产350纳米的芯片。]]></content>
     </entry>
 </feed>
