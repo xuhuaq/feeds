@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-29T05:38:57.768Z</updated>
+    <updated>2024-05-29T17:38:20.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[中文互联网正在加速崩塌 (cnbeta一周排行)]]></title>
@@ -34,18 +34,18 @@
 非常像。最近这两年，Google IO 大会的核心议题几乎全都是 AI ，但再往前数几届，Android系统的大版本更新才是主角。可惜如今， Android 系统俨然成了 AI 的配角，一点儿声量都没有，让我这种老机油一阵唏嘘。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[年薪百万一夜归零 京东40岁女高管自述：从签字到走人半天结束 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432552.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432552.htm"/>
+        <updated>2024-05-28T09:06:55.000Z</updated>
+        <content type="html"><![CDATA[铁打的营盘流水的兵，职场上，每天有新人加入，也会有人主动或被动离开，是很正常的现象。但在网络上，京东严抓考勤、一些老员工被开，以及话事人的内部讲话流出之后，吸引了很多网友的关注和讨论。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SU7充73.6度电池费了87.86度电？小米官方回应 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1432136.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1432136.htm"/>
         <updated>2024-05-24T09:02:49.000Z</updated>
         <content type="html"><![CDATA[5月24日，针对此前媒体曝光的“小米SU7充满73.6度电池费了87.86度电”的现象。小米官方在《小米SU7答网友问（第四十二集）》中回应表示，这并不是“反向虚标”，也不会额外花费更多的电费，而是真实充电量、放电量的如实体现。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国海军电磁轨道炮以5马赫的速度发射智能炸弹 试验宣告失败 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1431930.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1431930.htm"/>
-        <updated>2024-05-23T17:38:01.782Z</updated>
-        <content type="html"><![CDATA[据报道，中国海军对电磁轨道炮进行了测试，以超过 5 马赫（3836 英里/小时）的速度向平流层发射了一枚智能炸弹。然而，由于炸弹没有达到预定高度，也没有按照预期轨迹飞行，试验宣告失败。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024年Q1全球手机销量Top 10榜单中只有苹果和三星 (cnbeta一周排行)]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[Counterpoint Research发布了2024年第一季度全球畅销智能手机榜单。榜单中，<strong>苹果和三星各占五席，没有留给其他品牌任何席位。</strong>此外，高端化趋势愈演愈烈，十大畅销智能手机中有7款属于高端机型（批发价600美元及以上）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[imec CEO：先进科技上不可能再与中国大陆合作 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431980.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431980.htm"/>
-        <updated>2024-05-23T09:09:01.000Z</updated>
-        <content type="html"><![CDATA[与全球各大半导体厂合作的比利时微电子研究中心（imec）CEO范登霍夫在媒体联访时指出，台积电需分散设厂以降低生产太集中的风险，但因成本效益问题，外地提供诱因变得重要。imec聚焦在半导体科技最前端的研发创新，包括台积电、联电、联发科，以及韩国三星、美国英特尔（Intel）等全球重要半导体厂商，都是它的客户。它也是欧洲联盟（EU）推动芯片自主的要角。]]></content>
+        <title type="html"><![CDATA[有俄企一次性下单采购40台小米SU7 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432342.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432342.htm"/>
+        <updated>2024-05-26T10:10:21.000Z</updated>
+        <content type="html"><![CDATA[小米SU7在国内已是现象级热销车型，而小米SU7在海外，也同样吸引了不少老外用户。近日，广东省对俄贸易促进会发布了一条“国外企业采购小米汽车通知”。其上显示，<strong>有海外企业一次性采购40台小米SU7，要求外观湿沥青（橄榄绿）；内饰颜色为银河灰、nappa真皮、需要配备基本设备等。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果上架iPhone 14/Pro官翻机：起售价不到5000元 (cnbeta一周排行)]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[苹果每年在推出新iPhone之后，都会将前一代的Pro系列直接下架，无法通过官网购买。<strong>不过苹果最新在美国官网重新上架了iPhone 14、iPhone 14 Pro和iPhone 14 Pro Max三款机型，都是官方翻新机。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有俄企一次性下单采购40台小米SU7 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432342.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432342.htm"/>
-        <updated>2024-05-26T10:10:21.000Z</updated>
-        <content type="html"><![CDATA[小米SU7在国内已是现象级热销车型，而小米SU7在海外，也同样吸引了不少老外用户。近日，广东省对俄贸易促进会发布了一条“国外企业采购小米汽车通知”。其上显示，<strong>有海外企业一次性采购40台小米SU7，要求外观湿沥青（橄榄绿）；内饰颜色为银河灰、nappa真皮、需要配备基本设备等。</strong>]]></content>
+        <title type="html"><![CDATA[imec CEO：先进科技上不可能再与中国大陆合作 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1431980.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1431980.htm"/>
+        <updated>2024-05-23T09:09:01.000Z</updated>
+        <content type="html"><![CDATA[与全球各大半导体厂合作的比利时微电子研究中心（imec）CEO范登霍夫在媒体联访时指出，台积电需分散设厂以降低生产太集中的风险，但因成本效益问题，外地提供诱因变得重要。imec聚焦在半导体科技最前端的研发创新，包括台积电、联电、联发科，以及韩国三星、美国英特尔（Intel）等全球重要半导体厂商，都是它的客户。它也是欧洲联盟（EU）推动芯片自主的要角。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[最轻薄的等深四曲屏手机 OPPO Reno12发布：2699元起 (cnbeta一周排行)]]></title>
@@ -98,6 +98,13 @@
 80 年前在同一个实验室首次发现的。他们的发现为探索从医学到太空旅行等现代技术中的关键元素开辟了一条新途径。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[华为手机时隔13个季度重回中国第一 苹果大跌25%滑落至第五 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432337.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432337.htm"/>
+        <updated>2024-05-26T10:04:14.000Z</updated>
+        <content type="html"><![CDATA[Canalys最新数据报告显示，<strong>2024年第一季度，中国大陆智能手机市场时隔两年首次回暖，出货量与去年同期持平，达6770万台。</strong>其中，<strong>华为经历了13个季度，重夺中国大陆市场第一，凭借Mate及nova系列热烈的市场反响，出货量达1170万台，市场份额达17%，年增长率高达70%。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[特斯拉推出新款水杯：Cybertruck设计风格 上架便迅速售罄 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1432045.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1432045.htm"/>
@@ -112,25 +119,18 @@
         <content type="html"><![CDATA[根据研究机构Counterpoint的最新报告，中芯国际在2024年第一季度的全球晶圆代工行业中取得了历史性的突破，<strong>以6%的市场份额升至全球第三大晶圆代工厂，仅次于台积电和三星。</strong>报告指出，尽管2024年第一季度全球晶圆代工业营收环比下滑了5%，但同比增长了12%。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软VS Code中的GitHub Copilot现已全面可用 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431801.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431801.htm"/>
-        <updated>2024-05-23T17:38:01.782Z</updated>
-        <content type="html"><![CDATA[早在 2021 年，也就是 Windows 11 正式推出的时候，微软就展示了GitHub Copilot作为Visual Studio Code（VS Code）的扩展。随着时间的推移，VS Code 代码编辑器的 GitHub Copilot 不断得到更新，变得越来越好。今年 3 月，Visual Studio 17.10 - Preview 2 更新又进行了多项改进，旨在提高开发人员的工作效率。今天在 Build 2024 大会上，微软宣布 GitHub Copilot 已退出预览版阶段，转向正式发布（GA）。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为手机时隔13个季度重回中国第一 苹果大跌25%滑落至第五 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432337.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432337.htm"/>
-        <updated>2024-05-26T10:04:14.000Z</updated>
-        <content type="html"><![CDATA[Canalys最新数据报告显示，<strong>2024年第一季度，中国大陆智能手机市场时隔两年首次回暖，出货量与去年同期持平，达6770万台。</strong>其中，<strong>华为经历了13个季度，重夺中国大陆市场第一，凭借Mate及nova系列热烈的市场反响，出货量达1170万台，市场份额达17%，年增长率高达70%。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[工资太低还没招到司机 印度驻华大使馆再发招聘：月薪上调到6500元 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/funny/1432209.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/funny/1432209.htm"/>
         <updated>2024-05-26T17:38:11.971Z</updated>
         <content type="html"><![CDATA[上月底，印度驻华大使馆发布招聘公告，招聘一名司机。要求有至少五年驾龄，同时有用英语交流的能力并且熟悉北京路况，且持有中国境内有效的驾照，可以开12-14座位的机动车，<strong>当时给出的薪资标准为4500元人民币起和额外津贴</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开启00后专属的微信功能 我竟然收获一个纯聊天版微信 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432618.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432618.htm"/>
+        <updated>2024-05-29T17:38:19.792Z</updated>
+        <content type="html"><![CDATA[今天微信官方介绍了4个为青少年量身定制的微信功能，如果之前没接触过可以学一下，毕竟技多不压身。如果你还是位家有青少年的家长，那就更得学起来。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[贾跃亭：套现问题背了十几年的锅 今天正式澄清一下 (cnbeta一周排行)]]></title>
@@ -140,10 +140,11 @@
         <content type="html"><![CDATA[4月24日，贾跃亭发布采访视频，称自己背了十几年的锅，今天正式澄清一下。关于套现问题，贾跃亭表示自己从乐视大约套现两三百亿人民币，用于还债、乐视创业以及FF公司早期投入中。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 Pro Max首发全新窄边框技术 屏占比创系列新高 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1431902.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1431902.htm"/>
-        <updated>2024-05-24T17:37:54.054Z</updated>
-        <content type="html"><![CDATA[据媒体报道，iPhone 16 Pro Max采用6.9英寸大屏幕，这是苹果史上尺寸最大的手机。<strong>并且苹果iPhone 16 Pro Max采用了BRS技术，进一步缩窄手机边框，实现更高的屏占比。BRS全称是Border Reduction Structure，</strong>这是苹果研发的一项无边框显示技术，BRS允许屏幕底层电路更紧凑和更高效的布局，使边框更窄。]]></content>
+        <title type="html"><![CDATA[RTX 5090公版16颗GDDR7显存排得密密麻麻 三层PCB前所未有 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432081.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432081.htm"/>
+        <updated>2024-05-29T17:38:19.795Z</updated>
+        <content type="html"><![CDATA[NVIDIA应该会在今年四季度发布下一代RTX 50系列，有的说只有卡皇RTX 5090一根独苗，也有的说先发RTX 5080再发RTX
+5090，极大概率NVIDIA自己都还没有完全定下来。之前有曝料称，RTX 50系列将会升级到GDDR7显存，而按照最新说法，<strong>RTX 5090 FE公版不但有GDDR7显存，而且排列更加密集，GB202 GPU核心上方4颗、左右各5颗、下方2颗，总计多达16颗。</strong>]]></content>
     </entry>
 </feed>
