@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-06-02T05:38:04.373Z</updated>
+    <updated>2024-06-02T17:38:13.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,40 +20,11 @@
         <content type="html"><![CDATA[3月底，小米SU7正式启动预订后，仅仅27分钟就实现了超过5万辆的预订量，这一数字充分展示了消费者对这款新车的热烈响应和迫切需求。在这波购车热潮中，<strong>郑州的一位女孩公开向小米创始人雷军发出呼吁，希望能优先获得一辆小米SU7。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[因为没人介绍Android 15更新 我决定给大家写一份超全汇总]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432326.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432326.htm"/>
-        <updated>2024-05-26T09:42:06.000Z</updated>
-        <content type="html"><![CDATA[前几天的Google开发者大会（ Google IO ），不知道大家都看过了没？没看也没事，发布的东西和 ChatGPT 4o
-非常像。最近这两年，Google IO 大会的核心议题几乎全都是 AI ，但再往前数几届，Android系统的大版本更新才是主角。可惜如今， Android 系统俨然成了 AI 的配角，一点儿声量都没有，让我这种老机油一阵唏嘘。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[开启00后专属的微信功能 我竟然收获一个纯聊天版微信]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1432618.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1432618.htm"/>
         <updated>2024-05-29T17:38:19.792Z</updated>
         <content type="html"><![CDATA[今天微信官方介绍了4个为青少年量身定制的微信功能，如果之前没接触过可以学一下，毕竟技多不压身。如果你还是位家有青少年的家长，那就更得学起来。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有俄企一次性下单采购40台小米SU7]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432342.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432342.htm"/>
-        <updated>2024-05-26T10:10:21.000Z</updated>
-        <content type="html"><![CDATA[小米SU7在国内已是现象级热销车型，而小米SU7在海外，也同样吸引了不少老外用户。近日，广东省对俄贸易促进会发布了一条“国外企业采购小米汽车通知”。其上显示，<strong>有海外企业一次性采购40台小米SU7，要求外观湿沥青（橄榄绿）；内饰颜色为银河灰、nappa真皮、需要配备基本设备等。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解开新型恐惧：蜘蛛捕食比自己大355倍的蛇 像喝奶一样吸干它]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1432678.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1432678.htm"/>
-        <updated>2024-05-31T17:37:58.947Z</updated>
-        <content type="html"><![CDATA[没有什么比看到蛇，或者看到蜘蛛更吓人的了。然而近日，澳大利亚的一名游客解锁了一种新型的恐惧，在散步的时候，他看到了真实版的蜘蛛吃蛇的恐怖画面。难以置信，也非常震惊，游客立马报告了此事情，然后工作人员布莱克拍下了开头这三张照片。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拼多多这是被淘宝彻底逼急了 竟然用上这种招数]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432745.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432745.htm"/>
-        <updated>2024-05-30T17:38:18.733Z</updated>
-        <content type="html"><![CDATA[最新财报里赚了大钱的拼多多，正在引起很多用户疑虑，平台这么赚钱是不是证明我们买东西变贵了？一些奇怪的事就这样发生了。这两天，有用户发现，拼多多少数商品下面多了一行小字： “比淘宝便宜”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA CEO黄仁勋在访问台北街头时称台湾为最重要的国家之一]]></title>
@@ -63,11 +34,18 @@
         <content type="html"><![CDATA[NVIDIA首席执行官黄仁勋将台湾归类为最重要的国家之一，认为台湾在世界上发挥着技术作用，公司重申台湾的重要性，并将在岛内大规模投资新建研发设施。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为手机时隔13个季度重回中国第一 苹果大跌25%滑落至第五]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432337.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432337.htm"/>
-        <updated>2024-05-26T10:04:14.000Z</updated>
-        <content type="html"><![CDATA[Canalys最新数据报告显示，<strong>2024年第一季度，中国大陆智能手机市场时隔两年首次回暖，出货量与去年同期持平，达6770万台。</strong>其中，<strong>华为经历了13个季度，重夺中国大陆市场第一，凭借Mate及nova系列热烈的市场反响，出货量达1170万台，市场份额达17%，年增长率高达70%。</strong>]]></content>
+        <title type="html"><![CDATA[拼多多这是被淘宝彻底逼急了 竟然用上这种招数]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432745.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432745.htm"/>
+        <updated>2024-05-30T17:38:18.733Z</updated>
+        <content type="html"><![CDATA[最新财报里赚了大钱的拼多多，正在引起很多用户疑虑，平台这么赚钱是不是证明我们买东西变贵了？一些奇怪的事就这样发生了。这两天，有用户发现，拼多多少数商品下面多了一行小字： “比淘宝便宜”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解开新型恐惧：蜘蛛捕食比自己大355倍的蛇 像喝奶一样吸干它]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1432678.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1432678.htm"/>
+        <updated>2024-05-31T17:37:58.947Z</updated>
+        <content type="html"><![CDATA[没有什么比看到蛇，或者看到蜘蛛更吓人的了。然而近日，澳大利亚的一名游客解锁了一种新型的恐惧，在散步的时候，他看到了真实版的蜘蛛吃蛇的恐怖画面。难以置信，也非常震惊，游客立马报告了此事情，然后工作人员布莱克拍下了开头这三张照片。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为高管谈我国芯片技术：3/5nm肯定得不到 解决7nm就非常非常好了]]></title>
@@ -77,18 +55,18 @@
         <content type="html"><![CDATA[近日，华为常务董事张平安表示，我们半导体能解决7nm就非常非常好。<strong>张平安表示：“中国我们肯定是得不到3nm，肯定得不到5nm，我们能解决7nm就非常非常好。”</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使命终结！中国联通：6月12日起停止在线上办理5G通信壳业务]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432951.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432951.htm"/>
+        <updated>2024-06-01T17:38:12.624Z</updated>
+        <content type="html"><![CDATA[据中国联通App公告，<strong>2024年6月12日起，中国联通App将不再支持办理5G通信壳业务。据悉，此前数源科技曾为华为P50、P60、Mate 50系列推出过5G通信壳，让华为用户在特殊时期也能用上5G网络。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[原价38元抢购一空 麦当劳对讲机被炒至300元]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1432479.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1432479.htm"/>
         <updated>2024-05-30T17:38:18.728Z</updated>
         <content type="html"><![CDATA[为了迎接即将到来的六一儿童节，<strong>麦当劳日前推出麦麦对讲机，两只为一套，采用经典麦乐鸡块和薯条造型。</strong>据了解，购买麦当劳任意食品或套餐，加38元即可换购麦麦对讲机，限量50万对，受到消费者抢购。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软公布了 Windows 11 LTSC 2024 的最低系统要求和CPU支持情况]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432344.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432344.htm"/>
-        <updated>2024-05-26T10:16:57.000Z</updated>
-        <content type="html"><![CDATA[日前，微软宣布开始为下一个 Windows 功能更新版本 24H2 进行 WHCP 硬件认证。这从根本上确保了Windows 11 24H2 系统要求的兼容 CPU 等资格得到 AMD 或 Intel 等硬件合作伙伴的适当维护。虽然系统要求预计不会改变，但非常老旧的处理器将无法绕过 Windows 11 24H2 的资格限制，因为它们没有PopCnt 和 SSE4.2 指令。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《庆余年2》范闲林婉儿婚服引热议：Blender建模 凤冠3D打印]]></title>
@@ -98,13 +76,6 @@
         <content type="html"><![CDATA[今日，<strong>《庆余年2》官方发布的范闲和林婉儿大婚名场面引起网友热议，等了五年的大婚终于来了。</strong>《庆余年2》导演孙皓表示，这次拍戏的人和演员，包括在现场的都喜欢那个头饰，因为那个头饰特别像糖，具有甜蜜感。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使命终结！中国联通：6月12日起停止在线上办理5G通信壳业务]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432951.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432951.htm"/>
-        <updated>2024-06-01T17:38:12.624Z</updated>
-        <content type="html"><![CDATA[据中国联通App公告，<strong>2024年6月12日起，中国联通App将不再支持办理5G通信壳业务。据悉，此前数源科技曾为华为P50、P60、Mate 50系列推出过5G通信壳，让华为用户在特殊时期也能用上5G网络。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[女子喂乌龟火龙果第2天获炫彩神龟 专家释疑]]></title>
         <id>https://www.cnbeta.com.tw/articles/funny/1432439.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/funny/1432439.htm"/>
@@ -112,18 +83,18 @@
         <content type="html"><![CDATA[5月27日消息，近日，广西南宁一女子把没吃完的火龙果切块放乌龟盆里，第二天发现乌龟吃光了火龙果竟变成了“染色乌龟”。这神奇的一幕，迅速引来了很多网友的围观，有人风趣的表示，又打开了饲养乌龟的新方式。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一台DNS根服务器与同伴失去了联系 草台班子运维让故障持续长达四天]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432359.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432359.htm"/>
-        <updated>2024-05-26T11:32:00.000Z</updated>
-        <content type="html"><![CDATA[在过去的四天多的时间里，互联网域名系统最核心的一台服务器与它的 12 台根服务器不同步，原因是一个无法解释的故障，它可能会导致全球范围内的稳定性和安全性问题。这台服务器由互联网运营商<a href="http://www.cogentco.com/">Cogent Communications</a> 维护，是提供互联网根区的 13 台根服务器之一，位于被称为域名系统（DNS）的分级分布式数据库的顶端。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[腾讯终于等到一棵新摇钱树]]></title>
         <id>https://www.cnbeta.com.tw/articles/game/1432475.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/game/1432475.htm"/>
         <updated>2024-05-31T17:37:58.972Z</updated>
         <content type="html"><![CDATA[上线四天时间里，《地下城与勇士》（以下简称“DNF”）手游官方微博接连发出了三封道歉信，一切只因为游戏太过火爆，接连出现了服务器、组队异常、道具消失异常等问题。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滞销的中国电动车 淹没了全球最大的汽车港口]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432927.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432927.htm"/>
+        <updated>2024-06-02T17:38:12.955Z</updated>
+        <content type="html"><![CDATA[中国汽车内卷到变成了全球汽车市场的一道风景。2024年5月。法国《世界报》勾画出了中国汽车在欧洲的样子：比利时的港口被中国汽车淹没了。在全球最大的汽车码头安特卫普-泽布吕赫港，中国品牌的汽车随处可见。在比亚迪探索者1号滚装船后面，挪威、日本、德国的巨型货轮又卸下了数千辆来自东方的机器。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯首台光刻机 真的制造成功了？]]></title>
@@ -145,5 +116,33 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1432429.htm"/>
         <updated>2024-05-27T09:18:26.000Z</updated>
         <content type="html"><![CDATA[自从华为“纯血鸿蒙”HarmonyOS NEXT鸿蒙星河版官宣后，关于该系统的各种爆料也越来越多。日前，<strong>数码博主“李昂昂昂啊”晒出HarmonyOS NEXT开发者版的系统截图，显示系统版本号为3.0.0.22。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能防弹但不防风：特斯拉Cybertruck跑高速时车身部件竟然被吹飞]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432483.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432483.htm"/>
+        <updated>2024-06-02T17:38:12.961Z</updated>
+        <content type="html"><![CDATA[近日有海外车主爆料，自己驾驶的特斯拉Cybertruck赛博越野旅行车在跑高速时，<strong>车身零部件竟然被吹飞了</strong>。不见了的部件为<strong>尾部货厢旁边的装饰面板</strong>，从车主放出的照片看，货厢电动门两侧的整根装饰条完全消失，能够看到内部的车身骨架，还能看出其装配方法，很明显就是挂钩式。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新加坡港遭遇史诗级“大堵船” 全球运价集体飙升]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433195.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433195.htm"/>
+        <updated>2024-06-02T17:38:12.963Z</updated>
+        <content type="html"><![CDATA[5月31日，上海航运交易所（下称“航交所”）公布了新一期的上海出口集装箱运价指数（SCFI），毫无意外再次大涨。SCFI综合指数报3044.77点，环比前一周上涨341.34点，涨幅12.63%。13条细分航线仅日本关东线运价小幅下跌，其余12条全部上涨，美西线运价单周涨近20%。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金字塔的顶部是什么样的？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1432405.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1432405.htm"/>
+        <updated>2024-05-27T02:24:31.000Z</updated>
+        <content type="html"><![CDATA[金字塔人尽皆知，但由于严禁登顶，所以互联网上很少有关于金字塔顶部的图片。<strong>这张图片是最近航拍的胡夫金字塔的顶部结构，它是一个边长11米的平台，而不是我们平时想象的那样是尖的。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI罢免闹剧水落石出 奥特曼被驱逐原因公布]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1432710.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1432710.htm"/>
+        <updated>2024-05-29T09:06:10.000Z</updated>
+        <content type="html"><![CDATA[北京时间5月29日，去年11月，OpenAI上演了一出罢免CEO山姆·奥特曼(Sam Altman)的闹剧，但是OpenAI董事会驱逐奥特曼的具体原因一直是一个谜。现在，OpenAI前董事海伦·托纳(Helen Toner)公布了原因。]]></content>
     </entry>
 </feed>
