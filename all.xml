@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-06T17:38:21.915Z</updated>
+    <updated>2024-06-07T05:38:39.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[美国暂停T86清关三个月 Temu与Shein影响多少？ (cnbeta一周排行)]]></title>
@@ -35,18 +35,11 @@
         <content type="html"><![CDATA[<strong><strong>今天Prada普拉达官微发文宣布，贾玲正式成为品牌代言人。</strong>贾玲在今年春节档电影《热辣滚烫》上映之后就热度极高，尤其是用身体力行的形体蜕变，诠释了人生无限。为了拍摄，贾玲增重了三四十斤，又减重一百斤，</strong>把自己塑造成了浑身肌肉的女拳击手形象，在电影上映期间引起极大的轰动。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为高管谈我国芯片技术：3/5nm肯定得不到 解决7nm就非常非常好了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432921.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432921.htm"/>
-        <updated>2024-05-31T17:37:58.971Z</updated>
-        <content type="html"><![CDATA[近日，华为常务董事张平安表示，我们半导体能解决7nm就非常非常好。<strong>张平安表示：“中国我们肯定是得不到3nm，肯定得不到5nm，我们能解决7nm就非常非常好。”</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使命终结！中国联通：6月12日起停止在线上办理5G通信壳业务 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432951.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432951.htm"/>
-        <updated>2024-06-01T17:38:12.624Z</updated>
-        <content type="html"><![CDATA[据中国联通App公告，<strong>2024年6月12日起，中国联通App将不再支持办理5G通信壳业务。据悉，此前数源科技曾为华为P50、P60、Mate 50系列推出过5G通信壳，让华为用户在特殊时期也能用上5G网络。</strong>]]></content>
+        <title type="html"><![CDATA[中国宣布限制航空、航天发动机出口 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433445.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433445.htm"/>
+        <updated>2024-06-04T03:34:08.000Z</updated>
+        <content type="html"><![CDATA[近日，商务部、海关总署、中央军委装备发展部联合发布<a class="f14_link" href="http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202405/20240503513396.shtml" target="_blank">2024年第21号关于对有关物项实施出口管制的公告</a>。<strong>公告对航空航天结构件、发动机制造相关装备及软件、技术，燃气涡轮发动机/燃气轮机制造相关装备及软件、技术等物项，实施出口管制，未经许可不得出口。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[绿联NAS因为存在巨量问题而道歉 同时相关新品已经从京东商城下架 (cnbeta一周排行)]]></title>
@@ -56,32 +49,11 @@
         <content type="html"><![CDATA[绿联 NAS 因存在巨量问题发布致歉信，同时绿联 NAS 的新品从京东商城下架。此前绿联的支持文档还被发现存在群晖的字样，显然这是复制群晖内容时没有清理干净。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国宣布限制航空、航天发动机出口 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433445.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433445.htm"/>
-        <updated>2024-06-04T03:34:08.000Z</updated>
-        <content type="html"><![CDATA[近日，商务部、海关总署、中央军委装备发展部联合发布<a class="f14_link" href="http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202405/20240503513396.shtml" target="_blank">2024年第21号关于对有关物项实施出口管制的公告</a>。<strong>公告对航空航天结构件、发动机制造相关装备及软件、技术，燃气涡轮发动机/燃气轮机制造相关装备及软件、技术等物项，实施出口管制，未经许可不得出口。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[华为Mate60系列开始降价 第三方最高优惠2000元 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1433359.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1433359.htm"/>
         <updated>2024-06-04T17:38:19.100Z</updated>
         <content type="html"><![CDATA[上市快1年了，Mate 60系列的供货也好起来了，现在第三方已经开始优惠。据第三方渠道商透露，目前华为Mate60系列的部分版本价格已经下调。<strong>从报价来看，Mate60 RS非凡大师1TB版本原价12999元，现在优惠2000元，到手价仅需10499元；Mate60 Pro+ 512GB版本白色原价8199元，现价7799元。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滞销的中国电动车 淹没了全球最大的汽车港口 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432927.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432927.htm"/>
-        <updated>2024-06-02T17:38:12.955Z</updated>
-        <content type="html"><![CDATA[中国汽车内卷到变成了全球汽车市场的一道风景。2024年5月。法国《世界报》勾画出了中国汽车在欧洲的样子：比利时的港口被中国汽车淹没了。在全球最大的汽车码头安特卫普-泽布吕赫港，中国品牌的汽车随处可见。在比亚迪探索者1号滚装船后面，挪威、日本、德国的巨型货轮又卸下了数千辆来自东方的机器。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy Z Fold 6将采用更宽的屏幕、更纤薄的铰链并放弃圆边设计 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432966.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432966.htm"/>
-        <updated>2024-06-04T17:38:19.105Z</updated>
-        <content type="html"><![CDATA[三星的 Galaxy Unpacked 发布会即将到来，与任何重要活动一样，关于即将到来的发布会会有什么内容的猜测也开始浮出水面。虽然该公司有许多重要产品即将发布，但 Galaxy Z Fold 6 和 Flip 6 似乎是近期新闻的焦点。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4月份汽车品牌销量榜TOP10 比亚迪冲至全球第四 (cnbeta一周排行)]]></title>
@@ -91,13 +63,6 @@
         <content type="html"><![CDATA[易车网最近发布的4月份全球汽车品牌销量排行榜显示，<strong>比亚迪以显著的销量成绩位列第四，成为前十名中唯一的中国汽车品牌。</strong>尽管榜单的前三名依旧是丰田、大众和福特，但它们的销量环比都出现了超过10%的下滑。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1小时播放量破100万 周星驰出品首部短剧被指“含星量”不足 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1433363.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1433363.htm"/>
-        <updated>2024-06-05T17:38:10.343Z</updated>
-        <content type="html"><![CDATA[“去年木村家排核废水，那么大的事人家都没回去看一眼”“山姆家那么多枪击案，人家不也是默默承受吗”。6月2日下午，由周星驰出品的首部短剧《金猪玉叶》正式在抖音播出。第一集中，因为内涵日本核污水排放和美国枪击乱象，加上喜剧演员徐志胜的搞笑演绎，《金猪玉叶》相关话题在抖音迅速霸占热榜。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI确认ChatGPT遭遇重大故障 宕机时长已达数小时 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1433547.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1433547.htm"/>
@@ -105,18 +70,25 @@
         <content type="html"><![CDATA[根据 OpenAI 的<a href="https://status.openai.com">系统状态页面</a>显示，该公司的 ChatGPT 聊天机器人目前正在遭受一次重大故障，导致"部分用户"无法使用生成式人工智能服务。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 24.04 LTS 现已开始提供实时内核 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/soft/1432975.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/soft/1432975.htm"/>
-        <updated>2024-06-03T17:38:35.344Z</updated>
-        <content type="html"><![CDATA[与Ubuntu 22.04 LTS 的实时内核类似，Canonical 今天宣布为 Ubuntu 24.04 LTS 提供新的实时"RT"内核。但与现有的 Ubuntu RT 内核一样，这种实时支持仅限于 Ubuntu Pro 订阅用户。]]></content>
+        <title type="html"><![CDATA[1小时播放量破100万 周星驰出品首部短剧被指“含星量”不足 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1433363.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1433363.htm"/>
+        <updated>2024-06-05T17:38:10.343Z</updated>
+        <content type="html"><![CDATA[“去年木村家排核废水，那么大的事人家都没回去看一眼”“山姆家那么多枪击案，人家不也是默默承受吗”。6月2日下午，由周星驰出品的首部短剧《金猪玉叶》正式在抖音播出。第一集中，因为内涵日本核污水排放和美国枪击乱象，加上喜剧演员徐志胜的搞笑演绎，《金猪玉叶》相关话题在抖音迅速霸占热榜。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[固态电池，终于迎来60亿的春风 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432945.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432945.htm"/>
-        <updated>2024-06-03T17:38:35.338Z</updated>
-        <content type="html"><![CDATA[国家队还是下场了。固态电池市场方兴未艾，政府也开始鼓励有条件的企业，对全固态电池相关技术开展研发，整体支持金额或达 <strong>60亿元</strong>。这个史无前例的项目，由政府相关部委牵头实施鼓励，据悉，经过严格筛选后，最后具体分为 <strong>七大项目</strong>，比如聚焦聚合物和硫化物等不同技术路线。]]></content>
+        <title type="html"><![CDATA[微软不再允许Windows 11通过1@1.com绕过登录 但还有其他办法可以继续用 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433510.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433510.htm"/>
+        <updated>2024-06-07T05:38:38.800Z</updated>
+        <content type="html"><![CDATA[微软不再允许 Windows 11 通过 1@1.com 和 no@thankyou.com 绕过登录，但断网的情况下使用 OOBEBYPASSNRO 命令仍然是有效的。如果你在安装或重置系统时仍然需要创建本地账户，请直接使用 OOBE 命令。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[固态电池研发之难 连宁王都连声叫苦 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433557.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433557.htm"/>
+        <updated>2024-06-07T05:38:38.801Z</updated>
+        <content type="html"><![CDATA[固态电池正逐渐站上风口。据中国日报报道，中国或将投入约 60 亿元用于全固态电池研发，包括宁德时代、比亚迪、一汽、上汽、卫蓝新能源和吉利共六家企业或获得政府基础研发支持。国家队下场支持进一步助推了固态电池的热度。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[任天堂将经典3DS游戏重制版交给Switch 2首发 (cnbeta一周排行)]]></title>
@@ -126,15 +98,6 @@
         <content type="html"><![CDATA[根据知名消息人士PH Brazil透露的消息，任天堂正着手开发一款3DS游戏的重制版，并计划在尚未正式公布的Switch 2上推出。虽然具体是哪一款3DS经典作品尚未透露，但这位可靠的内部消息人士表示，这款重制作品不会在即将到来的6月任天堂直面会上亮相，而是要到2025年3月之后才会正式发布。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软将于今年推出新的Windows Linux子系统"WSL"功能 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432987.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432987.htm"/>
-        <updated>2024-05-31T03:05:54.000Z</updated>
-        <content type="html"><![CDATA[在微软最近召开的 BUILD 大会上，微软宣布对 Windows Subsystem for
-Linux（WSL）进行一系列重大更新。一些现有的实验性功能已经升级为稳定/默认功能，而其他新的 WSL2
-功能也将在未来几个月内陆续推出。今天，微软命令行博客发布了一篇博文，概述了微软最近的 WSL2 功能工作。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[字节跳动旗下AI助手豆包放弃SEO农场污染谷歌 下线超过2000万条垃圾内容 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1433184.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1433184.htm"/>
@@ -142,10 +105,45 @@ Linux（WSL）进行一系列重大更新。一些现有的实验性功能已经
         <content type="html"><![CDATA[字节跳动旗下 AI 助手豆包放弃 SEO 农场污染谷歌，下线超过 2000 万条垃圾内容。有时候不得不佩服这些大厂，能够在短短几天内让谷歌收录数以千万计的垃圾内容，又能在一夜之间让这些内容全部从谷歌消失。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[消息称TikTok正准备在美国复制一套该应用的核心算法 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1432990.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1432990.htm"/>
-        <updated>2024-05-31T03:36:03.000Z</updated>
-        <content type="html"><![CDATA[路透社报道，据直接知情人士透露，TikTok 正在为其 1.7 亿美国用户开发克隆版推荐算法，该版本可能会独立于其中国母公司运营，并更容易被希望禁止该应用的美国国会议员接受。]]></content>
+        <title type="html"><![CDATA[iPhone 16 Pro系列金属外壳电池提前上手：容量增加 有望支撑40W快充 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433726.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433726.htm"/>
+        <updated>2024-06-06T01:06:29.000Z</updated>
+        <content type="html"><![CDATA[博主“麦子俊i”最新发文晒出了自己提前拿到的iPhone 16 Pro系列原装电池。<strong>从他展示的内容来看，目前iPhone 16 Pro系列确认采用了不锈钢外壳包裹，电池体积和容量较前代也有所提升。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15 Pro/Pro Max是使用iOS 18中基于设备和云的AI功能的最低要求 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433098.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433098.htm"/>
+        <updated>2024-06-07T05:38:38.811Z</updated>
+        <content type="html"><![CDATA[苹果公司预计将在今年晚些时候发布 iOS 18 时推出各种基于设备和云的人工智能功能，我们可能会在该公司即将于 6 月 10 日举行的 WWDC 2024 主题演讲中预览这些新增功能。遗憾的是，如果你拥有的是比 iPhone 15 Pro 和 iPhone 15 Pro Max 更老的机型，那么就可能无法体验到这些功能。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史上第一次抛弃自家工艺 Intel下代低功耗酷睿果然是台积电3nm (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433091.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433091.htm"/>
+        <updated>2024-06-07T05:38:38.813Z</updated>
+        <content type="html"><![CDATA[Intel日前官宣了下一代低功耗酷睿Ultra Lunar Lake的初步细节，包括整体设计和性能提升，而更多细节有望在台北电脑展期间公开，现在就泄露了一部分。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中日混动之争：比亚迪向左 丰田向右 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433061.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433061.htm"/>
+        <updated>2024-06-07T05:38:38.815Z</updated>
+        <content type="html"><![CDATA[近年来，随着汽车产业往新能源方向转型，消费者的购车需求也愈发的多元化，单一驱动形式也已经越来越难以满足市场的需求。在这场全球汽车产业转型的宏大叙事之中，即使是当下大火的纯电动技术路径也难以成为那个“唯一解”。而在这种背景之下，混动车型的优势也正在逐渐被人们挖掘出来。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[留了66年、总长度超9米 印度大爷总算将破世界纪录的指甲剪了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1433403.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1433403.htm"/>
+        <updated>2024-06-07T05:38:38.818Z</updated>
+        <content type="html"><![CDATA[2018年，美国纽约信不信由你博物馆花了一笔钱，收购了5个指甲，这些指甲来自一名印度大爷的左手。虽然没有透露具体金额，但博物馆表示：<strong>这绝对是一笔巨款，足以让印度大爷退休，安享晚年。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新款丰田汉兰达上市：最高直降5.3万 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433041.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433041.htm"/>
+        <updated>2024-05-31T11:41:44.000Z</updated>
+        <content type="html"><![CDATA[广汽丰田新款汉兰达正式上市，全系共11款配置车型，<strong>售价区间为24.98-32.58万</strong>元。此番上市的车型包含燃油和混动，后者又提供两驱和四驱版，其中燃油版三款车型，全系配四驱，售价28.98-31.18万元；混动两驱版四款车型，售价24.98-29.88万元；混动四驱版四款车型，售价26.88-32.58万元。]]></content>
     </entry>
 </feed>
