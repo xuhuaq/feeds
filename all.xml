@@ -2,16 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-09T17:38:20.691Z</updated>
+    <updated>2024-06-10T05:38:12.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[美国暂停T86清关三个月 Temu与Shein影响多少？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433242.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433242.htm"/>
-        <updated>2024-06-02T10:20:32.000Z</updated>
-        <content type="html"><![CDATA[T86 是美国海关在 1930 年关税法第 321 条下的分类，对低价值商品（通常价值不超过 800
-美元）免征关税，旨在简化商品进口流程，有利于跨境电商，加快海关清关和降低成本来提升效率。根据外媒 The Information
-最新报道，美国加大了关税豁免打击力度，而 Temu、Shein 和其他电商平台利用这一豁免将廉价商品从海外寄送到美国购物者手中而无需支付关税。]]></content>
+        <title type="html"><![CDATA[华为宣称Ascend 910B AI芯片成功超越A100 成为中国市场的重要替代品 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434063.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434063.htm"/>
+        <updated>2024-06-09T05:38:07.408Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.scmp.com/tech/big-tech/article/3265640/huawei-says-its-ai-chip-better-nvidias-a100-amid-chinas-self-reliance-drive" target="_blank">《南华早报》</a>报道，华为高管表示，华为面向中国市场推出的尖端Ascend 910B AI芯片在性能上已超越英伟达A100 AI GPU。华为大幅提升Ascend平台性能，Ascend 910B以更高的性能和价值挑战英伟达A100，专为中国设计。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王思聪卖二手劳斯莱斯：挂牌858万 8年折损近千万元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433986.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433986.htm"/>
+        <updated>2024-06-09T05:38:07.402Z</updated>
+        <content type="html"><![CDATA[近日，有汽车博主爆料称，王思聪把他那辆红色定制款的劳斯莱斯幻影挂到了二手车市场。这辆二手幻影于2016年购入，行驶3.9万公里，但因为是定制款，且全球限量25台，<strong>二手挂牌价高达858.8万元，比新款标轴幻影的指导价还高。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国宣布限制航空、航天发动机出口 (cnbeta一周排行)]]></title>
@@ -21,18 +26,14 @@
         <content type="html"><![CDATA[近日，商务部、海关总署、中央军委装备发展部联合发布<a class="f14_link" href="http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202405/20240503513396.shtml" target="_blank">2024年第21号关于对有关物项实施出口管制的公告</a>。<strong>公告对航空航天结构件、发动机制造相关装备及软件、技术，燃气涡轮发动机/燃气轮机制造相关装备及软件、技术等物项，实施出口管制，未经许可不得出口。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《热辣滚烫》减肥100斤后爆火 贾玲成Prada代言人 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1433253.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1433253.htm"/>
-        <updated>2024-06-03T17:38:35.318Z</updated>
-        <content type="html"><![CDATA[<strong><strong>今天Prada普拉达官微发文宣布，贾玲正式成为品牌代言人。</strong>贾玲在今年春节档电影《热辣滚烫》上映之后就热度极高，尤其是用身体力行的形体蜕变，诠释了人生无限。为了拍摄，贾玲增重了三四十斤，又减重一百斤，</strong>把自己塑造成了浑身肌肉的女拳击手形象，在电影上映期间引起极大的轰动。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王思聪卖二手劳斯莱斯：挂牌858万 8年折损近千万元 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433986.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433986.htm"/>
-        <updated>2024-06-09T05:38:07.402Z</updated>
-        <content type="html"><![CDATA[近日，有汽车博主爆料称，王思聪把他那辆红色定制款的劳斯莱斯幻影挂到了二手车市场。这辆二手幻影于2016年购入，行驶3.9万公里，但因为是定制款，且全球限量25台，<strong>二手挂牌价高达858.8万元，比新款标轴幻影的指导价还高。</strong>]]></content>
+        <title type="html"><![CDATA[Google详细解释了Chrome浏览器最近为何又变快了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433963.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433963.htm"/>
+        <updated>2024-06-09T05:38:07.411Z</updated>
+        <content type="html"><![CDATA[今年 3 月初，一款名为Speedometer 3.0
+的新网络浏览器基准被发布。该基准的一个关键点是它是如何通过全行业合作开发出来的，从而支持所有主要的浏览器引擎，如
+Blink/V8、Gecko/SpiderMonkey 和
+WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、英特尔和苹果等公司都参与其中。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[绿联NAS因为存在巨量问题而道歉 同时相关新品已经从京东商城下架 (cnbeta一周排行)]]></title>
@@ -56,21 +57,11 @@
         <content type="html"><![CDATA[挪威稀土矿业公司（Rare Earths Norway）<a href="https://rareearthsnorway.com/europes-largest-deposit-of-rare-earth-elements-discovered-at-fen-norway" target="_blank">宣布</a>，在挪威东南部发现了欧洲最大的稀土矿藏，这一发现可能对减少挪威对中国的依赖（中国实际上处于垄断地位）产生重大影响。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为宣称Ascend 910B AI芯片成功超越A100 成为中国市场的重要替代品 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1434063.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1434063.htm"/>
-        <updated>2024-06-09T05:38:07.408Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.scmp.com/tech/big-tech/article/3265640/huawei-says-its-ai-chip-better-nvidias-a100-amid-chinas-self-reliance-drive" target="_blank">《南华早报》</a>报道，华为高管表示，华为面向中国市场推出的尖端Ascend 910B AI芯片在性能上已超越英伟达A100 AI GPU。华为大幅提升Ascend平台性能，Ascend 910B以更高的性能和价值挑战英伟达A100，专为中国设计。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google详细解释了Chrome浏览器最近为何又变快了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433963.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433963.htm"/>
-        <updated>2024-06-09T05:38:07.411Z</updated>
-        <content type="html"><![CDATA[今年 3 月初，一款名为Speedometer 3.0
-的新网络浏览器基准被发布。该基准的一个关键点是它是如何通过全行业合作开发出来的，从而支持所有主要的浏览器引擎，如
-Blink/V8、Gecko/SpiderMonkey 和
-WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、英特尔和苹果等公司都参与其中。]]></content>
+        <title type="html"><![CDATA[中国首款民用宽带卫星上网设备发售：上行20Mbps、下行100Mbps 29800元起 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433980.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433980.htm"/>
+        <updated>2024-06-10T05:38:11.538Z</updated>
+        <content type="html"><![CDATA[<strong>我国民用卫星互联网终端设备制造商和服务商网翎推出了中国首款民用卫星上网终端设备——OneLinQ网翎卫星上网机，售价29800元起。</strong>官方表示，这款产品是中国迄今为止真正在产品体验和价格上实现了民用化的卫星宽带上网设备。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国芯片管控引ASML吐槽：倒逼中国厂商造出更先进光刻机 (cnbeta一周排行)]]></title>
@@ -78,6 +69,34 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <link href="https://www.cnbeta.com.tw/articles/tech/1433912.htm"/>
         <updated>2024-06-07T09:13:18.000Z</updated>
         <content type="html"><![CDATA[近日，ASML公司CEO公开表示，美国严厉的芯片管控规定，只会倒逼中国厂商进步更快。ASML CEO表示，多年来，公司都不用担心设备的去向会受到政治限制，但突然之间，这却变成了全世界最重要的话题之一。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy S25 Ultra亮相数据库：相机设计焕然一新 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434086.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434086.htm"/>
+        <updated>2024-06-10T05:38:11.540Z</updated>
+        <content type="html"><![CDATA[日前，三星年度机皇Galaxy S25 Ultra现身IMEI数据库，型号为SM-S938U。根据曝光的渲染图来看，<strong>三星Galaxy S25 Ultra的后置摄像头模块的边缘设计灵感似乎来源于Galaxy Watch 7 Ultra手表的表面</strong>，<strong>呈现出圆角矩形的形态，与前代圆形的摄像头设计截然不同</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[留了66年、总长度超9米 印度大爷总算将破世界纪录的指甲剪了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1433403.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1433403.htm"/>
+        <updated>2024-06-07T05:38:38.818Z</updated>
+        <content type="html"><![CDATA[2018年，美国纽约信不信由你博物馆花了一笔钱，收购了5个指甲，这些指甲来自一名印度大爷的左手。虽然没有透露具体金额，但博物馆表示：<strong>这绝对是一笔巨款，足以让印度大爷退休，安享晚年。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月球上嫦娥六号这张合影是谁拍的？一台月面自主智能微小机器人 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1433713.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1433713.htm"/>
+        <updated>2024-06-08T05:38:12.510Z</updated>
+        <content type="html"><![CDATA[日前，嫦娥六号微博晒出了一张自己在月球上工作的自拍照。<strong>除了感叹祖国航天技术的强大之外，网友还发现了一个问题：这张“自拍照”是谁拍的。</strong>据悉，这其实是着陆器携带的“移动相机”拍摄而来，是由中国航天科技集团五院研制的月面自主智能微小机器人。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[固态电池研发之难 连宁王都连声叫苦 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433557.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433557.htm"/>
+        <updated>2024-06-07T05:38:38.801Z</updated>
+        <content type="html"><![CDATA[固态电池正逐渐站上风口。据中国日报报道，中国或将投入约 60 亿元用于全固态电池研发，包括宁德时代、比亚迪、一汽、上汽、卫蓝新能源和吉利共六家企业或获得政府基础研发支持。国家队下场支持进一步助推了固态电池的热度。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI确认ChatGPT遭遇重大故障 宕机时长已达数小时 (cnbeta一周排行)]]></title>
@@ -94,13 +113,6 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[微软不再允许 Windows 11 通过 1@1.com 和 no@thankyou.com 绕过登录，但断网的情况下使用 OOBEBYPASSNRO 命令仍然是有效的。如果你在安装或重置系统时仍然需要创建本地账户，请直接使用 OOBE 命令。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[固态电池研发之难 连宁王都连声叫苦 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433557.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433557.htm"/>
-        <updated>2024-06-07T05:38:38.801Z</updated>
-        <content type="html"><![CDATA[固态电池正逐渐站上风口。据中国日报报道，中国或将投入约 60 亿元用于全固态电池研发，包括宁德时代、比亚迪、一汽、上汽、卫蓝新能源和吉利共六家企业或获得政府基础研发支持。国家队下场支持进一步助推了固态电池的热度。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1小时播放量破100万 周星驰出品首部短剧被指“含星量”不足 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/movie/1433363.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/movie/1433363.htm"/>
@@ -108,32 +120,11 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[“去年木村家排核废水，那么大的事人家都没回去看一眼”“山姆家那么多枪击案，人家不也是默默承受吗”。6月2日下午，由周星驰出品的首部短剧《金猪玉叶》正式在抖音播出。第一集中，因为内涵日本核污水排放和美国枪击乱象，加上喜剧演员徐志胜的搞笑演绎，《金猪玉叶》相关话题在抖音迅速霸占热榜。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[月球上嫦娥六号这张合影是谁拍的？一台月面自主智能微小机器人 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1433713.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1433713.htm"/>
-        <updated>2024-06-08T05:38:12.510Z</updated>
-        <content type="html"><![CDATA[日前，嫦娥六号微博晒出了一张自己在月球上工作的自拍照。<strong>除了感叹祖国航天技术的强大之外，网友还发现了一个问题：这张“自拍照”是谁拍的。</strong>据悉，这其实是着陆器携带的“移动相机”拍摄而来，是由中国航天科技集团五院研制的月面自主智能微小机器人。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iPhone 16 Pro系列金属外壳电池提前上手：容量增加 有望支撑40W快充 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1433726.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1433726.htm"/>
         <updated>2024-06-06T01:06:29.000Z</updated>
         <content type="html"><![CDATA[博主“麦子俊i”最新发文晒出了自己提前拿到的iPhone 16 Pro系列原装电池。<strong>从他展示的内容来看，目前iPhone 16 Pro系列确认采用了不锈钢外壳包裹，电池体积和容量较前代也有所提升。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[留了66年、总长度超9米 印度大爷总算将破世界纪录的指甲剪了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1433403.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1433403.htm"/>
-        <updated>2024-06-07T05:38:38.818Z</updated>
-        <content type="html"><![CDATA[2018年，美国纽约信不信由你博物馆花了一笔钱，收购了5个指甲，这些指甲来自一名印度大爷的左手。虽然没有透露具体金额，但博物馆表示：<strong>这绝对是一笔巨款，足以让印度大爷退休，安享晚年。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂将经典3DS游戏重制版交给Switch 2首发 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1433313.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1433313.htm"/>
-        <updated>2024-06-03T09:06:58.000Z</updated>
-        <content type="html"><![CDATA[根据知名消息人士PH Brazil透露的消息，任天堂正着手开发一款3DS游戏的重制版，并计划在尚未正式公布的Switch 2上推出。虽然具体是哪一款3DS经典作品尚未透露，但这位可靠的内部消息人士表示，这款重制作品不会在即将到来的6月任天堂直面会上亮相，而是要到2025年3月之后才会正式发布。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果承诺iPhone 15享有5年安全更新 (cnbeta一周排行)]]></title>
@@ -148,5 +139,12 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <link href="https://www.cnbeta.com.tw/articles/tech/1433746.htm"/>
         <updated>2024-06-06T08:59:02.000Z</updated>
         <content type="html"><![CDATA[这五年，我们互联网信息产业被美国拉开了！最近看美国几个大企业的财报，简直太漂亮了，大象跳舞啊，甚至大象在狂跑。这方面我们信息产业巨头的成长是有缺陷的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贾跃亭：努力每个月交付一辆FF91新车 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433973.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433973.htm"/>
+        <updated>2024-06-10T05:38:11.556Z</updated>
+        <content type="html"><![CDATA[贾跃亭表示，完成战略投资者融资之前，FF将努力每月交付一辆新车。法拉第未来创始人兼首席产品及用户生态官贾跃亭在微博透露，FF即将重启FF 91 SOD2（SOD第二阶段）交付，为首个二级市场个人投资者用户交车。]]></content>
     </entry>
 </feed>
