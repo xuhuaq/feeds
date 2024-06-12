@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-11T17:38:39.271Z</updated>
+    <updated>2024-06-12T05:38:07.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[华为宣称Ascend 910B AI芯片成功超越A100 成为中国市场的重要替代品 (cnbeta一周排行)]]></title>
@@ -26,6 +26,13 @@
         <content type="html"><![CDATA[日前，三星年度机皇Galaxy S25 Ultra现身IMEI数据库，型号为SM-S938U。根据曝光的渲染图来看，<strong>三星Galaxy S25 Ultra的后置摄像头模块的边缘设计灵感似乎来源于Galaxy Watch 7 Ultra手表的表面</strong>，<strong>呈现出圆角矩形的形态，与前代圆形的摄像头设计截然不同</strong>。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[刘亦菲36岁演22岁女大学生上热搜：《玫瑰的故事》收视破纪录 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1434133.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1434133.htm"/>
+        <updated>2024-06-11T05:38:23.828Z</updated>
+        <content type="html"><![CDATA[今日#刘亦菲36岁演22岁女大学生#话题登上微博热搜。电视剧《玫瑰的故事》官微显示，<strong>该剧开播18小时05分站内热度值破27000，创腾讯视频都市剧热度值最快破27000纪录。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google详细解释了Chrome浏览器最近为何又变快了 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1433963.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1433963.htm"/>
@@ -34,13 +41,6 @@
 的新网络浏览器基准被发布。该基准的一个关键点是它是如何通过全行业合作开发出来的，从而支持所有主要的浏览器引擎，如
 Blink/V8、Gecko/SpiderMonkey 和
 WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、英特尔和苹果等公司都参与其中。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刘亦菲36岁演22岁女大学生上热搜：《玫瑰的故事》收视破纪录 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1434133.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1434133.htm"/>
-        <updated>2024-06-11T05:38:23.828Z</updated>
-        <content type="html"><![CDATA[今日#刘亦菲36岁演22岁女大学生#话题登上微博热搜。电视剧《玫瑰的故事》官微显示，<strong>该剧开播18小时05分站内热度值破27000，创腾讯视频都市剧热度值最快破27000纪录。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国首款民用宽带卫星上网设备发售：上行20Mbps、下行100Mbps 29800元起 (cnbeta一周排行)]]></title>
@@ -57,6 +57,13 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[挪威稀土矿业公司（Rare Earths Norway）<a href="https://rareearthsnorway.com/europes-largest-deposit-of-rare-earth-elements-discovered-at-fen-norway" target="_blank">宣布</a>，在挪威东南部发现了欧洲最大的稀土矿藏，这一发现可能对减少挪威对中国的依赖（中国实际上处于垄断地位）产生重大影响。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[澳洲花4000多万美元建了座“鸟桥” 被民众嫌弃：浪费钱有啥用？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434185.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434185.htm"/>
+        <updated>2024-06-10T09:10:38.000Z</updated>
+        <content type="html"><![CDATA[图片里的这座高架桥，是澳大利亚昆士兰州北部近期刚刚建好的项目。据报道，<strong>这座桥耗资超过4000万美元，延期4年才建成。</strong>建立鸟桥是为了方便濒危鸟类——南方食火鸟过马路，这种鸟被誉为“世界上最危险的鸟”，而如今却濒临灭绝，野生的数量预估只有4000只，其中对其威胁最大的就是<strong>车祸</strong>。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美国芯片管控引ASML吐槽：倒逼中国厂商造出更先进光刻机 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1433912.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1433912.htm"/>
@@ -71,25 +78,11 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[日前，嫦娥六号微博晒出了一张自己在月球上工作的自拍照。<strong>除了感叹祖国航天技术的强大之外，网友还发现了一个问题：这张“自拍照”是谁拍的。</strong>据悉，这其实是着陆器携带的“移动相机”拍摄而来，是由中国航天科技集团五院研制的月面自主智能微小机器人。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[固态电池研发之难 连宁王都连声叫苦 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433557.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433557.htm"/>
-        <updated>2024-06-07T05:38:38.801Z</updated>
-        <content type="html"><![CDATA[固态电池正逐渐站上风口。据中国日报报道，中国或将投入约 60 亿元用于全固态电池研发，包括宁德时代、比亚迪、一汽、上汽、卫蓝新能源和吉利共六家企业或获得政府基础研发支持。国家队下场支持进一步助推了固态电池的热度。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软不再允许Windows 11通过1@1.com绕过登录 但还有其他办法可以继续用 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433510.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433510.htm"/>
-        <updated>2024-06-07T05:38:38.800Z</updated>
-        <content type="html"><![CDATA[微软不再允许 Windows 11 通过 1@1.com 和 no@thankyou.com 绕过登录，但断网的情况下使用 OOBEBYPASSNRO 命令仍然是有效的。如果你在安装或重置系统时仍然需要创建本地账户，请直接使用 OOBE 命令。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI确认ChatGPT遭遇重大故障 宕机时长已达数小时 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433547.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433547.htm"/>
-        <updated>2024-06-05T17:38:10.344Z</updated>
-        <content type="html"><![CDATA[根据 OpenAI 的<a href="https://status.openai.com">系统状态页面</a>显示，该公司的 ChatGPT 聊天机器人目前正在遭受一次重大故障，导致"部分用户"无法使用生成式人工智能服务。]]></content>
+        <title type="html"><![CDATA[12个国产大模型大战高考数学 意外炸出个大bug (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434131.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434131.htm"/>
+        <updated>2024-06-11T05:38:23.838Z</updated>
+        <content type="html"><![CDATA[<strong>继国产大模型挑战高考作文之后，是时候再战一下高考数学了。</strong>数学高考Ⅰ卷的题目，目前已经陆陆续续在网上有所公布（图片格式）。那么现在，是时候考验国产大模型们的数学能力了。有请“选手们”登场——]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 16 Pro系列金属外壳电池提前上手：容量增加 有望支撑40W快充 (cnbeta一周排行)]]></title>
@@ -99,11 +92,11 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[博主“麦子俊i”最新发文晒出了自己提前拿到的iPhone 16 Pro系列原装电池。<strong>从他展示的内容来看，目前iPhone 16 Pro系列确认采用了不锈钢外壳包裹，电池体积和容量较前代也有所提升。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12个国产大模型大战高考数学 意外炸出个大bug (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1434131.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1434131.htm"/>
-        <updated>2024-06-11T05:38:23.838Z</updated>
-        <content type="html"><![CDATA[<strong>继国产大模型挑战高考作文之后，是时候再战一下高考数学了。</strong>数学高考Ⅰ卷的题目，目前已经陆陆续续在网上有所公布（图片格式）。那么现在，是时候考验国产大模型们的数学能力了。有请“选手们”登场——]]></content>
+        <title type="html"><![CDATA[特斯拉库存积压严重 堆满新车的停车场从太空都能看到 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1434125.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1434125.htm"/>
+        <updated>2024-06-11T05:38:23.849Z</updated>
+        <content type="html"><![CDATA[<strong>特斯拉面临前所未有的库存积压问题，其生产出的汽车数量远超销售量，导致大量新车堆积在停车场。这一现象甚至严重到，从太空中都能通过卫星图像观察到特斯拉的停车场满满当当。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果承诺iPhone 15享有5年安全更新 (cnbeta一周排行)]]></title>
@@ -120,20 +113,6 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[这五年，我们互联网信息产业被美国拉开了！最近看美国几个大企业的财报，简直太漂亮了，大象跳舞啊，甚至大象在狂跑。这方面我们信息产业巨头的成长是有缺陷的。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[贾跃亭：努力每个月交付一辆FF91新车 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433973.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433973.htm"/>
-        <updated>2024-06-10T05:38:11.556Z</updated>
-        <content type="html"><![CDATA[贾跃亭表示，完成战略投资者融资之前，FF将努力每月交付一辆新车。法拉第未来创始人兼首席产品及用户生态官贾跃亭在微博透露，FF即将重启FF 91 SOD2（SOD第二阶段）交付，为首个二级市场个人投资者用户交车。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉库存积压严重 堆满新车的停车场从太空都能看到 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1434125.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1434125.htm"/>
-        <updated>2024-06-11T05:38:23.849Z</updated>
-        <content type="html"><![CDATA[<strong>特斯拉面临前所未有的库存积压问题，其生产出的汽车数量远超销售量，导致大量新车堆积在停车场。这一现象甚至严重到，从太空中都能通过卫星图像观察到特斯拉的停车场满满当当。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微信回应被高考作文题Cue到：要求不超过150字 我只用10个字 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1433940.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1433940.htm"/>
@@ -141,10 +120,31 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[今日，2024年全国高考正式开考，上午考试的科目为语文，考试结束后，高考语文作文题目相关话题登上热搜，引起业界和网友关注。高考题目公布后，“微信派”公众号发文称突如其来！又又被北京高考作文题cue到了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用第三方零件的Pixel被送回谷歌进行维修可能导致整机被没收 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433491.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433491.htm"/>
-        <updated>2024-06-04T10:15:06.000Z</updated>
-        <content type="html"><![CDATA[如果你的 Pixel 使用第三方零件并且送到谷歌进行维修，谷歌可以没收你的手机。谷歌在售后条款中规定，如果用户寄送包含非谷歌授权零部件的设备，那么谷歌不会把手机再退给用户。]]></content>
+        <title type="html"><![CDATA[贾跃亭：努力每个月交付一辆FF91新车 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1433973.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1433973.htm"/>
+        <updated>2024-06-10T05:38:11.556Z</updated>
+        <content type="html"><![CDATA[贾跃亭表示，完成战略投资者融资之前，FF将努力每月交付一辆新车。法拉第未来创始人兼首席产品及用户生态官贾跃亭在微博透露，FF即将重启FF 91 SOD2（SOD第二阶段）交付，为首个二级市场个人投资者用户交车。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称华为Mate 70系列最快10月登场：首发纯血鸿蒙 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434222.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434222.htm"/>
+        <updated>2024-06-12T05:38:07.016Z</updated>
+        <content type="html"><![CDATA[博主厂长是关同学爆料，<strong>华为Mate 70系列预计在10-11月登场。</strong>该机标配豪威集团OV50系列传感器，<strong>同时首发全新的麒麟芯片，预装最新的纯血鸿蒙系统。</strong>他提到，纯血鸿蒙动画的细腻程度、可玩性AI能力以及完全体的鸿蒙NEXT生态体系，综合体验都将比肩苹果。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果WWDC 2024主题演讲入口：何时、如何观看以及可能透露的信息 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434164.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434164.htm"/>
+        <updated>2024-06-10T02:37:05.000Z</updated>
+        <content type="html"><![CDATA[我们已经经历了<a href="https://www.neowin.net/news/google-1o-2024-is-confirmed-for-may-14-but-will-be-mostly-an-online-event/">Google I/O</a>大会和<a href="https://www.neowin.net/news/microsoft-build-2024-is-officially-confirmed-for-may-21-23-in-seattle/">微软</a>2024 年<a>Build</a>大会，现在，像往常一样，第三次也是今年最后一个大型科技公司的开发者大会近在眼前。再过大约20个小时，苹果公司就将开始其 2024 年全球开发者大会（WWDC）。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布iOS 18 带来更多定制选项、改进照片管理、支持面对面支付 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434261.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434261.htm"/>
+        <updated>2024-06-11T01:32:17.000Z</updated>
+        <content type="html"><![CDATA[苹果公司正在分享即将发布的 iOS（专为 iPhone 设计的操作系统）主要版本的首批细节。该公司将于本周举行全球开发者大会（WWDC），首先举行的是以软件发布为主题的在线会议。这是这一移动平台的关键时刻，因为 iOS 18 将重点关注人工智能。]]></content>
     </entry>
 </feed>
