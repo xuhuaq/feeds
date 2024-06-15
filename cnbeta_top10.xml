@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-06-14T17:39:00.050Z</updated>
+    <updated>2024-06-15T05:38:14.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1434063.htm"/>
         <updated>2024-06-09T05:38:07.408Z</updated>
         <content type="html"><![CDATA[<a href="https://www.scmp.com/tech/big-tech/article/3265640/huawei-says-its-ai-chip-better-nvidias-a100-amid-chinas-self-reliance-drive" target="_blank">《南华早报》</a>报道，华为高管表示，华为面向中国市场推出的尖端Ascend 910B AI芯片在性能上已超越英伟达A100 AI GPU。华为大幅提升Ascend平台性能，Ascend 910B以更高的性能和价值挑战英伟达A100，专为中国设计。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王思聪卖二手劳斯莱斯：挂牌858万 8年折损近千万元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433986.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433986.htm"/>
-        <updated>2024-06-09T05:38:07.402Z</updated>
-        <content type="html"><![CDATA[近日，有汽车博主爆料称，王思聪把他那辆红色定制款的劳斯莱斯幻影挂到了二手车市场。这辆二手幻影于2016年购入，行驶3.9万公里，但因为是定制款，且全球限量25台，<strong>二手挂牌价高达858.8万元，比新款标轴幻影的指导价还高。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S25 Ultra亮相数据库：相机设计焕然一新]]></title>
@@ -34,6 +27,13 @@
         <content type="html"><![CDATA[今日#刘亦菲36岁演22岁女大学生#话题登上微博热搜。电视剧《玫瑰的故事》官微显示，<strong>该剧开播18小时05分站内热度值破27000，创腾讯视频都市剧热度值最快破27000纪录。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[美国一女子中5.52亿美元彩票大奖 领奖当天还在打两份工]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434492.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434492.htm"/>
+        <updated>2024-06-14T05:38:22.482Z</updated>
+        <content type="html"><![CDATA[<strong>美国伊利诺伊州一女子中了5.52亿美元彩票大奖</strong>，据悉，这张上周二开出的头奖彩票是她在伊利诺伊州彩票局官网上购买的。在接受采访时，女子称：“当我浏览电子邮件时，突然看到一封来自伊利诺伊州彩票局的邮件，上面要我检查我的号码，因为我中奖了。过去，我要么赢2美元，要么赢5美元，我以为这次是一样的情况。”]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[诺基亚Lumia真要复活了 HMD复刻机型将印Nokia标志]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1434332.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1434332.htm"/>
@@ -41,14 +41,11 @@
         <content type="html"><![CDATA[诺基亚Lumia系列的粉丝们，是时候欢呼了！据报道，<strong>HMD Global正计划推出一款型号为“SkyLine”的复刻手机，这款手机将再次印上标志性的Nokia Logo，</strong>据透露，这将是最后一款由HMD制造的诺基亚品牌智能手机。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google详细解释了Chrome浏览器最近为何又变快了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433963.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433963.htm"/>
-        <updated>2024-06-09T05:38:07.411Z</updated>
-        <content type="html"><![CDATA[今年 3 月初，一款名为Speedometer 3.0
-的新网络浏览器基准被发布。该基准的一个关键点是它是如何通过全行业合作开发出来的，从而支持所有主要的浏览器引擎，如
-Blink/V8、Gecko/SpiderMonkey 和
-WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、英特尔和苹果等公司都参与其中。]]></content>
+        <title type="html"><![CDATA[这次牙膏挤爆了 iPhone 16全系列升级前瞻]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434503.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434503.htm"/>
+        <updated>2024-06-14T05:38:22.488Z</updated>
+        <content type="html"><![CDATA[随着iPhone 16系列发布的临近，相信大家已经看到了不少关于新机的传言。作为目前智能手机市场独一份的存在，iPhone的升级一直备受关注。基于最新的传言和泄露信息，我总结了iPhone 16系列可能的主要升级点，来看看今年有没有你期待已久的升级点吧。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[澳洲花4000多万美元建了座“鸟桥” 被民众嫌弃：浪费钱有啥用？]]></title>
@@ -58,18 +55,11 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[图片里的这座高架桥，是澳大利亚昆士兰州北部近期刚刚建好的项目。据报道，<strong>这座桥耗资超过4000万美元，延期4年才建成。</strong>建立鸟桥是为了方便濒危鸟类——南方食火鸟过马路，这种鸟被誉为“世界上最危险的鸟”，而如今却濒临灭绝，野生的数量预估只有4000只，其中对其威胁最大的就是<strong>车祸</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国首款民用宽带卫星上网设备发售：上行20Mbps、下行100Mbps 29800元起]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433980.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433980.htm"/>
-        <updated>2024-06-10T05:38:11.538Z</updated>
-        <content type="html"><![CDATA[<strong>我国民用卫星互联网终端设备制造商和服务商网翎推出了中国首款民用卫星上网终端设备——OneLinQ网翎卫星上网机，售价29800元起。</strong>官方表示，这款产品是中国迄今为止真正在产品体验和价格上实现了民用化的卫星宽带上网设备。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国一女子中5.52亿美元彩票大奖 领奖当天还在打两份工]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1434492.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1434492.htm"/>
-        <updated>2024-06-14T05:38:22.482Z</updated>
-        <content type="html"><![CDATA[<strong>美国伊利诺伊州一女子中了5.52亿美元彩票大奖</strong>，据悉，这张上周二开出的头奖彩票是她在伊利诺伊州彩票局官网上购买的。在接受采访时，女子称：“当我浏览电子邮件时，突然看到一封来自伊利诺伊州彩票局的邮件，上面要我检查我的号码，因为我中奖了。过去，我要么赢2美元，要么赢5美元，我以为这次是一样的情况。”]]></content>
+        <title type="html"><![CDATA[中芯国际冲到全球前三 仅次于台积电三星]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434460.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434460.htm"/>
+        <updated>2024-06-14T05:38:22.492Z</updated>
+        <content type="html"><![CDATA[根据全球市场研究机构TrendForce集邦咨询调查显示，2024年第一季全球前十大晶圆代工产值季减4.3%至292亿美元。从排名来看，TOP5代工厂变化明显，<strong>中芯国际受益于消费性库存回补订单及国产化趋势，第一季度排名首次超过格芯、联电，跃升至第三名，市场份额达到5.7%，营收季增4.3%至17.5亿美元，营运表现优于其它对手。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[前F1世界冠军试驾小米SU7 感慨德国车企能否跟得上中国]]></title>
@@ -86,6 +76,13 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[博主厂长是关同学爆料，<strong>华为Mate 70系列预计在10-11月登场。</strong>该机标配豪威集团OV50系列传感器，<strong>同时首发全新的麒麟芯片，预装最新的纯血鸿蒙系统。</strong>他提到，纯血鸿蒙动画的细腻程度、可玩性AI能力以及完全体的鸿蒙NEXT生态体系，综合体验都将比肩苹果。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[国产AI大模型高考成绩单出炉：讯飞星火获得综合第一]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434322.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434322.htm"/>
+        <updated>2024-06-15T05:38:14.270Z</updated>
+        <content type="html"><![CDATA[随着今年高考的结束，一场前所未有的“智能竞赛”也在幕后悄然展开。<strong>今年的高考战场上，一支非传统但引人注目的队伍——国产人工智能大模型，吸引了广泛关注。</strong>近日，搜狐科技、量子位等十余家权威媒体对<strong>近10款国产人工智能大模型进行了高考作文、数学、物理三个科目的全面评测，并公布了令人瞩目的成绩。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024新财富500创富榜揭晓：钟睒睒再夺中国首富 王健林王思聪父子重回前十]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1434465.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1434465.htm"/>
@@ -93,25 +90,14 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[今天下午，<strong>2024新财富500创富榜正式揭晓，农夫山泉钟睒睒2024年以4562.7亿元持股市值，第四度蝉联榜首。</strong>此外，拼多多黄峥、字节跳动张一鸣、腾讯马化腾、阿里巴巴马云跻身前五。<strong>王健林、王思聪父子以1408.4亿元持股市值，回到前十，排名第九。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这次牙膏挤爆了 iPhone 16全系列升级前瞻]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1434503.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1434503.htm"/>
-        <updated>2024-06-14T05:38:22.488Z</updated>
-        <content type="html"><![CDATA[随着iPhone 16系列发布的临近，相信大家已经看到了不少关于新机的传言。作为目前智能手机市场独一份的存在，iPhone的升级一直备受关注。基于最新的传言和泄露信息，我总结了iPhone 16系列可能的主要升级点，来看看今年有没有你期待已久的升级点吧。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12个国产大模型大战高考数学 意外炸出个大bug]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1434131.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1434131.htm"/>
-        <updated>2024-06-11T05:38:23.838Z</updated>
-        <content type="html"><![CDATA[<strong>继国产大模型挑战高考作文之后，是时候再战一下高考数学了。</strong>数学高考Ⅰ卷的题目，目前已经陆陆续续在网上有所公布（图片格式）。那么现在，是时候考验国产大模型们的数学能力了。有请“选手们”登场——]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中芯国际冲到全球前三 仅次于台积电三星]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1434460.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1434460.htm"/>
-        <updated>2024-06-14T05:38:22.492Z</updated>
-        <content type="html"><![CDATA[根据全球市场研究机构TrendForce集邦咨询调查显示，2024年第一季全球前十大晶圆代工产值季减4.3%至292亿美元。从排名来看，TOP5代工厂变化明显，<strong>中芯国际受益于消费性库存回补订单及国产化趋势，第一季度排名首次超过格芯、联电，跃升至第三名，市场份额达到5.7%，营收季增4.3%至17.5亿美元，营运表现优于其它对手。</strong>]]></content>
+        <title type="html"><![CDATA[替代EUV光刻的新方案公布]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434565.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434565.htm"/>
+        <updated>2024-06-13T10:02:41.000Z</updated>
+        <content type="html"><![CDATA[随着英特尔、三星、台积电以及日本即将落成的先进晶圆代工厂
+Rapidus尽管各家公司都各自准备将越来越多的晶体管塞进每平方毫米的硅片中，但它们有一个共同点，那就是它们所依赖的极紫外 (EUV)
+光刻技术极其复杂、极其昂贵，而且操作成本极高。主要原因是，该系统的 13.5
+纳米光的来源是使用地球上最强大的商用激光器喷射飞散的熔融锡滴的精确且昂贵的过程。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IGN法国无知发言评论《黑神话：悟空》：官方道歉 不再报道该游戏]]></title>
@@ -121,11 +107,11 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[<strong>备受瞩目的《黑神话：悟空》日前已经开启预购，在WeGame、Steam、Epic等平台上架，将于8月20日正式上线。</strong>开启预购之后，《黑神话：悟空》一度登顶各大平台榜单，成为全球最热门的游戏之一。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉库存积压严重 堆满新车的停车场从太空都能看到]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1434125.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1434125.htm"/>
-        <updated>2024-06-11T05:38:23.849Z</updated>
-        <content type="html"><![CDATA[<strong>特斯拉面临前所未有的库存积压问题，其生产出的汽车数量远超销售量，导致大量新车堆积在停车场。这一现象甚至严重到，从太空中都能通过卫星图像观察到特斯拉的停车场满满当当。</strong>]]></content>
+        <title type="html"><![CDATA[12个国产大模型大战高考数学 意外炸出个大bug]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434131.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434131.htm"/>
+        <updated>2024-06-11T05:38:23.838Z</updated>
+        <content type="html"><![CDATA[<strong>继国产大模型挑战高考作文之后，是时候再战一下高考数学了。</strong>数学高考Ⅰ卷的题目，目前已经陆陆续续在网上有所公布（图片格式）。那么现在，是时候考验国产大模型们的数学能力了。有请“选手们”登场——]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[macOS Sequoia 和 iPadOS 18 不再支持这些 Mac 和 iPad]]></title>
@@ -135,17 +121,33 @@ WebKit/JavaScriptCore。为了实现这一目标，Google、Mozilla、微软 、
         <content type="html"><![CDATA[macOS Sequoia 仍兼容多款基于英特尔的 Mac，但放弃了对 2018 和 2019 款 MacBook Air 的支持。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信回应被高考作文题Cue到：要求不超过150字 我只用10个字]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1433940.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1433940.htm"/>
-        <updated>2024-06-11T05:38:23.851Z</updated>
-        <content type="html"><![CDATA[今日，2024年全国高考正式开考，上午考试的科目为语文，考试结束后，高考语文作文题目相关话题登上热搜，引起业界和网友关注。高考题目公布后，“微信派”公众号发文称突如其来！又又被北京高考作文题cue到了。]]></content>
+        <title type="html"><![CDATA[特斯拉库存积压严重 堆满新车的停车场从太空都能看到]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1434125.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1434125.htm"/>
+        <updated>2024-06-11T05:38:23.849Z</updated>
+        <content type="html"><![CDATA[<strong>特斯拉面临前所未有的库存积压问题，其生产出的汽车数量远超销售量，导致大量新车堆积在停车场。这一现象甚至严重到，从太空中都能通过卫星图像观察到特斯拉的停车场满满当当。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果WWDC 2024主题演讲入口：何时、如何观看以及可能透露的信息]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1434164.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1434164.htm"/>
-        <updated>2024-06-10T02:37:05.000Z</updated>
-        <content type="html"><![CDATA[我们已经经历了<a href="https://www.neowin.net/news/google-1o-2024-is-confirmed-for-may-14-but-will-be-mostly-an-online-event/">Google I/O</a>大会和<a href="https://www.neowin.net/news/microsoft-build-2024-is-officially-confirmed-for-may-21-23-in-seattle/">微软</a>2024 年<a>Build</a>大会，现在，像往常一样，第三次也是今年最后一个大型科技公司的开发者大会近在眼前。再过大约20个小时，苹果公司就将开始其 2024 年全球开发者大会（WWDC）。]]></content>
+        <title type="html"><![CDATA[世界上最具破坏性的软体动物：科学家揭开困扰人类2000年的船虫之谜]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1434296.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1434296.htm"/>
+        <updated>2024-06-11T09:09:10.000Z</updated>
+        <content type="html"><![CDATA[揭开世界上最迷人、最具破坏性的软体动物的秘密，可能会影响从气候变化到公众健康的方方面面。它们困扰着古希腊的海军，导致克里斯托弗-哥伦布遇难，让西班牙舰队沉没，并引发旧金山湾的码头坍塌入海，但直到现在，科学家们也无法准确地确定船虫--软体动物的一个家族--是如何造成这种破坏的。由马萨诸塞大学阿默斯特分校和普利茅斯大学联合领导的一个研究小组，与来自缅因大学和马萨诸塞大学陈医学院的合作者共同发现，生活在被忽视的肠道子器官"typhlosole"中的一群共生微生物，有能力分泌消化木质素（木材中最坚硬的部分）所需的酶。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果接入GPT-4o 但中国用户可能用不上]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434421.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434421.htm"/>
+        <updated>2024-06-12T11:04:06.000Z</updated>
+        <content type="html"><![CDATA[苹果的多个App都集成了GPT-4o，包括Siri；苹果有超过22亿台活跃设备，这使Siri有望成为超级入口；苹果不想那么依赖OpenAI，它在“Apple
+Intelligence”功能中对自研模型的调用优先级高于GPT-4o；“Apple
+Intelligence”功能免费向用户开放，但iPhone 15 Pro及以上设备才能使用，且“Siri和设备语言都需设置为英语（美国）”；]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被指“全军覆没”？ 中国软件行业遭遇“季度寒冬”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1434538.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1434538.htm"/>
+        <updated>2024-06-13T08:58:01.000Z</updated>
+        <content type="html"><![CDATA[近些天，随着国内软件行业头部公司一季报先后出炉，有关“中国软件行业几乎全军覆没”的讨论快速出圈。据统计，在今年一季度，中国软件业的表现十分堪忧：]]></content>
     </entry>
 </feed>
