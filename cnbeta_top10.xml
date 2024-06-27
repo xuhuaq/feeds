@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-06-26T17:38:10.015Z</updated>
+    <updated>2024-06-27T05:40:24.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[报道称华为与腾讯接近达成协议 鸿蒙版微信将不支付收入分成]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435320.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435320.htm"/>
-        <updated>2024-06-21T05:38:00.334Z</updated>
-        <content type="html"><![CDATA[鹏博社报道，华为与腾讯即将达成一项协议，前者将允许超级应用微信在其鸿蒙移动平台上全面运营，而不分享任何收入。据知情人士透露，华为和腾讯这两家总部位于深圳的科技巨头经过长达数月的谈判达成了协议，华为将同意不向腾讯收取微信应用内交易的任何费用。他们拒绝透露公司的私人信息。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球唯一蓝血生物 曾经救人无数 现在却濒临灭绝]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1435403.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1435403.htm"/>
-        <updated>2024-06-20T08:52:31.000Z</updated>
-        <content type="html"><![CDATA[2019 年，世界自然保护联盟将中国鲎（hòu）定为“濒危”级别，并将 6 月 20 日定为世界鲎日。大多数人对“鲎”这类动物不甚了解，甚至连认识这个字的人都不多，然而它与我们每个人的生活乃至性命都紧密相关。我们每个人都应该对它说声“谢谢”。]]></content>
+        <title type="html"><![CDATA[任正非最新露面 80岁高龄依然精神矍铄]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1435928.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1435928.htm"/>
+        <updated>2024-06-26T05:37:55.806Z</updated>
+        <content type="html"><![CDATA[近日，华为在松山湖举办一年一度的华为开发者大会（HDC 2024）。<strong>华为创始人任正非现身华为园区，与一行众人亲切交流，参观华为开发者大会的现场。</strong>从曝光的视频和照片来看，<strong>任正非虽然身形清瘦了一些，但精神状态很好，不时与周围人谈笑风生。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《热辣滚烫》减肥100斤后成顶流：贾玲成为lululemon品牌大使 36天已签3大品牌]]></title>
@@ -27,32 +20,18 @@
         <content type="html"><![CDATA[今日，<strong>知名瑜伽运动服装品牌露露乐蒙 (Lululemon)宣布，贾玲成为其品牌大使。</strong>值得一提的是，这已是贾玲36天来签约的第三个品牌。<strong>此前6月2日，Prada普拉达宣布贾玲成为品牌代言人。5月15日，蒙牛乳业官宣贾玲成为新的品牌代言人。 </strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[消息称华为已投入巨资建立研发机构以开发先进芯片制造设备]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436117.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436117.htm"/>
+        <updated>2024-06-26T07:36:56.000Z</updated>
+        <content type="html"><![CDATA[中芯国际和华为可能已成功开发出用于未来芯片组的<a>5 纳米工艺</a>，但如果继续依赖现有的 DUV 机器，中国公司将大概率无法突破技术天花板。由于无法从 ASML 等公司获得最先进的 EUV 芯片制造工具，一份新的报告指出，华为正在自力更生，即投入巨资建立一个研发机构，其唯一目的就是制造与领先公司生产的机器类似的先进机器。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[华为Mate 70系列Q4亮相 首发纯血鸿蒙正式版]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1435606.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1435606.htm"/>
         <updated>2024-06-24T05:38:20.228Z</updated>
         <content type="html"><![CDATA[今天下午，余承东宣布，<strong>鸿蒙NEXT开发者Beta版正式开放升级，消费者Beta版8月推送。</strong>在今年第四季度，<strong>鸿蒙NEXT将随着华为Mate 70系列一起推出正式版系统。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司解释为何只有iPhone 15 Pro系列满足Apple Intelligence的要求]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435356.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435356.htm"/>
-        <updated>2024-06-24T05:38:20.226Z</updated>
-        <content type="html"><![CDATA[通过 iOS 18、iPadOS 18 和 macOS Sequoia，苹果公司推出了一种名为Apple Intelligence的全新个性化人工智能体验，它使用设备上的生成式大型语言模型来增强 iPhone、iPad 和 Mac 的用户体验。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任正非最新露面 80岁高龄依然精神矍铄]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435928.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435928.htm"/>
-        <updated>2024-06-26T05:37:55.806Z</updated>
-        <content type="html"><![CDATA[近日，华为在松山湖举办一年一度的华为开发者大会（HDC 2024）。<strong>华为创始人任正非现身华为园区，与一行众人亲切交流，参观华为开发者大会的现场。</strong>从曝光的视频和照片来看，<strong>任正非虽然身形清瘦了一些，但精神状态很好，不时与周围人谈笑风生。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狠人张一鸣，预定中国首富]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435291.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435291.htm"/>
-        <updated>2024-06-22T05:38:07.377Z</updated>
-        <content type="html"><![CDATA[据《华尔街见闻》从知情人士处获悉，近日字节跳动旗下“一站式汽车信息、交易与服务平台”懂车帝，启动新一轮融资，以备战IPO。2017年，懂车帝上线，很快就成了年轻人最喜爱的汽车服务平台。截至2023 年，懂车帝内容创作者超634万、汽车兴趣用户近5亿。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为：鸿蒙内核已超越Linux内核 不再被欧美垄断]]></title>
@@ -78,11 +57,11 @@
         <content type="html"><![CDATA[据阿里巴巴达摩院DAMO官方微信公众号发布消息，2024年阿里巴巴全球数学竞赛决赛将于6月22日举行。决赛形式为线上个人闭卷赛。决赛分为五个赛道，选手可任选一个赛道。独立阅卷组分赛道阅卷，再交叉复审、核验。每个赛道将评出金奖1名、银奖2名、铜奖4名以及优秀奖10名。获奖名单将于8月公布。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google正在打击为获得更便宜的YouTube Premium订阅而使用VPN购买的方式]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1435387.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1435387.htm"/>
-        <updated>2024-06-20T06:18:00.000Z</updated>
-        <content type="html"><![CDATA[YouTube 为了迎合更大的消费群体提供了各种高级订阅服务，用户可以根据购买力和不同地区消费者的购买习惯进行选择。用户通过使用 VPN 假装成订阅模式更便宜的国家的用户，利用地区杠杆来利用这一便利。]]></content>
+        <title type="html"><![CDATA[这回，总算能生爆点原生鸿蒙的猛料了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1435757.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1435757.htm"/>
+        <updated>2024-06-23T09:15:10.000Z</updated>
+        <content type="html"><![CDATA[“华为，你来真的啊！”这是我们这两天在华为HDC 2024活动现场的最大感受。在之前的文章中，托尼跟大家聊过好几回HarmonyOS NEXT了，虽然当时看好它的未来，但面对这块这么大的“大饼”，我还是有点担心：鸿蒙能不能把饼做得让大家都满意？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[获官方认可 全网爆火《植物大战僵尸杂交版》官宣入驻原作]]></title>
@@ -92,11 +71,11 @@
         <content type="html"><![CDATA[<strong>《植物大战僵尸》官方账号在B站宣布，由B站UP主“潜艇伟伟迷”制作的第三方魔改作品《植物大战僵尸杂交版》，已正式入驻游戏小程序版本。</strong>《植物大战僵尸杂交版》以其独特的“杂交”特色，对游戏中的植物和僵尸进行了创新性改造，赋予了它们全新的面貌和技能。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这回，总算能生爆点原生鸿蒙的猛料了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435757.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435757.htm"/>
-        <updated>2024-06-23T09:15:10.000Z</updated>
-        <content type="html"><![CDATA[“华为，你来真的啊！”这是我们这两天在华为HDC 2024活动现场的最大感受。在之前的文章中，托尼跟大家聊过好几回HarmonyOS NEXT了，虽然当时看好它的未来，但面对这块这么大的“大饼”，我还是有点担心：鸿蒙能不能把饼做得让大家都满意？]]></content>
+        <title type="html"><![CDATA[三年内有2.8亿人安装了受恶意软件感染的Chrome浏览器扩展]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1435981.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1435981.htm"/>
+        <updated>2024-06-25T01:32:25.000Z</updated>
+        <content type="html"><![CDATA[Chrome 网上商城的恶意扩展问题到底有多严重？这取决于你相信谁。Google方面称，在所有安装的扩展中，包含恶意软件的不到 1%。但一组大学研究人员声称，在三年时间里，有 2.8 亿人安装了受恶意软件感染的 Chrome 浏览器扩展。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[泄露的三星Galaxy Buds 3真机图片展示了与众不同的设计]]></title>
@@ -115,11 +94,11 @@
 Tensor G5 芯片，这可能标志着该公司的首款芯片将采用该供应商的 3 纳米工艺。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[欧盟给中国电车加关税 最高48.1％ 却把自家人给捅了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435512.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435512.htm"/>
-        <updated>2024-06-26T05:37:55.827Z</updated>
-        <content type="html"><![CDATA[从去年开始，欧盟就喊着要对中国电车征税。最近，靴子算是落地，欧盟出台了临时关税政策，<strong>从 7 月 4 日开始，将对中国新能源车征收临时反补贴税，税率 17.4%-38.1%&nbsp;。</strong>]]></content>
+        <title type="html"><![CDATA[不兼容Android应用 老机型升级华为纯血鸿蒙数据需要通过云空间移植]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1435771.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1435771.htm"/>
+        <updated>2024-06-23T09:38:12.000Z</updated>
+        <content type="html"><![CDATA[纯血鸿蒙HarmonyOS NEXT开启Beta测试后，很多老用户最关心的问题是，升级的时候数据会全清吗？对此，博主@定焦数码 表示：<strong>“Next确定走的是云空间方案，能直接移植系统应用数据，比如哔哩哔哩，HarmonyOS 4.2数据能直接云空间去到NEXT 。”</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[阿里全球数赛决赛收官 姜萍最终排名引关注 老师：希望不要过多苛责]]></title>
@@ -127,6 +106,27 @@ Tensor G5 芯片，这可能标志着该公司的首款芯片将采用该供应�
         <link href="https://www.cnbeta.com.tw/articles/tech/1435796.htm"/>
         <updated>2024-06-26T05:37:55.829Z</updated>
         <content type="html"><![CDATA[随着阿里全球数赛决赛收官，“天才中专少女”姜萍的决赛成绩再次引发关注。据阿里达摩院决赛通知，<strong>2024年阿里巴巴全球数学竞赛决赛于6月22日举行。决赛形式为线上个人闭卷赛。决赛分为五个赛道，选手可任选一个赛道。独立阅卷组分赛道阅卷，再交叉复审、核验。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4K修复版《笑傲江湖》全球首映 有观众感叹效果堪比新片]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1436086.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1436086.htm"/>
+        <updated>2024-06-27T05:40:24.185Z</updated>
+        <content type="html"><![CDATA[<strong>在刚刚结束的上影节上，《笑傲江湖》入选“向大师致敬”单元</strong>，《喋血双雄》《A计划》《武状元苏乞儿》入选“4K修复”单元。这些影片均由中国电影资料馆、抖音、火山引擎共同发起的“经典香港电影修复计划”修复。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟给中国电车加关税 最高48.1％ 却把自家人给捅了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1435512.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1435512.htm"/>
+        <updated>2024-06-26T05:37:55.827Z</updated>
+        <content type="html"><![CDATA[从去年开始，欧盟就喊着要对中国电车征税。最近，靴子算是落地，欧盟出台了临时关税政策，<strong>从 7 月 4 日开始，将对中国新能源车征收临时反补贴税，税率 17.4%-38.1%&nbsp;。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果再次妥协 iPadOS 18开放侧载]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436010.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436010.htm"/>
+        <updated>2024-06-25T08:10:02.000Z</updated>
+        <content type="html"><![CDATA[苹果正式上线iPadOS 18 Beta 2，<strong>在新版iPadOS中，苹果在欧盟开放侧载。和iOS侧载情况类似，苹果允许用户在iPad上使用第三方应用商店，允许使用第三方支付、第三方浏览器引擎等等。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[孙正义后悔提前清空英伟达股份 少赚了1万亿]]></title>
@@ -143,10 +143,10 @@ Tensor G5 芯片，这可能标志着该公司的首款芯片将采用该供应�
         <content type="html"><![CDATA[据彭博社报道，长期以来一直鼓吹所谓世界人口减少危机的埃隆-马斯克（Elon Musk）与他的大脑植入公司 Neuralink 的一名高管又有了一个孩子。据报道，Neuralink 董事希文-齐利斯（Shivon Zilis）今年早些时候与马斯克有了这个孩子。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不兼容Android应用 老机型升级华为纯血鸿蒙数据需要通过云空间移植]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435771.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435771.htm"/>
-        <updated>2024-06-23T09:38:12.000Z</updated>
-        <content type="html"><![CDATA[纯血鸿蒙HarmonyOS NEXT开启Beta测试后，很多老用户最关心的问题是，升级的时候数据会全清吗？对此，博主@定焦数码 表示：<strong>“Next确定走的是云空间方案，能直接移植系统应用数据，比如哔哩哔哩，HarmonyOS 4.2数据能直接云空间去到NEXT 。”</strong>]]></content>
+        <title type="html"><![CDATA[一加6100mAh冰川电池发布 比普通5000mAh尺寸还小]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1435456.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1435456.htm"/>
+        <updated>2024-06-27T05:40:24.196Z</updated>
+        <content type="html"><![CDATA[今天下午，一加正式发布一加冰川电池。据悉，一加冰川电池容量达到了6100mAh，拥有3大自研创新技术，<strong>包括高容量仿生硅碳材料、仿生蜂巢结构设计以及硅碳负极寿命算法。</strong>并且一加冰川电池做到了行业领先，<strong>其含硅量高达6%，能量密度达到了763Wh/L。</strong>]]></content>
     </entry>
 </feed>
