@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-29T17:38:46.474Z</updated>
+    <updated>2024-06-30T05:38:04.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[任正非最新露面 80岁高龄依然精神矍铄 (cnbeta一周排行)]]></title>
@@ -26,11 +26,13 @@
         <content type="html"><![CDATA[Chrome 网上商城的恶意扩展问题到底有多严重？这取决于你相信谁。Google方面称，在所有安装的扩展中，包含恶意软件的不到 1%。但一组大学研究人员声称，在三年时间里，有 2.8 亿人安装了受恶意软件感染的 Chrome 浏览器扩展。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这回，总算能生爆点原生鸿蒙的猛料了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435757.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435757.htm"/>
-        <updated>2024-06-23T09:15:10.000Z</updated>
-        <content type="html"><![CDATA[“华为，你来真的啊！”这是我们这两天在华为HDC 2024活动现场的最大感受。在之前的文章中，托尼跟大家聊过好几回HarmonyOS NEXT了，虽然当时看好它的未来，但面对这块这么大的“大饼”，我还是有点担心：鸿蒙能不能把饼做得让大家都满意？]]></content>
+        <title type="html"><![CDATA[据传华为正在测试新型泰山处理器核心 其运行效率极高 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436358.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436358.htm"/>
+        <updated>2024-06-28T01:20:00.000Z</updated>
+        <content type="html"><![CDATA[麒麟 9000S 开启了一条新的通道，使华为摆脱了受美国影响的公司，但 Mate 60
+系列的芯片组依赖于较慢的"泰山"内核，在单核和多核工作负载中表现不佳。幸运的是，据传该公司已经取得了令人注目的进展，不仅与代工合作伙伴中芯国际结成了联合联盟，开始生产
+5nm 晶圆，而且还制造出了功耗更低的泰山内核，其性能大大超过了 Cortex-A510。以下是有关此事的更多详情。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4K修复版《笑傲江湖》全球首映 有观众感叹效果堪比新片 (cnbeta一周排行)]]></title>
@@ -38,15 +40,6 @@
         <link href="https://www.cnbeta.com.tw/articles/science/1436086.htm"/>
         <updated>2024-06-27T05:40:24.185Z</updated>
         <content type="html"><![CDATA[<strong>在刚刚结束的上影节上，《笑傲江湖》入选“向大师致敬”单元</strong>，《喋血双雄》《A计划》《武状元苏乞儿》入选“4K修复”单元。这些影片均由中国电影资料馆、抖音、火山引擎共同发起的“经典香港电影修复计划”修复。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯迈出与安卓渠道“决裂”的关键一步 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435730.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435730.htm"/>
-        <updated>2024-06-25T05:38:21.153Z</updated>
-        <content type="html"><![CDATA[<strong>腾讯迈出与安卓渠道“决裂”的关键一步。</strong>6 月 19 日，《地下城与勇士：起源》官方发布公告称，6 月 20
-日起 DNF手游将不再上架部分安卓平台的应用商店。“DNF手游运营团队表示，游戏将从华为、OPPO、vivo
-等手机厂商的应用商店中撤出，停止更新手游包；特别是对于 vivo 应用商店，DNF 的下载通道已经关闭。”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSDN旗下GitCode正在批量搬运Github开源项目并为开发者创建主页 (cnbeta一周排行)]]></title>
@@ -63,11 +56,11 @@
         <content type="html"><![CDATA[<span style="">全球港口继续遭遇着严重的拥堵。海事数据公司Linerlytica本月表示，全球港口拥堵程度已达到18个月来的最高水平，60%的船舶停泊在亚洲。截至6月中旬，总容量超过240万个20英尺标准箱（TEU）的船舶在锚地等待。</span>其中，新加坡集装箱港口的拥堵情况是自新冠肺炎疫情以来最严重的，这表明为避免红海袭击而长时间改道的船只扰乱了全球海运，其他亚洲和欧洲港口也出现了瓶颈。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不兼容Android应用 老机型升级华为纯血鸿蒙数据需要通过云空间移植 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1435771.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1435771.htm"/>
-        <updated>2024-06-23T09:38:12.000Z</updated>
-        <content type="html"><![CDATA[纯血鸿蒙HarmonyOS NEXT开启Beta测试后，很多老用户最关心的问题是，升级的时候数据会全清吗？对此，博主@定焦数码 表示：<strong>“Next确定走的是云空间方案，能直接移植系统应用数据，比如哔哩哔哩，HarmonyOS 4.2数据能直接云空间去到NEXT 。”</strong>]]></content>
+        <title type="html"><![CDATA[腾讯准备掀桌子：与安卓渠道“决裂” (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1435839.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1435839.htm"/>
+        <updated>2024-06-29T05:40:26.283Z</updated>
+        <content type="html"><![CDATA[腾讯迈出与安卓渠道“决裂”的关键一步。<strong>6 月 19 日，《地下城与勇士：起源》官方发布公告称，6 月 20 日起&nbsp;DNF手游将不再上架部分安卓平台的应用商店。</strong>“DNF手游运营团队表示，游戏将从华为、OPPO、vivo 等手机厂商的应用商店中撤出，停止更新手游包；特别是对于 vivo 应用商店，DNF 的下载通道已经关闭。”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple Watch的续航有救了？想出办法的居然是宁德时代的“爷爷” (cnbeta一周排行)]]></title>
@@ -77,11 +70,11 @@
         <content type="html"><![CDATA[了不得了，日本的一家公司表示研发出了新型固态电池。哥们第一反应是，<strong>这怕不是又是什么假新闻吧</strong>。要知道，这些年固态电池可以说是车企、手机厂商的终极梦想。在大家的描绘中，固态电池便宜、安全和超长续航，只要谁先研发出量产的固态电池，谁就能成为新时代的雷电法王。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[腾讯准备掀桌子：与安卓渠道“决裂” (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1435839.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1435839.htm"/>
-        <updated>2024-06-29T05:40:26.283Z</updated>
-        <content type="html"><![CDATA[腾讯迈出与安卓渠道“决裂”的关键一步。<strong>6 月 19 日，《地下城与勇士：起源》官方发布公告称，6 月 20 日起&nbsp;DNF手游将不再上架部分安卓平台的应用商店。</strong>“DNF手游运营团队表示，游戏将从华为、OPPO、vivo 等手机厂商的应用商店中撤出，停止更新手游包；特别是对于 vivo 应用商店，DNF 的下载通道已经关闭。”]]></content>
+        <title type="html"><![CDATA[第一批小米车主，已经开始卖车了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436319.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436319.htm"/>
+        <updated>2024-06-29T05:40:26.288Z</updated>
+        <content type="html"><![CDATA[工资6500，月供3600，还不动车贷的曾炜，把刚提车一个月的小米SU7挂上了二手交易平台。作为一名米粉，坐标江苏的00后曾炜毫不犹豫将小米SU7选做人生第一辆车。而作为4月底最早提车的一批车主，刚提车时他“恨不得每天住在车里”。只是刚刚开了2600公里，月供、房租一扣，口袋空空的曾炜，还是忍痛决定原价转车。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果再次妥协 iPadOS 18开放侧载 (cnbeta一周排行)]]></title>
@@ -98,34 +91,25 @@
         <content type="html"><![CDATA[随着阿里全球数赛决赛收官，“天才中专少女”姜萍的决赛成绩再次引发关注。据阿里达摩院决赛通知，<strong>2024年阿里巴巴全球数学竞赛决赛于6月22日举行。决赛形式为线上个人闭卷赛。决赛分为五个赛道，选手可任选一个赛道。独立阅卷组分赛道阅卷，再交叉复审、核验。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“果中皇后”很贵 虽然好吃但营养价值一般 热量还很高 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1436059.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1436059.htm"/>
-        <updated>2024-06-28T05:38:47.837Z</updated>
-        <content type="html"><![CDATA[山竹被誉为“果中皇后”，它拥有紫色的外皮，白嫩的果肉。入嘴后饱满多汁，柔软香甜，还带有独特的香气。眼下正是山竹上市的季节，喜欢山竹的小伙伴已经按捺不住要大吃一把了。但山竹价格可不算便宜，除了好吃，它有没有什么值得吃的营养？这篇文章就来说说山竹。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贾玲代言的lululemon今年股价已跌四成 正遭平替“围剿” (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436015.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436015.htm"/>
-        <updated>2024-06-25T09:57:26.000Z</updated>
-        <content type="html"><![CDATA[运动生活方式品牌lululemon近日宣布，成功减重100斤的导演、演员、编剧贾玲出任其品牌大使。在今年的618购物节上，运动品牌方面，在天猫618第一波品牌成交榜单中，lululemon排名第四，相比去年提升4位，两大国产运动品牌安踏和李宁分列第五和第六。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据传华为正在测试新型泰山处理器核心 其运行效率极高 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436358.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436358.htm"/>
-        <updated>2024-06-28T01:20:00.000Z</updated>
-        <content type="html"><![CDATA[麒麟 9000S 开启了一条新的通道，使华为摆脱了受美国影响的公司，但 Mate 60
-系列的芯片组依赖于较慢的"泰山"内核，在单核和多核工作负载中表现不佳。幸运的是，据传该公司已经取得了令人注目的进展，不仅与代工合作伙伴中芯国际结成了联合联盟，开始生产
-5nm 晶圆，而且还制造出了功耗更低的泰山内核，其性能大大超过了 Cortex-A510。以下是有关此事的更多详情。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[万一波音飞船无法修复 宇航员可能乘SpaceX飞船返回地球 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1436140.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1436140.htm"/>
         <updated>2024-06-26T11:02:12.000Z</updated>
         <content type="html"><![CDATA[6月26日消息，波音公司研发的“星际线”飞船出现氦气泄漏问题后，SpaceX可能需要动用其“载人龙”飞船救援两名被困在国际空间站的宇航员。今年6月5日，美国国家航空航天局（NASA）宇航员布奇·威尔默（Butch Wilmore）和苏尼·威廉姆斯（Suni Williams）搭乘“星际线”飞船抵达太空，原计划在国际空间站停留9天。然而，由于飞船存在技术问题，他们的返回日期尚未确定，NASA正在紧急协助波音处理问题。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16杀手锏曝光 苹果A18处理器NPU性能比M4更强 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436156.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436156.htm"/>
+        <updated>2024-06-30T05:38:03.846Z</updated>
+        <content type="html"><![CDATA[<strong><strong>有爆料称苹果iPhone 16系列将搭载的A18系列处理器，在NPU性能上有望超越苹果自家的M4处理器。</strong>据了解，上一代A17 Pro处理器的NPU拥有16核心，性能达到35TOPS。</strong>今年5月，苹果发布的11英寸和13英寸iPad Pro搭载了M4处理器，该处理器基于台积电第二代3nm工艺，拥有280亿个晶体管，NPU算力从18TOPS提升到了38TOPS。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“果中皇后”很贵 虽然好吃但营养价值一般 热量还很高 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1436059.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1436059.htm"/>
+        <updated>2024-06-28T05:38:47.837Z</updated>
+        <content type="html"><![CDATA[山竹被誉为“果中皇后”，它拥有紫色的外皮，白嫩的果肉。入嘴后饱满多汁，柔软香甜，还带有独特的香气。眼下正是山竹上市的季节，喜欢山竹的小伙伴已经按捺不住要大吃一把了。但山竹价格可不算便宜，除了好吃，它有没有什么值得吃的营养？这篇文章就来说说山竹。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉正讨论测试米其林无气轮胎 不怕扎胎 寿命是普通轮胎三倍 (cnbeta一周排行)]]></title>
@@ -135,11 +119,18 @@
         <content type="html"><![CDATA[米其林CEO Florent Menegaus近日接受采访时证实，特斯拉正在与米其林讨论测试该公司的下一代Uptis无气轮胎。米其林此前已在通用雪佛兰Bolt上测试Uptis（轮胎防穿刺系统）无气轮胎，并与通用汽车展开了合作谈判。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第一批小米车主，已经开始卖车了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436319.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436319.htm"/>
-        <updated>2024-06-29T05:40:26.288Z</updated>
-        <content type="html"><![CDATA[工资6500，月供3600，还不动车贷的曾炜，把刚提车一个月的小米SU7挂上了二手交易平台。作为一名米粉，坐标江苏的00后曾炜毫不犹豫将小米SU7选做人生第一辆车。而作为4月底最早提车的一批车主，刚提车时他“恨不得每天住在车里”。只是刚刚开了2600公里，月供、房租一扣，口袋空空的曾炜，还是忍痛决定原价转车。]]></content>
+        <title type="html"><![CDATA[贾玲代言的lululemon今年股价已跌四成 正遭平替“围剿” (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436015.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436015.htm"/>
+        <updated>2024-06-25T09:57:26.000Z</updated>
+        <content type="html"><![CDATA[运动生活方式品牌lululemon近日宣布，成功减重100斤的导演、演员、编剧贾玲出任其品牌大使。在今年的618购物节上，运动品牌方面，在天猫618第一波品牌成交榜单中，lululemon排名第四，相比去年提升4位，两大国产运动品牌安踏和李宁分列第五和第六。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国空军展示最先进战机X-67A首飞现场画面 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436296.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436296.htm"/>
+        <updated>2024-06-30T05:38:03.852Z</updated>
+        <content type="html"><![CDATA[美国空军发布了一段 XQ-67A 演示型无人机的首飞视频。这段视频拍摄于 2024 年 2 月 28 日，显示了这架自主飞行器在加利福尼亚州帕姆代尔市灰山机场（Gray Butte Field Airport）上空大展身手的场景。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果发布iOS 18 Beta 2升级：iPhone镜像、屏幕共享来了 (cnbeta一周排行)]]></title>
@@ -147,5 +138,12 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1436000.htm"/>
         <updated>2024-06-25T07:35:01.000Z</updated>
         <content type="html"><![CDATA[今天凌晨，苹果发布iOS 18开发者预览版Beta 2升级，带来了iPhone镜像和SharePlay屏幕共享等功能。据了解，<strong>iPhone镜像可以让Mac用户将iPhone屏幕镜像到Mac上，可以在Mac直接回复iPhone上的消息、接收通知，</strong>甚至进行无缝拖放操作，实现跨设备的同步体验。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完美世界最大规模裁员：两栋大厦几乎搬空 女员工当面对领导飙脏话 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1435897.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1435897.htm"/>
+        <updated>2024-06-30T05:38:03.854Z</updated>
+        <content type="html"><![CDATA[这几年，裁员是各家企业的主旋律，从达到下几无例外。综合各种曝料，完美世界正在进行其有史以来最大规模的裁员，引发了剧烈的动荡。早在2021年，完美世界就表现乏力，净利润只有预期的30％，第二年就被传裁员上千人，到了2023年依然难以扭转颓势，只能继续裁员。]]></content>
     </entry>
 </feed>
