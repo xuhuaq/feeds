@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-07-06T17:38:32.304Z</updated>
+    <updated>2024-07-07T05:39:01.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -41,29 +41,6 @@
         <content type="html"><![CDATA[一直以来，提到虫子，许多人可能会头皮发麻。然而，虫子，如今却成为了餐桌上的新宠，成为了一种新兴的食物来源。你可能会惊讶，但没错，虫子，这个曾经让许多人望而却步的生物，如今却成为了健康、环保的代名词。这些看似不起眼的虫子，其实隐藏着大大的美味与健康秘密。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为在Pura 70中内置了麒麟9010E 但其与9010几乎没有区别]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436547.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436547.htm"/>
-        <updated>2024-07-02T05:38:36.538Z</updated>
-        <content type="html"><![CDATA[HUAWEI Pura 70 北斗卫星消息版是华为推出的一款新旗舰手机，与该公司前不久推出的基本款 Pura 70
-有多处不同。其中最大的变化之一是智能手机的名称，另一个变化则是加入了新的麒麟
-9010E。不过，随着我们对该芯片组规格的进一步了解，该 SoC 与华为高端 Pura 70 机型所使用的麒麟 9010 并无太大区别。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国小女孩向马斯克报Bug成功：后者一个单词回应]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436747.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436747.htm"/>
-        <updated>2024-07-03T05:38:59.274Z</updated>
-        <content type="html"><![CDATA[近日，一位名叫茉莉的中国小女孩录制了一段视频隔空喊话马斯克，向其报了一个特斯拉的Bug，<strong>获得了马斯克的回复</strong>。原来，茉莉经常使用特斯拉的互动屏幕来画画，她发现，<strong>有时候画上一些新的内容时，原来已经画下的内容就会消失</strong>，因此茉莉希望马斯克能够解决这个问题。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想买的再等等 苹果MacBook Pro最快明年用上新模具]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436679.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436679.htm"/>
-        <updated>2024-07-01T00:25:53.000Z</updated>
-        <content type="html"><![CDATA[<strong>苹果计划在2025-2026年</strong><strong>间对MacBook Pro的模具进行重新设计，这将是自2021年14/16英寸MacBook Pro以来的首次重大外观更新。</strong>苹果通常每3至4年更换一次MacBook Pro模具，在2021年的设计中，苹果引入了窄边框“刘海屏”和SD卡槽、HDMI以及MagSafe接口的回归，同时取消了TouchBar。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[华为Mate 70系列性能、功耗等全方位升级 首发预装HarmonyOS NEXT]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1436775.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1436775.htm"/>
@@ -71,18 +48,11 @@
         <content type="html"><![CDATA[<strong>华为Mate 70系列将会在今年10月份发布。据博主智慧皮卡丘爆料，Mate 70系列的性能、功耗、AI都更强，迎来全方位升级。</strong>其中，性能和功耗是大家最关心的地方，这意味这全新的麒麟芯片也将大幅升级，或许还有着工艺等关键技术的提升。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[天龙三号火箭热试车时发生意外：未能有效固定 飞出后落地爆炸]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436609.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436609.htm"/>
-        <updated>2024-07-02T05:38:36.550Z</updated>
-        <content type="html"><![CDATA[<strong>6月30日，来自天兵科技的中国最大液体运载火箭，具备可回收复用能力的天龙三号，在河南巩义进行全系统热试车时发生意外，整个火箭居然直接飞了出去！这在整个航天业都是极为离谱。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国全球首发RISC-V内核超级SIM芯片 频率高达120MHz]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436623.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436623.htm"/>
-        <updated>2024-07-04T05:39:11.625Z</updated>
-        <content type="html"><![CDATA[近日，中国移动旗下专业芯片公司中移芯昇发布了<strong>全球首颗采用RISC-V CPU内核的超级SIM芯片“CC2560A”</strong>，无论性能还是功能都远胜传统SIM卡，甚至是以往的超级SIM卡。]]></content>
+        <title type="html"><![CDATA[想买的再等等 苹果MacBook Pro最快明年用上新模具]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436679.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436679.htm"/>
+        <updated>2024-07-01T00:25:53.000Z</updated>
+        <content type="html"><![CDATA[<strong>苹果计划在2025-2026年</strong><strong>间对MacBook Pro的模具进行重新设计，这将是自2021年14/16英寸MacBook Pro以来的首次重大外观更新。</strong>苹果通常每3至4年更换一次MacBook Pro模具，在2021年的设计中，苹果引入了窄边框“刘海屏”和SD卡槽、HDMI以及MagSafe接口的回归，同时取消了TouchBar。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一位开发者以自己的方式在 Google Drive 上运行了整个操作系统]]></title>
@@ -94,11 +64,27 @@
 决定更进一步。在他们所谓的"疯狂的咆哮"中，这位开发者产生了从Google的云存储平台启动操作系统的想法。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么PS5运行游戏的效果往往比号称更强大的Xbox Series X更好？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1436798.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1436798.htm"/>
-        <updated>2024-07-02T08:12:43.000Z</updated>
-        <content type="html"><![CDATA[在第九代游戏机即将进入第四个年头之际，有一个问题仍未得到解答：索尼的 PS5 游戏机的性能如何经常超越纸面性能更强大的微软 Xbox X 系列？ 几个明显的例子包括《生化危机 4》、《使命召唤：黑色行动：冷战》和新一代更新后的《侠盗猎车手5》。]]></content>
+        <title type="html"><![CDATA[中国小女孩向马斯克报Bug成功：后者一个单词回应]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436747.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436747.htm"/>
+        <updated>2024-07-03T05:38:59.274Z</updated>
+        <content type="html"><![CDATA[近日，一位名叫茉莉的中国小女孩录制了一段视频隔空喊话马斯克，向其报了一个特斯拉的Bug，<strong>获得了马斯克的回复</strong>。原来，茉莉经常使用特斯拉的互动屏幕来画画，她发现，<strong>有时候画上一些新的内容时，原来已经画下的内容就会消失</strong>，因此茉莉希望马斯克能够解决这个问题。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称华为与国内半导体公司武汉新芯合作 将于2026年建成HBM生产线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437143.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437143.htm"/>
+        <updated>2024-07-07T05:39:00.664Z</updated>
+        <content type="html"><![CDATA[HBM 业务正在蓬勃发展，这是毋庸置疑的。无论是三星还是 SK hynix，其他每家内存公司都在进行一场 HBM
+竞赛，相互争夺尽可能多的订单。HBM 热潮背后的原因是，这种内存类型在 AI 加速器的集成中发挥着至关重要的作用，而鉴于 AI
+的炒作不断在市场上掀起风暴，随着时间的推移，对 HBM 的需求将与日俱增。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国全球首发RISC-V内核超级SIM芯片 频率高达120MHz]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436623.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436623.htm"/>
+        <updated>2024-07-04T05:39:11.625Z</updated>
+        <content type="html"><![CDATA[近日，中国移动旗下专业芯片公司中移芯昇发布了<strong>全球首颗采用RISC-V CPU内核的超级SIM芯片“CC2560A”</strong>，无论性能还是功能都远胜传统SIM卡，甚至是以往的超级SIM卡。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[贾跃亭感叹终于在美国吃到中国口味鸡腿堡]]></title>
@@ -106,6 +92,20 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1436977.htm"/>
         <updated>2024-07-06T05:37:55.649Z</updated>
         <content type="html"><![CDATA[<strong>近日，贾跃亭微博发布视频，感慨自己终于在洛杉矶吃上了和北京一样味道的辣腿儿堡。</strong>随后网友疯狂在贾跃亭视频下留言，喊话希望他快点回来。在这之前，贾跃亭表示，中国汽车下个十年应变“内卷”为“外展”，FF中美汽车桥梁愿携手孤勇者征服美国市场。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么PS5运行游戏的效果往往比号称更强大的Xbox Series X更好？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1436798.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1436798.htm"/>
+        <updated>2024-07-02T08:12:43.000Z</updated>
+        <content type="html"><![CDATA[在第九代游戏机即将进入第四个年头之际，有一个问题仍未得到解答：索尼的 PS5 游戏机的性能如何经常超越纸面性能更强大的微软 Xbox X 系列？ 几个明显的例子包括《生化危机 4》、《使命召唤：黑色行动：冷战》和新一代更新后的《侠盗猎车手5》。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天龙三号火箭热试车时发生意外：未能有效固定 飞出后落地爆炸]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436609.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436609.htm"/>
+        <updated>2024-07-02T05:38:36.550Z</updated>
+        <content type="html"><![CDATA[<strong>6月30日，来自天兵科技的中国最大液体运载火箭，具备可回收复用能力的天龙三号，在河南巩义进行全系统热试车时发生意外，整个火箭居然直接飞了出去！这在整个航天业都是极为离谱。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[法拉利车主体验深中通道 结果堵到发动机过热报警被拖走]]></title>
@@ -129,25 +129,24 @@
         <content type="html"><![CDATA[6月29日下午，上海北横通道有一法拉利F8 Spider发生自燃。网友拍摄的视频显示，<strong>车辆后半部分发动机已被烧的面目全非，后部车壳也完全烧完，整车接近报废。</strong>报道称，车主姜先生向媒体透露，他此前将车借给朋友，这是朋友请的代驾开车送还途中发生的事故。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[幻兽帕鲁凉了后 腾讯的帕鲁终于上线了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1436777.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1436777.htm"/>
-        <updated>2024-07-02T07:26:43.000Z</updated>
-        <content type="html"><![CDATA[<strong>2024 年开年，一款名叫《&nbsp;幻兽帕鲁&nbsp;》的游戏，在 steam 上实现了销量奇迹，把一众 3A 大作吊起来锤。</strong>而当时，腾讯就传出了消息，要上线一款帕鲁 like 游戏。现在距离《&nbsp;幻兽帕鲁&nbsp;》上线，已经过去了半年，当年人均玩帕鲁的盛况早已消失，而腾讯的帕鲁 like 游戏《&nbsp;创造吧！我们的星球&nbsp;》（&nbsp;以下简称《&nbsp;创球&nbsp;》&nbsp;），终于姗姗来迟。]]></content>
+        <title type="html"><![CDATA[丁磊被网易游戏员工怼：陪你演戏点赞，有人说你越来越像徐波了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1437189.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1437189.htm"/>
+        <updated>2024-07-05T09:00:24.000Z</updated>
+        <content type="html"><![CDATA[目前网上还流传出一份关于是石佳煊的状态图，显示其已离职。提到游戏公司，很多人都会想到网易，从逆水寒到蛋仔派对，这家公司出品的游戏受众众多。作为网易的创始人，丁磊平时比较低调，公开露面的机会也不多。近日在网上流传出一张与丁磊有关的内部聊天记录，看点十足，但是真实性有待确认。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16 Pro/Pro Max将采用三星"M14"OLED 面板 Google Pixel 9也会用]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436617.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436617.htm"/>
-        <updated>2024-07-05T05:38:02.991Z</updated>
-        <content type="html"><![CDATA[苹果和Google有望双双获得三星先进的"M14"面板，该面板将在今年晚些时候应用于多款旗舰产品。根据最新报道，iPhone 16 Pro 和
-iPhone 16 Pro Max 将采用这项技术，而 Pixel 9 系列也将与竞争对手的旗舰机型保持同步。]]></content>
+        <title type="html"><![CDATA[OpenAI向少部分用户推出GPT-4o(S2S)模型 似乎是免费版的实时语音功能]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436698.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436698.htm"/>
+        <updated>2024-07-07T05:39:00.678Z</updated>
+        <content type="html"><![CDATA[OpenAI 早前宣布在春季发布会中演示的 ChatGPT 高级实时语音模式将延迟到 7 月份发布，该功能最初只会面向 ChatGPT Plus 订阅用户进行邀请测试，预计到秋季会面向所有订阅用户提供。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[信通院完成华为鸿蒙内核认证 自主研发比率100%]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436684.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436684.htm"/>
-        <updated>2024-07-01T00:30:13.000Z</updated>
-        <content type="html"><![CDATA[日前，中国信息通信研究院（简称“中国信通院”）宣布，完成对华为鸿蒙内核的自主成熟度等级认证。认证显示，<strong>鸿蒙内核自主研发比率为100%，自主成熟度等级为A级。</strong>]]></content>
+        <title type="html"><![CDATA[网约车司机为不让乘客吹空调给驾驶座贴膜]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437216.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437216.htm"/>
+        <updated>2024-07-07T05:39:00.680Z</updated>
+        <content type="html"><![CDATA[近日有网友爆料自己搭乘网约车时，正值33度高温，司机用塑料膜将自己和空调紧紧封在一起。<strong>从爆料的细节看，这辆网约车除了驾驶位的窗户之外，其余窗户全部打开。</strong>另有网友称，自己曾打到过一辆“叙利亚战损版”网约车。车内都被熏黑了，司机全程抽烟、看美女直播。]]></content>
     </entry>
 </feed>
