@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-07-07T17:37:55.842Z</updated>
+    <updated>2024-07-08T05:39:17.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[嫦娥六号实现世界首次月球背面采样返回，举世关注，中国也非常开放地欢迎各国共同研究，但美国是个例外，因为他们自己的沃尔夫条款。<strong>2011年，美国制定了一份沃尔夫条款，禁止NASA在未经美国国会或联邦调查局授权的情况下，使用政府资金与中国或其机构进行双边合作。没想到，多年后，美国搬起石头砸了自己的脚。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“芯片之母”EDA遭遇出口管制：美国厂商几乎垄断行业 没它不能做芯片]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436641.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436641.htm"/>
-        <updated>2024-07-01T07:26:04.000Z</updated>
-        <content type="html"><![CDATA[美国之前已经宣布，对设计GAAFET(全栅场效应晶体管)结构集成电路所必需的EDA软件等技术实施新的出口管制。<strong>EDA软件是定制系统半导体设计的关键，已成为全球半导体战争的关键因素。它不仅用于电路仿真和错误验证，还用于后处理封装设计。</strong>]]></content>
+        <title type="html"><![CDATA[《神话》续集电影《传说》点映及预售票房破1000万 成龙、娜扎出演]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1437242.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1437242.htm"/>
+        <updated>2024-07-08T05:39:16.592Z</updated>
+        <content type="html"><![CDATA[据灯塔专业版数据显示，电影《传说》点映及预售总票房已破1000万。据悉，该片是成龙当年神作电影《神话》的续集，将于7月12日正式上映，7月5日-8日全国开启超前点映。整体延续《神话》的奇幻冒险主题，在汉匈战争中，制片方运用AI技术，结合Deepfake（深度伪造），通过深度学习还原出一个年轻成龙，来饰演征战沙场的汉代将军。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[这些肉比鸡鸭鱼肉更有营养 但是很多人没吃过]]></title>
@@ -55,22 +55,6 @@
         <content type="html"><![CDATA[<strong>苹果计划在2025-2026年</strong><strong>间对MacBook Pro的模具进行重新设计，这将是自2021年14/16英寸MacBook Pro以来的首次重大外观更新。</strong>苹果通常每3至4年更换一次MacBook Pro模具，在2021年的设计中，苹果引入了窄边框“刘海屏”和SD卡槽、HDMI以及MagSafe接口的回归，同时取消了TouchBar。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一位开发者以自己的方式在 Google Drive 上运行了整个操作系统]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437017.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437017.htm"/>
-        <updated>2024-07-06T05:37:55.646Z</updated>
-        <content type="html"><![CDATA[普渡大学计算机科学专业学生 Sambhav S. 完成了一项非凡的技术壮举：让一个完整的 Linux 发行版直接从 Google Drive
-启动。事情的起因是一位朋友成功地从NFS上启动了 Linux，这已经令人印象深刻了。但自诩好胜心强的 Sambhav
-决定更进一步。在他们所谓的"疯狂的咆哮"中，这位开发者产生了从Google的云存储平台启动操作系统的想法。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国小女孩向马斯克报Bug成功：后者一个单词回应]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436747.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436747.htm"/>
-        <updated>2024-07-03T05:38:59.274Z</updated>
-        <content type="html"><![CDATA[近日，一位名叫茉莉的中国小女孩录制了一段视频隔空喊话马斯克，向其报了一个特斯拉的Bug，<strong>获得了马斯克的回复</strong>。原来，茉莉经常使用特斯拉的互动屏幕来画画，她发现，<strong>有时候画上一些新的内容时，原来已经画下的内容就会消失</strong>，因此茉莉希望马斯克能够解决这个问题。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[消息称华为与国内半导体公司武汉新芯合作 将于2026年建成HBM生产线]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1437143.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1437143.htm"/>
@@ -80,18 +64,27 @@
 的炒作不断在市场上掀起风暴，随着时间的推移，对 HBM 的需求将与日俱增。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国全球首发RISC-V内核超级SIM芯片 频率高达120MHz]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436623.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436623.htm"/>
-        <updated>2024-07-04T05:39:11.625Z</updated>
-        <content type="html"><![CDATA[近日，中国移动旗下专业芯片公司中移芯昇发布了<strong>全球首颗采用RISC-V CPU内核的超级SIM芯片“CC2560A”</strong>，无论性能还是功能都远胜传统SIM卡，甚至是以往的超级SIM卡。]]></content>
+        <title type="html"><![CDATA[一位开发者以自己的方式在 Google Drive 上运行了整个操作系统]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437017.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437017.htm"/>
+        <updated>2024-07-06T05:37:55.646Z</updated>
+        <content type="html"><![CDATA[普渡大学计算机科学专业学生 Sambhav S. 完成了一项非凡的技术壮举：让一个完整的 Linux 发行版直接从 Google Drive
+启动。事情的起因是一位朋友成功地从NFS上启动了 Linux，这已经令人印象深刻了。但自诩好胜心强的 Sambhav
+决定更进一步。在他们所谓的"疯狂的咆哮"中，这位开发者产生了从Google的云存储平台启动操作系统的想法。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[贾跃亭感叹终于在美国吃到中国口味鸡腿堡]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436977.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436977.htm"/>
-        <updated>2024-07-06T05:37:55.649Z</updated>
-        <content type="html"><![CDATA[<strong>近日，贾跃亭微博发布视频，感慨自己终于在洛杉矶吃上了和北京一样味道的辣腿儿堡。</strong>随后网友疯狂在贾跃亭视频下留言，喊话希望他快点回来。在这之前，贾跃亭表示，中国汽车下个十年应变“内卷”为“外展”，FF中美汽车桥梁愿携手孤勇者征服美国市场。]]></content>
+        <title type="html"><![CDATA[网约车司机为不让乘客吹空调给驾驶座贴膜]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437216.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437216.htm"/>
+        <updated>2024-07-07T05:39:00.680Z</updated>
+        <content type="html"><![CDATA[近日有网友爆料自己搭乘网约车时，正值33度高温，司机用塑料膜将自己和空调紧紧封在一起。<strong>从爆料的细节看，这辆网约车除了驾驶位的窗户之外，其余窗户全部打开。</strong>另有网友称，自己曾打到过一辆“叙利亚战损版”网约车。车内都被熏黑了，司机全程抽烟、看美女直播。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国小女孩向马斯克报Bug成功：后者一个单词回应]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436747.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436747.htm"/>
+        <updated>2024-07-03T05:38:59.274Z</updated>
+        <content type="html"><![CDATA[近日，一位名叫茉莉的中国小女孩录制了一段视频隔空喊话马斯克，向其报了一个特斯拉的Bug，<strong>获得了马斯克的回复</strong>。原来，茉莉经常使用特斯拉的互动屏幕来画画，她发现，<strong>有时候画上一些新的内容时，原来已经画下的内容就会消失</strong>，因此茉莉希望马斯克能够解决这个问题。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为什么PS5运行游戏的效果往往比号称更强大的Xbox Series X更好？]]></title>
@@ -101,11 +94,11 @@
         <content type="html"><![CDATA[在第九代游戏机即将进入第四个年头之际，有一个问题仍未得到解答：索尼的 PS5 游戏机的性能如何经常超越纸面性能更强大的微软 Xbox X 系列？ 几个明显的例子包括《生化危机 4》、《使命召唤：黑色行动：冷战》和新一代更新后的《侠盗猎车手5》。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[天龙三号火箭热试车时发生意外：未能有效固定 飞出后落地爆炸]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436609.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436609.htm"/>
-        <updated>2024-07-02T05:38:36.550Z</updated>
-        <content type="html"><![CDATA[<strong>6月30日，来自天兵科技的中国最大液体运载火箭，具备可回收复用能力的天龙三号，在河南巩义进行全系统热试车时发生意外，整个火箭居然直接飞了出去！这在整个航天业都是极为离谱。</strong>]]></content>
+        <title type="html"><![CDATA[贾跃亭感叹终于在美国吃到中国口味鸡腿堡]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436977.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436977.htm"/>
+        <updated>2024-07-06T05:37:55.649Z</updated>
+        <content type="html"><![CDATA[<strong>近日，贾跃亭微博发布视频，感慨自己终于在洛杉矶吃上了和北京一样味道的辣腿儿堡。</strong>随后网友疯狂在贾跃亭视频下留言，喊话希望他快点回来。在这之前，贾跃亭表示，中国汽车下个十年应变“内卷”为“外展”，FF中美汽车桥梁愿携手孤勇者征服美国市场。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[法拉利车主体验深中通道 结果堵到发动机过热报警被拖走]]></title>
@@ -122,13 +115,6 @@
         <content type="html"><![CDATA[据淘票票、灯塔专业版消息，影片《抓娃娃》发行通知出炉，片长133分钟！该片将再次开启“西虹市宇宙”，上演一处笑里藏招的抓娃娃，影片由闫非、彭大魔导演，彭大魔、闫非、林炳宝担任编剧，沈腾、马丽领衔主演。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上海一法拉利行驶中起火报废 车主回应：代驾全程一档开车致着火]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436688.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436688.htm"/>
-        <updated>2024-07-01T00:47:23.000Z</updated>
-        <content type="html"><![CDATA[6月29日下午，上海北横通道有一法拉利F8 Spider发生自燃。网友拍摄的视频显示，<strong>车辆后半部分发动机已被烧的面目全非，后部车壳也完全烧完，整车接近报废。</strong>报道称，车主姜先生向媒体透露，他此前将车借给朋友，这是朋友请的代驾开车送还途中发生的事故。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[丁磊被网易游戏员工怼：陪你演戏点赞，有人说你越来越像徐波了]]></title>
         <id>https://www.cnbeta.com.tw/articles/game/1437189.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/game/1437189.htm"/>
@@ -143,10 +129,24 @@
         <content type="html"><![CDATA[OpenAI 早前宣布在春季发布会中演示的 ChatGPT 高级实时语音模式将延迟到 7 月份发布，该功能最初只会面向 ChatGPT Plus 订阅用户进行邀请测试，预计到秋季会面向所有订阅用户提供。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网约车司机为不让乘客吹空调给驾驶座贴膜]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437216.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437216.htm"/>
-        <updated>2024-07-07T05:39:00.680Z</updated>
-        <content type="html"><![CDATA[近日有网友爆料自己搭乘网约车时，正值33度高温，司机用塑料膜将自己和空调紧紧封在一起。<strong>从爆料的细节看，这辆网约车除了驾驶位的窗户之外，其余窗户全部打开。</strong>另有网友称，自己曾打到过一辆“叙利亚战损版”网约车。车内都被熏黑了，司机全程抽烟、看美女直播。]]></content>
+        <title type="html"><![CDATA[Google Pixel 9 可能已在阿尔及利亚先行发售]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436840.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436840.htm"/>
+        <updated>2024-07-02T00:40:59.000Z</updated>
+        <content type="html"><![CDATA[Google已正式宣布，Pixel 9系列将在8月份即将举行的发布会上发布。发布会的预定日期定在 2024 年 8 月 13 日。今年，Google打破了在 10 月份发布旗舰机Pixel 系列的传统，提前了一些时间发布手机。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海一法拉利行驶中起火报废 车主回应：代驾全程一档开车致着火]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436688.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436688.htm"/>
+        <updated>2024-07-01T00:47:23.000Z</updated>
+        <content type="html"><![CDATA[6月29日下午，上海北横通道有一法拉利F8 Spider发生自燃。网友拍摄的视频显示，<strong>车辆后半部分发动机已被烧的面目全非，后部车壳也完全烧完，整车接近报废。</strong>报道称，车主姜先生向媒体透露，他此前将车借给朋友，这是朋友请的代驾开车送还途中发生的事故。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信通院完成华为鸿蒙内核认证 自主研发比率100%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436684.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436684.htm"/>
+        <updated>2024-07-01T00:30:13.000Z</updated>
+        <content type="html"><![CDATA[日前，中国信息通信研究院（简称“中国信通院”）宣布，完成对华为鸿蒙内核的自主成熟度等级认证。认证显示，<strong>鸿蒙内核自主研发比率为100%，自主成熟度等级为A级。</strong>]]></content>
     </entry>
 </feed>
