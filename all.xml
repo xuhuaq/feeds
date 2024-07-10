@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-09T17:38:40.245Z</updated>
+    <updated>2024-07-10T05:38:38.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[电风扇上装矿泉水瓶 效果堪比空调？真相来了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1436852.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1436852.htm"/>
-        <updated>2024-07-03T05:38:59.268Z</updated>
-        <content type="html"><![CDATA[日前，很多短视频平台发布内容称，靠矿泉水瓶和风扇，就能做出一个节能减排的“空调”。那么这是真的吗？首先，关于最近网上流传的“电风扇+半截矿泉水瓶”的“自制空调”装置，并不是最新发明。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[NASA局长：研究中国获取的月壤并不违法 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1436937.htm</id>
@@ -51,18 +44,18 @@
 的炒作不断在市场上掀起风暴，随着时间的推移，对 HBM 的需求将与日俱增。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小米采取措施禁止国行版设备安装国际版系统 刷机后将报错无法进入系统 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437532.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437532.htm"/>
+        <updated>2024-07-10T05:38:37.499Z</updated>
+        <content type="html"><![CDATA[据知名官改版系统 Xiaomi.EU 测试者 Kacper Skrzypek 发布的消息，小米目前已经在开机引导中新增区域检测机制，该机制将识别硬件所属的市场版本，例如中国大陆市场销售的小米即将在安装国际版系统后将无法正常启动。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[网约车司机为不让乘客吹空调给驾驶座贴膜 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1437216.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1437216.htm"/>
         <updated>2024-07-07T05:39:00.680Z</updated>
         <content type="html"><![CDATA[近日有网友爆料自己搭乘网约车时，正值33度高温，司机用塑料膜将自己和空调紧紧封在一起。<strong>从爆料的细节看，这辆网约车除了驾驶位的窗户之外，其余窗户全部打开。</strong>另有网友称，自己曾打到过一辆“叙利亚战损版”网约车。车内都被熏黑了，司机全程抽烟、看美女直播。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贾跃亭感叹终于在美国吃到中国口味鸡腿堡 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436977.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436977.htm"/>
-        <updated>2024-07-06T05:37:55.649Z</updated>
-        <content type="html"><![CDATA[<strong>近日，贾跃亭微博发布视频，感慨自己终于在洛杉矶吃上了和北京一样味道的辣腿儿堡。</strong>随后网友疯狂在贾跃亭视频下留言，喊话希望他快点回来。在这之前，贾跃亭表示，中国汽车下个十年应变“内卷”为“外展”，FF中美汽车桥梁愿携手孤勇者征服美国市场。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[祖国人探员谈《黑袍》最新集喝奶名场面：太奇怪了 (cnbeta一周排行)]]></title>
@@ -72,6 +65,13 @@
         <content type="html"><![CDATA[《黑袍纠察队》第四季第六集现已上线，祖国人在本集里再次上演“喝奶”名场面，相关词条登上推特趋势榜引发热议。祖国人演员安东尼·斯塔尔接受了IGN的采访，被问及蜷缩在鞭炮（瓦莱瑞·卡瑞 饰）怀里拍喝奶这个场景有何感受。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[贾跃亭感叹终于在美国吃到中国口味鸡腿堡 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1436977.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1436977.htm"/>
+        <updated>2024-07-06T05:37:55.649Z</updated>
+        <content type="html"><![CDATA[<strong>近日，贾跃亭微博发布视频，感慨自己终于在洛杉矶吃上了和北京一样味道的辣腿儿堡。</strong>随后网友疯狂在贾跃亭视频下留言，喊话希望他快点回来。在这之前，贾跃亭表示，中国汽车下个十年应变“内卷”为“外展”，FF中美汽车桥梁愿携手孤勇者征服美国市场。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[丁磊被网易游戏员工怼：陪你演戏点赞，有人说你越来越像徐波了 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/game/1437189.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/game/1437189.htm"/>
@@ -79,11 +79,18 @@
         <content type="html"><![CDATA[目前网上还流传出一份关于是石佳煊的状态图，显示其已离职。提到游戏公司，很多人都会想到网易，从逆水寒到蛋仔派对，这家公司出品的游戏受众众多。作为网易的创始人，丁磊平时比较低调，公开露面的机会也不多。近日在网上流传出一张与丁磊有关的内部聊天记录，看点十足，但是真实性有待确认。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Pixel 9 可能已在阿尔及利亚先行发售 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436840.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436840.htm"/>
-        <updated>2024-07-02T00:40:59.000Z</updated>
-        <content type="html"><![CDATA[Google已正式宣布，Pixel 9系列将在8月份即将举行的发布会上发布。发布会的预定日期定在 2024 年 8 月 13 日。今年，Google打破了在 10 月份发布旗舰机Pixel 系列的传统，提前了一些时间发布手机。]]></content>
+        <title type="html"><![CDATA[花200万引进的特斯拉Cybertruck国内首翻 耍沙漠时出事 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437461.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437461.htm"/>
+        <updated>2024-07-10T05:38:37.500Z</updated>
+        <content type="html"><![CDATA[特斯拉Cybertruck并未在中国市场开卖，但已经有翻车导致报废的案例出现了。据不少博主透露，此次事故发生在阿拉善沙漠，<strong>这台Cybertruck显然是在玩沙子时出了事故</strong>，导致车体严重损坏，损失惨重。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传华为下一代麒麟旗舰SoC性能优于骁龙8 Gen2 流畅度媲美Gen3 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437422.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437422.htm"/>
+        <updated>2024-07-08T07:27:44.000Z</updated>
+        <content type="html"><![CDATA[新的华为麒麟芯片预计将于今年晚些时候发布，据传公司将在 Mate 70 系列中使用其即将推出的芯片。迄今为止，这家前中国巨头发布的所有 SoC 产品都乏善可陈，但这不都是华为的错，因为美国的贸易禁令使其无法从台积电采购尖端工艺的晶圆产品。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米最轻薄大折叠MIX Fold 4曝光 工业设计回归小米11 Ultra (cnbeta一周排行)]]></title>
@@ -100,18 +107,18 @@
         <content type="html"><![CDATA[近日，<strong>NVIDIA在最新的40系显卡RTX 4070 Ti Super上，悄悄进行了核心升级，将原本使用的AD103-275核心替换为了新的AD102-225核心。</strong>不过升级后的核心在规格上与前代几乎无异，依然保持8848个CUDA核心、256位显存位宽和16GB GDDR6X显存。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[微信官方安利提醒功能：一键治好健忘 网友赞“比闹钟管用” (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437511.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437511.htm"/>
+        <updated>2024-07-10T05:38:37.506Z</updated>
+        <content type="html"><![CDATA[今天，微信派官方账号发布微信提醒功能使用教程：<strong>在聊天界面中直接长按消息，找到提醒，点击选择需要提醒的时间。到时间了微信就会自动通知弹出提醒，也可以把想要提醒的事件发给朋友。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[飞机起飞4名贵宾室旅客被遗忘机场 同乘一辆网约车抵达目的地 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1437275.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1437275.htm"/>
         <updated>2024-07-09T05:38:37.015Z</updated>
         <content type="html"><![CDATA[近日，有多名博主讲述称，自己在7月4日当天乘坐的由上海飞往青海西宁的上海航空FM9273航班因天气原因备降甘肃兰州，经过4小时的等待后重新起飞，<strong>但竟然把在贵宾室等待的自己给遗忘了下来</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝大楼正式更换新LOGO：只有一个字 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437082.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437082.htm"/>
-        <updated>2024-07-09T05:38:37.017Z</updated>
-        <content type="html"><![CDATA[据支付宝官方介绍，<strong>近日位于上海陆家嘴的支付宝大厦正式更换新LOGO。</strong>相比以往蓝色图标加支付宝中英文的标识，<strong>新LOGO显得无比简洁，就只有一个“支”字，摒弃了之前复杂的设计元素。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[博通VMware ESXi官宣放弃支持中文语种支持 (cnbeta一周排行)]]></title>
@@ -121,25 +128,11 @@
         <content type="html"><![CDATA[<strong>博通旗下的虚拟化软件VMware在最新发布的ESXi 8.0 Update 3更新中宣布，将减少本地化语言数量，不再支持简体中文等语言。</strong>从下一个主要版本开始，VMware ESXi的用户界面、帮助文档和客户支持将只提供英语、日语、西班牙语和法语版本。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米食堂速冻水饺档口因标语太真诚走红：200%采用速冻 拒绝人工 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437122.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437122.htm"/>
-        <updated>2024-07-09T05:38:37.019Z</updated>
-        <content type="html"><![CDATA[7月4日消息，近日，小米食堂一个售卖速冻水饺的档口，因大方真诚的标语走红互联网。<strong>只见标语写道“200%速冻水饺，拒绝人工，凑合吃吧”，耿直的标语引发网友调侃。</strong>有网友表示，速冻水饺每次都排长队，三天了，连个饺子皮都没吃到。<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国自2018年以来首次大规模遣返中国非法移民 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1436912.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1436912.htm"/>
-        <updated>2024-07-03T07:44:48.000Z</updated>
-        <content type="html"><![CDATA[本周末，美国国土安全部（DHS）通过美国移民和海关执法局（lCE）执行了一次前往中华人民共和国的中国公民遣返航班。这是自2018年以来的首次大型包机，是在与中华人民共和国国家移民管理局密切协调下进行的。国土安全部表示将继续与中国公安部和国家移民管理局合作，开展更多活动。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国公司开始大量订购NVIDIA H20芯片 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437115.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437115.htm"/>
-        <updated>2024-07-09T05:38:37.024Z</updated>
-        <content type="html"><![CDATA[据摩根士丹利的最新报告，<strong>NVIDIA特供中国市场的人工智能芯片H20系列，已经开始吸引包括百度、阿里巴巴、腾讯和字节跳动在内的中国科技巨头的采购兴趣。</strong>]]></content>
+        <title type="html"><![CDATA[支付宝大楼正式更换新LOGO：只有一个字 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437082.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437082.htm"/>
+        <updated>2024-07-09T05:38:37.017Z</updated>
+        <content type="html"><![CDATA[据支付宝官方介绍，<strong>近日位于上海陆家嘴的支付宝大厦正式更换新LOGO。</strong>相比以往蓝色图标加支付宝中英文的标识，<strong>新LOGO显得无比简洁，就只有一个“支”字，摒弃了之前复杂的设计元素。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韦伯望远镜的新发现改写了宇宙历史 (cnbeta一周排行)]]></title>
@@ -147,5 +140,12 @@
         <link href="https://www.cnbeta.com.tw/articles/science/1437315.htm"/>
         <updated>2024-07-09T05:38:37.045Z</updated>
         <content type="html"><![CDATA[天文学家利用美国国家航空航天局（NASA）詹姆斯-韦伯太空望远镜（James Webb Space Telescope）的新发现揭示，螺旋星系在早期宇宙中出现的频率比以前认为的要高。这挑战了以前关于星系形成时间的观念，并表明星系的发展速度比假设的要快。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米食堂速冻水饺档口因标语太真诚走红：200%采用速冻 拒绝人工 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437122.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437122.htm"/>
+        <updated>2024-07-09T05:38:37.019Z</updated>
+        <content type="html"><![CDATA[7月4日消息，近日，小米食堂一个售卖速冻水饺的档口，因大方真诚的标语走红互联网。<strong>只见标语写道“200%速冻水饺，拒绝人工，凑合吃吧”，耿直的标语引发网友调侃。</strong>有网友表示，速冻水饺每次都排长队，三天了，连个饺子皮都没吃到。<br>]]></content>
     </entry>
 </feed>
