@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-07-11T17:37:58.432Z</updated>
+    <updated>2024-07-12T05:38:27.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -27,15 +27,6 @@
         <content type="html"><![CDATA[据知名官改版系统 Xiaomi.EU 测试者 Kacper Skrzypek 发布的消息，小米目前已经在开机引导中新增区域检测机制，该机制将识别硬件所属的市场版本，例如中国大陆市场销售的小米即将在安装国际版系统后将无法正常启动。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[消息称华为与国内半导体公司武汉新芯合作 将于2026年建成HBM生产线]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437143.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437143.htm"/>
-        <updated>2024-07-07T05:39:00.664Z</updated>
-        <content type="html"><![CDATA[HBM 业务正在蓬勃发展，这是毋庸置疑的。无论是三星还是 SK hynix，其他每家内存公司都在进行一场 HBM
-竞赛，相互争夺尽可能多的订单。HBM 热潮背后的原因是，这种内存类型在 AI 加速器的集成中发挥着至关重要的作用，而鉴于 AI
-的炒作不断在市场上掀起风暴，随着时间的推移，对 HBM 的需求将与日俱增。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[祖国人探员谈《黑袍》最新集喝奶名场面：太奇怪了]]></title>
         <id>https://www.cnbeta.com.tw/articles/movie/1437281.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/movie/1437281.htm"/>
@@ -43,11 +34,11 @@
         <content type="html"><![CDATA[《黑袍纠察队》第四季第六集现已上线，祖国人在本集里再次上演“喝奶”名场面，相关词条登上推特趋势榜引发热议。祖国人演员安东尼·斯塔尔接受了IGN的采访，被问及蜷缩在鞭炮（瓦莱瑞·卡瑞 饰）怀里拍喝奶这个场景有何感受。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网约车司机为不让乘客吹空调给驾驶座贴膜]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437216.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437216.htm"/>
-        <updated>2024-07-07T05:39:00.680Z</updated>
-        <content type="html"><![CDATA[近日有网友爆料自己搭乘网约车时，正值33度高温，司机用塑料膜将自己和空调紧紧封在一起。<strong>从爆料的细节看，这辆网约车除了驾驶位的窗户之外，其余窗户全部打开。</strong>另有网友称，自己曾打到过一辆“叙利亚战损版”网约车。车内都被熏黑了，司机全程抽烟、看美女直播。]]></content>
+        <title type="html"><![CDATA[知名电子图书馆Z-Library两名创始人从软禁中跑路 目前被下发国际通缉令]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437590.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437590.htm"/>
+        <updated>2024-07-09T10:56:46.000Z</updated>
+        <content type="html"><![CDATA[Z-Library 是个免费共享全球各种书籍和论文的网站，该网站因存在版权问题 (也就是那些受版权保护的书籍) 被美国司法机构多次查处，包括多个不同的官方域名被扣押和封禁。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信官方安利提醒功能：一键治好健忘 网友赞“比闹钟管用”]]></title>
@@ -57,11 +48,11 @@
         <content type="html"><![CDATA[今天，微信派官方账号发布微信提醒功能使用教程：<strong>在聊天界面中直接长按消息，找到提醒，点击选择需要提醒的时间。到时间了微信就会自动通知弹出提醒，也可以把想要提醒的事件发给朋友。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[丁磊被网易游戏员工怼：陪你演戏点赞，有人说你越来越像徐波了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1437189.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1437189.htm"/>
-        <updated>2024-07-05T09:00:24.000Z</updated>
-        <content type="html"><![CDATA[目前网上还流传出一份关于是石佳煊的状态图，显示其已离职。提到游戏公司，很多人都会想到网易，从逆水寒到蛋仔派对，这家公司出品的游戏受众众多。作为网易的创始人，丁磊平时比较低调，公开露面的机会也不多。近日在网上流传出一张与丁磊有关的内部聊天记录，看点十足，但是真实性有待确认。]]></content>
+        <title type="html"><![CDATA[网约车司机为不让乘客吹空调给驾驶座贴膜]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437216.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437216.htm"/>
+        <updated>2024-07-07T05:39:00.680Z</updated>
+        <content type="html"><![CDATA[近日有网友爆料自己搭乘网约车时，正值33度高温，司机用塑料膜将自己和空调紧紧封在一起。<strong>从爆料的细节看，这辆网约车除了驾驶位的窗户之外，其余窗户全部打开。</strong>另有网友称，自己曾打到过一辆“叙利亚战损版”网约车。车内都被熏黑了，司机全程抽烟、看美女直播。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[传华为下一代麒麟旗舰SoC性能优于骁龙8 Gen2 流畅度媲美Gen3]]></title>
@@ -78,18 +69,11 @@
         <content type="html"><![CDATA[特斯拉Cybertruck并未在中国市场开卖，但已经有翻车导致报废的案例出现了。据不少博主透露，此次事故发生在阿拉善沙漠，<strong>这台Cybertruck显然是在玩沙子时出了事故</strong>，导致车体严重损坏，损失惨重。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVIDIA免费给显卡升级反被骂 原因何在]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437127.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437127.htm"/>
-        <updated>2024-07-09T05:38:37.014Z</updated>
-        <content type="html"><![CDATA[近日，<strong>NVIDIA在最新的40系显卡RTX 4070 Ti Super上，悄悄进行了核心升级，将原本使用的AD103-275核心替换为了新的AD102-225核心。</strong>不过升级后的核心在规格上与前代几乎无异，依然保持8848个CUDA核心、256位显存位宽和16GB GDDR6X显存。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飞机起飞4名贵宾室旅客被遗忘机场 同乘一辆网约车抵达目的地]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437275.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437275.htm"/>
-        <updated>2024-07-09T05:38:37.015Z</updated>
-        <content type="html"><![CDATA[近日，有多名博主讲述称，自己在7月4日当天乘坐的由上海飞往青海西宁的上海航空FM9273航班因天气原因备降甘肃兰州，经过4小时的等待后重新起飞，<strong>但竟然把在贵宾室等待的自己给遗忘了下来</strong>。]]></content>
+        <title type="html"><![CDATA[华为麒麟芯片话术线下解禁 店员可公开介绍芯片]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437814.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437814.htm"/>
+        <updated>2024-07-11T08:02:28.000Z</updated>
+        <content type="html"><![CDATA[据博主“鹏鹏君驾到”介绍，<strong>目前华为手机的麒麟芯片话术已经在线下门店解禁。</strong>而在此之前，线下门店的销售是禁止提及麒麟芯片的，就像官网完全隐藏芯片信息一样。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韦伯望远镜的新发现改写了宇宙历史]]></title>
@@ -99,32 +83,11 @@
         <content type="html"><![CDATA[天文学家利用美国国家航空航天局（NASA）詹姆斯-韦伯太空望远镜（James Webb Space Telescope）的新发现揭示，螺旋星系在早期宇宙中出现的频率比以前认为的要高。这挑战了以前关于星系形成时间的观念，并表明星系的发展速度比假设的要快。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[支付宝大楼正式更换新LOGO：只有一个字]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437082.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437082.htm"/>
-        <updated>2024-07-09T05:38:37.017Z</updated>
-        <content type="html"><![CDATA[据支付宝官方介绍，<strong>近日位于上海陆家嘴的支付宝大厦正式更换新LOGO。</strong>相比以往蓝色图标加支付宝中英文的标识，<strong>新LOGO显得无比简洁，就只有一个“支”字，摒弃了之前复杂的设计元素。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米食堂速冻水饺档口因标语太真诚走红：200%采用速冻 拒绝人工]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437122.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437122.htm"/>
-        <updated>2024-07-09T05:38:37.019Z</updated>
-        <content type="html"><![CDATA[7月4日消息，近日，小米食堂一个售卖速冻水饺的档口，因大方真诚的标语走红互联网。<strong>只见标语写道“200%速冻水饺，拒绝人工，凑合吃吧”，耿直的标语引发网友调侃。</strong>有网友表示，速冻水饺每次都排长队，三天了，连个饺子皮都没吃到。<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国公司开始大量订购NVIDIA H20芯片]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437115.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437115.htm"/>
-        <updated>2024-07-11T05:39:41.279Z</updated>
-        <content type="html"><![CDATA[据摩根士丹利的最新报告，<strong>NVIDIA特供中国市场的人工智能芯片H20系列，已经开始吸引包括百度、阿里巴巴、腾讯和字节跳动在内的中国科技巨头的采购兴趣。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知名电子图书馆Z-Library两名创始人从软禁中跑路 目前被下发国际通缉令]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437590.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437590.htm"/>
-        <updated>2024-07-09T10:56:46.000Z</updated>
-        <content type="html"><![CDATA[Z-Library 是个免费共享全球各种书籍和论文的网站，该网站因存在版权问题 (也就是那些受版权保护的书籍) 被美国司法机构多次查处，包括多个不同的官方域名被扣押和封禁。]]></content>
+        <title type="html"><![CDATA[飞机起飞4名贵宾室旅客被遗忘机场 同乘一辆网约车抵达目的地]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437275.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437275.htm"/>
+        <updated>2024-07-09T05:38:37.015Z</updated>
+        <content type="html"><![CDATA[近日，有多名博主讲述称，自己在7月4日当天乘坐的由上海飞往青海西宁的上海航空FM9273航班因天气原因备降甘肃兰州，经过4小时的等待后重新起飞，<strong>但竟然把在贵宾室等待的自己给遗忘了下来</strong>。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软为何要求中国员工禁用Android只能用iPhone？博主给答案]]></title>
@@ -135,6 +98,13 @@
 Pass 身份验证应用。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《黑袍》星光演员样貌变化引热议：她毁了她自己]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1437482.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1437482.htm"/>
+        <updated>2024-07-12T05:38:26.268Z</updated>
+        <content type="html"><![CDATA[随着《黑袍纠察队》第四季的热播，不少粉丝发现，在本季中，“星光”的扮演者艾琳·莫里亚蒂跟第一季相比，样貌发生了很大的变化。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新疆找到有望在火星存活的植物：零下196℃冻不死、5000Gy伽马辐射照不死]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1437360.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1437360.htm"/>
@@ -142,10 +112,39 @@ Pass 身份验证应用。]]></content>
         <content type="html"><![CDATA[近日，中国科学院新疆生态与地理研究所第三次新疆综合科学考察最新成果<strong>：“沙漠苔藓齿肋赤藓极端生存能力研究 助力外星环境拓殖”以封面文章发表于国际高影响力期刊The Innovation (IF: 33.2)。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北京化工大学发出碳纤维录取通知书 厚度仅0.2mm 阳光下可变颜色]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1437241.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1437241.htm"/>
-        <updated>2024-07-11T05:39:41.288Z</updated>
-        <content type="html"><![CDATA[<strong>北京化工大学宣布，今年的录取通知书的制作采用了碳纤维复合材料</strong>，体现了该材料的独到之处。这种碳纤维录取通知书，<strong>厚度仅为0.2mm，能在阳光照射下随角度变化呈现出不同的颜色</strong>，展现了科学与艺术的完美结合。]]></content>
+        <title type="html"><![CDATA[代码暗示苹果即将更新iPad产品线 包括新款Mini和M5 Pro高性能机型]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437419.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437419.htm"/>
+        <updated>2024-07-08T07:18:55.000Z</updated>
+        <content type="html"><![CDATA[苹果公司正在加强其 iPad 产品线。根据 X 上公布的一些后台代码，下一代 iPad Pro 可能会采用尚未公布的 M5 芯片。预计公司还将在今年或明年更新该系列的其他产品。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韦伯的超级地球新发现：距离我们只有48光年的潜在宜居世界]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1437718.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1437718.htm"/>
+        <updated>2024-07-10T11:08:21.000Z</updated>
+        <content type="html"><![CDATA[一个天文学家小组对温带系外行星LHS 1140 b 有了令人兴奋的发现：它可能是一颗覆盖着冰或水的"超级地球"。LHS 1140 b曾被认为是一颗小型海王星，现在根据詹姆斯-韦伯太空望远镜的数据，它可能是一颗拥有富氮大气层的超级地球。它位于宜居带，可能具备有利于液态水的条件，因此成为未来天体生物学研究的重点。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[湖南洞庭湖水灾，这次互联网公司集体沉默？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437493.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437493.htm"/>
+        <updated>2024-07-12T05:38:26.275Z</updated>
+        <content type="html"><![CDATA[在6月份南方部分省份遭遇到了多次暴雨，这也导致了许多城市出现了水灾，<strong>7月份湖南洞庭湖甚至还出现了堤防决口，受到了大量网友的关注。</strong>在此次的湖南洞庭湖水灾前期，互联网公司的表现与往年不同，截止到北京时间7月7日上午12点，很多公司并没有开启此前类似的捐款或者救灾的动作。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星发布Galaxy Z Fold 6和Galaxy Z Flip 6 带来了小幅更新并提高了价格]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437768.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437768.htm"/>
+        <updated>2024-07-12T05:38:26.276Z</updated>
+        <content type="html"><![CDATA[如果你还对三星的可折叠手机有兴趣，那今年的变化可以说并不大，区别在于更耐用了一些，更轻了一些，而且还有一些微小的升级。即便如此，这两款产品还是得到了某一方面的“提升”：更高的价格，Galaxy
+Z Fold 6 现在起价 1899 美元，Z Flip 6 起价 1099 美元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疑回击华为李小龙 蔚来总裁：在自己不熟悉的领域不要轻易发言]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1437705.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1437705.htm"/>
+        <updated>2024-07-10T09:26:55.000Z</updated>
+        <content type="html"><![CDATA[刚刚，蔚来来副总裁沈斐发布微博称：“<strong>在自己不熟悉的领域，不要轻易发言，否则很大概率专家变砖家。</strong>这是前几天人工智能大会主持人请一位清华教授发言时他反复强调的，我深以为然。 ”]]></content>
     </entry>
 </feed>
