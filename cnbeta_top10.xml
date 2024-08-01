@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-07-31T17:39:07.020Z</updated>
+    <updated>2024-08-01T05:38:37.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[根据国际数据公司IDC发布的最新中国智能手机市场季度跟踪报告，2024年第二季度，中国智能手机市场出货量约7158万台，同比增长8.9%。<strong>其中，在vivo、Huawei和Xiaomi等厂商的推动下，Android市场同比增长11.1%；而苹果在大幅降价以后虽然市场需求明显改善，但是iOS市场出货量依然同比下降3.1%。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[苹果iOS 17.6正式版发布：带来重要问题修复 建议所有iPhone升级]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440239.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440239.htm"/>
+        <updated>2024-07-30T08:12:41.000Z</updated>
+        <content type="html"><![CDATA[今日，苹果发布iOS 17.6正式版升级，本次更新距离iOS 17.5发布已有两个月时间。升级日志显示，<strong>iOS 17.6提供重要的错误修复和安全性更新，苹果建议所有用户安装。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[华为首款高性能本外观细节曝光：带有GT标识 发光Logo]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1439958.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1439958.htm"/>
@@ -46,13 +53,6 @@
         <link href="https://www.cnbeta.com.tw/articles/movie/1439961.htm"/>
         <updated>2024-07-29T05:39:15.828Z</updated>
         <content type="html"><![CDATA[7月25日，《2024香港小姐竞选》15强佳丽出炉。今年的港姐质量那是相当给力，从海选开始，就让人眼前一亮。据TVB总经理曾志伟透露，今年的港姐比赛异常火热，超过200位选手投递报名表，质量之高令人惊叹。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里云盘悄悄限速后 拿什么跟百度网盘竞争？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1439562.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1439562.htm"/>
-        <updated>2024-07-27T05:38:04.872Z</updated>
-        <content type="html"><![CDATA[屠龙少年终成恶龙。<strong>当阿里云盘打出“极速上传下载”的金字招牌后，无疑直接向百度网盘“贴脸开大”，后者的“限速”问题一直遭到用户的诟病，靠着“不限速”这一招，阿里云盘迅速起势，一度登上苹果应用商店App Store免费总榜的第二名。</strong>但如果不限速这个优势没了呢？或者说阿里云盘现在也跟百度网盘一样搞出下载限速后，会出现什么情况？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星One UI 7的最新泄露信息展示了新设计和主要功能]]></title>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[近日，日本媒体日经XTECH和日经BP研究所的项目团队，对极氪旗下纯电轿车极氪007进行了拆解。在拆解后，<strong>该机构盛赞极氪007为 “性价比最高”的中国电动车，并称其是科技感十足的吉利版“雷克萨斯”。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[为什么狼群不敢攻击有牧羊犬的羊群？难道打不过一条狗？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1440081.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1440081.htm"/>
+        <updated>2024-07-31T05:38:00.375Z</updated>
+        <content type="html"><![CDATA[宠物狗是人类最早驯化的动物，应该也是唯一在发展农业之前被驯化的动物。它们和人类已经生活超过1万年，它们帮助人类做很多事，而人类为了让它们更好的做事情，会不停的选择性育种它们。目前最大的犬科动物是宠物狗，个体最聪明的犬科动物估计也是宠物狗（这点没有数据支撑），这是人类选择性育种的结果。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[统一签发“网号”“网证” 国家网络身份认证公共服务管理办法公开征求意见]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1439943.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1439943.htm"/>
@@ -83,39 +90,18 @@
         <content type="html"><![CDATA[360集团董事长周鸿祎发布最新视频，就网络上热传的一张照片进行了回应。周鸿祎表示，“总有人在评论区贴两张照片让我说明当时是啥情况，<strong>一张是我正在睡觉，然后雷军在旁边看着我</strong>。”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果iOS 17.6正式版发布：带来重要问题修复 建议所有iPhone升级]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1440239.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1440239.htm"/>
-        <updated>2024-07-30T08:12:41.000Z</updated>
-        <content type="html"><![CDATA[今日，苹果发布iOS 17.6正式版升级，本次更新距离iOS 17.5发布已有两个月时间。升级日志显示，<strong>iOS 17.6提供重要的错误修复和安全性更新，苹果建议所有用户安装。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么狼群不敢攻击有牧羊犬的羊群？难道打不过一条狗？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1440081.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1440081.htm"/>
-        <updated>2024-07-31T05:38:00.375Z</updated>
-        <content type="html"><![CDATA[宠物狗是人类最早驯化的动物，应该也是唯一在发展农业之前被驯化的动物。它们和人类已经生活超过1万年，它们帮助人类做很多事，而人类为了让它们更好的做事情，会不停的选择性育种它们。目前最大的犬科动物是宠物狗，个体最聪明的犬科动物估计也是宠物狗（这点没有数据支撑），这是人类选择性育种的结果。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超薄版iPhone 17将带来A19 芯片、单后置摄像头、半钛金属边框等配置]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1439621.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1439621.htm"/>
-        <updated>2024-07-25T07:53:58.000Z</updated>
-        <content type="html"><![CDATA[天风证券苹果供应链分析师郭明錤（Ming-Chi Kuo）今天<a href="https://medium.com/@mingchikuo/%E9%97%9C%E6%96%BC2h25%E6%96%B0%E6%AC%BEiphone-17%E7%94%A2%E5%93%81%E7%B5%84%E5%90%88%E8%88%87%E8%B6%85%E8%96%84iphone-17%E7%9A%84%E9%A0%90%E6%B8%AC%E8%88%87%E5%88%86%E6%9E%90-predictions-and-analysis-of-the-2h25-new-iphone-17-1528d0772610">分享了</a>传言将于明年推出的新款超薄 iPhone 17 的<a>规格</a>。郭明錤预计，该设备将配备 6.6 英寸显示屏，采用当前尺寸的灵动岛，标准 A19 芯片而非 A19 Pro 芯片，单后置摄像头，以及苹果设计的 5G 芯片。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鳄鱼一动不动引质疑 南宁动物园回应：不用怀疑、都是活的]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1439649.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1439649.htm"/>
-        <updated>2024-07-25T10:44:58.000Z</updated>
-        <content type="html"><![CDATA[7月25日消息，近日有小红书用户发布帖子称，<strong>怀疑南宁动物园的鳄鱼都是假的</strong>，之所以如此，是因为看到它们张着嘴一动不动。这引发了不少人的好奇心，大家纷纷猜猜其中的原因，有人同样持怀疑态度，也有人认为可能是天太热了，鳄鱼在休息罢了。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[三星Galaxy S25 Ultra手机国行版完成备案：5000mAh+45W续航组合]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1439821.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1439821.htm"/>
         <updated>2024-07-26T10:12:53.000Z</updated>
         <content type="html"><![CDATA[<strong>据博主“数码闲聊站”透露，三星Galaxy S25 Ultra手机国行版完成备案，新机的部分配置曝光。</strong>据悉，Galaxy S25 Ultra将率先搭载高通骁龙8 Gen4处理器，这一顶级芯片将为用户带来前所未有的性能飞跃，无论是处理复杂任务还是畅玩大型游戏，都能游刃有余。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[试飞进入倒计时 世界最强火箭SpaceX星舰静态点火测试成功]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1440262.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1440262.htm"/>
+        <updated>2024-07-30T10:10:06.000Z</updated>
+        <content type="html"><![CDATA[美国太空探索技术公司SpaceX近日成功对最新星舰上级火箭进行了发动机静态点火测试，<strong>为即将到来的第五次试飞做准备</strong>。此次测试于当地时间7月26日下午在得克萨斯州博卡奇卡的星基基地进行，高度达50米的星舰上级成功点火，SpaceX官方随后在社交媒体平台上发布了测试照片和视频。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉开卖双层不锈钢水杯 Cybertruck风格 售价439元]]></title>
@@ -132,6 +118,13 @@
         <content type="html"><![CDATA[近日，马斯克大儿子（变性）公开吐槽自己的父亲，认为他他冷漠易怒，还自恋。据外媒报道称，薇薇安此前曾是男孩，名字为泽维尔·亚历山大·马斯克（Xavier Alexander Musk）。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[苹果被指在广告中故意丑化Android手机 颜值是对比出来的？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440138.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440138.htm"/>
+        <updated>2024-07-29T00:13:03.000Z</updated>
+        <content type="html"><![CDATA[近日，一则苹果公司在社交媒体上发布的广告似乎引起了一定的争议。该广告宣传了苹果iOS的数据传输，同时出现了一台安卓手机和一台iPhone机型。然而，不少网友发现，<strong>广告中的Android手机却有着非常明显的超级大黑边和凸起严重的水滴屏幕，对比之下，苹果的药丸打孔屏iPhone简直是“美若天仙”。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows 11 KB5040527 发布 加入"开始"菜单与任务栏互动功能]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1439806.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1439806.htm"/>
@@ -139,10 +132,20 @@
         <content type="html"><![CDATA[Windows 11 KB5040527 现在作为可选更新提供，如果您使用的是 23H2 版本，Build 22631.3958 将提供；如果您使用的是 22H2 版本，Build 22621.3958 将出现。该可选更新改进了任务栏上的"结束任务"逻辑，并修复了文件资源管理器。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果被指在广告中故意丑化Android手机 颜值是对比出来的？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1440138.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1440138.htm"/>
-        <updated>2024-07-29T00:13:03.000Z</updated>
-        <content type="html"><![CDATA[近日，一则苹果公司在社交媒体上发布的广告似乎引起了一定的争议。该广告宣传了苹果iOS的数据传输，同时出现了一台安卓手机和一台iPhone机型。然而，不少网友发现，<strong>广告中的Android手机却有着非常明显的超级大黑边和凸起严重的水滴屏幕，对比之下，苹果的药丸打孔屏iPhone简直是“美若天仙”。</strong>]]></content>
+        <title type="html"><![CDATA[分析师：真搞不懂英特尔为啥找一个毫无经验的印度人负责代工？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440284.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440284.htm"/>
+        <updated>2024-08-01T05:38:36.767Z</updated>
+        <content type="html"><![CDATA[针对日前英特尔宣布，前美光技术开发高级副总裁Naga
+Chandrasekaran将成为英特尔执行领导团队的一员，担任首席全球运营官、执行副总裁兼英特尔代工制造和供应链组织总经理，并向首席执行官Pat
+Gelsinger汇报一事，前外资知名分析师陆行之表示，英特尔可以来台湾地区或亚州扩产，或是找台积电退休高层前去任职CEO，
+这样比较有机会存活。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西瓜肉跟橡皮一样掰都掰不断 瓜表皮自然脱落 美国人吃的西瓜都是假的？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1440076.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1440076.htm"/>
+        <updated>2024-08-01T05:38:36.769Z</updated>
+        <content type="html"><![CDATA[今年 6 月初，美国女子 Kiva 在西雅图的超市买了一个看起来很大的西瓜，花费了 8 美元。她切开瓜后分给孩子们时，却发现他们只咬了一口就不吃了，说这瓜有问题，咬不动。]]></content>
     </entry>
 </feed>
