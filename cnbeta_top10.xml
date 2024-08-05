@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-08-04T17:38:05.168Z</updated>
+    <updated>2024-08-05T05:39:46.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://www.cnbeta.com.tw/articles/funny/1440721.htm"/>
         <updated>2024-08-03T05:38:10.175Z</updated>
         <content type="html"><![CDATA[作为全球数一数二的富豪，钱对于马斯克来说就是个数字而已。<strong>近日，有网友晒出了所谓马斯克在社交平台的发帖截图，从内容看是这位富豪在秀自己的银行卡余额（一共17位数字，即1.7685万亿美元。）。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闲鱼上的“特殊服务”，洗不掉黄色]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1440054.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1440054.htm"/>
-        <updated>2024-07-30T05:39:29.836Z</updated>
-        <content type="html"><![CDATA[食色性也。作为人内心最底层的欲望，从古至今都在以各种“智慧”与道德和法律进行着激烈的博弈。<strong>而最近这场博弈杀到了闲鱼上。</strong>你可能难以想象为何以二手平台起家的闲鱼又成了滋生“特殊服务”的温床，我只能说有监管就有漏洞，有社交就有走偏的风险，只是其中的隐蔽程度实在令人惊叹。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[插在月球上的美国国旗有一半还存在]]></title>
@@ -55,11 +48,19 @@
         <content type="html"><![CDATA[今日，苹果发布iOS 17.6正式版升级，本次更新距离iOS 17.5发布已有两个月时间。升级日志显示，<strong>iOS 17.6提供重要的错误修复和安全性更新，苹果建议所有用户安装。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么狼群不敢攻击有牧羊犬的羊群？难道打不过一条狗？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1440081.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1440081.htm"/>
-        <updated>2024-07-31T05:38:00.375Z</updated>
-        <content type="html"><![CDATA[宠物狗是人类最早驯化的动物，应该也是唯一在发展农业之前被驯化的动物。它们和人类已经生活超过1万年，它们帮助人类做很多事，而人类为了让它们更好的做事情，会不停的选择性育种它们。目前最大的犬科动物是宠物狗，个体最聪明的犬科动物估计也是宠物狗（这点没有数据支撑），这是人类选择性育种的结果。]]></content>
+        <title type="html"><![CDATA[极紫外光刻技术获突破：可大幅提高能源效率 降低半导体制造成本]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440707.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440707.htm"/>
+        <updated>2024-08-02T11:03:53.000Z</updated>
+        <content type="html"><![CDATA[8月2日，冲绳科学技术大学院大学（OIST）的教授新竹俊（Tsumoru
+Shintake）提出了一种极紫外（EUV）光刻技术。基于这种设计的EUV光刻技术可以使用更小的EUV光源工作，从而降低成本，显著提高机器的可靠性和使用寿命。而在消耗电量上不到传统EUV光刻机的十分之一，有助于半导体行业变得更加环境可持续。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果威胁拒绝更新微信、抖音，发生了什么？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440718.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440718.htm"/>
+        <updated>2024-08-04T05:38:53.753Z</updated>
+        <content type="html"><![CDATA[据彭博社报道，苹果公司正在加大对腾讯、字节跳动的施压力度，要求他们对微信、抖音作出根本性改变。<strong>苹果这一不寻常的举动可能会加剧它与中国公司的紧张关系。</strong>据知情人士透露，<strong>近几个月来，苹果一直要求这两家公司封堵微信和抖音应用内存在的漏洞，</strong>因为该漏洞能够被应用内创作者利用，将用户引向外部支付系统，从而规避苹果通常收取的30%佣金。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[分析师：真搞不懂英特尔为啥找一个毫无经验的印度人负责代工？]]></title>
@@ -79,11 +80,18 @@ Gelsinger汇报一事，前外资知名分析师陆行之表示，英特尔可�
         <content type="html"><![CDATA[Galaxy S25 系列预计将于明年初发布，但不断泄露的信息已经让我们对其有了一定的了解。据一份新的报告称，S25 Ultra 的内存可能比前代产品大幅升级。爆料人<a href="https://x.com/UniverseIce/status/1818107278018699385">@UniverseIce</a>声称，Galaxy S25 Ultra 最高可提供 16GB 内存。如果消息属实，这将意味着比 S24 Ultra 有了重大升级，后者的内存最高为 12GB。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日本机构拆解极氪007后出书：售价4.1万元/本]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1440041.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1440041.htm"/>
-        <updated>2024-07-30T05:39:29.856Z</updated>
-        <content type="html"><![CDATA[近日，日本媒体日经XTECH和日经BP研究所的项目团队，对极氪旗下纯电轿车极氪007进行了拆解。在拆解后，<strong>该机构盛赞极氪007为 “性价比最高”的中国电动车，并称其是科技感十足的吉利版“雷克萨斯”。</strong>]]></content>
+        <title type="html"><![CDATA[金喜善女儿15岁近照 以第一名成绩入读洛杉矶高中]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1440663.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1440663.htm"/>
+        <updated>2024-08-02T07:23:30.000Z</updated>
+        <content type="html"><![CDATA[09年1月，金喜善与朴周永的女儿妍雅出生。因初为人母心情激动，金喜善第一时间跟粉丝们分享这一喜悦，可是没想到收到很多网友对于女儿长相苛刻评价。金喜善看到女儿遭受这样的非议，内心很痛苦，一度想要退出娱乐圈，带着女儿到外国生活。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通：一直在与华为接触 试图推动谈判向前发展]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440846.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440846.htm"/>
+        <updated>2024-08-05T05:39:46.217Z</updated>
+        <content type="html"><![CDATA[近日，高通公布了第三财季业绩，虽然净利润为21亿美元，与上年同期相比增长了18%，但他们仍然不开心。<strong>手机芯片销售作为高通的主要收入来源，同比增长12%，达到59亿美元，其中来自中国智能手机制造商的收入同比增长超过50%。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[试飞进入倒计时 世界最强火箭SpaceX星舰静态点火测试成功]]></title>
@@ -102,39 +110,18 @@ Intelligence的人工智能功能旨在提升Siri的智能性，自动生成电�
 18.1的开发者测试版中发布，同时也适用于iPad和Mac等设备。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果威胁拒绝更新微信、抖音，发生了什么？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1440718.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1440718.htm"/>
-        <updated>2024-08-04T05:38:53.753Z</updated>
-        <content type="html"><![CDATA[据彭博社报道，苹果公司正在加大对腾讯、字节跳动的施压力度，要求他们对微信、抖音作出根本性改变。<strong>苹果这一不寻常的举动可能会加剧它与中国公司的紧张关系。</strong>据知情人士透露，<strong>近几个月来，苹果一直要求这两家公司封堵微信和抖音应用内存在的漏洞，</strong>因为该漏洞能够被应用内创作者利用，将用户引向外部支付系统，从而规避苹果通常收取的30%佣金。]]></content>
+        <title type="html"><![CDATA[iPhone 16 Pro机模曝光：3款配色 侧面新增拍照按键]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440568.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440568.htm"/>
+        <updated>2024-08-01T10:14:29.000Z</updated>
+        <content type="html"><![CDATA[苹果公司总是以其创新和前瞻性引领着智能手机市场，而最新的iPhone 16 Pro机模照片再次证明了这一点。近日，福布斯杂志于分享了一组iPhone 16 Pro机模照片，让我们对即将到来的iPhone 16 Pro有了初步的了解。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[金喜善女儿15岁近照 以第一名成绩入读洛杉矶高中]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1440663.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1440663.htm"/>
-        <updated>2024-08-02T07:23:30.000Z</updated>
-        <content type="html"><![CDATA[09年1月，金喜善与朴周永的女儿妍雅出生。因初为人母心情激动，金喜善第一时间跟粉丝们分享这一喜悦，可是没想到收到很多网友对于女儿长相苛刻评价。金喜善看到女儿遭受这样的非议，内心很痛苦，一度想要退出娱乐圈，带着女儿到外国生活。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西瓜肉跟橡皮一样掰都掰不断 瓜表皮自然脱落 美国人吃的西瓜都是假的？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1440076.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1440076.htm"/>
-        <updated>2024-08-01T05:38:36.769Z</updated>
-        <content type="html"><![CDATA[今年 6 月初，美国女子 Kiva 在西雅图的超市买了一个看起来很大的西瓜，花费了 8 美元。她切开瓜后分给孩子们时，却发现他们只咬了一口就不吃了，说这瓜有问题，咬不动。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果被指在广告中故意丑化Android手机 颜值是对比出来的？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1440138.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1440138.htm"/>
-        <updated>2024-07-29T00:13:03.000Z</updated>
-        <content type="html"><![CDATA[近日，一则苹果公司在社交媒体上发布的广告似乎引起了一定的争议。该广告宣传了苹果iOS的数据传输，同时出现了一台安卓手机和一台iPhone机型。然而，不少网友发现，<strong>广告中的Android手机却有着非常明显的超级大黑边和凸起严重的水滴屏幕，对比之下，苹果的药丸打孔屏iPhone简直是“美若天仙”。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周鸿祎透露被双重制裁真相：美CIA中情局在国内潜伏10余年 被我们揪出来了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1440445.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1440445.htm"/>
-        <updated>2024-08-02T05:39:36.211Z</updated>
-        <content type="html"><![CDATA[7月31日下午消息，在今日举办的第十二届互联网安全大会上，360集团创始人、董事长兼CEO周鸿祎在谈及公司被美国双重制裁时表示，我们被制裁的原因，是美国人觉得同行都对他们没啥威胁，360对他们有威胁，就这么简单。]]></content>
+        <title type="html"><![CDATA[40W有线+20W无线 iPhone 16 Pro Max配置表曝光]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440634.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440634.htm"/>
+        <updated>2024-08-05T05:39:46.229Z</updated>
+        <content type="html"><![CDATA[iPhone 16系列的生产目前已逐渐进入大规模制造阶段，根据以往苹果在9月的第二个星期二举行发布会的传统来看，预计新机将于9月10日正式亮相。近日，一张关于iPhone 16 Pro Max与iPhone 15 Pro Max的参数对比图被曝出。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为Pura 70系列独家首发北斗卫星图片消息 李小龙揭秘技术]]></title>
@@ -142,6 +129,20 @@ Intelligence的人工智能功能旨在提升Siri的智能性，自动生成电�
         <link href="https://www.cnbeta.com.tw/articles/tech/1440300.htm"/>
         <updated>2024-08-03T05:38:10.212Z</updated>
         <content type="html"><![CDATA[华为在Mate50系列全球首发了北斗卫星消息功能，如今虽然各家都已经跟进了卫星通信，但北斗依然是华为独享。<strong>另外，华为Pura 70系列还独家实现了北斗卫星图片消息，能不仅支持发送文字、地理位置，还能发送图片信息，更直观。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT版“Her”被玩疯：哭着读诗，中文表现也很亮]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440614.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440614.htm"/>
+        <updated>2024-08-05T05:39:46.232Z</updated>
+        <content type="html"><![CDATA[上线仅仅一天，GPT-4o的<strong>高级语音功能</strong>（Advanced Voice Mode）简直要被玩疯了。无数网友脑洞大开的疯狂测试，GPT-4o这边呢，不仅各种奇葩任务全盘接收，表现好到更是让不少人连连惊呼<strong>“Blow my mind”</strong>。例如有位网友要求GPT-4o<strong>用中文讲个故事</strong>，它的表现是这样的：]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果被指在广告中故意丑化Android手机 颜值是对比出来的？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1440138.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1440138.htm"/>
+        <updated>2024-07-29T00:13:03.000Z</updated>
+        <content type="html"><![CDATA[近日，一则苹果公司在社交媒体上发布的广告似乎引起了一定的争议。该广告宣传了苹果iOS的数据传输，同时出现了一台安卓手机和一台iPhone机型。然而，不少网友发现，<strong>广告中的Android手机却有着非常明显的超级大黑边和凸起严重的水滴屏幕，对比之下，苹果的药丸打孔屏iPhone简直是“美若天仙”。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大疆有史以来最轻的经济型无人机 - DJI Neo真机与包装图像泄露]]></title>
