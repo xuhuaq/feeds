@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-08-16T17:38:00.865Z</updated>
+    <updated>2024-08-17T05:38:53.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[海外媒体最近发布了一组新款特斯拉Model Y的效果图，揭示了这款备受期待的电动SUV可能的设计更新。据悉，<strong>新款Model Y有望配备容量为95千瓦时的电池组，最高续航里程可能达到800公里。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全面涨价，阿里这次真的急了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1441705.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1441705.htm"/>
-        <updated>2024-08-11T08:40:23.000Z</updated>
-        <content type="html"><![CDATA[在经历了一段时间的低价竞争后，阿里终究开始了全面涨价的新战术。最近，阿里旗下淘天集团宣布对多项商家政策进行调整，包括计划向淘宝和天猫商家收取0.6%的基础软件服务费，并取消天猫商家年费。该项调整自8月9日生效，并于9月1日正式实施。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[谷歌立秋新品发布会：Pixel 9系列整齐亮相 还有一些AI新花样]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1442096.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1442096.htm"/>
@@ -67,6 +60,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1442104.htm"/>
         <updated>2024-08-14T08:02:42.000Z</updated>
         <content type="html"><![CDATA[前总统御用充电宝~这波直接MAGA（make <strong>anker</strong> great again）了 。8月13日，前美国总统特朗普的直播带火了，一家中国企业，超越无线可能！酝酿已久的埃隆·马斯克，与唐纳德·特朗普的视频访谈，在X上正式开始。特朗普竟然掏出了一个Anker的充电宝，为自己的手机充电。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全面涨价，阿里这次真的急了？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1441705.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1441705.htm"/>
+        <updated>2024-08-11T08:40:23.000Z</updated>
+        <content type="html"><![CDATA[在经历了一段时间的低价竞争后，阿里终究开始了全面涨价的新战术。最近，阿里旗下淘天集团宣布对多项商家政策进行调整，包括计划向淘宝和天猫商家收取0.6%的基础软件服务费，并取消天猫商家年费。该项调整自8月9日生效，并于9月1日正式实施。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[高德地图就是厂哥厂妹们的脉脉]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[有博主爆料称，有群友表示，自己的小米SU7昨日晚间被盗。车主介绍，自己的车辆忘记锁车了，钥匙卡片还在车内，车辆已被开走，向群友求助怎么办。在群友的提醒下，<strong>车主打开小米汽车手机App，通过APP定位了车辆位置，并将钥匙卡片停用，打开代客模式。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[敖厂长锐评《黑神话》：优化要出大问题 失败并不遥远]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1441595.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1441595.htm"/>
-        <updated>2024-08-13T05:39:10.496Z</updated>
-        <content type="html"><![CDATA[近日《黑神话：悟空》最终预告片发布，敖厂长在小红书发布视频，称：“最终预告很棒，但黑神话失败并不遥远。”在视频中，敖厂长预言虚幻5引擎带来的优化效果将成大问题，他明确表示：“我告诉你，这个游戏他要失败太容易了。”]]></content>
+        <title type="html"><![CDATA[中秋国庆放假通知来了：共10天 都要调休]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442191.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442191.htm"/>
+        <updated>2024-08-17T05:38:52.325Z</updated>
+        <content type="html"><![CDATA[从6月份的端午节开始，已经两个月没有假期，大家都非常期待接下来的中秋和国庆。根据《国务院办公厅关于2024年部分节假日安排的通知》，中秋节假期已经进入了1个月倒计时。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国司法部可能会强制要求剥离Android系统]]></title>
@@ -104,11 +104,11 @@
         <content type="html"><![CDATA[8月13日消息，将在美国时间周二举行的Pixel硬件发布会上，谷歌试图超越苹果的年度iPhone盛会，并将聚光灯投向其资深高管里克·奥斯特洛（Rick Osterloh）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[周鸿祎谈微信被收苹果税：如果苹果坚持这么做 腾讯应考虑不再上架]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1441573.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1441573.htm"/>
-        <updated>2024-08-15T05:39:20.744Z</updated>
-        <content type="html"><![CDATA[之前有消息称，苹果正在加大对腾讯、字节跳动的施压力度，要求他们对微信、抖音作出根本性改变，即不允许将用户引向外部支付系统。现在，周鸿祎也是表达了自己的看法，其认为抖音打赏、微信交易需另付30%苹果税给苹果，这就很离谱。]]></content>
+        <title type="html"><![CDATA[拼多多想明白了 开始给大批商家退款]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442374.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442374.htm"/>
+        <updated>2024-08-16T07:33:38.000Z</updated>
+        <content type="html"><![CDATA[没想到，拼多多突然要给商家们退钱了。<strong>近日，据亿邦动力消息，拼多多最新推出了技术服务费可退权益，帮助商家降低经营成本。</strong>通过该权益，当商家遇到退款订单时，可以按照退款比例享受基础技术服务费返还，即“先用后付”订单1%的基础技术服务费，其他订单0.6%的基础技术服务费。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米SU7“改装件”流出，装上性能翻倍？车主真的傻眼了……]]></title>
@@ -127,11 +127,20 @@
 Gurman）分享了他对明年 iPhone 17 产品线以及可折叠设备的见解，以及苹果计划如何通过不同的规格和目标受众来区分每款机型。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI最新AI模型GPT-4o：披着羊皮的狼？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1441575.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1441575.htm"/>
-        <updated>2024-08-16T05:38:51.551Z</updated>
-        <content type="html"><![CDATA[OpenAI近日发布了一份关于其最新AI模型GPT-4o的安全评估报告，称该模型的整体风险级别为“中等”。这看似一份坦诚的自我审视报告，实则暗藏玄机。]]></content>
+        <title type="html"><![CDATA[华为尊界谍照曝光：定位百万级超高端 气场不输迈巴赫]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442283.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442283.htm"/>
+        <updated>2024-08-15T09:55:09.000Z</updated>
+        <content type="html"><![CDATA[日前，多名汽车博主晒出一组神秘大型豪华轿车的路试谍照。从图中可以看到，<strong>这款车全身覆盖伪装，但难以掩饰其相当硕大的体型，车身长度预计与迈巴赫 S 级等车型相当。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gemini在发布会的现场演示中失败两次 被迫启用备用机]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442144.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442144.htm"/>
+        <updated>2024-08-14T09:49:53.000Z</updated>
+        <content type="html"><![CDATA[现场演示在演示过程中出现异常情况并不罕见，但当大批观众等待着一睹科技巨头们在过去一年里的杰作时，出问题时的压力肯定异常之大。Jess
+Carpenter 和 Dave Citron 是Google Pixel 9
+发布会上的两位演讲者，当他们试图展示现场双子座演示时，很可能正在与内心的崩溃作斗争，因为他们尝试了两次都无法成功。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[黑客公开称手握14亿腾讯用户账号信息 数据包容量多达500GB]]></title>
@@ -139,12 +148,5 @@ Gurman）分享了他对明年 iPhone 17 产品线以及可折叠设备的见解
         <link href="https://www.cnbeta.com.tw/articles/tech/1442154.htm"/>
         <updated>2024-08-14T10:32:18.000Z</updated>
         <content type="html"><![CDATA[名为“Fenice”的黑客公开表示，自己手握14亿腾讯用户账号信息。该黑客声称窃取了海量数据库，其中包括14亿条Tencent.com相关的记录，压缩数据容量为44GB，解压之后将达到500GB。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仅退款12元，挨了顿官司，羊毛党哭了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1441846.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1441846.htm"/>
-        <updated>2024-08-12T00:13:06.000Z</updated>
-        <content type="html"><![CDATA[前有为了一件9.9元的短袖坐9个小时动车从义乌追到威海，后有为了12双袜子从上海开车到河南开封索要退货。电商老板们不再打算忍让“仅退款”了。最近，广西壮族自治区贺州市钟山县人民法院公安人民法庭快速调解了一起因买家网购后“仅退款不退货”引发的纠纷。]]></content>
     </entry>
 </feed>
