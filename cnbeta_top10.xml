@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-08-17T17:38:52.209Z</updated>
+    <updated>2024-08-18T05:38:32.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[8月12日消息，目前美国国家航空航天局（NASA）的宇航员苏尼塔·威廉姆斯（Sunita Williams）和巴里·威尔莫尔（Barry Wilmore）因波音星际客机故障被困在了国际空间站。NASA表示，两人可能需要等到明年2月才能返回地球。宇航员们最近分享了困于太空中的感受。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小米SUV与SU7罕见同框 双车对比差异明显]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442067.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442067.htm"/>
+        <updated>2024-08-15T05:39:20.739Z</updated>
+        <content type="html"><![CDATA[小米SU7无疑是今年最火的电动车，而小米下一辆车已经马不停蹄在路上，种种迹象表明，这是一台纯电SUV，毫无疑问，也是冲着走量来的。近日，<strong>小米这台还处于高度伪装的SUV和小米SU7罕见同框</strong>，得以让人窥得更多信息。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[取代瑜伽裤：网球裙成了女生的新班服]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1441744.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1441744.htm"/>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[摔跤队员因赛前减重过快而晕厥、奥运队员因借妹妹身份证偷吃奥运村自助而被驱逐，今年出洋的印度，在巴黎出的洋相也一个个匪夷所思。世界第一人口大国却零金一银的战绩固然尴尬，但并不致命。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米SUV与SU7罕见同框 双车对比差异明显]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1442067.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1442067.htm"/>
-        <updated>2024-08-15T05:39:20.739Z</updated>
-        <content type="html"><![CDATA[小米SU7无疑是今年最火的电动车，而小米下一辆车已经马不停蹄在路上，种种迹象表明，这是一台纯电SUV，毫无疑问，也是冲着走量来的。近日，<strong>小米这台还处于高度伪装的SUV和小米SU7罕见同框</strong>，得以让人窥得更多信息。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新款特斯拉Model Y效果图曝光 换装贯穿式星环大灯]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1442044.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1442044.htm"/>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[海外媒体最近发布了一组新款特斯拉Model Y的效果图，揭示了这款备受期待的电动SUV可能的设计更新。据悉，<strong>新款Model Y有望配备容量为95千瓦时的电池组，最高续航里程可能达到800公里。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谷歌立秋新品发布会：Pixel 9系列整齐亮相 还有一些AI新花样]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1442096.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1442096.htm"/>
-        <updated>2024-08-14T07:40:53.000Z</updated>
-        <content type="html"><![CDATA[北京时间周三凌晨，美国科技巨头、现代AI发源地谷歌在景山城总部召开新品发布会，除了正式介绍Pixel 9系列手机外，也着力于解答一个更重要的问题——AI还能为使用者做些什么？]]></content>
+        <title type="html"><![CDATA[HMD官宣即将正式落地中国 彻底取代诺基亚]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442424.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442424.htm"/>
+        <updated>2024-08-16T11:14:29.000Z</updated>
+        <content type="html"><![CDATA[<strong>诺基亚官微今天发文宣布，HMD即将正式落地中国。此举也意味着诺基亚将彻底告别，连“贴牌”都没了。</strong>HMD是欧洲最大的智能设备制造商，也是诺基亚手机在全球范围内的设计、开发、生产、销售授权商，<strong>最近几年的诺基亚产品都是HMD打造。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特朗普直播带火了国产充电宝 “懂王同款”紧急发布]]></title>
@@ -62,11 +62,25 @@
         <content type="html"><![CDATA[前总统御用充电宝~这波直接MAGA（make <strong>anker</strong> great again）了 。8月13日，前美国总统特朗普的直播带火了，一家中国企业，超越无线可能！酝酿已久的埃隆·马斯克，与唐纳德·特朗普的视频访谈，在X上正式开始。特朗普竟然掏出了一个Anker的充电宝，为自己的手机充电。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全面涨价，阿里这次真的急了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1441705.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1441705.htm"/>
-        <updated>2024-08-11T08:40:23.000Z</updated>
-        <content type="html"><![CDATA[在经历了一段时间的低价竞争后，阿里终究开始了全面涨价的新战术。最近，阿里旗下淘天集团宣布对多项商家政策进行调整，包括计划向淘宝和天猫商家收取0.6%的基础软件服务费，并取消天猫商家年费。该项调整自8月9日生效，并于9月1日正式实施。]]></content>
+        <title type="html"><![CDATA[谷歌立秋新品发布会：Pixel 9系列整齐亮相 还有一些AI新花样]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442096.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442096.htm"/>
+        <updated>2024-08-14T07:40:53.000Z</updated>
+        <content type="html"><![CDATA[北京时间周三凌晨，美国科技巨头、现代AI发源地谷歌在景山城总部召开新品发布会，除了正式介绍Pixel 9系列手机外，也着力于解答一个更重要的问题——AI还能为使用者做些什么？]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贾跃亭自驾FF 91晒照：其它车辆只能看到它的尾灯]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442434.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442434.htm"/>
+        <updated>2024-08-18T05:38:32.169Z</updated>
+        <content type="html"><![CDATA[今天贾跃亭更新了自己的社交媒体，并晒出了FF 91。<strong>“400多公里疾行，偶遇前往圆石滩的车队。狭路相逢，FF 91 2.0小试牛刀，其它车辆也只能看到它的尾灯了。沿途美景无暇细赏，继续前行。”贾跃亭说道。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中秋国庆放假通知来了：共10天 都要调休]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442191.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442191.htm"/>
+        <updated>2024-08-17T05:38:52.325Z</updated>
+        <content type="html"><![CDATA[从6月份的端午节开始，已经两个月没有假期，大家都非常期待接下来的中秋和国庆。根据《国务院办公厅关于2024年部分节假日安排的通知》，中秋节假期已经进入了1个月倒计时。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[高德地图就是厂哥厂妹们的脉脉]]></title>
@@ -83,18 +97,13 @@
         <content type="html"><![CDATA[有博主爆料称，有群友表示，自己的小米SU7昨日晚间被盗。车主介绍，自己的车辆忘记锁车了，钥匙卡片还在车内，车辆已被开走，向群友求助怎么办。在群友的提醒下，<strong>车主打开小米汽车手机App，通过APP定位了车辆位置，并将钥匙卡片停用，打开代客模式。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中秋国庆放假通知来了：共10天 都要调休]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1442191.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1442191.htm"/>
-        <updated>2024-08-17T05:38:52.325Z</updated>
-        <content type="html"><![CDATA[从6月份的端午节开始，已经两个月没有假期，大家都非常期待接下来的中秋和国庆。根据《国务院办公厅关于2024年部分节假日安排的通知》，中秋节假期已经进入了1个月倒计时。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国司法部可能会强制要求剥离Android系统]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1441690.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1441690.htm"/>
-        <updated>2024-08-14T05:39:25.368Z</updated>
-        <content type="html"><![CDATA[尽管 Android 系统不是谷歌最直接的支柱营收来源，但通过 Android 系统预装谷歌各种应用尤其是浏览器和捆绑谷歌搜索，简洁为谷歌最为依赖的广告业务贡献巨量营收。]]></content>
+        <title type="html"><![CDATA[NASA局长就波音公司推迟乘组人员返航一事打破沉默]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1442408.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1442408.htm"/>
+        <updated>2024-08-16T08:58:44.000Z</updated>
+        <content type="html"><![CDATA[美国国家航空航天局（NASA）局长比尔-尼尔森（Bill Nelson）就波音公司的"Starliner"推迟将宇航员布奇-威尔莫尔（Butch
+Wilmore）和苏尼-威廉姆斯（Suni
+Williams）从国际空间站（ISS）送回一事发表了自己的看法。纳尔逊在发言中说，他对美国国家航空航天局为确保机组人员安全返回而工作的团队表示赞赏。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[谷歌抢在iPhone 16前发布新机 暗示智能手机技术比苹果领先6个月]]></title>
@@ -111,6 +120,20 @@
         <content type="html"><![CDATA[没想到，拼多多突然要给商家们退钱了。<strong>近日，据亿邦动力消息，拼多多最新推出了技术服务费可退权益，帮助商家降低经营成本。</strong>通过该权益，当商家遇到退款订单时，可以按照退款比例享受基础技术服务费返还，即“先用后付”订单1%的基础技术服务费，其他订单0.6%的基础技术服务费。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[女子买回15厘米多肉4年后变3米：已戳到顶 还能长]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1442212.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1442212.htm"/>
+        <updated>2024-08-18T05:38:32.181Z</updated>
+        <content type="html"><![CDATA[近日，浙江。罗女士晒出4年前买的一株仙人掌科多肉植物“量天尺”，引发网友热议。当初以15厘米的高度购入时，谁也没想到，这株植物在阳台上经过四年的生长，竟然能够长到3米高，甚至触碰到了天花板。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为尊界谍照曝光：定位百万级超高端 气场不输迈巴赫]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1442283.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1442283.htm"/>
+        <updated>2024-08-15T09:55:09.000Z</updated>
+        <content type="html"><![CDATA[日前，多名汽车博主晒出一组神秘大型豪华轿车的路试谍照。从图中可以看到，<strong>这款车全身覆盖伪装，但难以掩饰其相当硕大的体型，车身长度预计与迈巴赫 S 级等车型相当。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小米SU7“改装件”流出，装上性能翻倍？车主真的傻眼了……]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1441799.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1441799.htm"/>
@@ -125,28 +148,5 @@
         <content type="html"><![CDATA[苹果公司正在开发 iPhone
 17"Slim"，该机型可能会介于标准机型和"Pro"机型之间，但其售价可能会高于这两种机型。彭博社分析师马克-古尔曼（Mark
 Gurman）分享了他对明年 iPhone 17 产品线以及可折叠设备的见解，以及苹果计划如何通过不同的规格和目标受众来区分每款机型。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为尊界谍照曝光：定位百万级超高端 气场不输迈巴赫]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1442283.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1442283.htm"/>
-        <updated>2024-08-15T09:55:09.000Z</updated>
-        <content type="html"><![CDATA[日前，多名汽车博主晒出一组神秘大型豪华轿车的路试谍照。从图中可以看到，<strong>这款车全身覆盖伪装，但难以掩饰其相当硕大的体型，车身长度预计与迈巴赫 S 级等车型相当。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Gemini在发布会的现场演示中失败两次 被迫启用备用机]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1442144.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1442144.htm"/>
-        <updated>2024-08-14T09:49:53.000Z</updated>
-        <content type="html"><![CDATA[现场演示在演示过程中出现异常情况并不罕见，但当大批观众等待着一睹科技巨头们在过去一年里的杰作时，出问题时的压力肯定异常之大。Jess
-Carpenter 和 Dave Citron 是Google Pixel 9
-发布会上的两位演讲者，当他们试图展示现场双子座演示时，很可能正在与内心的崩溃作斗争，因为他们尝试了两次都无法成功。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客公开称手握14亿腾讯用户账号信息 数据包容量多达500GB]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1442154.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1442154.htm"/>
-        <updated>2024-08-14T10:32:18.000Z</updated>
-        <content type="html"><![CDATA[名为“Fenice”的黑客公开表示，自己手握14亿腾讯用户账号信息。该黑客声称窃取了海量数据库，其中包括14亿条Tencent.com相关的记录，压缩数据容量为44GB，解压之后将达到500GB。]]></content>
     </entry>
 </feed>
