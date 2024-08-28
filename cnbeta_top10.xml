@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-08-27T17:38:23.920Z</updated>
+    <updated>2024-08-28T05:40:25.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[随着金价狂飙，越来越多富人开始抢购实体金条，有相关专家表示，在全球经济面临多重不确定性的背景下，黄金作为传统的避险资产，自然受到了投资者的青睐。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 16、16 Pro营销页面泄露 披露设备造型与大量配置信息]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1442950.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1442950.htm"/>
-        <updated>2024-08-22T17:38:41.448Z</updated>
-        <content type="html"><![CDATA[iPhone 16的一系列宣传图片已经泄露，为苹果公司 2024 年旗舰智能手机揭开了神秘的面纱。随着距离九月苹果发布会的时间越来越近，传言开始包括营销材料的泄露。在 X 的一个帖子中，一位泄密者声称 iPhone 16 系列已经出现了这种情况。]]></content>
+        <title type="html"><![CDATA[华为纯血鸿蒙微信界面曝光：功能精简 页面十分纯净]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1443511.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1443511.htm"/>
+        <updated>2024-08-28T05:40:24.768Z</updated>
+        <content type="html"><![CDATA[<strong>根据华为此前公布的信息，目前TOP 5000应用已经启动鸿蒙原生应用开发，适配HarmonyOS NEXT，但微信却迟迟没有动作。</strong>根据爆料，其实微信的纯血鸿蒙版早已启动开发，只是没有对外宣布，预计在9月前后就会正式公布，并对外公开。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国国航首架C919变装全程影像 国产大飞机首次披上五星红旗]]></title>
@@ -25,6 +25,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1443251.htm"/>
         <updated>2024-08-23T00:36:00.000Z</updated>
         <content type="html"><![CDATA[今日，<strong>中国国际航空官微预热其首架C919国产大飞机，发布了飞机的<a class="f14_link" href="https://weibo.com/tv/show/1034:5070304641482785?from=old_pc_videoshow" target="_blank">变装全过程</a>。</strong>据悉，整机喷漆工艺需要经历全机打磨、清洗、氧化、定位、喷涂等诸多繁琐的工序。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下一代芯片 来自中国科学家的突破]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1443521.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1443521.htm"/>
+        <updated>2024-08-28T05:40:24.796Z</updated>
+        <content type="html"><![CDATA[事实证明，人工智能 (AI) 和机器学习工具在处理需要分析数据并做出准确预测的各种任务方面非常有效。尽管这些工具具有诸多优势，但它们对计算的需求很大，并且在现有处理单元上运行时会消耗大量能源。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全红婵买苹果手机引争议 媒体评论：不买华为有什么错？]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[<strong>"香蕉末日"可能即将来临，这已经不是第一次了。但新的研究可以帮助拯救我们最喜爱的水果。</strong>我们现在吃的香蕉大多属于卡文迪许品种，但它们正面临着生存威胁。一种名为FocTR4 的真菌正在感染一种名为镰刀菌枯萎病的疾病，并导致作物死亡。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软确认《黑神话：悟空》将登陆Xbox Series X 但未透露具体日期]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1442971.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1442971.htm"/>
-        <updated>2024-08-21T07:37:38.000Z</updated>
-        <content type="html"><![CDATA[奇幻动作 RPG 游戏《黑神话：悟空》于本周二登陆 PC 和 PS5 平台。开发商游戏科学的首款游戏大作在 Valve 的 Steam 上仅用24 小时就成为了一款<a>热门</a>游戏。截至<a href="https://store.steampowered.com/charts/mostplayed">目前</a>，该游戏不仅是 Steam 上最畅销的游戏，而且在 Valve 服务上的<a>同时在线玩家数也达到了 2223179 人的峰值</a>。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[标配M4芯片 苹果三款Mac新品蓄势待发]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1443363.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1443363.htm"/>
@@ -76,11 +76,28 @@
         <content type="html"><![CDATA[都在说新能源是汽车行业的未来。无论是不断攀高的新能源市占率，还是行业上下游的发展现状，都能诉说这一点。但当下很多燃油车依然卖得火热，从入门家轿到中高级车，再到豪华、超豪华车都是如此，所以，完全电动化的时代什么时候能够到来？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《黑神话：悟空》石破天惊，RTX 4090D飞越花果山]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1442891.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1442891.htm"/>
-        <updated>2024-08-24T05:41:08.957Z</updated>
-        <content type="html"><![CDATA[等待四年，《黑神话：悟空》终于上线。激动的心，颤抖的手，全球玩家们都在电脑屏幕前集结，见证这一中国游戏史上里程碑的一刻。打破多项纪录后，中国游戏版图，会被它撼动吗？就在刚刚，《黑神话：悟空》一上线，就创造了中国游戏史上的奇迹！]]></content>
+        <title type="html"><![CDATA[PS5 Pro是公开的秘密 连小工作室都知道其规格]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1443392.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1443392.htm"/>
+        <updated>2024-08-25T10:35:22.000Z</updated>
+        <content type="html"><![CDATA[近日意大利游戏媒体multiplayer.it记者Lorenzo Fazio在Twitch直播时称，科隆展上有开发商向他确认PS5 Pro马上就要发售了。他在直播时表示：“一个开发商（我不会提及其名字）确认PS5 Pro要来了。他们告诉我，他们本想着今年年底前发售他们的游戏，但决定放慢开发速度，因为PS5 Pro要推出了。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌Pixel 9芯片大翻车 都怪AI战略过于激进？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1443484.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1443484.htm"/>
+        <updated>2024-08-26T00:20:33.000Z</updated>
+        <content type="html"><![CDATA[在国内没多少用户关心的情况下，Google Pixel 9 系列已于 8 月 22 日在海外正式发售。其实从硬件来看，这几年的 Pixel
+手机确实没有多大的吸引力：Pixel 9 全系采用了 Google Tensor G4 处理器，数字系列提供 12GB 内存和
+128GB/256GB 存储空间，Pro 系列提供 128GB（9 Pro）/256GB（9 Pro、9 Pro XL）/512GB（9 Pro
+XL）的存储空间。至于其他硬件配置，放在高度内卷的国内智能手机市场中，可能在中端手机领域都不一定站得住脚。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李斌回应撞脸黑神话悟空金池长老 网友盛赞大格局]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1443040.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1443040.htm"/>
+        <updated>2024-08-26T05:39:28.333Z</updated>
+        <content type="html"><![CDATA[《黑神话：悟空》彻底火爆起来，引发了世界级关注，在玩游戏时，有网友发现其中的“金池长老”看起来有点面熟，<strong>整体姿态和蔚来创始人李斌非常神似</strong>。今日话题“李斌回应撞脸黑神话悟空金池长老”登上热搜，据悉，李斌则回应网友相关评论时称：“好多人给我发表情包了，<strong>大家多多支持各个领域的国产精品</strong>“、“国产3A大作厉害了！支持国产精品！”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Telegram创始人杜罗夫在法国被捕]]></title>
@@ -90,18 +107,11 @@
         <content type="html"><![CDATA[Telegram创始人帕维尔•杜罗夫在法国巴黎勒布尔热机场被捕。据悉，杜罗夫于周六晚在勒布尔热机场停机坪被捕，当时他正从一架从阿塞拜疆飞来的私人飞机上下来。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PS5 Pro是公开的秘密 连小工作室都知道其规格]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1443392.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1443392.htm"/>
-        <updated>2024-08-25T10:35:22.000Z</updated>
-        <content type="html"><![CDATA[近日意大利游戏媒体multiplayer.it记者Lorenzo Fazio在Twitch直播时称，科隆展上有开发商向他确认PS5 Pro马上就要发售了。他在直播时表示：“一个开发商（我不会提及其名字）确认PS5 Pro要来了。他们告诉我，他们本想着今年年底前发售他们的游戏，但决定放慢开发速度，因为PS5 Pro要推出了。”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李斌回应撞脸黑神话悟空金池长老 网友盛赞大格局]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1443040.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1443040.htm"/>
-        <updated>2024-08-26T05:39:28.333Z</updated>
-        <content type="html"><![CDATA[《黑神话：悟空》彻底火爆起来，引发了世界级关注，在玩游戏时，有网友发现其中的“金池长老”看起来有点面熟，<strong>整体姿态和蔚来创始人李斌非常神似</strong>。今日话题“李斌回应撞脸黑神话悟空金池长老”登上热搜，据悉，李斌则回应网友相关评论时称：“好多人给我发表情包了，<strong>大家多多支持各个领域的国产精品</strong>“、“国产3A大作厉害了！支持国产精品！”]]></content>
+        <title type="html"><![CDATA[最宏大的生物工程：白蚁用3800年打造了2亿个3米高土丘]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1443442.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1443442.htm"/>
+        <updated>2024-08-26T05:54:53.000Z</updated>
+        <content type="html"><![CDATA[你可能还不知道，下图这种土丘是昆虫界最宏大的生物工程，因为一种白蚁用了数千年的时间，在一个片区足足建造了2亿个这种土丘。这种白蚁叫作<strong>Syntermes dirus</strong>，它们是种群数量最大的白蚁之一，以收集和食用落叶为生，而这些土丘建造在巴西东北部的卡廷加地区。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大自然的隐秘公路：每年有超过1700万只昆虫迁徙通过同一个山口]]></title>
@@ -118,6 +128,13 @@
         <content type="html"><![CDATA[那个曾经扬言要收购苹果的男人，现在用什么手机？近日，《舌尖上的中国》导演陈晓卿在微博晒出了他和罗永浩、冯唐三人聚餐的照片。陈晓卿说“和老罗约在在冯唐家吃饭，求得一幅字。十年前常聚的老友，现在见一面真不容易，我翻了下相册，上次一起喝酒，还是去年三月。 ”]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[中国空间站"太空菜园"最新画面公开 生机勃勃枝繁叶茂]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1443532.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1443532.htm"/>
+        <updated>2024-08-28T05:40:24.828Z</updated>
+        <content type="html"><![CDATA[什么也不能阻挡我们种菜！太空也不行！<strong>不知不觉，4月25日神舟十八号飞船发射入轨至今，叶光富、李聪、李广苏三名航天员已在轨驻留4个月，超过了100天。</strong>从中国载人航天工程办公室最新公布的视频可以看到，三维航天员在空间站开展了多项空间科学实验和试验，完成了空间站内环境监测、设备检查维护等工作，生活充实而多彩。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[鸿海董事长回应印度iPhone制造良率低：与中国大陆制造没有差别]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1443270.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1443270.htm"/>
@@ -125,24 +142,10 @@
         <content type="html"><![CDATA[<strong>近期多方爆料，称苹果将首次在印度生产Pro版iPhone，其中就包括即将推出的iPhone 16 Pro和iPhone 16 Pro Max。</strong>此事引发不少网友关注和讨论，因为一直有传闻称印度组装的苹果产品良率低，到手后还有装配公差大等问题。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[港媒探访世界最大iPhone工厂：富士康郑州“变样”了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443019.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443019.htm"/>
-        <updated>2024-08-21T00:49:42.000Z</updated>
-        <content type="html"><![CDATA[就在苹果公司的iPhone 16即将发布之际，位于河南郑州的世界最大iPhone工厂正在提供更高的奖金，以吸引工人应对生产旺季。但是，据工厂工人和劳务中介反映，“富士康已经不是以前的富士康了”。《南华早报》近期的一次探访发现，<strong>随着富士康大客户苹果一直在将生产转移到印度等国家，郑州工厂已经失去了一些动能。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曝iPhone 16 Pro Max超窄下巴刷新纪录：很考验用户的贴膜能力]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443029.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443029.htm"/>
-        <updated>2024-08-27T05:39:10.910Z</updated>
-        <content type="html"><![CDATA[博主i冰宇宙爆料，<strong>苹果进一步收窄iPhone 16 Pro Max的边框，下边框宽度只有1.15mm，刷新了行业纪录。</strong>由于边框极窄，增加了用户的贴膜难度，该博主表示，iPhone 16 Pro Max非常挑战钢化膜黑边，稍宽一点就废了，贴歪一点也废了。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当成都开始限电，纯电车又不行了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443336.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443336.htm"/>
-        <updated>2024-08-24T11:06:45.000Z</updated>
-        <content type="html"><![CDATA[成都的纯电车主们，本周感受了真正的充电焦虑。<strong>最近全国高温，西南局部地区的最高突破了 40℃，成都连续发布橙色和红色预警信号，并逐步开始限电。</strong>小区间歇性停电，商圈计划性关闭空调，就连商业充电桩都陆续下线。即使营业中的充电桩也限制了最高功率。补能点减少，功率降低，充电速度变慢，新能源车主被突如其来的限电搞懵了：开车一两年，没见过充电桩还要排队的。]]></content>
+        <title type="html"><![CDATA[苹果M4 Mac内存有望16GB起步]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1443402.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1443402.htm"/>
+        <updated>2024-08-28T05:40:24.835Z</updated>
+        <content type="html"><![CDATA[随着应用程序和操作系统对内存需求的增加，电脑仅配备8GB内存已逐渐显得捉襟见肘。据媒体报道，<strong>马克·古尔曼（Mark Gurman）在最新报告中透露，苹果即将推出的M4 Mac电脑可能会首次默认配备16GB内存。</strong>]]></content>
     </entry>
 </feed>
