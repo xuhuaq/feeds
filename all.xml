@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-29T17:39:06.883Z</updated>
+    <updated>2024-08-30T05:40:27.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[华为纯血鸿蒙微信界面曝光：功能精简 页面十分纯净 (cnbeta一周排行)]]></title>
@@ -26,18 +26,18 @@
         <content type="html"><![CDATA[今日，<strong>中国国际航空官微预热其首架C919国产大飞机，发布了飞机的<a class="f14_link" href="https://weibo.com/tv/show/1034:5070304641482785?from=old_pc_videoshow" target="_blank">变装全过程</a>。</strong>据悉，整机喷漆工艺需要经历全机打磨、清洗、氧化、定位、喷涂等诸多繁琐的工序。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《黑神话：悟空》被指Boss完全照搬《艾尔登法环》：动作几乎同步 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1443781.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1443781.htm"/>
+        <updated>2024-08-29T05:40:22.069Z</updated>
+        <content type="html"><![CDATA[《黑神话：悟空》大火之后，有不少关于抄袭的话题涌现，比如上周关注度较高的原画、臂铠等。<strong>近日，又有博主放出了《黑神话：悟空》中boss步云鹿的战斗动作和《艾尔登法环》中boss祖灵的对比画面。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全红婵买苹果手机引争议 媒体评论：不买华为有什么错？ (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1443307.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1443307.htm"/>
         <updated>2024-08-24T07:39:36.000Z</updated>
         <content type="html"><![CDATA[近日巴黎奥运会跳水冠军全红婵给妈妈买苹果手机一事，引来不少网友的围观和热议。从网友晒出的照片看，全红婵在一家苹果专卖店的柜台前等候，随后从店员手中接过商品。<strong>随后，评论区有人自称是苹果番禺万达店的销售员，其表示，全红婵称要送妈妈手机，要求“拿个内存大的”。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米HyperOS 2.0新代码曝光！MIUI时代即将落幕 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443144.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443144.htm"/>
-        <updated>2024-08-24T05:41:08.928Z</updated>
-        <content type="html"><![CDATA[近日，科技媒体xiaomitime曝出一则重磅消息：<strong>小米正在逐步完善其全新操作系统HyperOS，并发现了HYPER_OS2的新代码。</strong>消息指出，<strong>xiaomitime在检查HyperOS的最新安卓15 Beta 3代码细节时，发现了一行新的代码：.field public static HYPER_OS2:I = 0x0。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["香蕉灾难"再次逼近 但一种新武器可以拯救它们的生命 (cnbeta一周排行)]]></title>
@@ -54,11 +54,34 @@
         <content type="html"><![CDATA[什么也不能阻挡我们种菜！太空也不行！<strong>不知不觉，4月25日神舟十八号飞船发射入轨至今，叶光富、李聪、李广苏三名航天员已在轨驻留4个月，超过了100天。</strong>从中国载人航天工程办公室最新公布的视频可以看到，三维航天员在空间站开展了多项空间科学实验和试验，完成了空间站内环境监测、设备检查维护等工作，生活充实而多彩。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[闲鱼用户挂售霉菌引研究生破防 客服表示：建议举报，平台会进行核实 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1443620.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1443620.htm"/>
+        <updated>2024-08-29T05:40:22.079Z</updated>
+        <content type="html"><![CDATA[近日，有网友因“长出蘑菇的苹果”被中科院博士私信求购一事引发众多媒体关注。如今在闲鱼上，有用户在线出售霉菌，一位用户发布了发霉的莲雾两个，并表示包邮价格60元，声称“有没有需要交作业用到的”。此外还可以看到各种不同的霉菌发布。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PS5 Pro是公开的秘密 连小工作室都知道其规格 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/game/1443392.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/game/1443392.htm"/>
         <updated>2024-08-25T10:35:22.000Z</updated>
         <content type="html"><![CDATA[近日意大利游戏媒体multiplayer.it记者Lorenzo Fazio在Twitch直播时称，科隆展上有开发商向他确认PS5 Pro马上就要发售了。他在直播时表示：“一个开发商（我不会提及其名字）确认PS5 Pro要来了。他们告诉我，他们本想着今年年底前发售他们的游戏，但决定放慢开发速度，因为PS5 Pro要推出了。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90后女生出游20天 全村手机要瘫痪了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1443734.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1443734.htm"/>
+        <updated>2024-08-28T10:29:59.000Z</updated>
+        <content type="html"><![CDATA[8月28日消息，微博话题“90后女生出游20天全村手机都要瘫痪了”冲上热搜榜，引发热议。据媒体报道，一位女生趁着假期出去玩了20多天，刚回来就被村里的老人围住了，老人纷纷问她：“我的手机怎么没有话费了？”、“我电话接不到”、“有事手机打不通”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM中国员工爆千人大裁员内幕：印度CEO逼我们去班加罗尔 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1443707.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1443707.htm"/>
+        <updated>2024-08-28T08:57:22.000Z</updated>
+        <content type="html"><![CDATA[近日，IBM突然宣布关闭中国研发部门，裁撤员工超过 1000
+人，前后仅花费了三分钟时间，引发广泛关注。这一决定不仅让许多员工感到震惊，更引发了对于企业高管国籍与管理风格的讨论。有网友认为这跟现任IBM
+印度裔 CEO Arvind Krishna 有关，他已经在全球范围内进行了多轮裁员。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[标配M4芯片 苹果三款Mac新品蓄势待发 (cnbeta一周排行)]]></title>
@@ -78,13 +101,6 @@
 XL）的存储空间。至于其他硬件配置，放在高度内卷的国内智能手机市场中，可能在中端手机领域都不一定站得住脚。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国这个地方，要禁止卖燃油车了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443242.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443242.htm"/>
-        <updated>2024-08-23T11:54:56.000Z</updated>
-        <content type="html"><![CDATA[都在说新能源是汽车行业的未来。无论是不断攀高的新能源市占率，还是行业上下游的发展现状，都能诉说这一点。但当下很多燃油车依然卖得火热，从入门家轿到中高级车，再到豪华、超豪华车都是如此，所以，完全电动化的时代什么时候能够到来？]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[最宏大的生物工程：白蚁用3800年打造了2亿个3米高土丘 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1443442.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1443442.htm"/>
@@ -92,25 +108,11 @@ XL）的存储空间。至于其他硬件配置，放在高度内卷的国内智
         <content type="html"><![CDATA[你可能还不知道，下图这种土丘是昆虫界最宏大的生物工程，因为一种白蚁用了数千年的时间，在一个片区足足建造了2亿个这种土丘。这种白蚁叫作<strong>Syntermes dirus</strong>，它们是种群数量最大的白蚁之一，以收集和食用落叶为生，而这些土丘建造在巴西东北部的卡廷加地区。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《黑神话：悟空》被指Boss完全照搬《艾尔登法环》：动作几乎同步 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1443781.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1443781.htm"/>
-        <updated>2024-08-29T05:40:22.069Z</updated>
-        <content type="html"><![CDATA[《黑神话：悟空》大火之后，有不少关于抄袭的话题涌现，比如上周关注度较高的原画、臂铠等。<strong>近日，又有博主放出了《黑神话：悟空》中boss步云鹿的战斗动作和《艾尔登法环》中boss祖灵的对比画面。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram创始人杜罗夫在法国被捕 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443367.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443367.htm"/>
-        <updated>2024-08-25T07:15:53.000Z</updated>
-        <content type="html"><![CDATA[Telegram创始人帕维尔•杜罗夫在法国巴黎勒布尔热机场被捕。据悉，杜罗夫于周六晚在勒布尔热机场停机坪被捕，当时他正从一架从阿塞拜疆飞来的私人飞机上下来。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闲鱼用户挂售霉菌引研究生破防 客服表示：建议举报，平台会进行核实 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443620.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443620.htm"/>
-        <updated>2024-08-29T05:40:22.079Z</updated>
-        <content type="html"><![CDATA[近日，有网友因“长出蘑菇的苹果”被中科院博士私信求购一事引发众多媒体关注。如今在闲鱼上，有用户在线出售霉菌，一位用户发布了发霉的莲雾两个，并表示包邮价格60元，声称“有没有需要交作业用到的”。此外还可以看到各种不同的霉菌发布。]]></content>
+        <title type="html"><![CDATA[又一位英伟达“杀手”亮相：性能是H100数倍，成本仅1/10，支持万亿参数模型 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1443806.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1443806.htm"/>
+        <updated>2024-08-30T05:40:27.012Z</updated>
+        <content type="html"><![CDATA[8月27日消息，在近日召开的Hot Chips 2024大会上，美国AI芯片初创公司SambaNova首次详细介绍了其新推出的全球首款面向万亿参数规模的人工智能（AI）模型的AI芯片系统——基于可重构数据流单元 (RDU) 的 AI 芯片 SN40L。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《黑神话：悟空》幕后演员曝光 蜘蛛精大姐AI生成 (cnbeta一周排行)]]></title>
@@ -120,33 +122,32 @@ XL）的存储空间。至于其他硬件配置，放在高度内卷的国内智
         <content type="html"><![CDATA[日前有微博网友曝光了《黑神话：悟空》主要动作、面部捕捉演员，原来蜘蛛精大姐是用AI生成。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IBM中国员工爆千人大裁员内幕：印度CEO逼我们去班加罗尔 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443707.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443707.htm"/>
-        <updated>2024-08-28T08:57:22.000Z</updated>
-        <content type="html"><![CDATA[近日，IBM突然宣布关闭中国研发部门，裁撤员工超过 1000
-人，前后仅花费了三分钟时间，引发广泛关注。这一决定不仅让许多员工感到震惊，更引发了对于企业高管国籍与管理风格的讨论。有网友认为这跟现任IBM
-印度裔 CEO Arvind Krishna 有关，他已经在全球范围内进行了多轮裁员。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专家：为了多消费 调休3天代价是5周工作休息不正常 不如不放假 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443775.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443775.htm"/>
-        <updated>2024-08-29T05:40:22.084Z</updated>
-        <content type="html"><![CDATA[近日，中秋放假需要调休的话题冲上了热搜第一，因为不但调休跨度够长，同时也够多，具体来说如下：今年中秋节9月15日至9月17日放假调休，共3天，9月14日（星期六）上班。国庆节10月1日至10月7日放假调休，共7天，9月29日（星期日）、10月12日（星期六）上班。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大自然的隐秘公路：每年有超过1700万只昆虫迁徙通过同一个山口 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1443258.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1443258.htm"/>
-        <updated>2024-08-26T05:39:28.326Z</updated>
-        <content type="html"><![CDATA[埃克塞特大学（University of Exeter）的最新研究显示，每年有超过 1700 万只昆虫通过法国和西班牙交界处的一个山口迁徙。在最近发表在《英国皇家学会院刊 B》上的这项研究中，科学家们对布哈鲁埃洛山口的迁徙昆虫进行了研究，该山口是比利牛斯山脉两座高峰之间的一个 30 米高的缺口。四年来，研究小组每年秋季都会前往该山口，监测大量种类繁多的白昼飞行昆虫向南迁徙的情况。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[无线充电新规9月1日施行 苹果官网已将iPhone无线充电功率改为7.5W (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1443470.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1443470.htm"/>
         <updated>2024-08-26T09:33:07.000Z</updated>
         <content type="html"><![CDATA[工信部文件《无线充电（电力传输）设备无线电管理暂行规定》将于9月1日实施。按照规定，移动通信终端、笔记本电脑、平板电脑、可穿戴设备、家用机器人、家用电器无线充电设备及车载无线充电设备等，无线充电工作频率范围为100-148.5kHz、6765-6795kHz、13553-13567kHz三种频段，额定传输功率不超过80W。<br>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram创始人杜罗夫在法国被捕 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1443367.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1443367.htm"/>
+        <updated>2024-08-25T07:15:53.000Z</updated>
+        <content type="html"><![CDATA[Telegram创始人帕维尔•杜罗夫在法国巴黎勒布尔热机场被捕。据悉，杜罗夫于周六晚在勒布尔热机场停机坪被捕，当时他正从一架从阿塞拜疆飞来的私人飞机上下来。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克的电动车宣言从特斯拉官网消失 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1443732.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1443732.htm"/>
+        <updated>2024-08-28T10:28:57.000Z</updated>
+        <content type="html"><![CDATA[据《福布斯》报道，埃隆·马斯克(Elon
+Musk)为特斯拉公司制定的总体规划“宏图计划”的前两个篇章已经从官网消失，让人怀疑这是否与马斯克最近支持特朗普有关。目前为止，马斯克的“宏图计划”计划总共有三个篇章。第一篇章在2006年发布，主要内容是打造一款跑车，然后用赚来的钱开发更便宜的汽车。十年后的2016年，马斯克发布了“宏图计划”的第二篇章，加入了开发更多电动汽车的计划，并对太阳能电池板和储能电池业务进行了规划。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外媒评《黑神话》：一个会被遗忘的失败者 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1443261.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1443261.htm"/>
+        <updated>2024-08-30T05:40:27.016Z</updated>
+        <content type="html"><![CDATA[今日，外媒Kotaku发布了自己的《黑神话：悟空》评测文章（他们没有测试码）。在评测中，Kotaku为游戏的画面、战斗系统、美术风格以及神话的演绎给出了极高评价。但同时认为，游戏中缺少地图容易迷路，一些检查点位置也不够好，剧情上则有着需要玩家通晓《西游记》的硬性前提。]]></content>
     </entry>
 </feed>
