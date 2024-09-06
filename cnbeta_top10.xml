@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-09-05T17:38:42.153Z</updated>
+    <updated>2024-09-06T05:41:15.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[三只羊女主播沫沫已有9个月未更新]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1444454.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1444454.htm"/>
+        <updated>2024-09-05T05:40:33.215Z</updated>
+        <content type="html"><![CDATA[9月3日消息，近日辛巴与三只羊的矛盾激化，双方高管互相指责。目前三只羊联合创始人卢文庆的抖音账号已经设置为“私密账号”。而三只羊女主播沫沫也突然成为被关注的焦点，大量网友在其视频下留言询问其目前状态。三言发现，沫沫的抖音账号从去年年底就停更了，至今已有9个月。]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-4o mini排名雪崩 大模型竞技场规则更新，奥特曼的刷分小技巧无效了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1444116.htm</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[近日，《黑神话：悟空》四妹的动捕演员柯金孟在个人抖音账号上发布了四妹的Cos写真，并表示：“我可不是建模喔请温柔一点对我噢”。据悉，柯金孟参与《黑神话：悟空》中蜘蛛精姐妹三姐和四妹的CG动捕工作，而三姐和四妹的配音和脸模则由其他人担任。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三只羊女主播沫沫已有9个月未更新]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1444454.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1444454.htm"/>
-        <updated>2024-09-05T05:40:33.215Z</updated>
-        <content type="html"><![CDATA[9月3日消息，近日辛巴与三只羊的矛盾激化，双方高管互相指责。目前三只羊联合创始人卢文庆的抖音账号已经设置为“私密账号”。而三只羊女主播沫沫也突然成为被关注的焦点，大量网友在其视频下留言询问其目前状态。三言发现，沫沫的抖音账号从去年年底就停更了，至今已有9个月。]]></content>
+        <title type="html"><![CDATA[《金融时报》：华为问题百出的软件阻碍了中国在AI领域取代NVIDIA的努力]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1444433.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1444433.htm"/>
+        <updated>2024-09-05T05:40:33.216Z</updated>
+        <content type="html"><![CDATA[中国在人工智能领域与美国的计算能力不相上下的努力受到了漏洞百出的软件的阻碍，领先的人工智能芯片制造商华为的客户抱怨性能问题以及从英伟达产品转换过来的困难。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为Mate 70 Pro曝光 设计和配置遥遥领先上代]]></title>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[华为预计会在今年11月份左右推出年度旗舰Mate 70系列，而现在网上也是出现了Pro版的设计和配置。从网上曝光的图片看，Mate 70 Pro设计完全领先上一代，比如后置主摄上印有“AI-DC”字样，LED闪光灯的位置由上部移到了下部。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《金融时报》：华为问题百出的软件阻碍了中国在AI领域取代NVIDIA的努力]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1444433.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1444433.htm"/>
-        <updated>2024-09-05T05:40:33.216Z</updated>
-        <content type="html"><![CDATA[中国在人工智能领域与美国的计算能力不相上下的努力受到了漏洞百出的软件的阻碍，领先的人工智能芯片制造商华为的客户抱怨性能问题以及从英伟达产品转换过来的困难。]]></content>
+        <title type="html"><![CDATA[杨幂代言华为Mate XT非凡大师：“三折叠，太妙了”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1444544.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1444544.htm"/>
+        <updated>2024-09-04T09:42:44.000Z</updated>
+        <content type="html"><![CDATA[<strong>华为Mate XT非凡大师已经官宣，将在9月10日正式发布。</strong>今日，官方还宣布杨幂成为华为Mate XT非凡大师的非凡见证官，并且还透露了部分产品信息。<strong>杨幂在宣传视频中确认，华为Mate XT非凡大师就是大家期待已久的三折叠。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新疆塔克拉玛干沙漠养出了大螃蟹]]></title>
@@ -48,6 +55,13 @@
         <content type="html"><![CDATA[8月30日消息，据媒体报道，新疆和田县地处塔克拉玛干沙漠边缘，这里的首批沙漠养殖螃蟹近期上市。当地的盐碱沙地不适合植物生存，却能给螃蟹提供养分，玉龙喀什河的水引入养殖塘，提供了适宜的环境，日照长则可以让螃蟹更好地脱壳生长。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《黑神话》小狐狸萍萍图赏 有人认为她的衣服容易走光]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1444056.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1444056.htm"/>
+        <updated>2024-09-03T05:40:22.292Z</updated>
+        <content type="html"><![CDATA[最近《黑神话：悟空》非常火爆，游戏里的诸多女角也受到大家喜爱。有人在推特上晒出了小狐狸萍萍的摄影作品，看起来超可爱。一起来欣赏下吧！有网友表示：“萍萍穿的这种衣服，如果在现实中动作大的话会走光”。其他人则认为这设计没问题，现实中很多明星穿过类似衣服，却很少有走光的情况发生。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小米充电宝25000 212W发布：支持PD 3.1 单口140W 499元史上最强]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1444301.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1444301.htm"/>
@@ -55,11 +69,12 @@
         <content type="html"><![CDATA[今日，<strong>小米充电宝25000 212W发布，这是小米迄今最强充电宝，目前已在小米商城、小米有品开启众筹，支持多口最高212W输出，众筹价499元。</strong>ID设计上，充电宝采用三面透壳设计，彩屏可显示剩余电量、充电速度、协议等信息。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《黑神话》小狐狸萍萍图赏 有人认为她的衣服容易走光]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1444056.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1444056.htm"/>
-        <updated>2024-09-03T05:40:22.292Z</updated>
-        <content type="html"><![CDATA[最近《黑神话：悟空》非常火爆，游戏里的诸多女角也受到大家喜爱。有人在推特上晒出了小狐狸萍萍的摄影作品，看起来超可爱。一起来欣赏下吧！有网友表示：“萍萍穿的这种衣服，如果在现实中动作大的话会走光”。其他人则认为这设计没问题，现实中很多明星穿过类似衣服，却很少有走光的情况发生。]]></content>
+        <title type="html"><![CDATA[它被称为“水中软黄金” 现在中国产量全球第一]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1444615.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1444615.htm"/>
+        <updated>2024-09-06T05:41:14.670Z</updated>
+        <content type="html"><![CDATA[烤得金黄微焦的表皮、富含胶原的软糯肉质，淋上咸鲜的酱汁，再盖在热气腾腾的米饭上……这样一份极具诱惑力的鳗鱼饭，光是想想，就足以令人口水直流、神魂颠倒。作为一种营养与美味兼具的鱼类，鳗鱼在世界范围内都十分风靡。一项来自联合国粮食及农业组织的报道显示，早在
+2016 年前后，全球每年鳗鱼消耗量就已经达到了 13 万吨。这么多的鳗鱼从何而来？<strong>中国是世界上最大的鳗鱼养殖、加工以及出口国。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[仅几万块的自动驾驶系统 为何燃油车们死都不装？]]></title>
@@ -69,46 +84,11 @@
         <content type="html"><![CDATA[数据显示，目前新能源汽车的渗透率，已经超过50%了，留给燃油车的时间是越来越少了。为何现在的人更愿意买新能源汽车，而不是买燃油车呢？原因很简单，那就是现在的燃油车和新能源汽车相比，就像一个是功能机，一个是智能机一样。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《黑神话：悟空》壁纸级截图：迷人风景 绝美四妹]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1443927.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1443927.htm"/>
-        <updated>2024-09-03T05:40:22.307Z</updated>
-        <content type="html"><![CDATA[《黑神话：悟空》已发售，游戏美景和古建筑让人沉迷。许多玩家利用照片模式，拍摄了许多绝美的截图。其中有“小西天”、“盘丝洞”，蜘蛛精四妹等。一起来欣赏下吧！]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杨幂代言华为Mate XT非凡大师：“三折叠，太妙了”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1444544.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1444544.htm"/>
-        <updated>2024-09-04T09:42:44.000Z</updated>
-        <content type="html"><![CDATA[<strong>华为Mate XT非凡大师已经官宣，将在9月10日正式发布。</strong>今日，官方还宣布杨幂成为华为Mate XT非凡大师的非凡见证官，并且还透露了部分产品信息。<strong>杨幂在宣传视频中确认，华为Mate XT非凡大师就是大家期待已久的三折叠。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google已开始限制Android手机解锁Bootloader后使用AI功能]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443880.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443880.htm"/>
-        <updated>2024-09-03T05:40:22.297Z</updated>
-        <content type="html"><![CDATA[解锁Bootloader（BL）可能会影响手机使用Google的AI功能。<strong>近期，Google开始对解锁BL的设备施加限制，尤其是在最新推出的Pixel 8和9系列手机上，用户发现一旦解锁，多个GoogleAI功能将无法使用。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Intelligence的最新测试版取消了地区限制 除中国外全球用户均可试用]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443952.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443952.htm"/>
-        <updated>2024-08-30T05:16:55.000Z</updated>
-        <content type="html"><![CDATA[Apple Intelligence是苹果进军人工智能功能的尝试，将于今年晚些时候登陆 iPhone、iPad 和 Mac，目前正在对 iPhone 15 Pro 和 iPhone 15 Pro Max 以及 M 系列 iPad 和 Mac 设备的用户进行测试。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust Linux内核维护者之一选择退出项目 原因是"非技术性废话"过多]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443886.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443886.htm"/>
-        <updated>2024-09-02T05:40:39.387Z</updated>
-        <content type="html"><![CDATA[Rust for Linux 内核维护者之一已决定退出该项目。这一举动至少部分是由于不得不处理围绕 Linux 内核中 Rust 编程语言的使用而提出的越来越多的"非技术性废话"。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告别双曲面屏时代 一加13最快10月底登场]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443967.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443967.htm"/>
-        <updated>2024-08-30T09:08:26.000Z</updated>
-        <content type="html"><![CDATA[博主数码闲聊站爆料，<strong>一加13发布会暂定10月底或11月初，双11之前上市发售，战线拉得非常紧。</strong>根据曝光的渲染图，一加13跟上代最大的区别是屏幕，<strong>该机将采用一块2K分辨率的等深微曲屏，搭载最新的BOE 8T LTPO护眼方案。</strong>]]></content>
+        <title type="html"><![CDATA[《黑神话》玩家为刷差评买游戏 退款失败被网友群嘲]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1444199.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1444199.htm"/>
+        <updated>2024-09-05T05:40:33.233Z</updated>
+        <content type="html"><![CDATA[今日有吧友分享《黑神话》乐子：还真有人为了打差评而买游戏，甚至买的还是豪华版。有网友发现，某玩家在购买《黑神话》游戏打差评退款后，企图再次购买刷差评，结果发现退款失败，不符合要求。随后该玩家甚至发文询问为何不能申请退款。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[又一机车女网红因车祸去世 年仅28岁]]></title>
@@ -125,13 +105,6 @@
         <content type="html"><![CDATA[近日，知名画师mingming-art在微博上晒出了《黑神话：悟空》铁扇公主的原画设定图，该设定图是与游戏科学合作创作的。MingMing-art表示很荣幸和杨奇合作，当时临时档期所以只接了一张意犹未尽。遗憾没把蜘蛛精一起画了，期待未来还有合作机会，为国产3a添砖加瓦。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《黑神话》玩家为刷差评买游戏 退款失败被网友群嘲]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1444199.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1444199.htm"/>
-        <updated>2024-09-05T05:40:33.233Z</updated>
-        <content type="html"><![CDATA[今日有吧友分享《黑神话》乐子：还真有人为了打差评而买游戏，甚至买的还是豪华版。有网友发现，某玩家在购买《黑神话》游戏打差评退款后，企图再次购买刷差评，结果发现退款失败，不符合要求。随后该玩家甚至发文询问为何不能申请退款。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[苹果可能在 11 月推出基于 M4 处理器的 Mac 产品]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1444201.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1444201.htm"/>
@@ -139,10 +112,38 @@
         <content type="html"><![CDATA[苹果很可能在 11 月发布采用 M4 系列芯片的新 Mac机型。据一位熟悉内情的可靠消息人士透露，苹果公司将于 2024 年 11 月发布新款 Mac 机型。虽然新款 Mac 通常在年底发布，但这是首次为即将推出的 M4 Mac 确定发布月份。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国航首架C919首次身披五星红旗飞抵北京 获民航最高礼仪过水门]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1443882.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1443882.htm"/>
-        <updated>2024-09-05T05:40:33.235Z</updated>
-        <content type="html"><![CDATA[今天9时38分，国航首架C919国产大飞机从上海浦东机场起飞，调机前往北京首都机场。据媒体报道，11时23分，<strong>国航首架C919平稳降落北京首都机场，缓缓滑行通过象征民航界最高礼仪的“水门”。</strong>]]></content>
+        <title type="html"><![CDATA[在异常高的电流下给电池进行第一次充电 可使其平均寿命延长50%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1444215.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1444215.htm"/>
+        <updated>2024-09-02T02:13:20.000Z</updated>
+        <content type="html"><![CDATA[SLAC-斯坦福电池中心进行的一项研究发现，在锂离子电池出厂前立即以大电流为其充电，速度可提高 30 倍，电池寿命可延长 50%。锂离子电池的首次充电比听起来更重要。它决定了电池以后的工作性能和工作时间，尤其是电池在性能下降之前能承受多少次充电和放电循环。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS版微信已有两个多月没更新]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1444312.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1444312.htm"/>
+        <updated>2024-09-06T05:41:14.703Z</updated>
+        <content type="html"><![CDATA[不知道从何时开始，网上流传起了微信、iPhone二选一的说法，但如果真是这样你怎么选？当然了，上述消息应该是来自之前的一条报道，苹果公司一直在向腾讯施压，要求其对微信进行根本性的改变，特别是禁止将用户引向外部支付系统。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被换脸色情片的韩国女孩 来到微博呼救]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1444367.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1444367.htm"/>
+        <updated>2024-09-03T04:59:58.000Z</updated>
+        <content type="html"><![CDATA[8 月 24 日当晚，在巴黎郊外的布尔歇机场，刚下私人飞机的帕维尔&nbsp;·&nbsp;杜罗夫被法国警方逮捕。<strong>法国官方公布的消息称，杜罗夫创建的平台缺乏监管，导致了大量包括传播虚假信息、仇恨言论等在内的犯罪活动。</strong>这个平台有一个在全球网络上响当当的名字， Telegram ，中国的网友通常称它为电报。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为Mate XT非凡大师三折叠手机外观公布 刘德华代言]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1444681.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1444681.htm"/>
+        <updated>2024-09-05T09:31:49.000Z</updated>
+        <content type="html"><![CDATA[<strong>华为今天公布了一段刘德华出演的华为Mate XT非凡大师预热视频，首次公布了真机外观。</strong>华为Mate XT非凡大师整体与Mate X5采用类似的设计语言，只是又多出来了一部分屏幕。视频中可以看到，屏幕展开之后尺寸非常巨大，拥有双铰链设计。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称Intel已取消Beast Lake及后续CPU型号 研发重心移至GPU]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1444397.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1444397.htm"/>
+        <updated>2024-09-03T09:52:10.000Z</updated>
+        <content type="html"><![CDATA[<strong>Moore's Law is Dead（MLID）在视频中称从Intel内部高层获悉，Intel已决定取消其Beast Lake处理器及其后续产品线。</strong>Beast Lake处理器原本计划在2028年推出，它将拥有6个超高性能核心，每个核心在需要时可拆分为4个RU，从而提供最多24个线程。]]></content>
     </entry>
 </feed>
