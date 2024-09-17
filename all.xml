@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-16T17:42:03.145Z</updated>
+    <updated>2024-09-17T05:39:42.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[国内唯一一台上牌的特斯拉Cybertruck皮卡现身广东 不锈钢车身被改成黑色 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445835.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445835.htm"/>
+        <updated>2024-09-16T05:42:04.916Z</updated>
+        <content type="html"><![CDATA[日前，有网友在广东街头拍到了国内唯一一台上牌的特斯拉Cybertruck皮卡。不同于此前，这辆Cybertruck的不锈钢银色车身，被改成了黑色，<strong>但由于不锈钢材质很难喷漆着色，猜测黑色车身大概率是贴膜。</strong>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国际空间站宇航员拍下一张中国首都北京的照片 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1445517.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1445517.htm"/>
         <updated>2024-09-12T09:30:01.000Z</updated>
         <content type="html"><![CDATA[一张来自国际空间站的宇航员照片展现了北京广阔的城市景观，突出了北京庞大的放射状道路系统、故宫等历史中心，以及连接城市内部和大中国的高速铁路和水路网络。深色的城市区域代表密集的高层建筑区，浅色调描绘历史遗迹，北京的布局讲述了它的过去和繁华的现在。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上最古老的"活化石"腔棘鱼正在颠覆传统进化论 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1445605.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1445605.htm"/>
-        <updated>2024-09-15T05:40:22.191Z</updated>
-        <content type="html"><![CDATA[开创性的"新化石研究揭示，气候变化和小行星与动物的起源和灭绝有关--板块构造似乎也在进化过程中发挥了关键作用。突破性的化石研究将板块构造与重大的进化转变联系起来，西澳大利亚保存完好的泥盆纪腔棘鱼就是一例。这一发现不仅填补了历史空白，而且还表明被称为"活化石"的生物正在积极进化。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[活久见：知名开源项目竟被无理要求闭源 (cnbeta一周排行)]]></title>
@@ -26,13 +26,11 @@
         <content type="html"><![CDATA[<strong>近日，开源社区近日发生了一件令人啼笑皆非的事情。</strong>起因是由资深网络安全工程师“CFC4N”开发的一款，基于eBPF技术的用户态数据捕获工具eCapture。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果发布iPhone 16 Pro和16 Pro Max 带来A18 Pro处理器与更大电池 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445200.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445200.htm"/>
-        <updated>2024-09-10T03:03:18.000Z</updated>
-        <content type="html"><![CDATA[苹果公司今天发布了最新旗舰智能手机 iPhone 16 Pro 和 iPhone 16 Pro Max，配备了更大的显示屏、全新的相机控制按钮和
-A18 Pro 芯片。iPhone 16 Pro 配备 6.3 英寸显示屏，而 iPhone 16 Pro Max 配备 6.9
-英寸显示屏，这是迄今为止最大的 iPhone 显示屏。显示屏周围的边框是所有苹果设备中最薄的。钛金属边框现在采用了喷砂处理。]]></content>
+        <title type="html"><![CDATA[世界上最古老的"活化石"腔棘鱼正在颠覆传统进化论 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1445605.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1445605.htm"/>
+        <updated>2024-09-15T05:40:22.191Z</updated>
+        <content type="html"><![CDATA[开创性的"新化石研究揭示，气候变化和小行星与动物的起源和灭绝有关--板块构造似乎也在进化过程中发挥了关键作用。突破性的化石研究将板块构造与重大的进化转变联系起来，西澳大利亚保存完好的泥盆纪腔棘鱼就是一例。这一发现不仅填补了历史空白，而且还表明被称为"活化石"的生物正在积极进化。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S25 Ultra首张渲染图曝光 机身重量也随之曝光 (cnbeta一周排行)]]></title>
@@ -49,13 +47,6 @@ A18 Pro 芯片。iPhone 16 Pro 配备 6.3 英寸显示屏，而 iPhone 16 Pro Ma
         <content type="html"><![CDATA[据俄罗斯版《福布斯》周二报道，俄罗斯通信监管机构Roskomnadzor计划在未来五年内斥资590亿卢布（约合6.44亿美元）升级其互联网流量过滤能力。《福布斯》援引文件报道称，这笔资金将用于升级用于过滤互联网流量的硬件，以及阻断或减缓访问某些资源的速度。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国内唯一一台上牌的特斯拉Cybertruck皮卡现身广东 不锈钢车身被改成黑色 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445835.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445835.htm"/>
-        <updated>2024-09-16T05:42:04.916Z</updated>
-        <content type="html"><![CDATA[日前，有网友在广东街头拍到了国内唯一一台上牌的特斯拉Cybertruck皮卡。不同于此前，这辆Cybertruck的不锈钢银色车身，被改成了黑色，<strong>但由于不锈钢材质很难喷漆着色，猜测黑色车身大概率是贴膜。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google已如约开始删除不活跃账户 用户仅需简单操作即可避免 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1445483.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1445483.htm"/>
@@ -70,11 +61,11 @@ A18 Pro 芯片。iPhone 16 Pro 配备 6.3 英寸显示屏，而 iPhone 16 Pro Ma
         <content type="html"><![CDATA[<strong>特斯拉在官网推出了一款专为Model Y设计的车尾天幕配件，售价为699元人民币。</strong>这款天幕的展开尺寸为318.5*165*260厘米，提供了宽敞的4.5平方米遮阳空间，同时满足UV50+的紫外线防护标准，有效阻隔紫外线。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国联通App电话小程序开启预约：无视4G/5G信号 连上Wi-Fi就能打电话 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445240.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445240.htm"/>
-        <updated>2024-09-10T08:41:50.000Z</updated>
-        <content type="html"><![CDATA[早在7月份，中国联通App内就上线了“电话”小程序，简介为WiFi通话，不过当时还在测试阶段，仅受邀用户可以体验。<strong>近日，该功能已经开启预约，预约成功的用户将在资格开放后收到通知。</strong>]]></content>
+        <title type="html"><![CDATA[三星Galaxy S25渲染图曝光：史上最小的骁龙8 Gen4旗舰 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445694.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445694.htm"/>
+        <updated>2024-09-16T05:42:04.923Z</updated>
+        <content type="html"><![CDATA[爆料人士OnLeaks曝光了三星Galaxy S25标准版渲染图。如图所示，<strong>Galaxy S25整体工业设计跟上代保持一致，正面是中置挖孔直屏，背部是纵向三摄，中框为直角边设计，简洁优雅。</strong>据悉，Galaxy S25延续了上代的小屏路线，其<strong>屏幕尺寸是6.2英寸，机身三围尺寸是146.9×70.4×7.2mm，单手操作毫无压力。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[腾讯调查会议室亲昵搂抱事件：当事人双方为男女朋友关系 其中一人为公司员工 (cnbeta一周排行)]]></title>
@@ -84,46 +75,25 @@ A18 Pro 芯片。iPhone 16 Pro 配备 6.3 英寸显示屏，而 iPhone 16 Pro Ma
         <content type="html"><![CDATA[日前，<strong>有人在腾讯滨海大楼38楼拍摄到了办公楼层会议室有人发生搂抱亲昵等行为，相关视频片段在微博等社交媒体疯传。据“大厂青年”消息，针对腾讯深圳滨海办公室发生的亲昵搂抱行为事件，腾讯已对此启动内部调查。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星Galaxy S25渲染图曝光：史上最小的骁龙8 Gen4旗舰 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445694.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445694.htm"/>
-        <updated>2024-09-16T05:42:04.923Z</updated>
-        <content type="html"><![CDATA[爆料人士OnLeaks曝光了三星Galaxy S25标准版渲染图。如图所示，<strong>Galaxy S25整体工业设计跟上代保持一致，正面是中置挖孔直屏，背部是纵向三摄，中框为直角边设计，简洁优雅。</strong>据悉，Galaxy S25延续了上代的小屏路线，其<strong>屏幕尺寸是6.2英寸，机身三围尺寸是146.9×70.4×7.2mm，单手操作毫无压力。</strong>]]></content>
+        <title type="html"><![CDATA[90年代保存音乐的硬盘 20％都变砖了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445732.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445732.htm"/>
+        <updated>2024-09-17T05:39:41.963Z</updated>
+        <content type="html"><![CDATA[企业信息管理公司Iron Mountain最近发现了一个悲惨的事实，<strong>上世纪90年代音乐界用来保存原始资料的硬盘，已经有大约20％彻底死亡，无法访问。</strong>该公司举了两个例子，<strong>有两块硬盘都分别放在全新的箱子中，包装、标签什么的都很完整，一切看起来都没什么问题，但是很遗憾，两块硬盘都变砖了，数据恢复也没用。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果官网上架iPhone 16系列 全系国行价格公布 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445202.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445202.htm"/>
-        <updated>2024-09-10T03:08:01.000Z</updated>
-        <content type="html"><![CDATA[今天凌晨，iPhone 16系列正式发布，起售价是5999元。随着iPhone 16系列的上架，<strong>上代机型iPhone 15 Pro、iPhone 15 Pro Max迅速被撤下，一同下架的还有iPhone 13标准版、老款AirPods等等。</strong>]]></content>
+        <title type="html"><![CDATA[几根树枝就当窝、还“随地大小蛋” 这鸟也太“摆烂”了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1445577.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1445577.htm"/>
+        <updated>2024-09-17T05:39:41.964Z</updated>
+        <content type="html"><![CDATA[前段时间，常有市民在社交平台上分享在家中发现鸟巢跟鸟蛋的趣闻，如果你也曾刷到过，肯定曾赞叹过大自然的伟大与神奇。令人想象不到，世间竟然有如此潦草且画风奇特的巢：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国航首架C919国产大飞机座舱细节：配有手机支架、60W USB-C接口 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445155.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445155.htm"/>
-        <updated>2024-09-14T05:40:27.964Z</updated>
-        <content type="html"><![CDATA[日前，<strong>中国国际航空接收首架C919国产大飞机，首架机为延程型，是目前三大航中唯一选择该子机型的公司。</strong>今日，国航介绍了其首架C919的座位细节设计。官方表示，经济舱座椅的头枕经过改进，能适应更多身材较高的旅客，座椅侧面配有衣帽钩，下方储物袋采用多层设计，能收纳更多物品。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果推出两款重新设计的AirPods 4 终于引入主动降噪 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445196.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445196.htm"/>
-        <updated>2024-09-10T01:38:13.000Z</updated>
-        <content type="html"><![CDATA[AirPods 这种耳塞的历史几乎和 Apple Watch 一样悠久，但直到今天，苹果公司才发布了三代基本型号。在前代产品上市三年后，AirPods 4 在周一的"It's Glowtime"活动上首次亮相。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 16发布会公布《王者荣耀：世界》 明年上线 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1445229.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1445229.htm"/>
-        <updated>2024-09-10T08:28:01.000Z</updated>
-        <content type="html"><![CDATA[苹果在今日的 iPhone 16 发布会上，正式公布了备受期待的手游大作《王者荣耀：世界》将登陆 iPhone 16 系列手机，并且发布简单的视频演示。根据官方介绍，这款由腾讯游戏打造的开放世界手游，将充分利用 iPhone 16 搭载的全新 A18 芯片，为玩家带来前所未有的游戏体验。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Series 10亮相：屏幕更大更薄 睡眠呼吸检测功能即将就绪 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445193.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445193.htm"/>
-        <updated>2024-09-10T01:20:41.000Z</updated>
-        <content type="html"><![CDATA[Apple Watch Series 10 在周一的"It's Glowtime"活动上首次亮相，新款可穿戴设备的最大特点是重新设计，首席执行官蒂姆-库克（Tim Cook）指出，第十代苹果手表拥有"我们最大的屏幕和最薄的设计"。]]></content>
+        <title type="html"><![CDATA[全新国产DUV光刻机曝光：“套刻≤8nm”是个什么水平？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445926.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445926.htm"/>
+        <updated>2024-09-17T05:39:41.965Z</updated>
+        <content type="html"><![CDATA[这两天不少网友都在热议工信部披露的新款国产<span style="">氟化氩光刻机</span>光刻机的消息，一时间，各种关于国产光刻机大突破言论满天飞，甚至还有人一看到“套刻≤8nm”就认为这是8nm光刻机，也是令人啼笑皆非。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[索尼PS5 Pro和PS5规格对比 GPU相当于RX 6800水平 (cnbeta一周排行)]]></title>
@@ -133,17 +103,45 @@ A18 Pro 芯片。iPhone 16 Pro 配备 6.3 英寸显示屏，而 iPhone 16 Pro Ma
         <content type="html"><![CDATA[在PS5 Pro公布后，IGN对比了PS5 Pro和PS5的硬体规格，文章认为PS5 Pro的CPU和GPU仍然是五年前的架构，GPU相当于桌面版RX 6800显卡水平。PS5 Pro首发价700美元，而RX 6800显卡价格为350美元。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果公司发布iPhone 16/16 Plus 双摄像头再次垂直排列 加入AI特性 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445198.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445198.htm"/>
-        <updated>2024-09-10T01:53:29.000Z</updated>
-        <content type="html"><![CDATA[苹果发布其智能手机产品线的最新主流型号 iPhone 16。与前几年相比，iPhone 16 的颜色略有更新，粉红、群青、白黑和茶色。更加鲜艳。同样焕然一新的还有其后部更新的双摄像头布局，再次采用垂直排列，上一次这样做还是在 2020 年的 iPhone 12 上。]]></content>
+        <title type="html"><![CDATA[荷兰玩家用24块硬盘组成96TB NAS 用了10年没任何故障 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445889.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445889.htm"/>
+        <updated>2024-09-15T09:29:18.000Z</updated>
+        <content type="html"><![CDATA[2014年，荷兰玩家Louwrentius打造了一套NAS，使用了24块4TB硬盘，总容量96GB，可用空间71TB，现在十年过去了，依然没有任何一块硬盘出现故障。他用的硬盘是<strong>日立的</strong>，但没说具体型号。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小行星撞击地球 中国第一次全程跟踪观测 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1445190.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1445190.htm"/>
-        <updated>2024-09-16T05:42:04.934Z</updated>
-        <content type="html"><![CDATA[据中国科学院紫金山天文台，近日，我国小行星预警监测设备成功对一颗即将进入地球大气层的小行星2024 RW1，展开了全程追踪观测。<strong>这是我国监测网首次对预警小行星开展接力追踪观测，标志我国小行星防御工作取得重要进展。</strong>]]></content>
+        <title type="html"><![CDATA[马斯克：Robotaxi发布会是自Model 3以来最重要发布会 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445497.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445497.htm"/>
+        <updated>2024-09-12T08:57:29.000Z</updated>
+        <content type="html"><![CDATA[特斯拉历史上的一些事件成就了今天的特斯拉。第一款 Model S 的发布向世界展示了特斯拉可以从零开始打造自己的汽车。第二款 Model 3 的发布向汽车界大胆展示了特斯拉想要成为大众市场汽车制造商的决心。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家长谴责《崩坏：星穹铁道》电梯广告 制作组直接将此事件做进游戏 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1445560.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1445560.htm"/>
+        <updated>2024-09-17T05:39:41.971Z</updated>
+        <content type="html"><![CDATA[据贴吧吧友发帖报道，在今年上半年时，《崩坏：星穹铁道》官方曾在某小区张贴了一张黑天鹅的宣传海报，但随后却遭到该小区一位家长的谴责，表示：“家长们避之不及的东西，你们送到小朋友眼皮底下，挣钱，咱得有个底线。”更夸张的是，该海报还被人进行了涂抹。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最快高铁CR450样车年内下线 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445836.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445836.htm"/>
+        <updated>2024-09-17T05:39:41.973Z</updated>
+        <content type="html"><![CDATA[今日，国铁集团有关负责人表示，<strong>自2021年启动的CR450动车组研制项目，目前已进入整车装配阶段，样车将如期在2024年内下线，后续将开展一系列试验。</strong>研制过程中，已开展57项新技术部件科研试验，创造了动车组明线单列时速453公里、相对交会时速891公里和隧道交会时速840公里的新纪录。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网友偶遇黄仁勋：美国海底捞“兼职”甩面 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1445433.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1445433.htm"/>
+        <updated>2024-09-17T05:39:41.974Z</updated>
+        <content type="html"><![CDATA[<strong>据媒体报道，今天有网友发布视频称，“英伟达教主黄仁勋在海底捞兼职甩面”。</strong>网友称称这家海底捞是位于美国加州cupertinoMainstreet的海底捞，视频中有一名服务员在旁边教黄仁勋，黄仁勋则是学着服务员的动作，一边甩面，一边扭动着身体。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克回应霉霉“我会给你一个孩子”被评太奇怪 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445500.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445500.htm"/>
+        <updated>2024-09-12T09:01:21.000Z</updated>
+        <content type="html"><![CDATA[当地时间9月10日，在卡玛拉·哈里斯和唐纳德·特朗普的辩论刚刚结束几分钟之后，作为美国现阶段最具影响力的歌手泰勒·斯威夫特（简称：霉霉）在社交媒体上发表了一篇长文，公开表达了对哈里斯的支持。]]></content>
     </entry>
 </feed>
