@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-09-20T17:39:39.385Z</updated>
+    <updated>2024-09-21T05:40:46.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[国内唯一一台上牌的特斯拉Cybertruck皮卡现身广东 不锈钢车身被改成黑色]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445835.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445835.htm"/>
-        <updated>2024-09-16T05:42:04.916Z</updated>
-        <content type="html"><![CDATA[日前，有网友在广东街头拍到了国内唯一一台上牌的特斯拉Cybertruck皮卡。不同于此前，这辆Cybertruck的不锈钢银色车身，被改成了黑色，<strong>但由于不锈钢材质很难喷漆着色，猜测黑色车身大概率是贴膜。</strong>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[一种日本植物入侵美国本土后当地房价暴跌 在中国却是一道美味]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1446119.htm</id>
@@ -20,18 +13,11 @@
         <content type="html"><![CDATA[19世纪晚期，<strong>虎杖</strong>（Fallopia japonica）作为一种观赏植物从日本引入美国，因其浓密的绿叶和茂盛的生长深受人们喜爱。然而，这种美丽的灌木如今已成为房主的梦魇。<strong>虎杖因其迅速且具侵略性的生长习性而臭名昭著，现已对生态系统和房产价值造成了极大的破坏。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[活久见：知名开源项目竟被无理要求闭源]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1445703.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1445703.htm"/>
-        <updated>2024-09-14T05:40:27.959Z</updated>
-        <content type="html"><![CDATA[<strong>近日，开源社区近日发生了一件令人啼笑皆非的事情。</strong>起因是由资深网络安全工程师“CFC4N”开发的一款，基于eBPF技术的用户态数据捕获工具eCapture。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博主上手华为三折叠屏被指折痕明显 回应称任何机型都会有]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445993.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445993.htm"/>
-        <updated>2024-09-18T05:41:01.439Z</updated>
-        <content type="html"><![CDATA[近日，车评人博主陈震(“陈震同学”)收到了华为Mate XT非凡大师三折叠屏手机的评测样品，其送上的上手体验也是引来很多网友的围观，毕竟产品话题度很高。陈震的上手体验中，有一些地方也是引起了网友的热议，比如Mate XT中的折叠，一些网友吐槽这是在黑华为。]]></content>
+        <title type="html"><![CDATA[国内唯一一台上牌的特斯拉Cybertruck皮卡现身广东 不锈钢车身被改成黑色]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445835.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445835.htm"/>
+        <updated>2024-09-16T05:42:04.916Z</updated>
+        <content type="html"><![CDATA[日前，有网友在广东街头拍到了国内唯一一台上牌的特斯拉Cybertruck皮卡。不同于此前，这辆Cybertruck的不锈钢银色车身，被改成了黑色，<strong>但由于不锈钢材质很难喷漆着色，猜测黑色车身大概率是贴膜。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[国产套刻8nm光刻机引争议 我们追赶对象真的是ASML吗？]]></title>
@@ -41,18 +27,18 @@
         <content type="html"><![CDATA[日前，工信部印发的《首台(套)重大技术装备推广应用指导目录(2024年版)》（以下简称“目录”）中显示，中国已攻克氟化氩光刻机，其中该目录中，公开可见的与光刻机代际水平和性能等密切相关的光源193纳米，分辨率≤65nm，套刻≤8nm指标引发了业内的关注。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[博主上手华为三折叠屏被指折痕明显 回应称任何机型都会有]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445993.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445993.htm"/>
+        <updated>2024-09-18T05:41:01.439Z</updated>
+        <content type="html"><![CDATA[近日，车评人博主陈震(“陈震同学”)收到了华为Mate XT非凡大师三折叠屏手机的评测样品，其送上的上手体验也是引来很多网友的围观，毕竟产品话题度很高。陈震的上手体验中，有一些地方也是引起了网友的热议，比如Mate XT中的折叠，一些网友吐槽这是在黑华为。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[荷兰玩家用24块硬盘组成96TB NAS 用了10年没任何故障]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1445889.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1445889.htm"/>
         <updated>2024-09-15T09:29:18.000Z</updated>
         <content type="html"><![CDATA[2014年，荷兰玩家Louwrentius打造了一套NAS，使用了24块4TB硬盘，总容量96GB，可用空间71TB，现在十年过去了，依然没有任何一块硬盘出现故障。他用的硬盘是<strong>日立的</strong>，但没说具体型号。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy S25渲染图曝光：史上最小的骁龙8 Gen4旗舰]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445694.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445694.htm"/>
-        <updated>2024-09-16T05:42:04.923Z</updated>
-        <content type="html"><![CDATA[爆料人士OnLeaks曝光了三星Galaxy S25标准版渲染图。如图所示，<strong>Galaxy S25整体工业设计跟上代保持一致，正面是中置挖孔直屏，背部是纵向三摄，中框为直角边设计，简洁优雅。</strong>据悉，Galaxy S25延续了上代的小屏路线，其<strong>屏幕尺寸是6.2英寸，机身三围尺寸是146.9×70.4×7.2mm，单手操作毫无压力。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星 Galaxy S25 和 S25 Ultra 机身厚度规格曝光]]></title>
@@ -69,32 +55,11 @@
         <content type="html"><![CDATA[这两天不少网友都在热议工信部披露的新款国产<span style="">氟化氩光刻机</span>光刻机的消息，一时间，各种关于国产光刻机大突破言论满天飞，甚至还有人一看到“套刻≤8nm”就认为这是8nm光刻机，也是令人啼笑皆非。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[腾讯调查会议室亲昵搂抱事件：当事人双方为男女朋友关系 其中一人为公司员工]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445713.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445713.htm"/>
-        <updated>2024-09-14T05:40:27.965Z</updated>
-        <content type="html"><![CDATA[日前，<strong>有人在腾讯滨海大楼38楼拍摄到了办公楼层会议室有人发生搂抱亲昵等行为，相关视频片段在微博等社交媒体疯传。据“大厂青年”消息，针对腾讯深圳滨海办公室发生的亲昵搂抱行为事件，腾讯已对此启动内部调查。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90年代保存音乐的硬盘 20％都变砖了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445732.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445732.htm"/>
-        <updated>2024-09-17T05:39:41.963Z</updated>
-        <content type="html"><![CDATA[企业信息管理公司Iron Mountain最近发现了一个悲惨的事实，<strong>上世纪90年代音乐界用来保存原始资料的硬盘，已经有大约20％彻底死亡，无法访问。</strong>该公司举了两个例子，<strong>有两块硬盘都分别放在全新的箱子中，包装、标签什么的都很完整，一切看起来都没什么问题，但是很遗憾，两块硬盘都变砖了，数据恢复也没用。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[光刻机的自嗨与自知，根源在于产业机制]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1445961.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1445961.htm"/>
         <updated>2024-09-16T09:52:20.000Z</updated>
         <content type="html"><![CDATA[最近的一个现象让我细思极恐。先是前天我刷视频号的时候，微信推送给我一个讲光刻机的短视频。该视频号主是个大妈，夫妻俩加起来超过110岁，视频号内容主要是开着问界M9各地自驾游。<strong>一个年过半百退休大妈，突然拿着工信部的一个极简的目录来讲光刻机，讲得那么激动，自称热泪盈眶。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google宣布所有英语语种的Gemini Live用户现可免费使用]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445906.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445906.htm"/>
-        <updated>2024-09-18T05:41:01.452Z</updated>
-        <content type="html"><![CDATA[谷歌在Pixel 9系列手机的发布会上，同步推出了Gemini Live，该服务提供了一种移动对话体验，让用户和Gemini展开自由流畅的对话。<strong>Google现在宣布，所有使用英语的Gemini Live用户，可免费使用，此前为需要Advanced开通付费订阅。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy S25+首批渲染图曝光 电池容量为4900mAh]]></title>
@@ -104,11 +69,11 @@
         <content type="html"><![CDATA[继Galaxy S25 Ultra和普通版 S25 之后，Galaxy S25+渲染图也首次曝光了。这些渲染图基于 CAD 图纸，因此细节可能会有误差，而且它没什么新意。当然，它一眼就能认出是三星手机，这对韩国公司的品牌知名度很有好处，但问题是它看起来与任何三星手机都一样。也许旗舰产品线不应该与售价 200 美元的手机共享设计元素？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[o1完整思维链成OpenAI头号禁忌 问多了等着封号吧]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445810.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445810.htm"/>
-        <updated>2024-09-19T05:40:52.223Z</updated>
-        <content type="html"><![CDATA[警告！不要在ChatGPT里问最新o1模型是怎么思考的——只要尝试几次，OpenAI就会发邮件<strong>威胁撤销你的使用资格</strong>。请停止此活动，确保您使用ChatGPT时符合我们的使用条款。违反此条款的行为可能导致失去OpenAI o1访问权限。]]></content>
+        <title type="html"><![CDATA[Google宣布所有英语语种的Gemini Live用户现可免费使用]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445906.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445906.htm"/>
+        <updated>2024-09-18T05:41:01.452Z</updated>
+        <content type="html"><![CDATA[谷歌在Pixel 9系列手机的发布会上，同步推出了Gemini Live，该服务提供了一种移动对话体验，让用户和Gemini展开自由流畅的对话。<strong>Google现在宣布，所有使用英语的Gemini Live用户，可免费使用，此前为需要Advanced开通付费订阅。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果发布iOS 18和iPadOS 18 提供主屏幕定制、应用锁定、密码、信息更新等]]></title>
@@ -120,6 +85,20 @@
 上，方法是进入"设置"&gt;"通用"&gt;"软件更新"。请注意，由于需求量大，更新可能需要几分钟才能传播到所有用户。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Switch2效果图和实物图疑曝光 大屏幕12GB内存]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1446279.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1446279.htm"/>
+        <updated>2024-09-19T09:21:10.000Z</updated>
+        <content type="html"><![CDATA[近日据外媒VGC报道，网上出现据称是任天堂Switch 2的3D建模效果图及部分实物图。可以看到Switch 2配备了更大的8英寸屏幕、磁性Joy-Cons控制器，顶部和底部配有USB-C接口。爆料称，Switch 2将配备12GB内存(Switch为4GB)、支持HDMI 2.1和256GB存储空间(Switch为32GB)。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[o1完整思维链成OpenAI头号禁忌 问多了等着封号吧]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445810.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445810.htm"/>
+        <updated>2024-09-19T05:40:52.223Z</updated>
+        <content type="html"><![CDATA[警告！不要在ChatGPT里问最新o1模型是怎么思考的——只要尝试几次，OpenAI就会发邮件<strong>威胁撤销你的使用资格</strong>。请停止此活动，确保您使用ChatGPT时符合我们的使用条款。违反此条款的行为可能导致失去OpenAI o1访问权限。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PS5 Pro太贵不如买PC？数毛社：别想得太美了]]></title>
         <id>https://www.cnbeta.com.tw/articles/game/1445818.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/game/1445818.htm"/>
@@ -127,11 +106,11 @@
         <content type="html"><![CDATA[近日索尼公布了PS5 Pro，其高昂售价让许多人吃惊。因此他们开始想，是不是配一台PC电脑更划算？数毛社(Digital Foundry)技术编辑理查德·利德贝特(Richard Leadbetter)却表示，你们别想得太美了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米自带线充电宝10000mAh 165W上市 支持90W自充]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1445692.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1445692.htm"/>
-        <updated>2024-09-19T05:40:52.233Z</updated>
-        <content type="html"><![CDATA[<strong>小米自带线充电宝10000mAh 165W目前已经上市，首发199元。</strong>据悉，新款充电宝支持120W小米澎湃有线秒充，可为具有智能快充功能的小米手机匹配最高充电功率，充满小米14 Pro只需约19分钟。<strong>还可同时为两台设备，如手机与手机、笔记本电脑与平板等组合，提供120W+45W MAX输出功率。</strong>]]></content>
+        <title type="html"><![CDATA[苹果iOS 17.7正式版发布：修复16个漏洞 建议所有iPhone升级]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1446065.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1446065.htm"/>
+        <updated>2024-09-17T08:58:42.000Z</updated>
+        <content type="html"><![CDATA[今天凌晨，苹果同时发布iOS 18正式版和iOS 17.7正式版更新，前者是年度大版本更新，后者则对漏洞进行了修复。更新日志显示，<strong>iOS 17.7提供了重要安全性修复，苹果建议所有用户安装。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[世界最快高铁CR450样车年内下线]]></title>
@@ -141,10 +120,31 @@
         <content type="html"><![CDATA[今日，国铁集团有关负责人表示，<strong>自2021年启动的CR450动车组研制项目，目前已进入整车装配阶段，样车将如期在2024年内下线，后续将开展一系列试验。</strong>研制过程中，已开展57项新技术部件科研试验，创造了动车组明线单列时速453公里、相对交会时速891公里和隧道交会时速840公里的新纪录。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果iOS 17.7正式版发布：修复16个漏洞 建议所有iPhone升级]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446065.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446065.htm"/>
-        <updated>2024-09-17T08:58:42.000Z</updated>
-        <content type="html"><![CDATA[今天凌晨，苹果同时发布iOS 18正式版和iOS 17.7正式版更新，前者是年度大版本更新，后者则对漏洞进行了修复。更新日志显示，<strong>iOS 17.7提供了重要安全性修复，苹果建议所有用户安装。</strong>]]></content>
+        <title type="html"><![CDATA[小米14T Pro海报曝光 配置与Redmi K70至尊版海外版相同]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445905.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445905.htm"/>
+        <updated>2024-09-21T05:40:45.724Z</updated>
+        <content type="html"><![CDATA[小米宣布将于9月26日在海外发布小米14T系列，外媒spillsomebeans发布博文曝光了小米14T Pro手机渲染海报。海报透露了小米14T的设计、规格等信息，其中小米14T Pro可视为Redmi K70至尊版海外版本，配置基本相同。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024香港小姐竞选结果出炉 网友称审美终于回归正常]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1445950.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1445950.htm"/>
+        <updated>2024-09-16T09:31:49.000Z</updated>
+        <content type="html"><![CDATA[9月15日晚，《2024香港小姐竞选决赛》在中国香港举行。大热佳丽2号倪乐琳荣获冠军；亚军是11号梁嘉莹，她同时也是本届最上镜小姐。季军为14号杨梓瑶，她还获得了才艺女神大奖、智囊百选女神两个奖项。友谊小姐由3号王汛文获得。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“纯血鸿蒙” - 华为HarmonyOS NEXT正式版将于9月底发布]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1445831.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1445831.htm"/>
+        <updated>2024-09-21T05:40:45.727Z</updated>
+        <content type="html"><![CDATA[<strong>华为鸿蒙行业解决方案总经理陈欣欣今天在2024年中国国际服务贸易交易会上透露，华为“纯血”鸿蒙系统HarmonyOS NEXT将于今年9月底推出正式版本。</strong>值得注意的是，前几天京东官方还宣布，京东鸿蒙原生应用正式版计划9月上架，这也侧面证实了9月发布HarmonyOS NEXT正式版的说法。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果iOS 18下个月开始引入Apple Intelligence功能 国行尚不支持]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1446068.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1446068.htm"/>
+        <updated>2024-09-17T09:05:31.000Z</updated>
+        <content type="html"><![CDATA[今天凌晨，苹果向iPhone用户推送了iOS 18正式版，不过并不包含苹果智能（Apple Intelligence）相关功能。苹果称，预计从下个月开始，iOS 18将引入苹果智能功能。]]></content>
     </entry>
 </feed>
