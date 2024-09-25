@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-09-24T17:41:38.236Z</updated>
+    <updated>2024-09-25T05:42:00.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[一种日本植物入侵美国本土后当地房价暴跌 在中国却是一道美味]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1446119.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1446119.htm"/>
-        <updated>2024-09-20T05:40:57.370Z</updated>
-        <content type="html"><![CDATA[19世纪晚期，<strong>虎杖</strong>（Fallopia japonica）作为一种观赏植物从日本引入美国，因其浓密的绿叶和茂盛的生长深受人们喜爱。然而，这种美丽的灌木如今已成为房主的梦魇。<strong>虎杖因其迅速且具侵略性的生长习性而臭名昭著，现已对生态系统和房产价值造成了极大的破坏。</strong>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[国产套刻8nm光刻机引争议 我们追赶对象真的是ASML吗？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1446203.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1446203.htm"/>
         <updated>2024-09-19T05:40:52.230Z</updated>
         <content type="html"><![CDATA[日前，工信部印发的《首台(套)重大技术装备推广应用指导目录(2024年版)》（以下简称“目录”）中显示，中国已攻克氟化氩光刻机，其中该目录中，公开可见的与光刻机代际水平和性能等密切相关的光源193纳米，分辨率≤65nm，套刻≤8nm指标引发了业内的关注。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星 Galaxy S25 和 S25 Ultra 机身厚度规格曝光]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446120.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446120.htm"/>
-        <updated>2024-09-20T05:40:57.388Z</updated>
-        <content type="html"><![CDATA[三星正在开发 Galaxy S25 系列手机，今天我们了解到了这款新手机的另一个重要特征--厚度。根据泄密者 Ice Universe 的消息，Galaxy S25 的厚度将为 7.2 毫米，而 Galaxy S25 Ultra 的厚度将为 8.2 毫米。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[余承东谈飞机上被拍到使用华为Mate XT非凡大师：泄密要被罚款]]></title>
@@ -34,18 +20,18 @@
         <content type="html"><![CDATA[9月20日，全球首款三折叠机型华为Mate XT非凡大师正式开卖，起售价是19999元。早在发布之前，这款三折叠屏就已被曝光，当时余承东在飞机上使用华为Mate XT非凡大师，结果被眼尖的人拍到了。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[杨幂用华为Mate XT非凡大师接电话：脸被遮住了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1446718.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1446718.htm"/>
+        <updated>2024-09-24T05:41:45.629Z</updated>
+        <content type="html"><![CDATA[在社交平台上，杨幂使用华为Mate XT非凡大师接听电话的视频引发关注。如图所示，杨幂使用的是华为Mate XT非凡大师玄黑配色，<strong>她把折叠屏全部展开后接听电话，脸被这款大屏手机给遮住了。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone 16第一批Bug来了：划痕、掉漆、摄像头进灰等]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1446484.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1446484.htm"/>
         <updated>2024-09-21T01:55:26.000Z</updated>
         <content type="html"><![CDATA[今天苹果正式开卖iPhone 16，已经有不少用户拿到了真机，并遇到了一些问题，以至于大家开始吐槽苹果的品控太差。<strong>针对一些问题的吐槽，我们也是汇总了首批iPhone 16出现的Bug：</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy S25+首批渲染图曝光 电池容量为4900mAh]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446144.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446144.htm"/>
-        <updated>2024-09-18T04:30:35.000Z</updated>
-        <content type="html"><![CDATA[继Galaxy S25 Ultra和普通版 S25 之后，Galaxy S25+渲染图也首次曝光了。这些渲染图基于 CAD 图纸，因此细节可能会有误差，而且它没什么新意。当然，它一眼就能认出是三星手机，这对韩国公司的品牌知名度很有好处，但问题是它看起来与任何三星手机都一样。也许旗舰产品线不应该与售价 200 美元的手机共享设计元素？]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Switch2效果图和实物图疑曝光 大屏幕12GB内存]]></title>
@@ -62,13 +48,6 @@
         <content type="html"><![CDATA[多年前德国物理学家Harald Haas与其团队就创建了可将光源用于双向数据传输的Li-Fi技术，并在2011年TED Global全球大会上介绍了该技术。<span style="">尽管目前该技术仍处于初期阶段，但却是未来不久最有可能取代Wi-Fi的连网明日之星。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[杨幂用华为Mate XT非凡大师接电话：脸被遮住了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1446718.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1446718.htm"/>
-        <updated>2024-09-24T05:41:45.629Z</updated>
-        <content type="html"><![CDATA[在社交平台上，杨幂使用华为Mate XT非凡大师接听电话的视频引发关注。如图所示，杨幂使用的是华为Mate XT非凡大师玄黑配色，<strong>她把折叠屏全部展开后接听电话，脸被这款大屏手机给遮住了。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iOS 18.1附带中国移动/联通/电信运营商捆绑包 似乎是为启用RCS消息准备的]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1446315.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1446315.htm"/>
@@ -78,34 +57,18 @@
 中，中国的主要网络运营商尚未提供 RCS 消息的支持。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[得罪了一个GPT后，我被所有大模型集体“拉黑”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446077.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446077.htm"/>
-        <updated>2024-09-23T05:41:48.237Z</updated>
-        <content type="html"><![CDATA[你能想象吗？哪一天你突发奇想，问 AI 机器人“如何评价我？”这么个知乎体问题，AI
-机器人思考后告诉你“这人不诚实，自以为是，我讨厌他。”而且不止一家，ChatGPT、Gemini、Meta 的 Llama 3
-对你无一好评。这就是著名科技记者 Kevin Roose 最近遇到的怪事。]]></content>
+        <title type="html"><![CDATA[网约车师傅送客去趟浦东机场竟绕了半个上海 平台认为事件不是非常严重]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1446687.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1446687.htm"/>
+        <updated>2024-09-23T10:06:33.000Z</updated>
+        <content type="html"><![CDATA[9月7日一大早，于先生通过高德打车APP约了一辆车，赶9点钟的航班去日本。这一次他还带了一位特殊的“旅客”，他家的猫。因为带宠物出境，手续很繁琐，要提交很多材料，填写各种表格，所以他早早的出门了。5点39分，他就上了“曹操出行”陆师傅的车。以前他从家去浦东机场，打车只要42分钟，这一次他竟然花了65分钟！]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[余承东：目前的华为笔记本将是最后一批搭载Windows的型号]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446458.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446458.htm"/>
-        <updated>2024-09-23T05:41:48.238Z</updated>
-        <content type="html"><![CDATA[余承东今天在央视直播间表示，目前的华为PC将是最后一批搭载Windows的笔记本。直播期间，余承东透露称，“由于制裁相关影响，目前的华为PC或将是最后一批搭载 Windows系统的笔记本电脑，后续将会有鸿蒙系统的PC产品。”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米首款SUV“法拉米”外观内饰曝光 车头超长姿态超低]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446143.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446143.htm"/>
-        <updated>2024-09-18T04:23:55.000Z</updated>
-        <content type="html"><![CDATA[<strong>网络上再次曝光了小米SUV的谍照，新车外观和小米SU7设计语言一致，统一家族化风格。</strong>值得一提的是，<strong>这次谍照首次曝光了新车的内饰，中央扶手区域与小米SU7明显不同。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 16 Pro零售机与iPhone 15 Pro对比图 差异小到看不见]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446205.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446205.htm"/>
-        <updated>2024-09-23T05:41:48.258Z</updated>
-        <content type="html"><![CDATA[苹果公司将于 9 月 20 日正式发布iPhone 16 Pro，同时发布的还有其他机型，但最近有人发现了一款商用机与其前身 iPhone 15 Pro 进行了对比。在对两款手机进行全方位检查后，可以得出结论：外观上除了多个按键的细微差别外，两款手机几乎没有任何区别。]]></content>
+        <title type="html"><![CDATA[关于国家工信部突然官宣的“国产光刻机” 你需要知道的10件事]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1446836.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1446836.htm"/>
+        <updated>2024-09-24T09:59:20.000Z</updated>
+        <content type="html"><![CDATA[前段时间，突然听到有很多人在问：<strong>中国自己的7nm</strong><strong>光刻机</strong><strong>，是不是真的造出来了？</strong>起因，是9月9日国家工信部发布的一个通知：《首台（套）重大技术装备推广应用指导目录（2024版）》。有人发现，《目录》里有2行，不对劲。很不对劲。看图。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iDaily每日科技6款必装App 已全部适配iOS 18新系统]]></title>
@@ -115,14 +78,18 @@
         <content type="html"><![CDATA[9月19日，苹果正式发布 iOS 18 系统升级，本年度最引人注意的升级莫过于全新深色模式和自定义颜色模式，同时自定义 Control Center 让你更为便捷使用熟悉的 App 功能。下面是来自iDaily 每日科技的首发支持 iOS 18 并完美适配的6个最佳应用，快来尝试一下吧！]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[随着访问范围的扩大 OpenAI o1-mini 现已向免费用户开放]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446101.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446101.htm"/>
-        <updated>2024-09-24T05:41:45.640Z</updated>
-        <content type="html"><![CDATA[上周，OpenAI 展示了其最新的大型语言模型（LLM）--OpenAI o1及其小兄弟 OpenAI
-o1-mini。该公司在公告中称，Plus 和 Team
-用户可在公告发布之日起访问该模型。企业和教育用户将在本周获得该模型，而免费用户最终将获得 o1-mini 模型。现在，看起来免费用户已经可以访问
-o1-mini。]]></content>
+        <title type="html"><![CDATA[余承东：目前的华为笔记本将是最后一批搭载Windows的型号]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1446458.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1446458.htm"/>
+        <updated>2024-09-23T05:41:48.238Z</updated>
+        <content type="html"><![CDATA[余承东今天在央视直播间表示，目前的华为PC将是最后一批搭载Windows的笔记本。直播期间，余承东透露称，“由于制裁相关影响，目前的华为PC或将是最后一批搭载 Windows系统的笔记本电脑，后续将会有鸿蒙系统的PC产品。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16 Pro零售机与iPhone 15 Pro对比图 差异小到看不见]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1446205.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1446205.htm"/>
+        <updated>2024-09-23T05:41:48.258Z</updated>
+        <content type="html"><![CDATA[苹果公司将于 9 月 20 日正式发布iPhone 16 Pro，同时发布的还有其他机型，但最近有人发现了一款商用机与其前身 iPhone 15 Pro 进行了对比。在对两款手机进行全方位检查后，可以得出结论：外观上除了多个按键的细微差别外，两款手机几乎没有任何区别。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[索尼史上最贵游戏机 PS5 Pro包装公布：支持4K 120]]></title>
@@ -139,11 +106,21 @@ o1-mini。]]></content>
         <content type="html"><![CDATA[拆解结果表明，苹果公司在iPhone 16 Pro 中使用了新的金属电池外壳，该机型还受益于底盘的变化，这将有助于设备内部的热管理。由 Rewa Technology 发布在 YouTube 上的拆解过程是对 iPhone 16 Pro 进行相当细致的拆解。在加热机身后部并分离玻璃背壳后，工程师得以正常进入设备内部。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软公布 Windows 11 24H2 面向所有 PC 的发布日期]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446204.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446204.htm"/>
-        <updated>2024-09-24T05:41:45.647Z</updated>
-        <content type="html"><![CDATA[本月早些时候，微软的一位高层在回应一篇报道时证实，Windows 11 24H2 尚未对所有符合条件的系统全面开放。虽然从发烧友的角度来看这可能令人失望，但好在距离下一次功能更新应该不会太久了。]]></content>
+        <title type="html"><![CDATA[探索新领域：哥白尼哨兵-2C卫星首次发回令人惊叹的图像]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1446626.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1446626.htm"/>
+        <updated>2024-09-25T05:41:59.435Z</updated>
+        <content type="html"><![CDATA[在发射进入轨道不到两周后，哨兵-2C
+卫星已经提供了它的第一批图像。这些壮观的地球景象让我们得以一窥这颗新卫星将为哥白尼--欧洲世界领先的地球观测计划--提供的数据。第三颗哥白尼哨兵-2
+号卫星于欧洲中部时间 9 月 5 日 3 时 50 分（当地时间 9 月 4 日 22 时 50
+分）搭乘最后一枚织女星火箭从法属圭亚那的欧洲航天<a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2C_joins_the_Copernicus_family_in_orbit">发射场发射升空</a>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙江鼎力支持黑神话开发：政府食堂每天给游科送饭]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1446625.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1446625.htm"/>
+        <updated>2024-09-25T05:41:59.437Z</updated>
+        <content type="html"><![CDATA[东方卫视最新的《长三角客厅》节目探讨了《黑神话：悟空》的爆火密码，其中提到浙江对游科的大力支持，不仅将公司设在了有山有水的“E创小镇”，还安排了政府食堂给他们每天送饭，可谓待遇拉满。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米三折叠屏手机专利曝光：华为同款Z字形方案 2022年就布局]]></title>
@@ -151,5 +128,26 @@ o1-mini。]]></content>
         <link href="https://www.cnbeta.com.tw/articles/tech/1446200.htm"/>
         <updated>2024-09-24T05:41:45.648Z</updated>
         <content type="html"><![CDATA[华为三折叠突然亮相，展示了华为在折叠屏领域强大的技术研发和探索，不过其他厂商其实也有相关技术布局。<strong>根据国家知识产权局9月3日公示的信息，小米公司一项“手机及其主体”的外观设计专利被公布出来，这是小米三折叠手机的设计方案。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软公布 Windows 11 24H2 面向所有 PC 的发布日期]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1446204.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1446204.htm"/>
+        <updated>2024-09-24T05:41:45.647Z</updated>
+        <content type="html"><![CDATA[本月早些时候，微软的一位高层在回应一篇报道时证实，Windows 11 24H2 尚未对所有符合条件的系统全面开放。虽然从发烧友的角度来看这可能令人失望，但好在距离下一次功能更新应该不会太久了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[余承东：华为PC不再用Windows 已可完全替代美国零部件]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1446515.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1446515.htm"/>
+        <updated>2024-09-21T09:13:21.000Z</updated>
+        <content type="html"><![CDATA[在昨日的三折叠Mate XT交付仪式上，余承东透露了不少内容，其中就包含了鸿蒙PC。按照余承东的说法，华为正在全力准备鸿蒙PC，后续将会有鸿蒙系统的PC产品。“由于制裁相关影响，目前的华为PC或将是最后一批搭载 Windows系统的笔记本电脑，后续将会有鸿蒙系统的PC产品。”余承东说道。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen2.5登全球开源王座 72B击败LIama3 405B 轻松胜GPT-4o-mini]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1446307.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1446307.htm"/>
+        <updated>2024-09-25T05:41:59.447Z</updated>
+        <content type="html"><![CDATA[击败LIama3！Qwen2.5登上全球开源王座。而后者仅以五分之一的参数规模，就在多任务中超越LIama3 405B。各种任务表现也远超同类别的其他模型。跟上一代相比，几乎实现了全面提升，尤其在一般任务、数学和编码方面的能力表现显著。]]></content>
     </entry>
 </feed>
