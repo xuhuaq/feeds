@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-02T05:42:01.826Z</updated>
+    <updated>2024-10-02T17:39:51.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[孙凝晖院士：华为搞封闭垄断，难以对抗西方 (cnbeta一周排行)]]></title>
@@ -12,25 +12,18 @@
         <content type="html"><![CDATA[近日，中国工程院院士、中国科学院计算技术研究所研究员、学术委员会主任、中国科学院大学计算机科学与技术学院院长孙凝晖在今年5月的一次演讲内容引发了网络上的巨大争议。<strong>在该演讲中，孙凝晖表示，华为走的中式封闭垄断的路线，难以对抗西式的封闭垄断。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米澎湃OS国际版也开始限制解锁BL 不少国外网友抱怨无法解锁 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447471.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447471.htm"/>
-        <updated>2024-10-01T05:42:16.665Z</updated>
-        <content type="html"><![CDATA[早前小米已经对澎湃 OS 国内版施加解锁限制，要想申请解锁 Bootloader 必须参与答题以及积极参与小米社区并在社区等级达到 5。这种人为制造麻烦并限制用户解锁刷机的行为引起诸多非议，而彼时国外使用小米设备的用户想要申请解锁则非常容易没什么限制。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厄瓜多尔不断增长的养虾业让沿海生态系统付出了代价 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1447201.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1447201.htm"/>
-        <updated>2024-09-27T01:44:22.000Z</updated>
-        <content type="html"><![CDATA[厄瓜多尔瓜亚斯河地区的养虾业发展迅猛，自 20 世纪 80 年代以来，养虾面积增加了一倍多，导致红树林大幅减少。 随着养虾业对全球的影响不断扩大，厄瓜多尔已实施保护计划来遏制这种损失。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[杨幂巴黎时装周手持华为Mate XT三折叠拍照 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1447541.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1447541.htm"/>
         <updated>2024-09-30T09:00:14.000Z</updated>
         <content type="html"><![CDATA[在日前举行的2025春夏巴黎时装周上，杨幂作为Loewe全球品牌代言人，压轴出席品牌2025春夏大秀。<strong>杨幂还手持新款华为Mate XT非凡大师三折叠在秀场拍照，周围的人则清一色全部都用iPhone Pro系列拍照，</strong>但具体是哪些机型并不能看出来。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米澎湃OS国际版也开始限制解锁BL 不少国外网友抱怨无法解锁 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447471.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447471.htm"/>
+        <updated>2024-10-01T05:42:16.665Z</updated>
+        <content type="html"><![CDATA[早前小米已经对澎湃 OS 国内版施加解锁限制，要想申请解锁 Bootloader 必须参与答题以及积极参与小米社区并在社区等级达到 5。这种人为制造麻烦并限制用户解锁刷机的行为引起诸多非议，而彼时国外使用小米设备的用户想要申请解锁则非常容易没什么限制。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果开始回归物理按键 “全触屏时代”过去了吗？ (cnbeta一周排行)]]></title>
@@ -40,19 +33,18 @@
         <content type="html"><![CDATA[近二十年来，随着科技的迅猛发展，触摸屏技术几乎席卷了所有电子产品的交互界面，各大公司竞相将丰富多样的功能集成到这一可点击、可滑动的显示屏中。然而，据《华尔街日报》报道，近期的一个显著趋势表明，传统的按钮、旋钮、滑块等物理控件正在汽车、家电及个人电子产品领域悄然回归。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[厄瓜多尔不断增长的养虾业让沿海生态系统付出了代价 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1447201.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1447201.htm"/>
+        <updated>2024-09-27T01:44:22.000Z</updated>
+        <content type="html"><![CDATA[厄瓜多尔瓜亚斯河地区的养虾业发展迅猛，自 20 世纪 80 年代以来，养虾面积增加了一倍多，导致红树林大幅减少。 随着养虾业对全球的影响不断扩大，厄瓜多尔已实施保护计划来遏制这种损失。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《射雕英雄传》电影想看人数破30万 徐克执导、肖战演郭靖 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1447394.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1447394.htm"/>
         <updated>2024-09-30T05:41:51.645Z</updated>
         <content type="html"><![CDATA[据灯塔专业版，<strong>电影《射雕英雄传：侠之大者》想看人数破30万！本片由徐克执导，肖战、庄达菲领衔主演。</strong>该片讲述了以郭靖为代表的侠之大者，为国为民，集结中原武林力量，抗击蒙古大军力守襄阳的故事。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位土耳其女士佩戴的三星Galaxy Buds FE耳机爆炸导致其永久性丧失听力 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446881.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446881.htm"/>
-        <updated>2024-09-26T05:41:38.917Z</updated>
-        <content type="html"><![CDATA[据三星官方论坛上的一个贴子，一位土耳其女士在佩戴 Samsung Galaxy Buds FE
-无线耳机时出现意外，这款耳机发生爆炸导致这名女士永久性的丧失听力。这幅耳机是土耳其一位用户购买并借用给自己的女朋友，受伤的这位女士就是购买者的女朋友，当出现意外后这名用户带着爆炸后的耳机联系三星寻求帮助时，三星没有采取任何有实际意义的行动，只表示可以再提供一幅新耳机。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[出差8天变8个月：搭乘波音飞船前往国际空间站的宇航员已被迫成为指挥官 (cnbeta一周排行)]]></title>
@@ -64,18 +56,18 @@
 手中，不过随着他和同伴要返回地球，于是在 9 月 22 日国际空间站举办了简短的“指挥权交接仪式”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[科学家揭开了杀死恐龙的小行星的真正起源 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1447142.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1447142.htm"/>
-        <updated>2024-09-29T05:40:28.251Z</updated>
-        <content type="html"><![CDATA[一项最新研究表明，科学家已经确定了造成6600万年前大灭绝的小行星的来源和构成，确定它是一颗不常见的碳质小行星，起源于木星之外。这些见解澄清了目前关于奇克苏鲁伯撞击物特征的讨论，改变了我们对地球过去和撞击地球的宇宙天体的认识。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国政府进行非正式的窗口指导 敦促国内企业远离英伟达芯片 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1447371.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1447371.htm"/>
         <updated>2024-09-28T09:30:17.000Z</updated>
         <content type="html"><![CDATA[据彭博<a href="https://www.bloomberg.com/news/articles/2024-09-27/china-urges-local-companies-to-stay-away-from-nvidia-s-ai-chips?srnd=homepage-canada">报道</a>，中国正加大对本土企业的压力，要求购买国产人工智能（AI）芯片，而非英伟达产品，以推动半导体行业国产化应对美国制裁。知情人士称，中国监管机构已劝阻企业购买用于开发和运行AI模型的英伟达H20芯片。此政策并非直接禁令，而是以指导意见的形式实施，北京希望避免对本国AI初创企业造成打击，同时也不想加剧与美国的紧张关系。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家揭开了杀死恐龙的小行星的真正起源 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1447142.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1447142.htm"/>
+        <updated>2024-09-29T05:40:28.251Z</updated>
+        <content type="html"><![CDATA[一项最新研究表明，科学家已经确定了造成6600万年前大灭绝的小行星的来源和构成，确定它是一颗不常见的碳质小行星，起源于木星之外。这些见解澄清了目前关于奇克苏鲁伯撞击物特征的讨论，改变了我们对地球过去和撞击地球的宇宙天体的认识。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[安卓机“逆向”换iPhone 16？我替你试了 (cnbeta一周排行)]]></title>
@@ -85,18 +77,40 @@
         <content type="html"><![CDATA[<strong>“一入苹果深似海，Android仿佛是路人”。</strong>在数码圈里，似乎总是会有这样一句说法，也似乎总有这么一撮死忠果粉，坚信着世界上只有苹果iPhone才是智能手机的标杆，苹果“生态系统”要远超Android手机的联动体验，而苹果自家的iOS系统更是要比Android系统好用个不知道多少倍。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[曝特斯拉无人自动泊车出意外：开到路上一溜烟逃走了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446861.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446861.htm"/>
-        <updated>2024-09-27T05:41:58.139Z</updated>
-        <content type="html"><![CDATA[日前，一国内新能源汽车在自动泊车时跑到路上的视频引发了全网关注，有人看热闹、有人嘲讽、有人着急帮着开脱，不过由于车企至今没有公布详细原因，所以到底是什么引发的暂时不得而知。有意思的是，在遥远的美丽国，近日也发生了一起类似的情况，不过<strong>主角换成了一辆特斯拉Model 3和一名美女</strong>。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[冯骥：《黑神话：悟空》DLC或至少两年后推出 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/game/1447300.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/game/1447300.htm"/>
         <updated>2024-09-30T05:41:51.656Z</updated>
         <content type="html"><![CDATA[好评如潮的国产动作RPG游戏《黑神话：悟空》已经发售一个多月，不少玩家也已经通关该作，并开始期待《黑神话：悟空》DLC。今日（9月27日），有玩家在游戏科学首席执行官冯骥转发的微博评论区处询问“Dlc在做了？？”，主创冯骥则表示：“咱就说，能不能让团队先躺两年？采采风，恋恋爱，尽情玩玩其他游戏。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M4 MacBook Pro零售包装盒据称已泄露 新机配备10核CPU和10核GPU (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447488.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447488.htm"/>
+        <updated>2024-10-02T17:39:50.206Z</updated>
+        <content type="html"><![CDATA[此前有报道称，苹果将于今年第四季度开始量产其 M4 MacBook Pro 系列产品，据一位知名的显示器分析师估计，14 英寸和 16 英寸机型的 mini-LED 面板将于7 月或 8 月交付。 根据这一时间表以及据称属于较小尺寸 M4 MacBook Pro 的零售包装盒的最新证据，苹果可能正在准备很快发布新机。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泄密者称有关三星Galaxy S25 Ultra的规格细节 "100%得到证实" (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447387.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447387.htm"/>
+        <updated>2024-10-01T05:42:16.704Z</updated>
+        <content type="html"><![CDATA[三星可能会在明年年初（很可能在 1 月份）首次推出 Galaxy S25 系列。 在 Galaxy S25 系列正式亮相之前，泄露的信息几乎揭示了即将推出的 Galaxy S25 系列的所有信息，尤其是旗舰机型 Galaxy S25 Ultra。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加13跑分出炉：多核成绩首次破万 超越iPhone 16 Pro Max (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447274.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447274.htm"/>
+        <updated>2024-10-01T05:42:16.702Z</updated>
+        <content type="html"><![CDATA[一加年度旗舰机一加13将搭载高通最新的骁龙8 Gen4移动平台，今日该机的GeekBench跑分被曝出，多核成绩首次破万。<strong>一加13的单核成绩为3230分，多核成绩破万，达到10132分，单核多核成绩均超过了iPhone 16 Pro Max所搭载的A18 Pro芯片</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李安新片《李小龙》剧本已完成 有望2025年开机 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1447501.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1447501.htm"/>
+        <updated>2024-10-02T17:39:50.207Z</updated>
+        <content type="html"><![CDATA[据外媒报道，李安新片《李小龙》（Bruce
+Lee）的剧本已经完成，计划于2025年年初开拍。该片开发历经波折，剧本经过了无数次打磨。最初版本的剧本由《少年派的奇幻漂流》的编剧让-克里斯托弗·卡斯特里以及罗启锐与张婉婷撰写;随后，剧本经过了数位编剧的转手，最终版剧本由丹·福特曼撰写。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为了招募一位AI天才 谷歌花了189亿元 (cnbeta一周排行)]]></title>
@@ -113,25 +127,18 @@
         <content type="html"><![CDATA[20 世纪 90 年代的纪念品现在有很多成为了抢手货，Winamp正是来自于那一时期的标志性软件，在那个美好年代，在文件共享网站或点对点共享网站上花点时间就能获得几乎任何你想要的音乐后，Winamp 就是播放这些 MP3 文件的首选。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网友：5名同学毕业入职华为 6年后竟无一人离职 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447106.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447106.htm"/>
-        <updated>2024-09-26T09:12:28.000Z</updated>
-        <content type="html"><![CDATA[9月26日消息，近日，有网友在网上发文，谈到了自己大学同学入职华为6年后无一人离职。并且感叹道：工资和待遇才是留住人的核心。]]></content>
+        <title type="html"><![CDATA[iPhone 16 全球价格对比：中国最便宜 比均价低1200元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447549.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447549.htm"/>
+        <updated>2024-09-30T09:38:04.000Z</updated>
+        <content type="html"><![CDATA[苹果最新的iPhone 16系列已正式发售，不过由于种种原因在全球各地的定价也不尽相同，日本MM综研对iPhone16在全球39个国家和地区的价格进行了对比。<strong>结果显示，从128GB的iPhone 16来看，中国的苹果手机价格为全球最低。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米15 Pro入网：2024终极大作 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1446859.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1446859.htm"/>
-        <updated>2024-10-01T05:42:16.695Z</updated>
-        <content type="html"><![CDATA[今天，小米15 Pro获得入网许可，<strong>型号是2410DPN6CC，支持90W有线闪充。</strong>根据此前曝光的信息，小米15 Pro正面是2K等深微曲屏，中框为直角边设计，背部是徕卡三摄，一共由3颗5000万像素摄像头组成。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一加13跑分出炉：多核成绩首次破万 超越iPhone 16 Pro Max (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447274.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447274.htm"/>
-        <updated>2024-10-01T05:42:16.702Z</updated>
-        <content type="html"><![CDATA[一加年度旗舰机一加13将搭载高通最新的骁龙8 Gen4移动平台，今日该机的GeekBench跑分被曝出，多核成绩首次破万。<strong>一加13的单核成绩为3230分，多核成绩破万，达到10132分，单核多核成绩均超过了iPhone 16 Pro Max所搭载的A18 Pro芯片</strong>。]]></content>
+        <title type="html"><![CDATA[坚持使用激光雷达 余承东：纯视觉方案摄像头致盲就完蛋了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447395.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447395.htm"/>
+        <updated>2024-10-02T17:39:50.227Z</updated>
+        <content type="html"><![CDATA[今日上午，华为余承东和知名主持人马东举行了访谈，在谈到华为乾崑智驾ADS 3.0的时候，马东抛出了一个问题，也就是“激光雷达是必要的吗？”余承东表示，<strong>坚持用激光雷达，是因为激光雷达的安全性</strong>。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[英特尔“全公司的希望”：首款Intel 18A芯片正式亮相 (cnbeta一周排行)]]></title>
@@ -141,12 +148,5 @@
         <content type="html"><![CDATA[9月25日消息，据Tom's Hardware报道，处理器大厂英特尔于上周在俄勒冈州波特兰市举行的 Enterprise Tech Tour
 活动中，首次展示了其代号为Clearwater Forest的Xeon芯片，这也是英特尔首款最新的Intel
 18A制程芯片，不过该芯片可能需要等到明年下半年才能上市。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泄密者称有关三星Galaxy S25 Ultra的规格细节 "100%得到证实" (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447387.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447387.htm"/>
-        <updated>2024-10-01T05:42:16.704Z</updated>
-        <content type="html"><![CDATA[三星可能会在明年年初（很可能在 1 月份）首次推出 Galaxy S25 系列。 在 Galaxy S25 系列正式亮相之前，泄露的信息几乎揭示了即将推出的 Galaxy S25 系列的所有信息，尤其是旗舰机型 Galaxy S25 Ultra。]]></content>
     </entry>
 </feed>
