@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-07T05:42:40.994Z</updated>
+    <updated>2024-10-07T17:40:43.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[杨幂巴黎时装周手持华为Mate XT三折叠拍照 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447541.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447541.htm"/>
-        <updated>2024-09-30T09:00:14.000Z</updated>
-        <content type="html"><![CDATA[在日前举行的2025春夏巴黎时装周上，杨幂作为Loewe全球品牌代言人，压轴出席品牌2025春夏大秀。<strong>杨幂还手持新款华为Mate XT非凡大师三折叠在秀场拍照，周围的人则清一色全部都用iPhone Pro系列拍照，</strong>但具体是哪些机型并不能看出来。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[123岁大鳄鱼还没有衰老迹象 已繁育1000多条后代依然精力旺盛 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1447789.htm</id>
@@ -26,25 +19,11 @@
         <content type="html"><![CDATA[当今年初登场的“Android机皇”三星S24 Ultra，与苹果最新旗舰iPhone 16 Pro Max同台竞技时，你觉得谁会从这场“战争”中胜出？以下对比将为你揭晓答案。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米澎湃OS国际版也开始限制解锁BL 不少国外网友抱怨无法解锁 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447471.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447471.htm"/>
-        <updated>2024-10-01T05:42:16.665Z</updated>
-        <content type="html"><![CDATA[早前小米已经对澎湃 OS 国内版施加解锁限制，要想申请解锁 Bootloader 必须参与答题以及积极参与小米社区并在社区等级达到 5。这种人为制造麻烦并限制用户解锁刷机的行为引起诸多非议，而彼时国外使用小米设备的用户想要申请解锁则非常容易没什么限制。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[被问及中国芯片技术是否只落后台湾三年 国科会主委吴诚文：十年以上 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1447692.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1447692.htm"/>
         <updated>2024-10-03T17:41:58.850Z</updated>
         <content type="html"><![CDATA[<strong>台湾国家科学委员会主委吴诚文说，在半导体制造方面，中国可能比台湾落后十年。</strong> 昨天，在台湾立法机构的一次简报会上，吴诚文回应了有关华为最新智能手机的拆机表明中国在芯片制造技术方面已成功赶超的报道。对此，他表示，由于台积电领先的 2 纳米半导体技术预计将于 2025 年量产，根据他的估计，台湾与中国大陆之间的差距应超过十年。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 16 全球价格对比：中国最便宜 比均价低1200元 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447549.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447549.htm"/>
-        <updated>2024-09-30T09:38:04.000Z</updated>
-        <content type="html"><![CDATA[苹果最新的iPhone 16系列已正式发售，不过由于种种原因在全球各地的定价也不尽相同，日本MM综研对iPhone16在全球39个国家和地区的价格进行了对比。<strong>结果显示，从128GB的iPhone 16来看，中国的苹果手机价格为全球最低。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软开始推出包含大量实用改进的 Windows 11 2024 更新 (cnbeta一周排行)]]></title>
@@ -68,21 +47,6 @@
         <content type="html"><![CDATA[在去华强北之前，尽管知危编辑部对华为三折叠已经有了很高的预期，<strong>但我们还是低估了华为非凡大师的魅力。</strong>华强北是中国最大的电子产品交易集散地，被称为 “ 中国电子第一街 ”，街上的档口里总是挤满了低买高卖的 “ 背包客 ” 们，他们往往有一个特点：只买卖最抢手、最硬通货的产品。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M4 MacBook Pro零售包装盒据称已泄露 新机配备10核CPU和10核GPU (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447488.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447488.htm"/>
-        <updated>2024-10-02T17:39:50.206Z</updated>
-        <content type="html"><![CDATA[此前有报道称，苹果将于今年第四季度开始量产其 M4 MacBook Pro 系列产品，据一位知名的显示器分析师估计，14 英寸和 16 英寸机型的 mini-LED 面板将于7 月或 8 月交付。 根据这一时间表以及据称属于较小尺寸 M4 MacBook Pro 的零售包装盒的最新证据，苹果可能正在准备很快发布新机。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李安新片《李小龙》剧本已完成 有望2025年开机 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1447501.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1447501.htm"/>
-        <updated>2024-10-02T17:39:50.207Z</updated>
-        <content type="html"><![CDATA[据外媒报道，李安新片《李小龙》（Bruce
-Lee）的剧本已经完成，计划于2025年年初开拍。该片开发历经波折，剧本经过了无数次打磨。最初版本的剧本由《少年派的奇幻漂流》的编剧让-克里斯托弗·卡斯特里以及罗启锐与张婉婷撰写;随后，剧本经过了数位编剧的转手，最终版剧本由丹·福特曼撰写。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[下载]Windows 11 24H2 正式版ISO镜像已公布 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1447724.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1447724.htm"/>
@@ -99,27 +63,6 @@ HCI的重大更新。]]></content>
         <content type="html"><![CDATA[前几天马斯克刚给他的<strong>特斯拉得州超级计算集群起名为“Cortex”</strong>。这才没过几天，老马就又在社交媒体上发视频嘚瑟他的新机房了。说实话，平时你是很少能看到这样的画面，这就和那个星舰基地一样，打开了门随便看，要不然说这马斯克对自己技术那是绝对的自信。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M4 MacBook Pro据称已在私人群组销售 包装盒图片显示其设计与M3版本无异 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447711.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447711.htm"/>
-        <updated>2024-10-06T17:40:01.639Z</updated>
-        <content type="html"><![CDATA[苹果的一款 M4 MacBook Pro 机型的零售包装盒据称早些时候泄露，显示该机将配备 16GB 统一内存和 512GB 存储空间。 M4&nbsp;被披露采用了 10 核 CPU 和 10 核 GPU，这表明它是一个更高级的版本。 尽管这家技术巨头计划在本季度的某个时间发布新款便携式 Mac，但据称这款机型正在一个私人群组中销售。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国大陆消费者最喜爱的10个品牌：华为小米在列 抖音排名第一 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447550.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447550.htm"/>
-        <updated>2024-09-30T09:39:15.000Z</updated>
-        <content type="html"><![CDATA[在近日举办的“亚洲品牌大会”上，<strong>世界品牌实验室（World Brand Lab）发布了2024年亚洲消费者“国民品牌”忠诚度调查结果，日本、韩国、中国大陆名列前三。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这种糕点、面包中常见的防腐剂 竟是“隐形刺客”？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1447468.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1447468.htm"/>
-        <updated>2024-10-06T17:40:01.642Z</updated>
-        <content type="html"><![CDATA[从中秋节到现在已经快过去半个月了，关于“脱氢乙酸钠”的讨论热度仍未减退。各大平台上不少人在说，今年一口月饼没吃，就是因为听说这种添加剂会伤肝伤肾还能致癌；一些网友更是纷纷晒出配料表，声称自己爱吃的面包全都含脱氢乙酸钠，认为再也不能“面包自由”了……正值食品安全宣传周，今天我们就来聊聊，备受争议的脱氢乙酸钠，到底是个啥？]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[苹果A18性价神机 iPhone SE 4渲染图出炉 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1447859.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1447859.htm"/>
@@ -134,11 +77,11 @@ HCI的重大更新。]]></content>
         <content type="html"><![CDATA[OPPO FInd X8即将在本月发布，而随着发布日期的临近，该机的真机已经曝光。<strong>从曝光的图片中可以看到手机的背面，后置相机模块采用了三枚传感器，并且相机样式进行了重新设计，不同于此前OPPO Find X7的外观</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刚买的笔记本为什么一开始别联网 现在终于明白了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1447733.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1447733.htm"/>
-        <updated>2024-10-06T17:40:01.649Z</updated>
-        <content type="html"><![CDATA[很多朋友不知道，刚买到新笔记本的时候，直接连上电源就按下开机键，然后一路设置，进入桌面。事实上，如果按照这个顺序下来，你已经损失了一项非常重要的权益。要想知道损失了什么，不妨接着往下看。]]></content>
+        <title type="html"><![CDATA[M4 MacBook Pro据称已在私人群组销售 包装盒图片显示其设计与M3版本无异 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447711.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447711.htm"/>
+        <updated>2024-10-06T17:40:01.639Z</updated>
+        <content type="html"><![CDATA[苹果的一款 M4 MacBook Pro 机型的零售包装盒据称早些时候泄露，显示该机将配备 16GB 统一内存和 512GB 存储空间。 M4&nbsp;被披露采用了 10 核 CPU 和 10 核 GPU，这表明它是一个更高级的版本。 尽管这家技术巨头计划在本季度的某个时间发布新款便携式 Mac，但据称这款机型正在一个私人群组中销售。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果iPhone 16 Pro Max屏幕DxOMark出炉：有瑕疵 还不如上一代 (cnbeta一周排行)]]></title>
@@ -146,5 +89,63 @@ HCI的重大更新。]]></content>
         <link href="https://www.cnbeta.com.tw/articles/tech/1448023.htm"/>
         <updated>2024-10-06T17:40:01.672Z</updated>
         <content type="html"><![CDATA[DXOMARK公布了苹果iPhone 16 Pro Max的屏幕测试成绩。<strong>综合评分150分，全球排名第17位，比iPhone 15 Pro还低了1分。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算发现iPhone 16中国售价全球最低 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447892.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447892.htm"/>
+        <updated>2024-10-07T17:40:42.825Z</updated>
+        <content type="html"><![CDATA[近日有国外机构分析了iPhone 16的售价，结果发现中国的价格全球最便宜。<strong>在128GB版本的iPhone 16中，中国市场的售价最为亲民，成为全球最低价。</strong>具体来说，128GB版本的iPhone 16全球均价为14万7026日元（折合人民币约为7219元），而中国市场的官方起售价仅为5999元人民币，比全球均价低了超过1200元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBO纪录片称其揭开了比特币创造者中本聪（Satoshi Nakamoto）的真实身份 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1448129.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1448129.htm"/>
+        <updated>2024-10-06T02:10:36.000Z</updated>
+        <content type="html"><![CDATA[HBO 的一部新纪录片声称揭开了比特币神秘创造者中本聪的真实身份。
+该纪录片将于下周播出，可能对全球金融甚至美国总统大选产生重大影响。曾获艾美奖提名的电影制片人库伦-霍巴克（Cullen Hoback）因揭露
+QAnon 阴谋论的作者而闻名，他是这次最新调查的幕后推手。 这部纪录片将于美国东部时间周二晚 9 点播出。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比亚迪夺全球新能源汽车销量冠军：比第2-第8加起来都多 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447790.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447790.htm"/>
+        <updated>2024-10-07T17:40:42.838Z</updated>
+        <content type="html"><![CDATA[根据易车榜数据，8月，比亚迪以38万辆的惊人销量问鼎全球新能源市场冠军，这一数字不仅远超第二名特斯拉，更领先了整整24万辆！更为值得一提的是，比亚迪的销量甚至超越了第2名至第8名品牌的总和，展现出无可争议的领先地位。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚买的笔记本为什么一开始别联网 现在终于明白了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447733.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447733.htm"/>
+        <updated>2024-10-06T17:40:01.649Z</updated>
+        <content type="html"><![CDATA[很多朋友不知道，刚买到新笔记本的时候，直接连上电源就按下开机键，然后一路设置，进入桌面。事实上，如果按照这个顺序下来，你已经损失了一项非常重要的权益。要想知道损失了什么，不妨接着往下看。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球首块第二代东方屏点亮 由一加13首发搭载 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447891.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447891.htm"/>
+        <updated>2024-10-07T17:40:42.848Z</updated>
+        <content type="html"><![CDATA[一加科技李杰宣布，全球首块第二代东方屏成功点亮，这块屏幕由一加13首发搭载。李杰表示，在屏幕素质上，<strong>去年一加12东方屏已是巅峰，第二代东方屏将带来更出类拔萃的表现，效果一骑绝尘。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国股市全面爆发 高盛：多头和对冲基金都在大举买入 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447592.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447592.htm"/>
+        <updated>2024-10-07T17:40:42.849Z</updated>
+        <content type="html"><![CDATA[长期投资者净买入主要集中在消费类和金融类股票，而对冲基金在金融类股票的表现尤为突出。两类投资者都表现出明显的“害怕错过”情绪，外资对冲基金重点关注白酒类和电动汽车电池等板块。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外媒：Meta新眼镜证明苹果Vision Pro走歪了路 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1447571.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1447571.htm"/>
+        <updated>2024-10-07T17:40:42.852Z</updated>
+        <content type="html"><![CDATA[9月30日消息，Meta最新推出的增强现实（AR）眼镜和更具性价比的混合现实（MR）头显，给苹果带来了巨大压力，迫使其重新审视Vision Pro的战略布局。为应对这一挑战，苹果的视觉产品团队正在评估多种方案，包括继续推进现有开发计划、推出智能显示器、智能眼镜，以及配备AI功能的智能耳机等选项。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节跳动新爬虫比OpenAI机器人快25倍 面临美国监管审查 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1448055.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1448055.htm"/>
+        <updated>2024-10-05T09:17:20.000Z</updated>
+        <content type="html"><![CDATA[10月4日消息，据外电报道，TikTok 的母公司字节跳动正在加大训练生成式 AI 模型的力度，推出了一款新的网页抓取工具。据报道，这款名为 Bytespider 的机器人于 4 月推出，现已成为最活跃的网页抓取工具之一。]]></content>
     </entry>
 </feed>
