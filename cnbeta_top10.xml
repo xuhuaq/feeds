@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-10-24T05:41:58.003Z</updated>
+    <updated>2024-10-24T17:40:25.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[微信官方回应全网吐槽的“文字讨好症”：不必担忧 走个形式而已]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449625.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449625.htm"/>
-        <updated>2024-10-18T09:03:40.000Z</updated>
-        <content type="html"><![CDATA[<strong>在微信聊天中，人们常常喜欢使用各种语气词，如“好滴”、“好哒”、“好的呢”等。</strong>甚至有时候，一句话说完还要配上一个表情包才觉得完整。有人认为，这样的交流方式能显得自己更加热情和真诚，而不是冷漠或敷衍。<strong>这种现象被称为“微信文字讨好症”。</strong>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[福特CEO购买小米SU7去美国 开了六个月不想换]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1450092.htm</id>
@@ -20,11 +13,18 @@
         <content type="html"><![CDATA[好车自然会受认可，哪怕它并没有在当地销售。近日在“Everything Electric Show”的一档专访，福特CEO&nbsp;Jim Farley（吉姆·法利）分享时提到称<strong>自己最近半年一直开小米SU7不舍得换</strong>，而这也让主持人大吃一惊。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米公司成功流片国内首款3nm手机系统级芯片]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449871.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449871.htm"/>
-        <updated>2024-10-21T17:40:38.944Z</updated>
-        <content type="html"><![CDATA[据北京卫视消息，北京市经济和信息化局总经济师唐建国表示，<strong>小米公司成功流片国内首款3nm手机系统级芯片。</strong>所谓流片，就是像流水线一样通过一系列工艺步骤制造芯片，<strong>简单来说就是芯片公司将设计好的方案，交给晶圆制造厂，先生产少量样品，检测一下设计的芯片能不能用，根据测试结果决定是否要优化或大规模生产。</strong>]]></content>
+        <title type="html"><![CDATA[微信官方回应全网吐槽的“文字讨好症”：不必担忧 走个形式而已]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449625.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449625.htm"/>
+        <updated>2024-10-18T09:03:40.000Z</updated>
+        <content type="html"><![CDATA[<strong>在微信聊天中，人们常常喜欢使用各种语气词，如“好滴”、“好哒”、“好的呢”等。</strong>甚至有时候，一句话说完还要配上一个表情包才觉得完整。有人认为，这样的交流方式能显得自己更加热情和真诚，而不是冷漠或敷衍。<strong>这种现象被称为“微信文字讨好症”。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国大陆唯一平板eSIM运营商 中国联通eSIM iPad套餐价格公布]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449931.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449931.htm"/>
+        <updated>2024-10-22T17:40:39.568Z</updated>
+        <content type="html"><![CDATA[苹果上周突然发布了iPad mini 7，起售价3999元。<strong>这一代还取消了实体SIM卡，首次新增eSIM，支持5G网络，很多网友之前担心国行版无法使用。</strong>中国联通今天给出了一颗定心丸，公布了eSIM iPad套餐。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[得了绝症的玉米变成顶级食材 价格翻百倍 为何不专门培育？]]></title>
@@ -32,6 +32,20 @@
         <link href="https://www.cnbeta.com.tw/articles/science/1449797.htm"/>
         <updated>2024-10-20T01:11:21.000Z</updated>
         <content type="html"><![CDATA[下面根玉米被真菌感染了，它长出了这种黑色的瘤状物，看起来很糟糕，但这根玉米现在成为了一种昂贵的美食。当玉米田的温度和湿度都很高的时候，玉米就有可能感染这种真菌，它叫玉米黑粉菌。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为“绿水鬼”正式发布 命名绿野传奇 售价7999元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450130.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450130.htm"/>
+        <updated>2024-10-24T17:40:25.005Z</updated>
+        <content type="html"><![CDATA[今晚的原生鸿蒙之夜暨华为全场景新品发布会上，<strong>华为带来了新款顶奢手表——华为WATCH Ultimate非凡探索绿野传奇版。</strong>该<strong>手表售价7999元，今晚（10月22日）正式开售。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米公司成功流片国内首款3nm手机系统级芯片]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449871.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449871.htm"/>
+        <updated>2024-10-21T17:40:38.944Z</updated>
+        <content type="html"><![CDATA[据北京卫视消息，北京市经济和信息化局总经济师唐建国表示，<strong>小米公司成功流片国内首款3nm手机系统级芯片。</strong>所谓流片，就是像流水线一样通过一系列工艺步骤制造芯片，<strong>简单来说就是芯片公司将设计好的方案，交给晶圆制造厂，先生产少量样品，检测一下设计的芯片能不能用，根据测试结果决定是否要优化或大规模生产。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一加13真机首度亮相：工业设计大革新]]></title>
@@ -48,11 +62,11 @@
         <content type="html"><![CDATA[博主厂长是关同学晒出了华为Mate 70系列手机壳。如图所示，<strong>保护壳证明Mate 70系列采用居中大圆镜头设计，其中框为直角边，</strong>并且保护壳的电源键做了开孔设计，这意味着Mate 70系列将支持侧边指纹识别。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国大陆唯一平板eSIM运营商 中国联通eSIM iPad套餐价格公布]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449931.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449931.htm"/>
-        <updated>2024-10-22T17:40:39.568Z</updated>
-        <content type="html"><![CDATA[苹果上周突然发布了iPad mini 7，起售价3999元。<strong>这一代还取消了实体SIM卡，首次新增eSIM，支持5G网络，很多网友之前担心国行版无法使用。</strong>中国联通今天给出了一颗定心丸，公布了eSIM iPad套餐。]]></content>
+        <title type="html"><![CDATA[这种长得像灯笼一样的北方水果 我打赌南方人没见过]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1450225.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1450225.htm"/>
+        <updated>2024-10-24T17:40:25.011Z</updated>
+        <content type="html"><![CDATA[在北方的水果摊上有一种小果子，长得像灯笼一样，非常受欢迎。当地人称它为“<strong>菇娘果</strong>”，别名又叫姑茑儿、黄菇娘果、甜菇娘果、菇茑、洋菇娘、灯笼果、龙珠果等。这种水果吃起来特别解压，皮轻轻一扒就掉，一口一个，清甜可口，是很多北方人小时候的回忆。说来有趣，菇娘果前些年退出了“水果摊”，近几年又重新火起来，甚至被冠名为“哥伦比亚龙珠果”而身价暴涨。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信又一“隐藏”功能被发现：好友数量达到上限后可查找删除自己的好友]]></title>
@@ -69,19 +83,26 @@
         <content type="html"><![CDATA[随着京东双十一的开启，京东集团也举行了一系列发布会活动。近日，脱口秀演员杨笠、喜剧演员刘旸作为嘉宾参与了京东采销的对谈，此事却在网络上引起了舆论风波。杨笠曾在脱口秀节目中对男性群体的犀利调侃而知名，其“男人那么普通，又那么自信”的言论成为了网络热议的话题。杨笠在发布会上出现，触发了部分消费者的不满。网上出现了呼吁对京东Plus会员发起退款、从京东金融提现等言论。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[男子在金字塔顶端发现一条狗 它是怎么爬上去的？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1449439.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1449439.htm"/>
-        <updated>2024-10-19T17:40:42.762Z</updated>
-        <content type="html"><![CDATA[10月16日消息，据媒体报道，一男子乘坐动力滑翔伞，<strong>在埃及胡夫金字塔上空飞行时竟然发现了一条狗。</strong>拍摄者说，这条狗位于金字塔顶端，对着鸟狂吠，尚不清楚这只狗是如何爬到那里的。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为什么养殖鱼比野生捕捞更不可持续？]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1449667.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1449667.htm"/>
         <updated>2024-10-21T17:40:38.926Z</updated>
         <content type="html"><![CDATA[有观点称，鱼类养殖是一种可持续的食物来源，能够在保护野生鱼类种群的同时，帮助我们养活全球日益增长的人口，但事实并非如此。“养鱼业不是野生捕捞的替代品。事实上，养鱼业依赖于从海洋中捕捞野生鱼类。”美国纽约大学的Matthew
 Hayek说。他和同事发现，为养殖鱼类而捕杀的野生鱼类数量比先前的估计高出27%至307%。相关研究结果10月16日发表于《科学进展》。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多伦多大学研究发现微信修改了TLS加密协议 使用户面临安全风险]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449885.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449885.htm"/>
+        <updated>2024-10-21T01:53:37.000Z</updated>
+        <content type="html"><![CDATA[微信消息和对话没有进行端到端加密，这意味着该应用的服务器可以解密并读取每条消息。 然而，根据一项新的研究，这款流行消息应用的用户可能需要担心，加密协议中存在的漏洞可能会使该服务受到攻击。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为啥总有人发完语音自己听一遍：微信官方揭秘原因]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1450080.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1450080.htm"/>
+        <updated>2024-10-24T17:40:25.027Z</updated>
+        <content type="html"><![CDATA[<strong>你们身边有人发完微信语音总喜欢自己听一遍吗？</strong>今天微信团队官方对“微信强迫症”之“发完语音重听一遍”进行了一番分析。这类人甚至有些是好友发来的60秒语音是一条不点，但是<strong>自己发出去的那短短3秒，却能“单曲循环”十几遍。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[人类抹去了30亿年的进化史 而且情况越来越糟]]></title>
@@ -100,13 +121,6 @@ Hayek说。他和同事发现，为养殖鱼类而捕杀的野生鱼类数量比
 Pro 的规格，显示基本型号可以搭配更多内存。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[多伦多大学研究发现微信修改了TLS加密协议 使用户面临安全风险]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449885.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449885.htm"/>
-        <updated>2024-10-21T01:53:37.000Z</updated>
-        <content type="html"><![CDATA[微信消息和对话没有进行端到端加密，这意味着该应用的服务器可以解密并读取每条消息。 然而，根据一项新的研究，这款流行消息应用的用户可能需要担心，加密协议中存在的漏洞可能会使该服务受到攻击。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[字节跳动实习生投毒自家大模型细节曝光 影响到底有多大？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1449727.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1449727.htm"/>
@@ -121,22 +135,6 @@ Pro 的规格，显示基本型号可以搭配更多内存。]]></content>
         <content type="html"><![CDATA[在微软推出Windows 11重大版本更新24H2之际，备受期待的官方精简版——Windows 11 2024
 LTSC版也同步亮相。LTSC，全称为Long-Term Servicing
 Channel，是微软专为追求极致稳定性和长期支持的企业级用户量身打造的操作系统版本。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全固态电池热潮正在消退 汽车巨头考虑半固态电池替代方案]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449442.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449442.htm"/>
-        <updated>2024-10-23T17:40:51.954Z</updated>
-        <content type="html"><![CDATA[电动汽车全固态电池商业化的推动工作正在顺利进行，但分析人士表示，汽车巨头们可能正处于转向另一场科技变革的风口浪尖。长期以来，固态电池一直被誉为可持续驾驶的“圣杯”。顾名思义，固态电池包含由陶瓷等材料制成的固体电解质。这使它们不同于含有液体电解质的传统锂离子电池。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python仍是最流行的编程语言 但挑战者正逐渐占据上风]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449457.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449457.htm"/>
-        <updated>2024-10-17T01:40:29.000Z</updated>
-        <content type="html"><![CDATA[编程语言与最新的技术进步保持同步。
-尽管数百万人仍在继续使用老式编程语言，但现代编程语言正在以更高效的方式管理和处理数据，尤其是在人工智能日益发展的今天。TIOBE
-指数的最新更新揭示了软件开发领域的显著变化。 虽然传统编程语言依然流行，但许多开发人员正在寻求能够处理大量现代数字数据的技术。 C、COBOL、Fortran 和汇编等传统语言仍然占有一席之地，但它们已不再占据中心位置。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[雷军开法拉利SUV出街被拍 网友更期待“法拉米”了]]></title>
