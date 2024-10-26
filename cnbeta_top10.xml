@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-10-26T05:40:49.041Z</updated>
+    <updated>2024-10-26T17:40:45.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -48,18 +48,11 @@
         <content type="html"><![CDATA[据北京卫视消息，北京市经济和信息化局总经济师唐建国表示，<strong>小米公司成功流片国内首款3nm手机系统级芯片。</strong>所谓流片，就是像流水线一样通过一系列工艺步骤制造芯片，<strong>简单来说就是芯片公司将设计好的方案，交给晶圆制造厂，先生产少量样品，检测一下设计的芯片能不能用，根据测试结果决定是否要优化或大规模生产。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为Mate 70手机壳曝光：侧边指纹+居中大圆镜头设计实锤]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449675.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449675.htm"/>
-        <updated>2024-10-20T17:40:34.725Z</updated>
-        <content type="html"><![CDATA[博主厂长是关同学晒出了华为Mate 70系列手机壳。如图所示，<strong>保护壳证明Mate 70系列采用居中大圆镜头设计，其中框为直角边，</strong>并且保护壳的电源键做了开孔设计，这意味着Mate 70系列将支持侧边指纹识别。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东紧急道歉 与杨笠“互删”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449682.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449682.htm"/>
-        <updated>2024-10-20T17:40:34.738Z</updated>
-        <content type="html"><![CDATA[随着京东双十一的开启，京东集团也举行了一系列发布会活动。近日，脱口秀演员杨笠、喜剧演员刘旸作为嘉宾参与了京东采销的对谈，此事却在网络上引起了舆论风波。杨笠曾在脱口秀节目中对男性群体的犀利调侃而知名，其“男人那么普通，又那么自信”的言论成为了网络热议的话题。杨笠在发布会上出现，触发了部分消费者的不满。网上出现了呼吁对京东Plus会员发起退款、从京东金融提现等言论。]]></content>
+        <title type="html"><![CDATA[为啥总有人发完语音自己听一遍：微信官方揭秘原因]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1450080.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1450080.htm"/>
+        <updated>2024-10-24T17:40:25.027Z</updated>
+        <content type="html"><![CDATA[<strong>你们身边有人发完微信语音总喜欢自己听一遍吗？</strong>今天微信团队官方对“微信强迫症”之“发完语音重听一遍”进行了一番分析。这类人甚至有些是好友发来的60秒语音是一条不点，但是<strong>自己发出去的那短短3秒，却能“单曲循环”十几遍。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信又一“隐藏”功能被发现：好友数量达到上限后可查找删除自己的好友]]></title>
@@ -67,13 +60,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1449857.htm"/>
         <updated>2024-10-22T17:40:39.523Z</updated>
         <content type="html"><![CDATA[近日，有网友发现微信好友达到上限后，<strong>可以自动查找已删除自己的好友，并进行一键删除。</strong>对于这一功能，腾讯客服表示，该提醒是由于用户在添加好友时，通讯录联系人数量已达上限，为了避免因用户通讯录好友添加超过次数限制，导致无法添加成功，系统会根据一定逻辑展示部分通讯录好友，可以根据列表选择删除部分联系人后，继续添加好友。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为啥总有人发完语音自己听一遍：微信官方揭秘原因]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1450080.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1450080.htm"/>
-        <updated>2024-10-24T17:40:25.027Z</updated>
-        <content type="html"><![CDATA[<strong>你们身边有人发完微信语音总喜欢自己听一遍吗？</strong>今天微信团队官方对“微信强迫症”之“发完语音重听一遍”进行了一番分析。这类人甚至有些是好友发来的60秒语音是一条不点，但是<strong>自己发出去的那短短3秒，却能“单曲循环”十几遍。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[台积电发现芯片被转运给华为后切断客户关系 并通知台北与华盛顿展开调查]]></title>
@@ -90,19 +76,18 @@
         <content type="html"><![CDATA[10月22日，我国首个国产移动操作系统——华为原生鸿蒙操作系统正式发布，这也是继苹果iOS和安卓系统后，全球第三大移动操作系统。据介绍，此前已经发布过的鸿蒙系统，由于系统底座仍使用了部分AOSP开放源代码，而不得不兼容部分安卓应用软件。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么养殖鱼比野生捕捞更不可持续？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1449667.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1449667.htm"/>
-        <updated>2024-10-21T17:40:38.926Z</updated>
-        <content type="html"><![CDATA[有观点称，鱼类养殖是一种可持续的食物来源，能够在保护野生鱼类种群的同时，帮助我们养活全球日益增长的人口，但事实并非如此。“养鱼业不是野生捕捞的替代品。事实上，养鱼业依赖于从海洋中捕捞野生鱼类。”美国纽约大学的Matthew
- Hayek说。他和同事发现，为养殖鱼类而捕杀的野生鱼类数量比先前的估计高出27%至307%。相关研究结果10月16日发表于《科学进展》。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[多伦多大学研究发现微信修改了TLS加密协议 使用户面临安全风险]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1449885.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1449885.htm"/>
         <updated>2024-10-21T01:53:37.000Z</updated>
         <content type="html"><![CDATA[微信消息和对话没有进行端到端加密，这意味着该应用的服务器可以解密并读取每条消息。 然而，根据一项新的研究，这款流行消息应用的用户可能需要担心，加密协议中存在的漏洞可能会使该服务受到攻击。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群晖发布全新NAS：内置4TB硬盘开机即用 售价1680元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450010.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450010.htm"/>
+        <updated>2024-10-25T17:40:37.902Z</updated>
+        <content type="html"><![CDATA[<strong>群晖近日推出了一款全新的NAS产品——BeeStation 4TB</strong>，这款产品号称专为苹果设备打造，现已正式开启预售。其售价为1980元，而首发期间更是优惠至1680元，消费者只需在10月31日20:00前支付尾款，即可享受这一超值价格。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果官方意外泄露了M4 MacBook Pro配置 最高配备28GB统一内存]]></title>
@@ -121,18 +106,25 @@ Pro 的规格，显示基本型号可以搭配更多内存。]]></content>
         <content type="html"><![CDATA[<strong>在过去的13万年中，人类造成的鸟类灭绝减少了鸟类的功能多样性，抹去了30亿年的进化史，影响了授粉、害虫控制和生态系统，了解这些损失是未来保护的关键。</strong>发表在《科学》上的一项新研究揭示，在过去的13万年中，数百种鸟类物种在人类的驱动下灭绝，大大降低了鸟类的功能多样性--鸟类在生态系统中扮演的各种角色--并导致约30亿年独特进化历史的丧失。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[群晖发布全新NAS：内置4TB硬盘开机即用 售价1680元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450010.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450010.htm"/>
-        <updated>2024-10-25T17:40:37.902Z</updated>
-        <content type="html"><![CDATA[<strong>群晖近日推出了一款全新的NAS产品——BeeStation 4TB</strong>，这款产品号称专为苹果设备打造，现已正式开启预售。其售价为1980元，而首发期间更是优惠至1680元，消费者只需在10月31日20:00前支付尾款，即可享受这一超值价格。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[苹果iPhone 16官方罕见降价1600元 几乎对标拼多多]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1449950.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1449950.htm"/>
         <updated>2024-10-23T17:40:51.961Z</updated>
         <content type="html"><![CDATA[苹果发布新机后不久，线上官方旗舰店罕见地降价了。Apple Store官方旗舰店10月20日公布天猫双11优惠，10月21日晚间现货开卖，该店铺iPhone 16系列最高优惠1600元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内部员工：Apple Intelligence至少落后两年]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449896.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449896.htm"/>
+        <updated>2024-10-21T08:58:22.000Z</updated>
+        <content type="html"><![CDATA[Mark Gurman在最新一期Power On中表示，苹果内部员工认为，该公司在人工智能开发方面落后对手大约两年时间。按照Gurman的说法，苹果内部的研究表明，<strong>ChatGPT的准确率比Siri高25%左右，并且可以多回答大约30%的问题。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds评论俄罗斯Linux内核维护者被除名一事]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450295.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450295.htm"/>
+        <updated>2024-10-24T02:07:51.000Z</updated>
+        <content type="html"><![CDATA[继昨天多名 Linux 驱动程序维护人员因与俄罗斯有联系而被从 Linux 内核主线维护人员的名单中除名的消息之后，Linus Torvalds 今天对此发表了评论。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 LTSC 2024官方精简版开放下载 安装包4.9GB]]></title>
@@ -144,10 +136,18 @@ LTSC版也同步亮相。LTSC，全称为Long-Term Servicing
 Channel，是微软专为追求极致稳定性和长期支持的企业级用户量身打造的操作系统版本。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[内部员工：Apple Intelligence至少落后两年]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449896.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449896.htm"/>
-        <updated>2024-10-21T08:58:22.000Z</updated>
-        <content type="html"><![CDATA[Mark Gurman在最新一期Power On中表示，苹果内部员工认为，该公司在人工智能开发方面落后对手大约两年时间。按照Gurman的说法，苹果内部的研究表明，<strong>ChatGPT的准确率比Siri高25%左右，并且可以多回答大约30%的问题。</strong>]]></content>
+        <title type="html"><![CDATA[小米手机开始限制跨区解锁BL 国行版设备禁止使用国际账号申请解锁]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449900.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449900.htm"/>
+        <updated>2024-10-21T09:01:43.000Z</updated>
+        <content type="html"><![CDATA[据 @XiaomiTime 发布的消息，近期小米对申请解锁 Bootloader 
+权限施加了新限制，即禁止面向不同市场的设备进行跨区申请解锁。例如用户购买的是国行版小米手机，则不得注册和利用国际版小米账号申请解锁；同理对于国际版小米手机，也无法通过中国小米账号申请解锁。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军开法拉利SUV出街被拍 网友更期待“法拉米”了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449938.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449938.htm"/>
+        <updated>2024-10-26T17:40:44.786Z</updated>
+        <content type="html"><![CDATA[近日有网友出街时偶遇雷军，让人意外的是，当时雷军自己开着一台大红色的<strong>法拉利purosangue（法拉利首款SUV）</strong>。视频里，雷军驾车正在左转待转区等待，他一直低着头似乎在看手机，非常专注以至于没发现有路人正在拍自己，而他的座驾法拉利SUV异常吸睛。]]></content>
     </entry>
 </feed>
