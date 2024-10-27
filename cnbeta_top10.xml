@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-10-27T05:40:45.082Z</updated>
+    <updated>2024-10-27T17:39:44.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[福特CEO购买小米SU7去美国 开了六个月不想换]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450092.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450092.htm"/>
-        <updated>2024-10-23T17:40:51.922Z</updated>
-        <content type="html"><![CDATA[好车自然会受认可，哪怕它并没有在当地销售。近日在“Everything Electric Show”的一档专访，福特CEO&nbsp;Jim Farley（吉姆·法利）分享时提到称<strong>自己最近半年一直开小米SU7不舍得换</strong>，而这也让主持人大吃一惊。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[这种长得像灯笼一样的北方水果 我打赌南方人没见过]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1450225.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1450225.htm"/>
         <updated>2024-10-24T17:40:25.011Z</updated>
         <content type="html"><![CDATA[在北方的水果摊上有一种小果子，长得像灯笼一样，非常受欢迎。当地人称它为“<strong>菇娘果</strong>”，别名又叫姑茑儿、黄菇娘果、甜菇娘果、菇茑、洋菇娘、灯笼果、龙珠果等。这种水果吃起来特别解压，皮轻轻一扒就掉，一口一个，清甜可口，是很多北方人小时候的回忆。说来有趣，菇娘果前些年退出了“水果摊”，近几年又重新火起来，甚至被冠名为“哥伦比亚龙珠果”而身价暴涨。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福特CEO购买小米SU7去美国 开了六个月不想换]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450092.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450092.htm"/>
+        <updated>2024-10-23T17:40:51.922Z</updated>
+        <content type="html"><![CDATA[好车自然会受认可，哪怕它并没有在当地销售。近日在“Everything Electric Show”的一档专访，福特CEO&nbsp;Jim Farley（吉姆·法利）分享时提到称<strong>自己最近半年一直开小米SU7不舍得换</strong>，而这也让主持人大吃一惊。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为“绿水鬼”正式发布 命名绿野传奇 售价7999元]]></title>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[苹果上周突然发布了iPad mini 7，起售价3999元。<strong>这一代还取消了实体SIM卡，首次新增eSIM，支持5G网络，很多网友之前担心国行版无法使用。</strong>中国联通今天给出了一颗定心丸，公布了eSIM iPad套餐。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[得了绝症的玉米变成顶级食材 价格翻百倍 为何不专门培育？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1449797.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1449797.htm"/>
-        <updated>2024-10-20T01:11:21.000Z</updated>
-        <content type="html"><![CDATA[下面根玉米被真菌感染了，它长出了这种黑色的瘤状物，看起来很糟糕，但这根玉米现在成为了一种昂贵的美食。当玉米田的温度和湿度都很高的时候，玉米就有可能感染这种真菌，它叫玉米黑粉菌。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小米公司成功流片国内首款3nm手机系统级芯片]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1449871.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1449871.htm"/>
@@ -53,6 +46,13 @@
         <link href="https://www.cnbeta.com.tw/articles/funny/1450080.htm"/>
         <updated>2024-10-24T17:40:25.027Z</updated>
         <content type="html"><![CDATA[<strong>你们身边有人发完微信语音总喜欢自己听一遍吗？</strong>今天微信团队官方对“微信强迫症”之“发完语音重听一遍”进行了一番分析。这类人甚至有些是好友发来的60秒语音是一条不点，但是<strong>自己发出去的那短短3秒，却能“单曲循环”十几遍。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华中科技大学宣布攻克芯片光刻胶关键技术]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1450473.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1450473.htm"/>
+        <updated>2024-10-27T17:39:43.674Z</updated>
+        <content type="html"><![CDATA[近日，我校武汉光电国家研究中心团队在国内率先攻克合成光刻胶所需的原料和配方，助推我国芯片制造关键原材料突破瓶颈。其研发的T150A光刻胶系列产品已通过半导体工艺量产验证，实现了原材料全部国产，配方全自主设计，有望开创国内半导体光刻制造新局面。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信又一“隐藏”功能被发现：好友数量达到上限后可查找删除自己的好友]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[10月22日，我国首个国产移动操作系统——华为原生鸿蒙操作系统正式发布，这也是继苹果iOS和安卓系统后，全球第三大移动操作系统。据介绍，此前已经发布过的鸿蒙系统，由于系统底座仍使用了部分AOSP开放源代码，而不得不兼容部分安卓应用软件。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[多伦多大学研究发现微信修改了TLS加密协议 使用户面临安全风险]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449885.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449885.htm"/>
-        <updated>2024-10-21T01:53:37.000Z</updated>
-        <content type="html"><![CDATA[微信消息和对话没有进行端到端加密，这意味着该应用的服务器可以解密并读取每条消息。 然而，根据一项新的研究，这款流行消息应用的用户可能需要担心，加密协议中存在的漏洞可能会使该服务受到攻击。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[群晖发布全新NAS：内置4TB硬盘开机即用 售价1680元]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1450010.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1450010.htm"/>
@@ -90,20 +83,11 @@
         <content type="html"><![CDATA[<strong>群晖近日推出了一款全新的NAS产品——BeeStation 4TB</strong>，这款产品号称专为苹果设备打造，现已正式开启预售。其售价为1980元，而首发期间更是优惠至1680元，消费者只需在10月31日20:00前支付尾款，即可享受这一超值价格。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果官方意外泄露了M4 MacBook Pro配置 最高配备28GB统一内存]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449799.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449799.htm"/>
-        <updated>2024-10-20T01:16:53.000Z</updated>
-        <content type="html"><![CDATA[过去几周对苹果公司来说并不好过。 在该公司准备最终推出 M4 MacBook Pro 系列产品的过程中，一系列广泛的泄密事件披露了大量细节。 
-不过，这些只是基本型号的信息，其余配置的信息一直欠奉，但现在不该公司似乎无意中泄露了较小的 14 英寸 M4 MacBook 
-Pro 的规格，显示基本型号可以搭配更多内存。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类抹去了30亿年的进化史 而且情况越来越糟]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1449796.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1449796.htm"/>
-        <updated>2024-10-22T17:40:39.579Z</updated>
-        <content type="html"><![CDATA[<strong>在过去的13万年中，人类造成的鸟类灭绝减少了鸟类的功能多样性，抹去了30亿年的进化史，影响了授粉、害虫控制和生态系统，了解这些损失是未来保护的关键。</strong>发表在《科学》上的一项新研究揭示，在过去的13万年中，数百种鸟类物种在人类的驱动下灭绝，大大降低了鸟类的功能多样性--鸟类在生态系统中扮演的各种角色--并导致约30亿年独特进化历史的丧失。]]></content>
+        <title type="html"><![CDATA[多伦多大学研究发现微信修改了TLS加密协议 使用户面临安全风险]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449885.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449885.htm"/>
+        <updated>2024-10-21T01:53:37.000Z</updated>
+        <content type="html"><![CDATA[微信消息和对话没有进行端到端加密，这意味着该应用的服务器可以解密并读取每条消息。 然而，根据一项新的研究，这款流行消息应用的用户可能需要担心，加密协议中存在的漏洞可能会使该服务受到攻击。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果iPhone 16官方罕见降价1600元 几乎对标拼多多]]></title>
@@ -111,6 +95,14 @@ Pro 的规格，显示基本型号可以搭配更多内存。]]></content>
         <link href="https://www.cnbeta.com.tw/articles/tech/1449950.htm"/>
         <updated>2024-10-23T17:40:51.961Z</updated>
         <content type="html"><![CDATA[苹果发布新机后不久，线上官方旗舰店罕见地降价了。Apple Store官方旗舰店10月20日公布天猫双11优惠，10月21日晚间现货开卖，该店铺iPhone 16系列最高优惠1600元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米手机开始限制跨区解锁BL 国行版设备禁止使用国际账号申请解锁]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449900.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449900.htm"/>
+        <updated>2024-10-21T09:01:43.000Z</updated>
+        <content type="html"><![CDATA[据 @XiaomiTime 发布的消息，近期小米对申请解锁 Bootloader 
+权限施加了新限制，即禁止面向不同市场的设备进行跨区申请解锁。例如用户购买的是国行版小米手机，则不得注册和利用国际版小米账号申请解锁；同理对于国际版小米手机，也无法通过中国小米账号申请解锁。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[内部员工：Apple Intelligence至少落后两年]]></title>
@@ -127,27 +119,33 @@ Pro 的规格，显示基本型号可以搭配更多内存。]]></content>
         <content type="html"><![CDATA[继昨天多名 Linux 驱动程序维护人员因与俄罗斯有联系而被从 Linux 内核主线维护人员的名单中除名的消息之后，Linus Torvalds 今天对此发表了评论。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11 LTSC 2024官方精简版开放下载 安装包4.9GB]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449766.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449766.htm"/>
-        <updated>2024-10-21T17:40:38.945Z</updated>
-        <content type="html"><![CDATA[在微软推出Windows 11重大版本更新24H2之际，备受期待的官方精简版——Windows 11 2024 
-LTSC版也同步亮相。LTSC，全称为Long-Term Servicing 
-Channel，是微软专为追求极致稳定性和长期支持的企业级用户量身打造的操作系统版本。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米手机开始限制跨区解锁BL 国行版设备禁止使用国际账号申请解锁]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1449900.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1449900.htm"/>
-        <updated>2024-10-21T09:01:43.000Z</updated>
-        <content type="html"><![CDATA[据 @XiaomiTime 发布的消息，近期小米对申请解锁 Bootloader 
-权限施加了新限制，即禁止面向不同市场的设备进行跨区申请解锁。例如用户购买的是国行版小米手机，则不得注册和利用国际版小米账号申请解锁；同理对于国际版小米手机，也无法通过中国小米账号申请解锁。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[雷军开法拉利SUV出街被拍 网友更期待“法拉米”了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1449938.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1449938.htm"/>
         <updated>2024-10-26T17:40:44.786Z</updated>
         <content type="html"><![CDATA[近日有网友出街时偶遇雷军，让人意外的是，当时雷军自己开着一台大红色的<strong>法拉利purosangue（法拉利首款SUV）</strong>。视频里，雷军驾车正在左转待转区等待，他一直低着头似乎在看手机，非常专注以至于没发现有路人正在拍自己，而他的座驾法拉利SUV异常吸睛。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["王宝强翻车"事件发酵 被指骗钱的教练出面怒怼叶璇]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1449839.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1449839.htm"/>
+        <updated>2024-10-27T17:39:43.707Z</updated>
+        <content type="html"><![CDATA[2023年，王宝强拍摄的电影《八角笼中》票房达到22亿，当时王宝强在采访中说，参演电影的孩子们，自己会资助他们到大学毕业。“希望他们多年以后能有电影中的初心和能量”10月16日，有娱乐博主直播曝王宝强“慈善人设翻车”，称其拿“资助小演员上学”做宣传，，但私下却不兑现。相关爆料话题立刻冲上热搜。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荣耀Magic7系列官图出炉 10月30日亮相]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1449906.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1449906.htm"/>
+        <updated>2024-10-21T09:33:08.000Z</updated>
+        <content type="html"><![CDATA[今天上午，荣耀官微公布了荣耀Magic7系列月影灰配色。如图所示，<strong>荣耀Magic7系列采用圆形相机Deco，后盖有细腻的纹理设计，中框为金属直角边，</strong>其<strong>正面是居中双孔屏幕，跟iPhone 16造型类似，支持3D人脸识别。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新设计的苹果Mac Mini最快将于本周发布 配备5个USB-C端口]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450127.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450127.htm"/>
+        <updated>2024-10-27T17:39:43.713Z</updated>
+        <content type="html"><![CDATA[苹果公司原本预计在 11 月初发布新款 iPad mini 7 和升级版 Mac，但却提前近 15 天推出了新机型。 这让我们不禁要问，配备 
+M4 芯片的新款 Mac 将于何时上市，而现在看来，上市时间可能比预期的要早。 现在有消息称，苹果最快将于本周推出重新设计的 Mac 
+mini，该设备的 I/0 将配备五个 USB-C 端口。]]></content>
     </entry>
 </feed>
