@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-31T05:42:19.301Z</updated>
+    <updated>2024-10-31T17:42:10.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[这种长得像灯笼一样的北方水果 我打赌南方人没见过 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1450225.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1450225.htm"/>
-        <updated>2024-10-24T17:40:25.011Z</updated>
-        <content type="html"><![CDATA[在北方的水果摊上有一种小果子，长得像灯笼一样，非常受欢迎。当地人称它为“<strong>菇娘果</strong>”，别名又叫姑茑儿、黄菇娘果、甜菇娘果、菇茑、洋菇娘、灯笼果、龙珠果等。这种水果吃起来特别解压，皮轻轻一扒就掉，一口一个，清甜可口，是很多北方人小时候的回忆。说来有趣，菇娘果前些年退出了“水果摊”，近几年又重新火起来，甚至被冠名为“哥伦比亚龙珠果”而身价暴涨。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[比特币跳水的原因：美国调查最大稳定币公司Tether? (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1450587.htm</id>
@@ -24,20 +17,6 @@
         <link href="https://www.cnbeta.com.tw/articles/science/1450473.htm"/>
         <updated>2024-10-27T17:39:43.674Z</updated>
         <content type="html"><![CDATA[近日，我校武汉光电国家研究中心团队在国内率先攻克合成光刻胶所需的原料和配方，助推我国芯片制造关键原材料突破瓶颈。其研发的T150A光刻胶系列产品已通过半导体工艺量产验证，实现了原材料全部国产，配方全自主设计，有望开创国内半导体光刻制造新局面。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电发现芯片被转运给华为后切断客户关系 并通知台北与华盛顿展开调查 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450271.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450271.htm"/>
-        <updated>2024-10-25T17:40:37.884Z</updated>
-        <content type="html"><![CDATA[彭博社报道，一位直接了解此事的人士表示，台积电在意识到为该客户制造的半导体芯片已进入华为产品后，于10月中旬左右停止了向该客户的发货。 该人士表示，芯片制造商已通知美国和台湾政府，并正在对此事进行更深入的调查。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为发布纯血鸿蒙 李楠称中国人要的不是自研手机系统 是全国产微信 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450234.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450234.htm"/>
-        <updated>2024-10-25T17:40:37.887Z</updated>
-        <content type="html"><![CDATA[10月22日，我国首个国产移动操作系统——华为原生鸿蒙操作系统正式发布，这也是继苹果iOS和安卓系统后，全球第三大移动操作系统。据介绍，此前已经发布过的鸿蒙系统，由于系统底座仍使用了部分AOSP开放源代码，而不得不兼容部分安卓应用软件。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[在华为AI处理器上发现芯片后 台积电暂停向中国公司算能（Sophgo) 发货 (cnbeta一周排行)]]></title>
@@ -54,11 +33,13 @@
         <content type="html"><![CDATA[近日，在第三届北斗规模应用国际峰会上，北斗三号卫星系统总设计师、中国科学院微小卫星创新研究院副院长林宝军接受了采访。林宝军表示，9月19日，北斗三号卫星系统最后两颗备份卫星成功发射，<strong>北斗三号系统圆满收官，但并不是北斗的终点。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linus Torvalds评论俄罗斯Linux内核维护者被除名一事 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450295.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450295.htm"/>
-        <updated>2024-10-24T02:07:51.000Z</updated>
-        <content type="html"><![CDATA[继昨天多名 Linux 驱动程序维护人员因与俄罗斯有联系而被从 Linux 内核主线维护人员的名单中除名的消息之后，Linus Torvalds 今天对此发表了评论。]]></content>
+        <title type="html"><![CDATA[三星 Galaxy S25 和 S25+ 或以多种“闪亮”新色亮相 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450488.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450488.htm"/>
+        <updated>2024-10-30T17:40:52.240Z</updated>
+        <content type="html"><![CDATA[三星备受期待的 Galaxy S25 系列将于明年初发布，有关该产品的爆料不断。 经过多方猜测，最近的报道显示，三星可能终于结束了外界对 
+Galaxy S25 系列芯片的困惑，极有可能会全线采用骁龙 8 Elite 处理器。 此外，Galaxy S25 Ultra 
+的新颜色选项也被泄露，暗示我们明年可能会在这款旗舰机上看到黑色、绿色、银色和蓝色。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[长城灵魂摩托正式上市：唯一国产8缸重机车 21.88万起 (cnbeta一周排行)]]></title>
@@ -75,15 +56,6 @@
         <content type="html"><![CDATA[近日，一位国外玩家在Reddit上发帖表示，在《黑神话：悟空》游戏中的章节末壁画上发现了疑似“竖中指”的手势，该玩家描述道：“这家伙在对我们竖中指。当时我面对他时，也有这种感觉。”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星 Galaxy S25 和 S25+ 或以多种“闪亮”新色亮相 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450488.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450488.htm"/>
-        <updated>2024-10-30T17:40:52.240Z</updated>
-        <content type="html"><![CDATA[三星备受期待的 Galaxy S25 系列将于明年初发布，有关该产品的爆料不断。 经过多方猜测，最近的报道显示，三星可能终于结束了外界对 
-Galaxy S25 系列芯片的困惑，极有可能会全线采用骁龙 8 Elite 处理器。 此外，Galaxy S25 Ultra 
-的新颜色选项也被泄露，暗示我们明年可能会在这款旗舰机上看到黑色、绿色、银色和蓝色。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[顺风车司机高速上自动驾驶 四五百公里不摸方向盘还在打游戏 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1450742.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1450742.htm"/>
@@ -98,11 +70,25 @@ Galaxy S25 系列芯片的困惑，极有可能会全线采用骁龙 8 Elite 处
         <content type="html"><![CDATA[此前有报道称，苹果将于今年 12 月开始批量生产经济型 iPhone SE 4，这意味着该手机将于 2025 年第一季度亮相。 就硬件而言，这款低价机型将是一款性能出众的产品，因为一位爆料者已经分享了 iPhone SE 4 的规格表和定价范围，甚至包括尺寸，让我们马上来看看细节。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[苹果公司发布重新设计的Mac mini 配备M4系列芯片 小巧无比 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1451042.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1451042.htm"/>
+        <updated>2024-10-30T17:40:52.268Z</updated>
+        <content type="html"><![CDATA[作为该公司周 Mac 发布会的一部分，苹果刚刚推出了一款体积更小、功能更强大的 Mac Mini。 它现在配备了苹果最新的 M4 芯片，首次支持光线追踪，并默认配备 16GB 内存，这似乎是Apple Intelligence时代的新常态。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[量子纠缠的速度有多快？科学家记录瞬时速度 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1450456.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1450456.htm"/>
         <updated>2024-10-25T09:47:09.000Z</updated>
         <content type="html"><![CDATA[科学家们开发出了研究量子理论快速过程的模拟，揭示了量子纠缠及其形成的奥秘。这些研究成果详细说明了如何在几阿特秒内量化和观测纠缠，表明在理解量子事件的时间动态方面取得了重大进展。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺基亚125 4G功能机开卖：2.4寸大屏 只要329元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450671.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450671.htm"/>
+        <updated>2024-10-31T17:42:10.148Z</updated>
+        <content type="html"><![CDATA[<strong>HMD Global再出新品，诺基亚125 4G功能机已经在京东上架开卖，价格只要329元，是典型的“老人机”、“学生机”。</strong>诺基亚125正面拥有<strong>2.4英寸大屏</strong>，LCD材质，搭配大面积的<strong>孤岛式九宫格键盘</strong>，新的定制大字体，取代诺基亚Pure字体。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软发布Windows 11 24H2 KB5044384 修复大量错误并带来多项改进 (cnbeta一周排行)]]></title>
@@ -112,6 +98,13 @@ Galaxy S25 系列芯片的困惑，极有可能会全线采用骁龙 8 Elite 处
         <content type="html"><![CDATA[微软今天向已经升级到 Windows 11 24H2 版的用户推出可选更新 KB5044384 
 号，该更新包含大量的错误修复和多项功能改进。已经修复的错误包括这段时间大家发现的 8.63GB 缓存无法清理、SFC 
 扫描始终显示错误、DirectAccess 错误等；改进方面包括带来 Xbox 等手柄专用虚拟键盘、新的通知设置、WiFi 密码对话框新样式等。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星际荣耀双曲线一号火箭第八次发射失败：故障归零 原因查明 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1450735.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1450735.htm"/>
+        <updated>2024-10-31T17:42:10.151Z</updated>
+        <content type="html"><![CDATA[7月11日7时40分，星际荣耀双曲线一号遥八运载火箭(SQX-Y8)发射失利，其中一、二、三级飞行正常，四级工作异常。2019年首飞以来，双曲线一号火箭八次发射，只成功了三次。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[长白山发现珍稀古树群 有6株树龄超千年 (cnbeta一周排行)]]></title>
@@ -143,10 +136,20 @@ Galaxy S25 系列芯片的困惑，极有可能会全线采用骁龙 8 Elite 处
         <content type="html"><![CDATA[一颗超新星的爆炸足以清除太阳系中几乎所有的尘埃，而这种情况可能在300万年前就已经发生了。不过，就像家具上的灰尘一样，这些细小的颗粒也会逐渐得到补充。我们在太空中看到的尘埃是由小行星碰撞等事件产生的小颗粒组成的。这些颗粒的大小通常小于一毫米。太阳系大约70%的尘埃集中在柯伊伯带，这是海王星以外的冰质小行星和彗星区域，估计有350万亿吨的小颗粒。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果公司发布重新设计的Mac mini 配备M4系列芯片 小巧无比 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1451042.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1451042.htm"/>
-        <updated>2024-10-30T17:40:52.268Z</updated>
-        <content type="html"><![CDATA[作为该公司周 Mac 发布会的一部分，苹果刚刚推出了一款体积更小、功能更强大的 Mac Mini。 它现在配备了苹果最新的 M4 芯片，首次支持光线追踪，并默认配备 16GB 内存，这似乎是Apple Intelligence时代的新常态。]]></content>
+        <title type="html"><![CDATA[热门浏览器Arc宣布停止开发 因功能较为复杂无法吸引更多用户 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450702.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450702.htm"/>
+        <updated>2024-10-28T10:28:48.000Z</updated>
+        <content type="html"><![CDATA[Arc 
+浏览器可以说是最近两年热度最高的新浏览器了，从发布宣传视频到注册等候名单，很多用户等待了超过半年才成功使用这款浏览器。不过现在有个坏消息，那就是
+ Arc 浏览器开发商 The Browser Company 宣布该浏览器停止开发，尽管当前 Arc 
+浏览器不会被抛弃，但后续基本不会再添加新功能。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传任天堂Switch 2或将于下周正式公布 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1450606.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1450606.htm"/>
+        <updated>2024-10-27T10:13:19.000Z</updated>
+        <content type="html"><![CDATA[根据知名任天堂爆料人PH Brazil的消息称，任天堂Switch继任者（Switch 2）或将于下周一或下周二正式公布，也就是10月28日或10月29日，不过这一点并没有确切的消息来源，仅是PH Brazil根据现有信息进行的推测。]]></content>
     </entry>
 </feed>
