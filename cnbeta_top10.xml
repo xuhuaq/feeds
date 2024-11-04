@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-11-04T05:42:02.831Z</updated>
+    <updated>2024-11-04T17:40:03.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,27 +13,6 @@
         <content type="html"><![CDATA[蟒蛇的饮食习惯是出了名的卡通化，而且它们可能比我们想象的还要厉害。 
 一项新的研究发现，缅甸蟒蛇能吃下的猎物甚至比数学上认为的还要大。蟒蛇不会咬嚼食物--相反，它们会张大嘴巴，把猎物整个吞进肚子里。 
 不仅是老鼠和鸟类等小动物，它们还能吞下猪、山羊、鹿甚至鳄鱼。这种能力得益于它们特殊的下颌结构。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诺基亚125 4G功能机开卖：2.4寸大屏 只要329元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450671.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450671.htm"/>
-        <updated>2024-10-31T17:42:10.148Z</updated>
-        <content type="html"><![CDATA[<strong>HMD Global再出新品，诺基亚125 4G功能机已经在京东上架开卖，价格只要329元，是典型的“老人机”、“学生机”。</strong>诺基亚125正面拥有<strong>2.4英寸大屏</strong>，LCD材质，搭配大面积的<strong>孤岛式九宫格键盘</strong>，新的定制大字体，取代诺基亚Pure字体。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北斗总设计师：天上已达世界一流 但地面精度与国外还有差距]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1450637.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1450637.htm"/>
-        <updated>2024-10-30T17:40:52.233Z</updated>
-        <content type="html"><![CDATA[近日，在第三届北斗规模应用国际峰会上，北斗三号卫星系统总设计师、中国科学院微小卫星创新研究院副院长林宝军接受了采访。林宝军表示，9月19日，北斗三号卫星系统最后两颗备份卫星成功发射，<strong>北斗三号系统圆满收官，但并不是北斗的终点。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在华为AI处理器上发现芯片后 台积电暂停向中国公司算能（Sophgo) 发货]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450654.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450654.htm"/>
-        <updated>2024-10-28T17:42:05.848Z</updated>
-        <content type="html"><![CDATA[据两位熟悉内情的人士称，台积电已经暂停向中国芯片设计公司Sophgo（算能）发货，因为该公司生产的一款芯片在华为AI处理器上被发现。这两位知情人士称，Sophgo 曾向台积电订购与华为 Ascend 910B 上的芯片相匹配的芯片。 为保护美国国家安全，华为此前被限制购买该技术。 <br>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司发布重新设计的Mac mini 配备M4系列芯片 小巧无比]]></title>
@@ -57,13 +36,6 @@
         <content type="html"><![CDATA[近日，河南商丘的谭先生反映，前几天他花费800多元乘坐顺风车，可司机上高速后就打开辅助驾驶功能，全程不怎么摸方向盘。谭先生介绍，司机开了辅助驾驶后，就让车自己驾驶，<strong>他不仅不开车，还坐那打游戏。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果iPhone SE 4完整规格表和定价已泄露 像是一部简化的iPhone 16]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450658.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450658.htm"/>
-        <updated>2024-10-29T17:41:58.067Z</updated>
-        <content type="html"><![CDATA[此前有报道称，苹果将于今年 12 月开始批量生产经济型 iPhone SE 4，这意味着该手机将于 2025 年第一季度亮相。 就硬件而言，这款低价机型将是一款性能出众的产品，因为一位爆料者已经分享了 iPhone SE 4 的规格表和定价范围，甚至包括尺寸，让我们马上来看看细节。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MacBook Air意外地被全线升级至16GB内存 价格不变]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1451352.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1451352.htm"/>
@@ -71,28 +43,11 @@
         <content type="html"><![CDATA[苹果公司刚刚宣布接下来新出货的M2 和M3 MacBook Air 的最低内存容量为 16GB，使这些笔记本电脑的内存容量与该公司本周推出的所有其他新电脑一样得到了提升。 最便宜的 MacBook Air 起价仍为 999 美元。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[长白山发现珍稀古树群 有6株树龄超千年]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1450644.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1450644.htm"/>
-        <updated>2024-10-30T17:40:52.252Z</updated>
-        <content type="html"><![CDATA[<strong>科研人员近期在长白山的原始森林深处取得了一项令人振奋的发现——一片以东北红豆杉为主导的天然群落，其中竟包含数棵树龄逾千年的古树，这一发现无疑为生态保护领域增添了浓墨重彩的一笔。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[苹果发布配备M4芯片的 iMac、升级摄像头、带来新颜色 1299美元起售]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1450796.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1450796.htm"/>
         <updated>2024-10-30T17:40:52.257Z</updated>
         <content type="html"><![CDATA[苹果公司今天宣布其已更新了配备 M4 芯片的 24 英寸 iMac，该芯片于今年早些时候在 iPad Pro 中首次亮相。 此次升级是在采用 M3 芯片的前代 iMac 发布约一年后进行的。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[热门浏览器Arc宣布停止开发 因功能较为复杂无法吸引更多用户]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450702.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450702.htm"/>
-        <updated>2024-10-28T10:28:48.000Z</updated>
-        <content type="html"><![CDATA[Arc 
-浏览器可以说是最近两年热度最高的新浏览器了，从发布宣传视频到注册等候名单，很多用户等待了超过半年才成功使用这款浏览器。不过现在有个坏消息，那就是
- Arc 浏览器开发商 The Browser Company 宣布该浏览器停止开发，尽管当前 Arc 
-浏览器不会被抛弃，但后续基本不会再添加新功能。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果更新MacBook Pro 产品线 配备 M4 Pro和M4 Max芯片]]></title>
@@ -109,6 +64,13 @@
         <content type="html"><![CDATA[据报道，近日有百余名科学家敦促联邦政府暂停发射新的宽带卫星，直到进行全面审查，以确定可能造成的潜在环境破坏。他们指出，<span style="">在马斯克的SpaceX 的带领下，低轨道卫星的数量在五年内增加了12倍。</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[M4 Pro多核跑分超越M3 Max和M2 Ultra 成为迄今为止速度最快的苹果芯片]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1451336.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1451336.htm"/>
+        <updated>2024-11-02T17:39:12.359Z</updated>
+        <content type="html"><![CDATA[苹果公司昨天发布了M4 Pro&nbsp;，同时发布的还有改款 Mac mini 的高端版本。 凭借多达 14 核的 CPU 和 20 核的 GPU，任何使用这款便携式动力装置的用户都将体验到令人难以置信的多核性能爆发，第一批非官方结果显示，该 SoC 的性能超过了M3 Max&nbsp;and M2 Ultra，成为迄今为止速度最快的 Apple Silicon。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[M4 MacBook Pro今晚发布 苹果升级大内存]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1451136.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1451136.htm"/>
@@ -116,18 +78,11 @@
         <content type="html"><![CDATA[苹果连续两天上架了iMac和Mac mini，新品搭载M4系列芯片，预计今晚苹果将上架MacBook Pro。报道指出，新Mac mini的亮相告诉了我们两条关于MacBook Pro的线索。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[台积电创始人称先进半导体的自由贸易已失效 公司面临严峻挑战]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1450655.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1450655.htm"/>
-        <updated>2024-11-01T17:40:37.994Z</updated>
-        <content type="html"><![CDATA[台积电创始人张忠谋周六在新竹举行的一次公司活动上说："台积电现在确实是所有大国都想确保的地盘，半导体，尤其是最先进半导体的自由贸易已经消亡。 在这样的环境下，我们面临的挑战是如何继续推动增长。"他放大了自己在2019年首次提出的概念。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M4 Pro多核跑分超越M3 Max和M2 Ultra 成为迄今为止速度最快的苹果芯片]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1451336.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1451336.htm"/>
-        <updated>2024-11-02T17:39:12.359Z</updated>
-        <content type="html"><![CDATA[苹果公司昨天发布了M4 Pro&nbsp;，同时发布的还有改款 Mac mini 的高端版本。 凭借多达 14 核的 CPU 和 20 核的 GPU，任何使用这款便携式动力装置的用户都将体验到令人难以置信的多核性能爆发，第一批非官方结果显示，该 SoC 的性能超过了M3 Max&nbsp;and M2 Ultra，成为迄今为止速度最快的 Apple Silicon。]]></content>
+        <title type="html"><![CDATA[浙江大学研究人员在新疆沙漠里养出大海里的鱼虾]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1452046.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1452046.htm"/>
+        <updated>2024-11-04T17:40:02.729Z</updated>
+        <content type="html"><![CDATA[<strong>浙江大学近日宣布，该校援疆科技特派员在新疆沙漠成功养殖鱼虾。</strong>去年9月，特派员对阿拉尔市地下盐碱水进行了深入调研，通过与海水对比分析，揭示了盐碱水中主要离子浓度及比例与海水石斑鱼生存、生长的关系，并获得了适宜的离子浓度。基于这一发现，他们研发出了“盐碱水的‘类海水’调控技术”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[雷军：对“雷军语音包”感到不适，希望停止使用]]></title>
@@ -144,10 +99,54 @@
         <content type="html"><![CDATA[<strong>俄罗斯科研人员在中国嫦娥五号探测器收集的月球土壤中，发现了不同寻常的类似于金属铁的线状晶体。</strong>2023年，基于两国在太空研究领域的紧密合作，中俄相互交换了珍贵的月壤样本。中国提供的样本由嫦娥五号探测器从月球采集并成功带回地球，而俄罗斯则分享了由苏联“月球16”号探测器收集的样本。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Pixel 11将过渡到台积电制造的2nm Tensor G6芯片 带来夜视模式]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450773.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450773.htm"/>
+        <updated>2024-11-04T17:40:02.742Z</updated>
+        <content type="html"><![CDATA[Google早在 8 月份就发布了 Pixel 9 系列，这让人颇感意外，因为该公司通常会在 10 月份发布旗舰产品。 
+尽管发布时间较早，但该公司确保这些设备采用了全新的设计和升级的处理器，让人感觉焕然一新。 然而，它仍然搭载了去年的 Android 14 更新。
+ 现在有传言称，Google的 Pixel 11 将配备升级版夜视模式，整个处理过程将在设备本地进行，这要归功于台积电的 2nm Tensor G6 芯片。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新款MacBook Pro成为史上续航最强的苹果笔记本：续航长达24小时]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1451440.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1451440.htm"/>
+        <updated>2024-10-31T09:48:56.000Z</updated>
+        <content type="html"><![CDATA[苹果新款MacBook Pro升级M4系列芯片，得益于M4优秀的能效表现，MacBook Pro成为史上续航最好的苹果笔记本。据悉，M4 Pro、M4 Max版的MacBook Pro配备100瓦时锂聚合物电池，其中<strong>M4 Pro机型最长可以做到17小时的无线上网，M4 Max机型最长可做到14小时的无线上网。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里巴巴：姜萍数学竞赛系教师王某某提供帮助 违反预选赛规则]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1452112.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1452112.htm"/>
+        <updated>2024-11-03T10:32:25.000Z</updated>
+        <content type="html"><![CDATA[11月3日，阿里巴巴今日公布全球数学竞赛获奖名单，并对姜萍进入决赛情况进行说明。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[苹果推出 M4 Pro 芯片 在新款 Mac Mini 上首次亮相]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1451040.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1451040.htm"/>
         <updated>2024-11-03T17:39:20.443Z</updated>
         <content type="html"><![CDATA[随着苹果公司推出其第一方芯片产品线的最新成员，本周的 Mac 发布活动正按节奏进行。 新款 M4 将作为刚刚发布的手掌大小的 Mac Mini 的升级选项首次亮相。M4 Pro 是继 5 月份发布标准版 M4 之后的又一款产品。 该芯片打破了标准的 Apple Silicon 发布时间周期，在加入 Mac 系列之前就已在 &nbsp;新款 iPad Pro 上亮相。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布iOS 18.1正式版：通话录音终于上线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450806.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450806.htm"/>
+        <updated>2024-11-04T17:40:02.751Z</updated>
+        <content type="html"><![CDATA[<strong>苹果这次一反常态，不到零点就推送了&nbsp;iPadOS 18.1正式版更新。</strong>这次是iOS 18之后最重磅的升级，面向海外用户正式上线了Apple Intelligence，<strong>iPhone 15 Pro、iPhone 16全系等机型均能使用苹果智能了。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Intelligence 结束测试 随iOS/iPadOS 18.1/macOS Sequoia 15.1全面上线]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450798.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450798.htm"/>
+        <updated>2024-11-04T17:40:02.759Z</updated>
+        <content type="html"><![CDATA[苹果公司于周一确认了 iOS 18.1、iPadOS 18.1 和 macOS Sequoia 15.1 的全面上线。 该点更新最引人注目的是其包含了首批Apple Intelligence功能，该公司早在 6 月份的WWDC 上就宣布了这一功能。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯新总部“企鹅岛”一期年底完工 总投资319亿]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1450778.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1450778.htm"/>
+        <updated>2024-11-04T17:40:02.759Z</updated>
+        <content type="html"><![CDATA[“深圳前海”今天公布了位于前海大铲湾片区的腾讯新总部“互联网+”未来科技城新进展，<strong>该项目也被称为“企鹅岛”。据介绍，该项目一期工程预计今年底完工，标志性建筑腾讯总部大楼将于2025年初开工建设。</strong>]]></content>
     </entry>
 </feed>
