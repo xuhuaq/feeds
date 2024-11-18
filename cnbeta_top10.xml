@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-11-18T05:42:40.343Z</updated>
+    <updated>2024-11-18T17:41:44.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[华为常务董事、终端BG董事长、智能汽车解决方案BU董事长余承东本月初宣布，<strong>史上最强Mate将于11月亮相，新机正是华为年度旗舰华为Mate 70系列。</strong>今日，“6GHz”等多位数码博主晒出华为Mate 70真机图，<strong>正面依然是标志性的三挖孔。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[李小龙：华为手机无密码完全无法获取数据 拆“内存”都不行]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1455732.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1455732.htm"/>
+        <updated>2024-11-16T10:42:48.000Z</updated>
+        <content type="html"><![CDATA[<strong>近期网络传闻一款手机取证机可以读取所有手机信息，无视iOS、安卓锁屏密码读取数据。</strong>有博主了解到该产品所属公司创始人，确认这款设备存在，但只是在特定情况下才能做到，至少iPhone没有锁屏密码不行。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[国产三蹦子在意大利车展火了 没想到这辈子还能高档一把]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1454380.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1454380.htm"/>
@@ -48,13 +55,6 @@
         <content type="html"><![CDATA[日前，中国政府网发布公告，对2025年法定节假日进行调整，<strong>全体公民法定假日增加2天，其中，1天是农历除夕，1天是5月2日。</strong>与此同时，2025年放假安排也一同公布，打工人如何将假期延长？今日，百度地图发布请假拼假攻略：]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[又一家新势力危了：降薪裁员工资延发 引入华为技术整合但效果不佳]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1454066.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1454066.htm"/>
-        <updated>2024-11-12T17:39:54.173Z</updated>
-        <content type="html"><![CDATA[“银十”落幕，本该欢欢喜喜交上成绩单之时，却又有一家新势力被曝出降薪裁员。<strong>远航汽车</strong>，<strong>大运集团</strong>旗下的高端新能源品牌。虽然品牌知名度不高，但更早之前因为设计上的原因，有过几次出圈热议。其中最热闹的一次，还是在小米造车之后，被误当作小米SU7的“原型车”。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iPhone 16价格出现新低 5099元起]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1454404.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1454404.htm"/>
@@ -62,11 +62,18 @@
         <content type="html"><![CDATA[今天下午，微博话题“iPhone 16价格出现新低”引发热议。据报道，一年一度的双11大促进入了最后的冲刺阶段，iPhone 16系列价格再次达到新低点。拼多多百亿补贴频道显示，<strong>iPhone 16标准版起步价降至5099元，iPhone 16 Pro起步价降至6999元。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[李小龙：华为手机无密码完全无法获取数据 拆“内存”都不行]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1455732.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1455732.htm"/>
-        <updated>2024-11-16T10:42:48.000Z</updated>
-        <content type="html"><![CDATA[<strong>近期网络传闻一款手机取证机可以读取所有手机信息，无视iOS、安卓锁屏密码读取数据。</strong>有博主了解到该产品所属公司创始人，确认这款设备存在，但只是在特定情况下才能做到，至少iPhone没有锁屏密码不行。]]></content>
+        <title type="html"><![CDATA[华为Mate 70将于11月26日发布 新一代电子茅台抢到赚到]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1454750.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1454750.htm"/>
+        <updated>2024-11-15T17:41:13.648Z</updated>
+        <content type="html"><![CDATA[博主厂长是关同学暗示，<strong>华为Mate 70系列会在11月26日发布，华为常务董事、终端BG董事长、智能汽车解决方案BU董事长余承东称“这是史上最强Mate”。</strong>据爆料，这次发布会华为将推出Mate 70、Mate 70 Pro、Mate 70 Pro+和Mate 70 RS非凡大师。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军承认在小米汽车工厂睡觉是摆拍：逗大家开心的]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1455288.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1455288.htm"/>
+        <updated>2024-11-16T17:38:54.140Z</updated>
+        <content type="html"><![CDATA[日前，第10万辆小米SU7整车正式在工厂下线，当天，小米CEO雷军还在微博晒出一张躺在小米汽车工厂车间地板上睡觉的照片。今日，雷军在小米“车位到车位”端到端智能驾驶技术直播中承认在车间睡觉的照片是摆拍。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大学生团队研发创新养鱼桶：养殖密度提高30倍 节水85%]]></title>
@@ -83,13 +90,6 @@
         <content type="html"><![CDATA[曾经，我们相信这世界是一个“地球村”，大家可以合作共赢。但现实告诉我们，你要想强大，要想复兴，只能自己趟出一条血路，别人只会突然卡住你的脖子，尤其是在高科技领域，没有真正属于自己的硬实力，永远没有出路。曾经，我们相信科学无国界、相信开源开放，技术是单纯的。但现实告诉我们，政治的阴影无处不在，看似单纯的技术决策，也离不开政治斗争、国家利益、法律法规、经济竞争的错综复杂的影响，纯洁的善良只会被人肆意践踏。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为Mate 70将于11月26日发布 新一代电子茅台抢到赚到]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1454750.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1454750.htm"/>
-        <updated>2024-11-15T17:41:13.648Z</updated>
-        <content type="html"><![CDATA[博主厂长是关同学暗示，<strong>华为Mate 70系列会在11月26日发布，华为常务董事、终端BG董事长、智能汽车解决方案BU董事长余承东称“这是史上最强Mate”。</strong>据爆料，这次发布会华为将推出Mate 70、Mate 70 Pro、Mate 70 Pro+和Mate 70 RS非凡大师。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[VMware Fusion 和 Workstation 现在对所有用户免费]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1454552.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1454552.htm"/>
@@ -97,25 +97,11 @@
         <content type="html"><![CDATA[2024 年 5 月，VMware 面向 Mac 的 Workstation Pro 和 Fusion Pro &nbsp;面向个人用户免费提供，只有商业客户才需要购买专用许可证。 几个月后的今天，VMware 又宣布了一项消息： 该公司将向包括商业、教育和个人用户在内的所有人免费提供其管理程序软件。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[长江水位创历史新低 武汉江面惊现一条“马路”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1454218.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1454218.htm"/>
-        <updated>2024-11-11T08:57:46.000Z</updated>
-        <content type="html"><![CDATA[近期，由于连续干旱，<strong>长江水位创下历史新低，导致武汉天兴洲江底出现了一条神秘的“地砖路”。</strong>武汉大学近日进行了揭秘，该校水利水电学院张小峰教授介绍，这并不是一项考古新发现，而是<strong>天兴洲航道整治工程的一部分</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷军承认在小米汽车工厂睡觉是摆拍：逗大家开心的]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1455288.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1455288.htm"/>
-        <updated>2024-11-16T17:38:54.140Z</updated>
-        <content type="html"><![CDATA[日前，第10万辆小米SU7整车正式在工厂下线，当天，小米CEO雷军还在微博晒出一张躺在小米汽车工厂车间地板上睡觉的照片。今日，雷军在小米“车位到车位”端到端智能驾驶技术直播中承认在车间睡觉的照片是摆拍。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻人流行养黏菌当宠物 竟然怪可爱的]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1454212.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1454212.htm"/>
-        <updated>2024-11-11T08:53:26.000Z</updated>
-        <content type="html"><![CDATA[豢养宠物已经逐渐成为不少年轻人生活的重要组成部分，继养“臭水”“纸盒狗”“芒果核”之后，不少人又养起了黏菌。与电影《毒液》中黑色的外星生命不同，这是一种滑溜溜的黄色黏液。]]></content>
+        <title type="html"><![CDATA[网友偶遇李子柒 本人自用手机是华为Mate 60 Pro]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1455552.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1455552.htm"/>
+        <updated>2024-11-18T17:41:44.004Z</updated>
+        <content type="html"><![CDATA[11月12日，李子柒在停更三年后携最新作品回归，回归24小时，3条视频播放量达1.8亿，相关话题阅读量达14.5亿。“李子柒复出首秀来了”、“李子柒非遗工作站成立了”、“李子柒亮相微博焕新非遗盛典”等55个话题登上微博热搜，引发全网关注和热议。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉近10万员工薪酬数据曝光 马斯克的低薪“金手铐”]]></title>
@@ -123,13 +109,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1454596.htm"/>
         <updated>2024-11-14T17:41:55.406Z</updated>
         <content type="html"><![CDATA[每一年，特斯拉都能够吸引数以百万计的求职者。少数被录用的人通常会做出一个精心计算的冒险决定：先接受较低的基本工资，以换取未来可能获得的丰厚股票回报。美国《商业内幕》杂志获取了特斯拉内部薪酬数据库，该数据库涵盖了截至2021年12月的近10万名员工的薪酬数据。这些数据结合公开文件和《商业内幕》对前特斯拉员工的采访，揭示了特斯拉的薪酬策略。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT新玩法火了：一句话画出你的真实生活]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1454222.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1454222.htm"/>
-        <updated>2024-11-11T08:59:35.000Z</updated>
-        <content type="html"><![CDATA[最近这一新玩法火了，只需对着ChatGPT说一句：根据你对我的了解，画出你认为我现在的生活是什么样子？它就能根据记忆功能，从过往交流经验中来画出一幅画。Karpathy表示：haha还不错（注意看，电脑桌前是收音设备，符合他日常博主身份；墙上还挂着疑似魔兽世界海报。Karpathy曾自己18岁玩过）]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[歼-35系列到底多先进？专家：不敢说不敢说]]></title>
@@ -144,5 +123,26 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1454860.htm"/>
         <updated>2024-11-13T09:10:25.000Z</updated>
         <content type="html"><![CDATA[马斯克的母亲又来上海了，而且还高调秀了下儿子的成绩。<strong>从马斯克母亲梅耶·马斯克在社交媒体上发出信息看，其高调的秀出了儿子的成绩：“你们看看，这上海到处都是特斯拉。”。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海颁发首批无人驾驶车牌：白底黑字 清晰标注“无人装备”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1455508.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1455508.htm"/>
+        <updated>2024-11-18T17:41:44.015Z</updated>
+        <content type="html"><![CDATA[据报道，<strong>上海市公安局浦东分局交警支队近期正式颁发了首批专为无人驾驶装备设计的识别标牌，此举象征着无人驾驶技术正融入公众日常生活。车牌的设计采用淡蓝色与白色结合，黑色字体，牌照开头为地区简称，后面是字母与数字组合，上方清晰标注“无人装备”。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非洲首次发现吃塑料的昆虫 吃塑料的生物那么多，为何没有一种得到推广？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1455140.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1455140.htm"/>
+        <updated>2024-11-14T09:15:17.000Z</updated>
+        <content type="html"><![CDATA[最近，有科学家团队在非洲发现了一种能够吃<strong>聚苯乙烯</strong>的昆虫，并将相关研究发表在了《科学报告》上。聚苯乙烯又被称为<strong>泡沫塑料</strong>，是最常见的塑料种类之一，我们平时见到的白色泡沫，以及各种用于缓冲的材料都是由聚苯乙烯制成的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google新版Gemini跑分超o1登顶第一 CEO：这才哪到哪儿]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1455494.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1455494.htm"/>
+        <updated>2024-11-18T17:41:44.022Z</updated>
+        <content type="html"><![CDATA[Google新版Gemini<strong>超越o1</strong>，强势登顶竞技场总榜第一！在经6000+网友匿名投票后，不仅数学成绩和学霸o1相当，还拿下其它5个单项第一。新模型名为<strong>Gemini（Exp 1114）</strong>，成绩一公布，连CEO皮猜也亲自飞奔来站台。]]></content>
     </entry>
 </feed>
