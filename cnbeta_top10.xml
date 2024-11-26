@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-11-26T05:42:48.379Z</updated>
+    <updated>2024-11-26T17:42:20.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,25 +13,11 @@
         <content type="html"><![CDATA[今年早些时候，华为和中芯国际实现了一个新的里程碑，成功开发出 5 纳米技术，但鉴于这种光刻技术的晶圆将使用较老的 DUV 机器进行批量生产，中国最大的晶圆代工厂无疑将面临良率问题。 遗憾的是，这一问题也延伸到了台积电于 2018 年采用的 7 纳米工艺，这意味着中芯国际落后于竞争对手多代。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EUV光刻机争夺战 风云突变]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1456372.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1456372.htm"/>
-        <updated>2024-11-19T10:31:07.000Z</updated>
-        <content type="html"><![CDATA[<strong>光刻机一直是半导体领域的热门话题。</strong>从早期的深紫外（DUV）光刻机起步，其稳定可靠的性能为半导体产业的发展奠定了坚实基础；到后来的极紫外（EUV）光刻机以其独特的极紫外光源和更短的波长，成功将光刻精度推向了新的高度；再到如今的高数值孔径（High-NA）光刻机正式登上历史舞台，进一步提升了光刻的精度和效率，为制造更小、更精密的芯片提供了可能。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[华为之后第二家 荣耀首款三折叠屏曝光：全身碳纤维材料]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1456426.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1456426.htm"/>
         <updated>2024-11-20T17:41:43.991Z</updated>
         <content type="html"><![CDATA[博主厂长是关同学曝光了荣耀首款三折叠屏，这是继华为之后第二家拥有三折叠屏的品牌。如图所示，荣耀三折叠屏采用Z字形设计，<strong>全身使用了碳纤维材料，配备荣耀Magic V3同款八边形模组，具有极高的辨识度。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外媒发长文称：《黑神话：悟空》不配TGA年度最佳提名]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1456374.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1456374.htm"/>
-        <updated>2024-11-19T10:32:43.000Z</updated>
-        <content type="html"><![CDATA[2024年TGA年度最佳游戏提名已在今天凌晨公布，包含了《黑神话：悟空》、《宇宙机器人》、《小丑牌》、《最终幻想7：重生》、《艾尔登法环：黄金树幽影》和《暗喻幻想》，针对这一提名，外媒Comicbook发长文阐述：《黑神话：悟空》不配获得TGA年度最佳游戏提名。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[仅仅一天，Gemini就夺回了GPT-4o拿走的头名]]></title>
@@ -46,13 +32,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1457430.htm"/>
         <updated>2024-11-25T17:42:07.871Z</updated>
         <content type="html"><![CDATA[<strong>就在刚刚，华为鸿蒙智行旗下首款百万级旗舰轿车尊界S800实车正式曝光。</strong>虽然此次曝光的仅仅是该车的侧后方视角，但足以看出尊界S800媲美劳斯莱斯的尊贵气息。从图中可以看到，<strong>该车采用了紫色与银色的双拼色车漆，超大尺寸的“大饼轮毂”彰显了该车不凡的气势。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200万没白花 小米新Logo越看越好看了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1456168.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1456168.htm"/>
-        <updated>2024-11-19T17:41:46.599Z</updated>
-        <content type="html"><![CDATA[小米在三年前发布了全新的Logo设计，这一变革由日本著名设计师原研哉操刀，据说耗资200万人民币。新Logo一经推出，便引发了广泛讨论，部分声音质疑其高昂成本与细微变化是否匹配，甚至戏称“雷军被骗了200万”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信一次性查询所有单删好友 全新教程出炉]]></title>
@@ -76,18 +55,32 @@
         <content type="html"><![CDATA[<strong>新款特斯拉Model Y</strong>已经箭在弦上，越来越多的测试车得到曝光，而更有不少媒体抢先根据谍照绘制了效果图。近日，又有海外媒体发布了新Model Y的假想图，外观方面，新车前脸具有较大的改变，将采用更加饱满的轮廓，细节更加的简约化，<strong>且用上了分体式的大灯组</strong>，主灯布局在下方的位置，同时这款车配备贯穿式LED日行灯，在特斯拉车系中属于首次。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[油管主质疑《黑神话：悟空》提名年度：90%的销量来自中国 并没有风靡全球]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1457042.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1457042.htm"/>
+        <updated>2024-11-25T17:42:07.888Z</updated>
+        <content type="html"><![CDATA[此前我们曾报道过，在本年度TGA游戏奖中《黑神话：悟空》被提名年度游戏大奖！而《黑神话》是年度游戏名单中M站评分最低的游戏，仅为81分，其他游戏都在90分以上。近日Youtube视频主发视频质疑《黑神话》，认为本作评分过低不应该被提名年度游戏奖项。他在视频中提出：“去看看媒体们的评分吧，这个游戏并没有风靡全球，其90%的销量都来自于中国。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞机轮胎由什么制成？为什么可以承受几百吨的重量？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1457734.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1457734.htm"/>
+        <updated>2024-11-26T17:42:20.232Z</updated>
+        <content type="html"><![CDATA[在现代航空技术的众多奇迹中，飞机轮胎常常被人们忽视。然而，这些看似普通的橡胶圆环却肩负着至关重要的使命。无论是飞机的起飞还是降落，轮胎都要承受巨大的压力和剧烈的温度变化。那么，飞机轮胎究竟有何特别之处？今天，我们就来一探究竟。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家称特斯拉若不开放电池专利 中国新能源车产业做不出来！网友反驳]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1457740.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1457740.htm"/>
+        <updated>2024-11-26T17:42:20.233Z</updated>
+        <content type="html"><![CDATA[第九届复旦首席经济学家论坛”于日前举行。论坛上，天风证券股份有限公司董事、研究所所长赵晓光出席并演讲。谈及新能源汽车行业时，赵晓光指出，<strong>正是因为特斯拉把电池专利全部免费开放，中国新能源汽车产业才可以做出来。“如果要打专利的话，中国企业全部倒掉”。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[泰森拳赛被质疑造假？对战方杰克·保罗强势回应]]></title>
         <id>https://www.cnbeta.com.tw/articles/movie/1456972.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/movie/1456972.htm"/>
         <updated>2024-11-23T17:39:57.749Z</updated>
         <content type="html"><![CDATA[据外媒报道，在杰克·保罗对战泰森的拳赛结束后，开始有大量的传闻质疑这场战斗的真伪性，不少拳迷称泰森的整场比赛都在收力，甚至有前职业拳手称二人的拳赛合同中很可能有条款禁止泰森击倒杰克。近日，杰克·保罗在出席他哥哥洛根的播客节目中回应了这些质疑。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究：2026年电动汽车电池价格或下降近50%]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1456436.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1456436.htm"/>
-        <updated>2024-11-20T17:41:44.014Z</updated>
-        <content type="html"><![CDATA[高盛发布的一份最新报告显示，电动汽车电池的价格一直在下降，未来两年内下降幅度可能会更大。报告显示，在电池组层面，2023年，全球电池的平均价格已从2022年的每千瓦时153美元降至149美元，预计到2026年将进一步降至每千瓦时80美元。据分析师估算，这一价格较2023年下降近50%，并且已经超越电动汽车实现与燃油车平价的关键节点。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Switch2全球首发出货量或达700万台]]></title>
@@ -97,11 +90,11 @@
         <content type="html"><![CDATA[之前在Famiboards论坛上分享了Switch 2设计草图的用户，近日又曝出该游戏机首批出货量的相关信息。这位用户无法透露确切数字，但他提到仅美国市场的首批供货量，就是初代Switch的2.5倍。如果这一比例适用于全球市场，那么任天堂计划的首批出货量将在650万-700万台之间。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超204万人预约华为Mate 70 纯血鸿蒙+麒麟芯自研完全体来了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1456336.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1456336.htm"/>
-        <updated>2024-11-19T09:34:15.000Z</updated>
-        <content type="html"><![CDATA[华为Mate品牌盛典将于11月26日14:30举行，届时，年度压轴旗舰——华为Mate 70系列将正式发布。目前，<strong>仅华为官网就有超204万人预约华为Mate 70系列，如果加上线下实体店，预约人数还会更多。</strong>]]></content>
+        <title type="html"><![CDATA[研究：2026年电动汽车电池价格或下降近50%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1456436.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1456436.htm"/>
+        <updated>2024-11-20T17:41:44.014Z</updated>
+        <content type="html"><![CDATA[高盛发布的一份最新报告显示，电动汽车电池的价格一直在下降，未来两年内下降幅度可能会更大。报告显示，在电池组层面，2023年，全球电池的平均价格已从2022年的每千瓦时153美元降至149美元，预计到2026年将进一步降至每千瓦时80美元。据分析师估算，这一价格较2023年下降近50%，并且已经超越电动汽车实现与燃油车平价的关键节点。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[李想在车管所被网友偶遇：正给新买的法拉利296上牌]]></title>
@@ -109,20 +102,6 @@
         <link href="https://www.cnbeta.com.tw/articles/funny/1456466.htm"/>
         <updated>2024-11-22T17:41:36.253Z</updated>
         <content type="html"><![CDATA[可以说没有哪个男人能够拒绝一辆法拉利，今日多名博主发布消息称，有网友在北京一车管所偶遇了理想汽车创始人李想，当时<strong>他正在给自己新购买的法拉利296上牌</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[油管主质疑《黑神话：悟空》提名年度：90%的销量来自中国 并没有风靡全球]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1457042.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1457042.htm"/>
-        <updated>2024-11-25T17:42:07.888Z</updated>
-        <content type="html"><![CDATA[此前我们曾报道过，在本年度TGA游戏奖中《黑神话：悟空》被提名年度游戏大奖！而《黑神话》是年度游戏名单中M站评分最低的游戏，仅为81分，其他游戏都在90分以上。近日Youtube视频主发视频质疑《黑神话》，认为本作评分过低不应该被提名年度游戏奖项。他在视频中提出：“去看看媒体们的评分吧，这个游戏并没有风靡全球，其90%的销量都来自于中国。”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 17 Pro Max外形参数曝光 灵动岛变小]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1456330.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1456330.htm"/>
-        <updated>2024-11-19T09:30:24.000Z</updated>
-        <content type="html"><![CDATA[分析师Jeff Pu爆料，苹果iPhone 17系列将进行一系列配置升级，<strong>原本的iPhone 17 Plus被取消，取而代之的是iPhone 17 Air。</strong>与此同时，<strong>iPhone 17系列全部采用更复杂的铝制机身设计，Pro Max版本的灵动岛会变小，其它机型的灵动岛保持原样。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[迪拜展出一块300公斤金条 创下全球最大金条记录]]></title>
@@ -139,10 +118,31 @@
         <content type="html"><![CDATA[<strong>余承东今天在视频中首次展示了华为Mate 70 Pro+的正面外观，依然沿用了上一代的三挖孔设计，这也是目前全行业独一无二的造型，辨识度极高。</strong>屏幕形态依然是等深四曲，并且四边等宽，观感十分协调。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国移动宣布5G消息(RCS)开始收费 按传统短彩信标准每条收费0.1/0.3元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1456198.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1456198.htm"/>
-        <updated>2024-11-25T17:42:07.895Z</updated>
-        <content type="html"><![CDATA[显然 RCS 或者叫 5G 消息在国内是不可能流行起来的，且不说大多数用户日常主要使用微信进行沟通，单单就是收费问题也会让大多数用户望而却步。据中国移动官方发布的消息，中国移动 5G 消息自 2024 年 12 月 1 日起开始收费，收费标准与短彩信相同，即发送 5G 消息按照 0.1 元 / 条的价格收费。]]></content>
+        <title type="html"><![CDATA[泄露的三星 Galaxy S25 Ultra 机模凸显了更柔和的边缘设计]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1456828.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1456828.htm"/>
+        <updated>2024-11-26T17:42:20.245Z</updated>
+        <content type="html"><![CDATA[三星正在紧锣密鼓地准备推出 Galaxy S25 系列手机，多次的细节泄露令其在发布之前已经引起了相当大的反响，许多猜测和泄露都透露了即将推出的机型的关键信息。 在许多报道中，Ultra 机型似乎一直是焦点。 早些时候，爆料者透露了新系列的颜色， 现在，又有新的泄露信息出现，让我们详细了解了这款旗舰设备可能带来的设计变化。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前中国体操队队员化身性感女主播引热议 奥运冠军评论区开撕]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1457578.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1457578.htm"/>
+        <updated>2024-11-26T17:42:20.247Z</updated>
+        <content type="html"><![CDATA[前体操世界杯冠军吴柳芳退役后化身女主播，奥运冠军管晨辰直接在视频评论区开撕：“前辈姐姐，你要擦就擦你的呗，就不要给体操扣屎盆子了，你的正能量体操好像不需要。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信新功能内测：原图14天自动清理 手机存储空间腾出几十GB]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1457186.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1457186.htm"/>
+        <updated>2024-11-22T08:51:45.000Z</updated>
+        <content type="html"><![CDATA[曾经只有几百kb、几MB大小的App，如今已经膨胀至几百MB，尤其是社交App，由于不断接收图片、视频，以前觉得128GB都够用的手机，现在也存不了多少东西。日前，微信发布8.0.54正式版更新，<strong>多位用户发现微信正在小范围灰度测试一项清理原图、原视频的新功能。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉10美元Optimus机器人模型上架24小时内被抢光 二手价格炒至1300美元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1456722.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1456722.htm"/>
+        <updated>2024-11-26T17:42:20.250Z</updated>
+        <content type="html"><![CDATA[<strong>特斯拉在其网上商店推出了一款售价为10美元的Optimus机器人模型，上架不到一天就销售一空。</strong>当前，eBay等二手市场已掀起一股Optimus机器人玩偶的收藏热潮，<strong>部分买家甚至愿意出价高达1300美元以求一“模”难求，这一价格飙升现象无疑凸显了该模型的稀缺性和收藏价值。</strong>]]></content>
     </entry>
 </feed>
