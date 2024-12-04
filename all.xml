@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-04T05:42:50.570Z</updated>
+    <updated>2024-12-04T17:42:29.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[专家称比亚迪有可能成为下一个恒大 (cnbeta一周排行)]]></title>
@@ -33,18 +33,11 @@
         <content type="html"><![CDATA[我们经常和大家分享吉林一号卫星拍摄的精彩照片，今天这一组有些特殊，是一大片烂尾的别墅。从卫星视角俯瞰烂尾楼，这些未完成的建筑物如同城市肌理上的疮疤，散落在繁华与落寞之间。它们曾是梦想与财富的象征，如今却成为被遗忘的角落。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一年“增程”1.2万公里 奔驰黑科技将让混动车下岗？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1459274.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1459274.htm"/>
-        <updated>2024-12-02T17:42:02.043Z</updated>
-        <content type="html"><![CDATA[新能源汽车行业对补能这件事儿还未放下执念。充电体验尚不完美，纯电车市场遇冷，造车企业的办法是降低新能源车对充电桩的依赖，多条腿走路，其中插电混合已经让许多车企尝到甜头。也有的汽车制造商目光放得更加长远，进一步发掘电动化和可再生能源的潜力，比如太阳光。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为Mate70系列发布：高亮钛玄武机身、首发卫星寻呼，售价5499元起 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1458236.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1458236.htm"/>
-        <updated>2024-11-27T17:42:11.020Z</updated>
-        <content type="html"><![CDATA[11月26日，华为Mate品牌盛典今日下午举行，华为Mate70系列新机正式发布，新系列包含Mate70、Mate 70 Pro、Mate 70 Pro+、Mate 70RS四款产品，售价5499元起。Mate70系列新机屏幕支持临境显示，包括1-120Hz动态刷新率、300Hz触控采样率和1440Hz PWM调光。此外，手机P3 全局色彩管理、2500nits 峰值亮度以及 HDR Vivid 照片和视频高动态显示。]]></content>
+        <title type="html"><![CDATA[首款专为OpenWrt设计的路由器发布 售价89美元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459528.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459528.htm"/>
+        <updated>2024-12-02T01:07:42.000Z</updated>
+        <content type="html"><![CDATA[OpenWrt One 正式发布。 &nbsp;这是第一款在设计和制造过程中充分考虑到软件自由和维修权利的无线网络路由器。 &nbsp;OpenWrt One 号称永远不会被锁定，并且永远无法被破解。 &nbsp;该设备满足作为其所有者和用户的需求。 &nbsp;每个人都有权控制自己的计算机。 &nbsp;OpenWrt One 在将软件权利带入家庭方面迈出了第一步：用户可以使用自己选择的软件控制自己的网络，并确保有权随意更改、修改和修复软件。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[外卖小哥真实收入首次揭秘 每天工作6小时、月入过万是真的吗 (cnbeta一周排行)]]></title>
@@ -52,6 +45,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1459422.htm"/>
         <updated>2024-12-03T17:44:14.474Z</updated>
         <content type="html"><![CDATA[近年来，骑手从业者从零迅速发展至百万量级，不仅成为社会就业的蓄水池，也成为全社会舆论关注的对象。比如，很多人关心的，骑手到底一个月能挣多少钱？<strong>近日，在2024年第三季度业绩报告，美团披露了骑手收入的发展情况。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一年“增程”1.2万公里 奔驰黑科技将让混动车下岗？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459274.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459274.htm"/>
+        <updated>2024-12-02T17:42:02.043Z</updated>
+        <content type="html"><![CDATA[新能源汽车行业对补能这件事儿还未放下执念。充电体验尚不完美，纯电车市场遇冷，造车企业的办法是降低新能源车对充电桩的依赖，多条腿走路，其中插电混合已经让许多车企尝到甜头。也有的汽车制造商目光放得更加长远，进一步发掘电动化和可再生能源的潜力，比如太阳光。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[普通人买羽绒服 看不懂水洗标上这3个词容易吃大亏 (cnbeta一周排行)]]></title>
@@ -62,25 +62,11 @@
 万涨到今年的 125 万一吨。成本的暴涨，导致某些厂家用 50% 的鸭绒冒充 90% 的鹅绒，甚至拿废丝掺在鹅绒里。我们普通消费者，要怎么选购羽绒服呢？到底什么样的羽绒服更保暖？怎么能买到便宜又质量好的羽绒服？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[首款专为OpenWrt设计的路由器发布 售价89美元 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1459528.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1459528.htm"/>
-        <updated>2024-12-02T01:07:42.000Z</updated>
-        <content type="html"><![CDATA[OpenWrt One 正式发布。 &nbsp;这是第一款在设计和制造过程中充分考虑到软件自由和维修权利的无线网络路由器。 &nbsp;OpenWrt One 号称永远不会被锁定，并且永远无法被破解。 &nbsp;该设备满足作为其所有者和用户的需求。 &nbsp;每个人都有权控制自己的计算机。 &nbsp;OpenWrt One 在将软件权利带入家庭方面迈出了第一步：用户可以使用自己选择的软件控制自己的网络，并确保有权随意更改、修改和修复软件。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[三星Galaxy S25系列入网：首发满血骁龙8至尊版 主频达4.47GHz (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1458848.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1458848.htm"/>
         <updated>2024-12-01T17:40:32.327Z</updated>
         <content type="html"><![CDATA[今天，<strong>三星Galaxy S25系列获得入网许可，型号是SM-S9310。</strong>据悉，Galaxy S25系列包括Galaxy S25、Galaxy S25+和Galaxy S25 Ultra三款机型，其<strong>美版型号分别是SM-931U、SM-936U、SM-938U。</strong>由此看来，这款获得入网许可的国行版机型是Galaxy S25标准版，后续还会有Plus版以及Ultra版。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：辉煌不再，日本车企正被中国电车击败 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1458418.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1458418.htm"/>
-        <updated>2024-11-27T09:44:12.000Z</updated>
-        <content type="html"><![CDATA[彭博社周三发文称，<strong>日本汽车制造商目前处境艰难。</strong>随着中国电动汽车制造商在全球开疆拓土，日本汽车行业的领军企业位居最大“受害者”行列。在全球最大汽车市场中国，本土竞争对手推出的一波又一波的电动汽车涌入了展厅，让日本汽车制造商只能为生存而战。这些中国企业也在进军东南亚市场，在长期以来一直是丰田、本田和三菱等日本传统汽车品牌的大本营快速扩张。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[杭州网约车司机拒绝把箱子交给客户 一脚油门走了 结果反而受到表彰…… (cnbeta一周排行)]]></title>
@@ -90,25 +76,11 @@
         <content type="html"><![CDATA[老家重庆的吴师傅来杭州跑了五年网约车，做下午到凌晨的“后半天”生意居多。按他自己的话讲，“枯燥的生活每天都在循环”，是杭州成千上万网约车司机中的平凡一员。<strong>这个月初，老吴因为拒绝了客户的要求，反而受到表彰，还有现金奖励！这究竟是怎么回事？</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[程序员错扔7500枚比特币价值51亿 恼羞成怒蹲守垃圾场11年 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1458372.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1458372.htm"/>
-        <updated>2024-11-27T08:59:39.000Z</updated>
-        <content type="html"><![CDATA[<strong>英国一起价值5.69亿英镑</strong>（约51.9亿rmb）<strong>的“垃圾”遗失案，将在近日开庭。原来，一位英国程序员在2013年不慎把存放近8千枚比特币的硬盘随手放进抽屉，结果被当时的女友当做垃圾给扔了。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王境泽靠真香定律年入百万：我什么都不用做 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1458482.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1458482.htm"/>
-        <updated>2024-11-29T17:41:30.183Z</updated>
-        <content type="html"><![CDATA[11月27日消息，据媒体报道，王境泽在接受采访时称，各大企业用“真香”的版权需要付版权费，我什么都不用做，我就可以实现我的正常消费“财富自由”，一年能保百万元左右，他还表示，年入百万不是真正的财富自由。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Intelligence在中国面临复杂的审批程序 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1458306.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1458306.htm"/>
-        <updated>2024-11-28T17:41:06.241Z</updated>
-        <content type="html"><![CDATA[据<a href="https://www.ft.com/content/8ce6715a-0614-4c8b-9bc2-5f4174519f9f">金融时报</a>最新报道，苹果试图在中国推出 Apple Intelligence 时遇到了挑战，监管机构警告称，除非外国公司与本地公司合作，否则将面临"艰难而漫长的审批过程"。国家互联网信息办公室的一位高级官员告诉《金融时报》，如果外国设备制造商直接使用中国公司已获批准的大型语言模型（LLM），而不是尝试实施自己的人工智能系统，那么他们将可以有"简单明了的审批流程"。]]></content>
+        <title type="html"><![CDATA[美国第一辆小米SU7 奔跑在洛杉矶街头 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459660.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459660.htm"/>
+        <updated>2024-12-04T17:42:28.699Z</updated>
+        <content type="html"><![CDATA[近日，B站UP主“-LKS-”分享了自己受邀前往美国洛杉矶观看《英雄联盟：双城之战》第二季全球首映的经历。特别值得一提的是，<strong>他提到在美国洛杉矶看到了第一辆小米SU7，并乘坐这辆车参加了拳头公司的活动。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[消息称iPhone SE 4明年3月发布 刘海屏回归 尺寸和iPhone 16接近 (cnbeta一周排行)]]></title>
@@ -118,19 +90,13 @@
         <content type="html"><![CDATA[随着苹果产品线的不断更新，iPhone SE系列也迎来了新成员的传闻。据悉，苹果计划在明年3月发布iPhone SE 4，<strong>新机将成为SE系列中首款采用全面屏设计的产品，其机身尺寸与即将推出的iPhone 16相近</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[山东沂南警方回应小米SU7被外借拍色情片：3名违法嫌疑人被行拘 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1458690.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1458690.htm"/>
-        <updated>2024-11-28T09:15:04.000Z</updated>
-        <content type="html"><![CDATA[近日，有消息称，山东省临沂市沂南县居民张先生（化姓）将自己的小米su7爱车外借朋友，车辆却被不法分子用于拍摄色情视频。此消息一出迅速引起广泛关注。11月27日，大皖新闻记者就该事件采访了沂南县公安局，该局工作人员透露，公安机关于11月20日在网上巡查时发现“租车事件”中的不法行为，目前已对3名涉案人员依法行政拘留。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知名经济学家预言：MicroStrategy终将破产 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1459124.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1459124.htm"/>
-        <updated>2024-12-02T17:42:02.067Z</updated>
-        <content type="html"><![CDATA[一向对加密货币持怀疑态度的经济学家和市场策略师彼得·希夫（Peter 
-Schiff）最近表示，做空MicroStrategy（MSTR）的股票是个好主意，因为这家持有比特币最多的上市公司终将走向破产。在周四播出的一次采访中，希夫称MicroStrategy是一个“很棒的”做空目标，如果一个人有持久力的话，尽管他否认自己做空了该股。]]></content>
+        <title type="html"><![CDATA[xAI仅用16个月就实现OpenAI花了近九年才实现的目标 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459038.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459038.htm"/>
+        <updated>2024-12-04T17:42:28.702Z</updated>
+        <content type="html"><![CDATA[埃隆·马斯克的人工智能公司 xAI 于 2023 年 7 月成立仅 16 个月后估值就达到 500 
+亿美元。现在，该公司的估值超过了这位亿万富翁收购 Twitter 时支付的价格。OpenAI 可以说是人工智能领域最知名的名字，上次估值为 
+1570 亿美元，它花了九年多的时间才达到同样的里程碑。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克的机器人徒手接个球 2000万网友集体围观 (cnbeta一周排行)]]></title>
@@ -146,5 +112,45 @@ Schiff）最近表示，做空MicroStrategy（MSTR）的股票是个好主意，
         <updated>2024-12-02T17:42:02.068Z</updated>
         <content type="html"><![CDATA[一到冬天，怕冷的人就恨不得把家里的所有衣服都套身上。不光要穿羽绒服，里面还要穿还要毛衣、秋衣、打底衣层层套，生怕一个没穿够，寒气就从缝隙直入五脏六腑。但……这么穿舒服程度直接跌破一星，手脚锢得险些不过血也就算了，好像也没暖和到哪里去！相比那些羽绒服里套件短袖就能火速出门，雪地里都能
  kuku冒热气的人，真的是白受罪了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知名经济学家预言：MicroStrategy终将破产 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459124.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459124.htm"/>
+        <updated>2024-12-02T17:42:02.067Z</updated>
+        <content type="html"><![CDATA[一向对加密货币持怀疑态度的经济学家和市场策略师彼得·希夫（Peter 
+Schiff）最近表示，做空MicroStrategy（MSTR）的股票是个好主意，因为这家持有比特币最多的上市公司终将走向破产。在周四播出的一次采访中，希夫称MicroStrategy是一个“很棒的”做空目标，如果一个人有持久力的话，尽管他否认自己做空了该股。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山东沂南警方回应小米SU7被外借拍色情片：3名违法嫌疑人被行拘 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1458690.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1458690.htm"/>
+        <updated>2024-11-28T09:15:04.000Z</updated>
+        <content type="html"><![CDATA[近日，有消息称，山东省临沂市沂南县居民张先生（化姓）将自己的小米su7爱车外借朋友，车辆却被不法分子用于拍摄色情视频。此消息一出迅速引起广泛关注。11月27日，大皖新闻记者就该事件采访了沂南县公安局，该局工作人员透露，公安机关于11月20日在网上巡查时发现“租车事件”中的不法行为，目前已对3名涉案人员依法行政拘留。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为麒麟9020/9030/9040处理器曝光：小步快跑 四大方面升级 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459460.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459460.htm"/>
+        <updated>2024-12-04T17:42:28.742Z</updated>
+        <content type="html"><![CDATA[伴随着华为Mate 70系列发布，新一代麒麟处理器——麒麟9020正式浮出水面。按照官方说法，<strong>Mate 70系列相比上一代华为Mate 60 Pro+，操作流畅度提升39%，游戏帧率提升31%，整机性能提升40%。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼掌上游戏机将争夺Steam Deck和任天堂Switch的市场份额 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1459014.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1459014.htm"/>
+        <updated>2024-11-29T09:47:54.000Z</updated>
+        <content type="html"><![CDATA[索尼似乎正在开发一款独立的掌上游戏机，以与任天堂 Switch 和 Valve Steam Deck 等产品展开竞争。 
+据彭博社的内部消息称，索尼游戏掌机已在开发之中，其设计将以索尼 PlayStation 5 游戏为中心。 与 PlayStation 
+Portal 不同的是，未来的游戏机将不再依赖游戏流媒体，而是在本地运行游戏，这意味着它可能需要比 Portal 更强大的硬件。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 24H2 将于 12 月再次迎来重大更新 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459376.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459376.htm"/>
+        <updated>2024-12-01T04:28:24.000Z</updated>
+        <content type="html"><![CDATA[微软针对 Windows 11 24H2 的下一个补丁星期二更新将非常重要。 
+本年度最后一次安全更新计划进行大规模更改，同时还将引入许多新功能。Windows 11 24H2 12 
+月更新将包括"开始"菜单中的跳转列表、带有新布局选项的浓缩系统托盘、动态照明改进等升级。 让我们来看看 12 月份将为大家带来的新功能。]]></content>
     </entry>
 </feed>
