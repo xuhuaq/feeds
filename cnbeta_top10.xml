@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-12-06T05:42:57.306Z</updated>
+    <updated>2024-12-06T17:42:23.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[专家称比亚迪有可能成为下一个恒大]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1458904.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1458904.htm"/>
-        <updated>2024-11-30T17:40:53.712Z</updated>
-        <content type="html"><![CDATA[近日，比亚迪发布2024年第三季报，其总负债为5，954.57亿元（人民币，下同），负债率达77%，令市场一片哗然，继而引发市场对其未来发展的担忧。例如，有人拿此类比恒大，认为70%的负债率是企业的“红线”，而比亚迪超过了这条线，因而得出比亚迪以及其他很多车企危矣的结论。事实上，不仅是比亚迪，多家车企负债率均超过70%。<br>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA利用先进雷达技术意外发现格陵兰冰层下隐藏的冷战基地：世纪营]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1458982.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1458982.htm"/>
-        <updated>2024-11-29T06:12:12.000Z</updated>
-        <content type="html"><![CDATA[美国国家航空航天局（NASA）的科学家于2024年4月利用先进的雷达技术意外发现了格陵兰冰层下隐藏的冷战基地--世纪营。 这一发现不仅让历史文物重见天日，还有助于冰层研究，对了解未来海平面变化至关重要。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉林一号卫星看到了一大片烂尾别墅：被遗忘的角落]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1459100.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1459100.htm"/>
-        <updated>2024-12-01T17:40:32.323Z</updated>
-        <content type="html"><![CDATA[我们经常和大家分享吉林一号卫星拍摄的精彩照片，今天这一组有些特殊，是一大片烂尾的别墅。从卫星视角俯瞰烂尾楼，这些未完成的建筑物如同城市肌理上的疮疤，散落在繁华与落寞之间。它们曾是梦想与财富的象征，如今却成为被遗忘的角落。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[首款专为OpenWrt设计的路由器发布 售价89美元]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1459528.htm</id>
@@ -48,6 +27,20 @@
         <content type="html"><![CDATA[新能源汽车行业对补能这件事儿还未放下执念。充电体验尚不完美，纯电车市场遇冷，造车企业的办法是降低新能源车对充电桩的依赖，多条腿走路，其中插电混合已经让许多车企尝到甜头。也有的汽车制造商目光放得更加长远，进一步发掘电动化和可再生能源的潜力，比如太阳光。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[独居16年，不用交配，它生了一个孩子]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1460040.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1460040.htm"/>
+        <updated>2024-12-05T17:42:07.273Z</updated>
+        <content type="html"><![CDATA[独居多年，期间从未见过异性的雌性，突然就生孩子了……这样的事情在<strong>鳄鱼、鲨鱼、蛇和蜥蜴</strong>等动物身上都出现过。2018 年，在哥斯达黎加的一个动物园，一只在过去 16 年里都没有和同类接触过的雌性美洲鳄产下了一窝蛋。在 14 个蛋里，有 7 个看起来像是受精蛋。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT两周年 中美两国AI已走出分岔]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1460080.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1460080.htm"/>
+        <updated>2024-12-05T17:42:07.294Z</updated>
+        <content type="html"><![CDATA[<strong>华泰证券首席研究员黄乐平表示，Scaling Law到头的趋势已经很明显了，现需要把钱收回来，同时，中美在AI应用上的发展路径分叉了，美国各种企业级应用发展很快，all in机器人是中国目前方向，未来可能有机会。</strong>2年前的2022年12月1日凌晨2点02分，下一代AI浪潮的命运之子ChatGPT正式上线。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[普通人买羽绒服 看不懂水洗标上这3个词容易吃大亏]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1459308.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1459308.htm"/>
@@ -56,25 +49,11 @@
 万涨到今年的 125 万一吨。成本的暴涨，导致某些厂家用 50% 的鸭绒冒充 90% 的鹅绒，甚至拿废丝掺在鹅绒里。我们普通消费者，要怎么选购羽绒服呢？到底什么样的羽绒服更保暖？怎么能买到便宜又质量好的羽绒服？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星Galaxy S25系列入网：首发满血骁龙8至尊版 主频达4.47GHz]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1458848.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1458848.htm"/>
-        <updated>2024-12-01T17:40:32.327Z</updated>
-        <content type="html"><![CDATA[今天，<strong>三星Galaxy S25系列获得入网许可，型号是SM-S9310。</strong>据悉，Galaxy S25系列包括Galaxy S25、Galaxy S25+和Galaxy S25 Ultra三款机型，其<strong>美版型号分别是SM-931U、SM-936U、SM-938U。</strong>由此看来，这款获得入网许可的国行版机型是Galaxy S25标准版，后续还会有Plus版以及Ultra版。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美国第一辆小米SU7 奔跑在洛杉矶街头]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1459660.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1459660.htm"/>
         <updated>2024-12-04T17:42:28.699Z</updated>
         <content type="html"><![CDATA[近日，B站UP主“-LKS-”分享了自己受邀前往美国洛杉矶观看《英雄联盟：双城之战》第二季全球首映的经历。特别值得一提的是，<strong>他提到在美国洛杉矶看到了第一辆小米SU7，并乘坐这辆车参加了拳头公司的活动。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独居16年，不用交配，它生了一个孩子]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1460040.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1460040.htm"/>
-        <updated>2024-12-05T17:42:07.273Z</updated>
-        <content type="html"><![CDATA[独居多年，期间从未见过异性的雌性，突然就生孩子了……这样的事情在<strong>鳄鱼、鲨鱼、蛇和蜥蜴</strong>等动物身上都出现过。2018 年，在哥斯达黎加的一个动物园，一只在过去 16 年里都没有和同类接触过的雌性美洲鳄产下了一窝蛋。在 14 个蛋里，有 7 个看起来像是受精蛋。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[杭州网约车司机拒绝把箱子交给客户 一脚油门走了 结果反而受到表彰……]]></title>
@@ -91,27 +70,11 @@
         <content type="html"><![CDATA[今天下午1点22分许，知名作家琼瑶在家自杀。救护人员到场时，发现已无呼吸心跳，享年86岁。琼瑶代表作有，《窗外》、《还珠格格》、《烟雨濛濛》。琼瑶，本名陈喆，笔名琼瑶，女，籍贯湖南衡阳，生于四川成都，台湾言情小说作家、编剧、影视制作人。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[消息称iPhone SE 4明年3月发布 刘海屏回归 尺寸和iPhone 16接近]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1458890.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1458890.htm"/>
-        <updated>2024-12-02T17:42:02.069Z</updated>
-        <content type="html"><![CDATA[随着苹果产品线的不断更新，iPhone SE系列也迎来了新成员的传闻。据悉，苹果计划在明年3月发布iPhone SE 4，<strong>新机将成为SE系列中首款采用全面屏设计的产品，其机身尺寸与即将推出的iPhone 16相近</strong>。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT拒绝谈论这个人 没人知道为什么]]></title>
         <id>https://www.cnbeta.com.tw/articles/funny/1459628.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/funny/1459628.htm"/>
         <updated>2024-12-05T17:42:07.287Z</updated>
         <content type="html"><![CDATA[ChatGPT两岁了，版本更新没等来，却被发现一个神秘Bug。一个看似平平无奇的名字<strong>“David Mayer”</strong>成为头号禁忌，ChatGPT拒绝谈论有关他的一切。而且每次都是返回非常模糊的错误信息<strong>“我无法产生一个回复”</strong>，而不是常见的<strong>“这个提示词可能违反了我们的内容协议”</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI仅用16个月就实现OpenAI花了近九年才实现的目标]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1459038.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1459038.htm"/>
-        <updated>2024-12-04T17:42:28.702Z</updated>
-        <content type="html"><![CDATA[埃隆·马斯克的人工智能公司 xAI 于 2023 年 7 月成立仅 16 个月后估值就达到 500 
-亿美元。现在，该公司的估值超过了这位亿万富翁收购 Twitter 时支付的价格。OpenAI 可以说是人工智能领域最知名的名字，上次估值为 
-1570 亿美元，它花了九年多的时间才达到同样的里程碑。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为麒麟9020/9030/9040处理器曝光：小步快跑 四大方面升级]]></title>
@@ -121,6 +84,15 @@
         <content type="html"><![CDATA[伴随着华为Mate 70系列发布，新一代麒麟处理器——麒麟9020正式浮出水面。按照官方说法，<strong>Mate 70系列相比上一代华为Mate 60 Pro+，操作流畅度提升39%，游戏帧率提升31%，整机性能提升40%。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenAI 终于揭示了为什么 ChatGPT 不愿意提到 "David Meyer"]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1460148.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1460148.htm"/>
+        <updated>2024-12-04T03:18:16.000Z</updated>
+        <content type="html"><![CDATA[如果您上周末上网，您可能会看到关于一个名为 David Mayer 的人的奇怪新闻。 
+他之所以成为热门人物，并不是因为某个重大事件或某个病毒式传播时刻，而是因为 ChatGPT 出现了一个奇怪的故障。 
+无论用户如何努力，都无法让聊天机器人吐出他的名字。 相反，它要么说到一半就僵住了，要么声称"出了点问题"，要么干脆拒绝回应。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[马斯克的机器人徒手接个球 2000万网友集体围观]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1459118.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1459118.htm"/>
@@ -128,19 +100,11 @@
         <content type="html"><![CDATA[马斯克亲自站台，2000多万网友热闹围观Optimus新灵巧手整活——只见网球被人用力抛出后，新灵巧手毫不费力地就接住了，举手投足间散发出一种<strong>“小菜一碟”</strong>的感jio。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT两周年 中美两国AI已走出分岔]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1460080.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1460080.htm"/>
-        <updated>2024-12-05T17:42:07.294Z</updated>
-        <content type="html"><![CDATA[<strong>华泰证券首席研究员黄乐平表示，Scaling Law到头的趋势已经很明显了，现需要把钱收回来，同时，中美在AI应用上的发展路径分叉了，美国各种企业级应用发展很快，all in机器人是中国目前方向，未来可能有机会。</strong>2年前的2022年12月1日凌晨2点02分，下一代AI浪潮的命运之子ChatGPT正式上线。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么羽绒服里穿薄点才暖和？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1458902.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1458902.htm"/>
-        <updated>2024-12-02T17:42:02.068Z</updated>
-        <content type="html"><![CDATA[一到冬天，怕冷的人就恨不得把家里的所有衣服都套身上。不光要穿羽绒服，里面还要穿还要毛衣、秋衣、打底衣层层套，生怕一个没穿够，寒气就从缝隙直入五脏六腑。但……这么穿舒服程度直接跌破一星，手脚锢得险些不过血也就算了，好像也没暖和到哪里去！相比那些羽绒服里套件短袖就能火速出门，雪地里都能
- kuku冒热气的人，真的是白受罪了。]]></content>
+        <title type="html"><![CDATA[击剑冠军秦雪转型女网红被指擦边：我不想火 只想赚钱养娃]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1459366.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1459366.htm"/>
+        <updated>2024-12-01T01:57:10.000Z</updated>
+        <content type="html"><![CDATA[12月1日消息，账号“鳕儿不吃大米”引发关注，账号发布多条穿着清凉展现身材的视频，其账号持有者正是前中国击剑运动员秦雪，主页认证为国际级击剑运动健将。资料显示，秦雪2008年加入山东省击剑队，2014年在亚洲击剑锦标赛上获得女子重剑个人赛季军，并随中国队获得亚洲击剑锦标赛女子重剑团体赛冠军。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知名经济学家预言：MicroStrategy终将破产]]></title>
@@ -149,5 +113,42 @@
         <updated>2024-12-02T17:42:02.067Z</updated>
         <content type="html"><![CDATA[一向对加密货币持怀疑态度的经济学家和市场策略师彼得·希夫（Peter 
 Schiff）最近表示，做空MicroStrategy（MSTR）的股票是个好主意，因为这家持有比特币最多的上市公司终将走向破产。在周四播出的一次采访中，希夫称MicroStrategy是一个“很棒的”做空目标，如果一个人有持久力的话，尽管他否认自己做空了该股。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被指责擦边的前体操冠军吴柳芳为何做女主播：我就是要改命]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459582.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459582.htm"/>
+        <updated>2024-12-02T09:26:10.000Z</updated>
+        <content type="html"><![CDATA[近日，前体操世界杯冠军吴柳芳被指责“擦边”后谈及当主播是因为：钱难赚，命不好，只是想改变生活。在视频中，这位昔日的世界冠军直言，外表看似光鲜亮丽，实则内里早已千疮百孔。回忆她的职业生涯，虽然拥有“体操世界杯冠军”的头衔，但频繁的伤病始终限制了她的发挥。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外卖骑手真实收入曝光 网友：被《逆行人生》给骗了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459938.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459938.htm"/>
+        <updated>2024-12-06T17:42:23.134Z</updated>
+        <content type="html"><![CDATA[风雨无阻的外卖骑手，一个月究竟能挣多少钱？成了大众最为关切的话题，而伴随美团最近的一次财报电话会议，这些疑问终于迎来了具象化的解答……]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 24H2 将于 12 月再次迎来重大更新]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459376.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459376.htm"/>
+        <updated>2024-12-01T04:28:24.000Z</updated>
+        <content type="html"><![CDATA[微软针对 Windows 11 24H2 的下一个补丁星期二更新将非常重要。 
+本年度最后一次安全更新计划进行大规模更改，同时还将引入许多新功能。Windows 11 24H2 12 
+月更新将包括"开始"菜单中的跳转列表、带有新布局选项的浓缩系统托盘、动态照明改进等升级。 让我们来看看 12 月份将为大家带来的新功能。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泳坛女神刘湘晒泳装照 被网友指责擦边：本人回应穿棉裤羽绒服游泳吗]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1459356.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1459356.htm"/>
+        <updated>2024-12-06T17:42:23.137Z</updated>
+        <content type="html"><![CDATA[12月1日消息，近日，泳坛女神刘湘晒泳装照，被网友指责擦边。刘湘公开回怼：你没事吧，这有问题吗？<strong>刘湘写道：今天看到了很多人艾特@ 我，怎么分享我的生活和我热爱的生活方式有问题？游泳不穿泳衣，难道穿棉裤羽绒服吗？</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日产汽车回应被本田收购传闻]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1459820.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1459820.htm"/>
+        <updated>2024-12-06T17:42:23.139Z</updated>
+        <content type="html"><![CDATA[日产汽车正在寻找一个锚定投资者，因为其长期合作伙伴雷诺正在出售在日产汽车的股份。知情人士透露，<strong>日产正在寻找一个稳定的长期股东（例如银行或保险公司）以替代部分雷诺的股权，甚至不排除与其他日本车企合作的可能性，其中就包括本田。</strong>]]></content>
     </entry>
 </feed>
