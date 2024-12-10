@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-12-10T05:43:16.933Z</updated>
+    <updated>2024-12-10T17:43:09.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -43,26 +43,12 @@
 无论用户如何努力，都无法让聊天机器人吐出他的名字。 相反，它要么说到一半就僵住了，要么声称"出了点问题"，要么干脆拒绝回应。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[外卖骑手真实收入曝光 网友：被《逆行人生》给骗了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1459938.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1459938.htm"/>
-        <updated>2024-12-06T17:42:23.134Z</updated>
-        <content type="html"><![CDATA[风雨无阻的外卖骑手，一个月究竟能挣多少钱？成了大众最为关切的话题，而伴随美团最近的一次财报电话会议，这些疑问终于迎来了具象化的解答……]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linus Torvalds：AMD/英特尔的x86微架构级别是"完全崩溃的垃圾"]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1460742.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1460742.htm"/>
         <updated>2024-12-06T06:01:30.000Z</updated>
         <content type="html"><![CDATA[Linux 之父 Linus Torvalds 可能是最善于表达的技术大牛之一，无论您是否同意，他的观点几乎总是非常有趣。在讨论新的 Linux
  KConfig（内核配置）构建的更改和添加时，Torvalds表达了他对 AMD64 或 x86_64 架构功能级别的恼怒和不赞成。 他<a href="https://lkml.org/lkml/2024/12/4/1607">写道</a>：]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日产汽车回应被本田收购传闻]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1459820.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1459820.htm"/>
-        <updated>2024-12-06T17:42:23.139Z</updated>
-        <content type="html"><![CDATA[日产汽车正在寻找一个锚定投资者，因为其长期合作伙伴雷诺正在出售在日产汽车的股份。知情人士透露，<strong>日产正在寻找一个稳定的长期股东（例如银行或保险公司）以替代部分雷诺的股权，甚至不排除与其他日本车企合作的可能性，其中就包括本田。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 18.2即将发布 大量AI功能值得关注]]></title>
@@ -102,6 +88,13 @@
         <content type="html"><![CDATA[在多年来一直无视签署儿童保护计划的请求之后，备受争议的消息应用程序 Telegram 同意与一个国际公认的机构合作，阻止儿童性虐待材料（CSAM）的传播。互联网观察基金会 (IWF) 用于帮助主要在线服务检测和删除 CSAM，并防止其传播。Telegram 曾多次拒绝参与该计划或任何类似计划。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[成为最大二手交易网站后 闲鱼卖家的路子越来越野]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461072.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461072.htm"/>
+        <updated>2024-12-07T10:17:32.000Z</updated>
+        <content type="html"><![CDATA[如果说科技是人类发展的第一生产力，那么“懒”，或许就是推动科技发展的最核心要素。因为懒得走路，于是人类发明了汽车。因为懒得搓衣，于是人类发明洗衣机。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[烧了18亿 份额不足1% 阿里又养了个“败家子”？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1460518.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1460518.htm"/>
@@ -116,6 +109,13 @@
         <content type="html"><![CDATA[近日，拥有百万粉丝的网红博主@杨长顺维修家 对华为Mate 70 RS手机进行了详细拆解。通过拆解对比发现，<strong>麒麟9020芯片面积更大，相比上一代麒麟9000S更宽更厚</strong>，该博主猜测“性能提升更多了，估计不止跨了一代”。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CT扫描显示 USB-C数据线可能可以隐藏大量恶意硬件]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461054.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461054.htm"/>
+        <updated>2024-12-07T05:03:53.000Z</updated>
+        <content type="html"><![CDATA[在亚马逊或任何其他在线零售商上进行简单搜索即可发现，消费者有多种 USB-C 电缆可供选择，价格从几美元到 100 多美元不等。 价格主要取决于长度、结构质量、是否符合 USB-C 规范的各个部分以及品牌等因素。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[法国团队成功对苹果Mac Studio专有存储模块实现逆向 明年起将提供实惠的升级]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1460808.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1460808.htm"/>
@@ -123,25 +123,12 @@
         <content type="html"><![CDATA[苹果在多数设备里都对存储模块进行加密，不过在最新推出的 Mac Mini 2024 中并没有绑定硬件序列号，目前已经有商家和专业维修人士通过替换闪存芯片的方式进行扩容，后续可能会直接提供可替代的 SSD 模块。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[成为最大二手交易网站后 闲鱼卖家的路子越来越野]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461072.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461072.htm"/>
-        <updated>2024-12-07T10:17:32.000Z</updated>
-        <content type="html"><![CDATA[如果说科技是人类发展的第一生产力，那么“懒”，或许就是推动科技发展的最核心要素。因为懒得走路，于是人类发明了汽车。因为懒得搓衣，于是人类发明洗衣机。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国新限制曝光：北方华创等140家中国半导体企业被列入实体清单]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1459748.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1459748.htm"/>
-        <updated>2024-12-09T17:42:58.545Z</updated>
-        <content type="html"><![CDATA[12月2日消息，据路透社援引两位知情人士的话报道称，美国将于当地时间周一对中国半导体行业发起近三年来的第三次打击，将对中国半导体设备制造商北方华创、拓荆科技、新凯莱等140家公司进行出口管制。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS5惊喜更新 致敬PlayStation 30周年]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1459878.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1459878.htm"/>
-        <updated>2024-12-03T08:59:01.000Z</updated>
-        <content type="html"><![CDATA[为庆祝PlayStation诞生30周年（12月3日），索尼互动娱乐悄然发布了PS5系统更新，为玩家带来了惊喜！此次更新最引人注目的功能是：PS5的启动画面回归初代PlayStation的经典画面！]]></content>
+        <title type="html"><![CDATA[解决方案在技术上过于落后 中国企业仍然不愿采用国产芯片]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461502.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461502.htm"/>
+        <updated>2024-12-10T17:43:08.629Z</updated>
+        <content type="html"><![CDATA[据<a id="inline-link" href="https://www.digitimes.com/news/a20241206PD206/semiconductors-chips-demand-production-technology.html" target="_blank" label="DigiTimes">DigiTimes</a>报道，尽管中国在努力实现几乎所有类型芯片和处理器的本地化生产，而且美国也试图阻止中国实体获得先进的美国
+ CPU、GPU 和 ASIC，但中国的公司仍不愿转而使用国内替代产品。 这种情况适用于所有类型的半导体，从汽车应用和跨领域应用的组件到人工智能和高性能计算所需的最尖端处理器。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[支付宝香港版现已支持内地手机号码注册 可绑定到苹果港区账户作为支付方式]]></title>
@@ -149,5 +136,19 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1460028.htm"/>
         <updated>2024-12-09T17:42:58.549Z</updated>
         <content type="html"><![CDATA[日前支付宝香港版 (Alipay HK) 已经支持使用中国内地手机号码注册账户，尽管注册后通过香港居民证件实名认证后可以获得更高的使用限额，但不进行实名认证也可以小额使用方便内地居民前往香港旅游时使用。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁“偷了”华为红枫原色影像技术？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461450.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461450.htm"/>
+        <updated>2024-12-09T09:33:42.000Z</updated>
+        <content type="html"><![CDATA[11月26日，华为正式发布了新一代旗舰智能手机Mate 70系列，首发了红枫原色摄像头，拥有150万多光谱通道，可以捕捉更为丰富的环境光谱信息，使得色彩还原准确度提升120%，引发了业界的广泛关注。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网友重温26年前《还珠格格》电视剧 直呼太有意思]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1460490.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1460490.htm"/>
+        <updated>2024-12-05T09:05:41.000Z</updated>
+        <content type="html"><![CDATA[琼瑶去世的消息引发网友的怀念，不少网友开始重温《还珠格格》电视剧，发现真的太有意思了。比如前几集就是小燕子和紫薇相遇并结拜的剧情。]]></content>
     </entry>
 </feed>
