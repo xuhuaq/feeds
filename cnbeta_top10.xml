@@ -2,30 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-12-12T05:43:12.716Z</updated>
+    <updated>2024-12-12T17:42:45.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[100%国产的麒麟9020和世界最高水平差距还有多大？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1460586.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1460586.htm"/>
-        <updated>2024-12-07T17:39:49.602Z</updated>
-        <content type="html"><![CDATA[这一刻，我们等了很久了！4日，华为Mate 70系列正式迎来首销。华为终端BG CEO何刚在和紫牛基金创始合伙人张泉灵对话时明确表示，<strong>华为Mate 70系列每一颗芯片都有国产的能力，这也意味着华为手机终于实现了芯片100%国产。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知名作家琼瑶在家中轻生身亡，终年86岁]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1460288.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1460288.htm"/>
-        <updated>2024-12-05T17:42:07.284Z</updated>
-        <content type="html"><![CDATA[今天下午1点22分许，知名作家琼瑶在家自杀。救护人员到场时，发现已无呼吸心跳，享年86岁。琼瑶代表作有，《窗外》、《还珠格格》、《烟雨濛濛》。琼瑶，本名陈喆，笔名琼瑶，女，籍贯湖南衡阳，生于四川成都，台湾言情小说作家、编剧、影视制作人。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds：AMD/英特尔的x86微架构级别是"完全崩溃的垃圾"]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1460742.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1460742.htm"/>
-        <updated>2024-12-06T06:01:30.000Z</updated>
-        <content type="html"><![CDATA[Linux 之父 Linus Torvalds 可能是最善于表达的技术大牛之一，无论您是否同意，他的观点几乎总是非常有趣。在讨论新的 Linux
- KConfig（内核配置）构建的更改和添加时，Torvalds表达了他对 AMD64 或 x86_64 架构功能级别的恼怒和不赞成。 他<a href="https://lkml.org/lkml/2024/12/4/1607">写道</a>：]]></content>
+        <title type="html"><![CDATA[中国最大沙漠 被围起来了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1461998.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1461998.htm"/>
+        <updated>2024-12-11T03:08:52.000Z</updated>
+        <content type="html"><![CDATA[近些年，<strong>我国53%的可治理沙化土地得到有效治理，沙化土地面积净减少6500万亩</strong>，实现了土地退化“零增长”、荒漠化和沙化土地“双缩减”，呈现出“整体好转、改善加速”的良好态势。2024年11月28日，更是历史性的一天。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[解决方案在技术上过于落后 中国企业仍然不愿采用国产芯片]]></title>
@@ -34,6 +19,14 @@
         <updated>2024-12-10T17:43:08.629Z</updated>
         <content type="html"><![CDATA[据<a id="inline-link" href="https://www.digitimes.com/news/a20241206PD206/semiconductors-chips-demand-production-technology.html" target="_blank" label="DigiTimes">DigiTimes</a>报道，尽管中国在努力实现几乎所有类型芯片和处理器的本地化生产，而且美国也试图阻止中国实体获得先进的美国
  CPU、GPU 和 ASIC，但中国的公司仍不愿转而使用国内替代产品。 这种情况适用于所有类型的半导体，从汽车应用和跨领域应用的组件到人工智能和高性能计算所需的最尖端处理器。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds：AMD/英特尔的x86微架构级别是"完全崩溃的垃圾"]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1460742.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1460742.htm"/>
+        <updated>2024-12-06T06:01:30.000Z</updated>
+        <content type="html"><![CDATA[Linux 之父 Linus Torvalds 可能是最善于表达的技术大牛之一，无论您是否同意，他的观点几乎总是非常有趣。在讨论新的 Linux
+ KConfig（内核配置）构建的更改和添加时，Torvalds表达了他对 AMD64 或 x86_64 架构功能级别的恼怒和不赞成。 他<a href="https://lkml.org/lkml/2024/12/4/1607">写道</a>：]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 18.2即将发布 大量AI功能值得关注]]></title>
@@ -66,18 +59,18 @@
         <content type="html"><![CDATA[12月6日晚间，360董事长周鸿祎发微博表示，马化腾马总帮了我一个大忙， 我真的特别感谢他，他把微信增加了一个功能，解决了困扰我很久的痛点。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[全球最热销iPhone、Android手机是哪些？两大机构数据差异不小]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461310.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461310.htm"/>
+        <updated>2024-12-11T17:42:17.904Z</updated>
+        <content type="html"><![CDATA[根据市场调研公司Counterpoint和Canalys最新发布的2024年第三季度全球热销手机TOP 10排行榜，我们可以一窥当前全球智能手机市场的热销机型。<strong>在Counterpoint的榜单中，苹果iPhone 15系列表现强劲，iPhone 15、iPhone 15 Pro Max和iPhone 15 Pro分别占据了前三名的位置。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[成为最大二手交易网站后 闲鱼卖家的路子越来越野]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1461072.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1461072.htm"/>
         <updated>2024-12-07T10:17:32.000Z</updated>
         <content type="html"><![CDATA[如果说科技是人类发展的第一生产力，那么“懒”，或许就是推动科技发展的最核心要素。因为懒得走路，于是人类发明了汽车。因为懒得搓衣，于是人类发明洗衣机。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁“偷了”华为红枫原色影像技术？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461450.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461450.htm"/>
-        <updated>2024-12-09T09:33:42.000Z</updated>
-        <content type="html"><![CDATA[11月26日，华为正式发布了新一代旗舰智能手机Mate 70系列，首发了红枫原色摄像头，拥有150万多光谱通道，可以捕捉更为丰富的环境光谱信息，使得色彩还原准确度提升120%，引发了业界的广泛关注。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CT扫描显示 USB-C数据线可能可以隐藏大量恶意硬件]]></title>
@@ -87,11 +80,20 @@
         <content type="html"><![CDATA[在亚马逊或任何其他在线零售商上进行简单搜索即可发现，消费者有多种 USB-C 电缆可供选择，价格从几美元到 100 多美元不等。 价格主要取决于长度、结构质量、是否符合 USB-C 规范的各个部分以及品牌等因素。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[烧了18亿 份额不足1% 阿里又养了个“败家子”？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1460518.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1460518.htm"/>
-        <updated>2024-12-05T09:43:47.000Z</updated>
-        <content type="html"><![CDATA[最近，一家阿里系网约车平台冲刺港股IPO引发关注。盛威时代这家名不见经传的公司，经营着名为“365约车”的网约车品牌。由于阿里旅行是其第一大股东，在高德流量的加持下，也能够与主流网约车平台一较高下。其在招股书中自称是中国第二大网约车平台，但计算口径却是网络预约出租汽车经营许可证的数量。如果按照订单量计算，其今年上半年的市场份额甚至不到1%。]]></content>
+        <title type="html"><![CDATA[谁“偷了”华为红枫原色影像技术？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461450.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461450.htm"/>
+        <updated>2024-12-09T09:33:42.000Z</updated>
+        <content type="html"><![CDATA[11月26日，华为正式发布了新一代旗舰智能手机Mate 70系列，首发了红枫原色摄像头，拥有150万多光谱通道，可以捕捉更为丰富的环境光谱信息，使得色彩还原准确度提升120%，引发了业界的广泛关注。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疑似外设厂商意外泄露 Switch 2真机外观曝光]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1461838.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1461838.htm"/>
+        <updated>2024-12-12T17:42:44.547Z</updated>
+        <content type="html"><![CDATA[近日，外设厂商Satisfye意外泄露了他们即将推出的产品Zengrip 2的预告片，这是适用于任天堂Switch继任者（以下称为Switch 
+2）的外设产品，其中预告片有画面疑似曝光了Switch 2真机外观，网络上提供的图片十分模糊，并且图上的Switch 
+2看上去非常像Switch，暂时无法确定真伪。Satisfye目前已将意外泄露的视频删除。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[法国团队成功对苹果Mac Studio专有存储模块实现逆向 明年起将提供实惠的升级]]></title>
@@ -101,11 +103,11 @@
         <content type="html"><![CDATA[苹果在多数设备里都对存储模块进行加密，不过在最新推出的 Mac Mini 2024 中并没有绑定硬件序列号，目前已经有商家和专业维修人士通过替换闪存芯片的方式进行扩容，后续可能会直接提供可替代的 SSD 模块。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全球最热销iPhone、Android手机是哪些？两大机构数据差异不小]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461310.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461310.htm"/>
-        <updated>2024-12-11T17:42:17.904Z</updated>
-        <content type="html"><![CDATA[根据市场调研公司Counterpoint和Canalys最新发布的2024年第三季度全球热销手机TOP 10排行榜，我们可以一窥当前全球智能手机市场的热销机型。<strong>在Counterpoint的榜单中，苹果iPhone 15系列表现强劲，iPhone 15、iPhone 15 Pro Max和iPhone 15 Pro分别占据了前三名的位置。</strong>]]></content>
+        <title type="html"><![CDATA[美国男子来中国武当山习武14年 金发变黑发]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1461324.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1461324.htm"/>
+        <updated>2024-12-12T17:42:44.550Z</updated>
+        <content type="html"><![CDATA[近日，美国男子来中国武当山习武14年，从一头金发变成黑发一事引发关注。对此，<strong>当事人杰克对媒体回应称，可能与食物、生活环境有关。据悉，杰克20岁来到中国，如今是三丰派第十六代传人。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果手表吸在高铁玻璃上拿不下来 网友纷纷效仿]]></title>
@@ -115,11 +117,11 @@
         <content type="html"><![CDATA[12月9日消息，据媒体报道，近日网传苹果手表会吸在高铁玻璃上拿不下来，许多网友现身说法用自己的设备做实验。有的网友表示“能取下来”，也有的网友表示“取不下来”。对此，有博主解释称，<strong>苹果手表取不下来是因为“光胶现象”，这是一种物理学现象，当物体表面的光滑程度超过一定限度时，越光滑，则摩擦力反而会越大。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网友重温26年前《还珠格格》电视剧 直呼太有意思]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1460490.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1460490.htm"/>
-        <updated>2024-12-05T09:05:41.000Z</updated>
-        <content type="html"><![CDATA[琼瑶去世的消息引发网友的怀念，不少网友开始重温《还珠格格》电视剧，发现真的太有意思了。比如前几集就是小燕子和紫薇相遇并结拜的剧情。]]></content>
+        <title type="html"><![CDATA[微软放宽Windows 11安装条件 不再强制要求TPM 2.0]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461938.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461938.htm"/>
+        <updated>2024-12-12T17:42:44.553Z</updated>
+        <content type="html"><![CDATA[微软终于打开了保护运行不兼容硬件的系统（包括缺少 TPM 2.0 的系统）升级 Windows 11 的铁门。对于使用旧系统或系统中没有 TPM 2.0 模块但想要升级到较新操作系统版本的用户来说，这是一个好消息。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[想买混动的先等等 电池马上就要越来越大了]]></title>
@@ -129,24 +131,26 @@
         <content type="html"><![CDATA[有一说一，现在的新能源车，尤其是混动车的造车理念，是越来越像手机了。这不，手机电池刚升完级，现在又搞到车上去了，你看看<strong>今年新出的这几家混动车，都开始搞大电池。</strong>2024 款的零跑 C11 ，增程版的电池最大能有 300km 、深蓝 S07 还用上了 3C 超充，最大也搞到了 285km ……]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[琼瑶死因曝光：一氧化碳中毒窒息而亡]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1460524.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1460524.htm"/>
-        <updated>2024-12-05T10:03:32.000Z</updated>
-        <content type="html"><![CDATA[<strong>著名作家琼瑶于家中不幸离世，此消息一出，立即引起了社会各界的广泛关注与深切哀悼，众多好友及艺人均纷纷表达了对她的怀念之情。</strong>琼瑶之子陈中维在悲痛中透露了母亲离世的细节。据悉，他与母亲共同居住在新北淡水竹围的一栋大楼内，虽然住在同一层但分属不同住户。]]></content>
+        <title type="html"><![CDATA[前十月全球汽车销量Top10国家 中国第一  断层式领先]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461548.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461548.htm"/>
+        <updated>2024-12-12T17:42:44.556Z</updated>
+        <content type="html"><![CDATA[易车榜今日发布了今年前10月全球汽车销量Top10国家榜。榜单显示，<strong>中国前十月共计销售汽车1803.02万辆，位居榜单第一，比第二名美国多出450万辆，断层式领先。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[钓鱼佬钓到一条有编码的鱼：“浙海研C50” 来历找到了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1461300.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1461300.htm"/>
-        <updated>2024-12-11T17:42:17.913Z</updated>
-        <content type="html"><![CDATA[最近，台州网友@小羊驼在社交媒体上求助，<strong>称自己在大陈岛钓到一条有编码的鱼，好奇这条鱼能不能吃</strong>，并附上了一张图片。根据这张图片显示，<strong>他钓上来的应该是一条黑鲷鱼，背鳍末端处挂着一个粉红色的标签，上面写着“浙海研C50”。</strong>]]></content>
+        <title type="html"><![CDATA[还没普及就凉凉，这代Wi-Fi 7还有救吗？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461676.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461676.htm"/>
+        <updated>2024-12-12T17:42:44.558Z</updated>
+        <content type="html"><![CDATA[一聊到 5G，说啥的都有，什么&nbsp;“&nbsp;流量贵，一晚上烧掉一套房&nbsp;”&nbsp;、&nbsp;“&nbsp;真假 5G 的区别&nbsp;”&nbsp;以及&nbsp;“ 5G 
+基站辐射大&nbsp;”&nbsp;等等，哪怕你从来没主动关注过这些新闻，是不是总感觉在哪里听到过？反观 Wi-Fi 
+，虽然每天都在用，却没啥人关注它迭代到第几代了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[贵州发消费券最高补贴1万元 60岁及以上老人半价买华为、小米、苹果手表]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461258.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461258.htm"/>
-        <updated>2024-12-08T10:27:25.000Z</updated>
-        <content type="html"><![CDATA[据贵州省民政厅网站，日前，贵州省民政厅正式开启发放居家适老化改造消费券，<strong>凡收货地址在贵州省境内的60周岁及以上老年人（1964年12月31日及以前出生），均可参与此次补贴活动。</strong>老年人或其委托的代申领人，可通过登录“一码贵州”、“多彩宝”等APP进行线上实名认证，并领取消费券，用于购买《贵州省居家适老化改造产品购置目录（试行）》内的居家适老化产品。]]></content>
+        <title type="html"><![CDATA[人们为什么怀念马云？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1462032.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1462032.htm"/>
+        <updated>2024-12-11T08:44:48.000Z</updated>
+        <content type="html"><![CDATA[曾几何时，马云是中国商业界的一道重要风景。他每次公开露面都是意气风发，金句频出。那时的马云，也正是当时中国经济蓬勃发展的一个缩影。后来，由于一些意外事件，马云长期旅居国外，很少在国内露面，更没有再在公开场合发表过演讲。]]></content>
     </entry>
 </feed>
