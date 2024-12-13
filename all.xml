@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-13T05:42:56.588Z</updated>
+    <updated>2024-12-13T17:41:57.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[中国最大沙漠 被围起来了 (cnbeta一周排行)]]></title>
@@ -20,23 +20,6 @@
  CPU、GPU 和 ASIC，但中国的公司仍不愿转而使用国内替代产品。 这种情况适用于所有类型的半导体，从汽车应用和跨领域应用的组件到人工智能和高性能计算所需的最尖端处理器。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linus Torvalds：AMD/英特尔的x86微架构级别是"完全崩溃的垃圾" (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1460742.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1460742.htm"/>
-        <updated>2024-12-06T06:01:30.000Z</updated>
-        <content type="html"><![CDATA[Linux 之父 Linus Torvalds 可能是最善于表达的技术大牛之一，无论您是否同意，他的观点几乎总是非常有趣。在讨论新的 Linux
- KConfig（内核配置）构建的更改和添加时，Torvalds表达了他对 AMD64 或 x86_64 架构功能级别的恼怒和不赞成。 他<a href="https://lkml.org/lkml/2024/12/4/1607">写道</a>：]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 18.2即将发布 大量AI功能值得关注 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1460794.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1460794.htm"/>
-        <updated>2024-12-06T09:36:21.000Z</updated>
-        <content type="html"><![CDATA[<strong>iOS 18.2 候选发布版本已经发布，苹果公司正在为该软件的全面公开发布做准备。 以下是您需要了解的有关该更新及其功能的所有信息。</strong>本周四，在第四个开发者测试版发布两周后，苹果部署了iOS 18.2 的候选发布版构建。 虽然该更新可安装在 iPhone XR 和 iPhone
- XS 等设备上，但该软件包含的各种功能仅适用于 iPhone 15 Pro 、iPhone 15 Pro Max 和 iPhone 16 
-系列。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[贾跃亭又卖一台 国际超模喜提FF 91 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1460912.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1460912.htm"/>
@@ -51,13 +34,6 @@
         <content type="html"><![CDATA[日前，美国《消费者报告》发布了关于汽车可靠性的排行榜单。该报告指出，<strong>虽然当前电动汽车的表现正在逐步提升，但混合动力汽车与燃油车的可靠性依然高于电动汽车。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信查删单向好友功能上线 周鸿祎点赞马化腾 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461000.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461000.htm"/>
-        <updated>2024-12-09T17:42:58.532Z</updated>
-        <content type="html"><![CDATA[12月6日晚间，360董事长周鸿祎发微博表示，马化腾马总帮了我一个大忙， 我真的特别感谢他，他把微信增加了一个功能，解决了困扰我很久的痛点。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[全球最热销iPhone、Android手机是哪些？两大机构数据差异不小 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1461310.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1461310.htm"/>
@@ -65,11 +41,18 @@
         <content type="html"><![CDATA[根据市场调研公司Counterpoint和Canalys最新发布的2024年第三季度全球热销手机TOP 10排行榜，我们可以一窥当前全球智能手机市场的热销机型。<strong>在Counterpoint的榜单中，苹果iPhone 15系列表现强劲，iPhone 15、iPhone 15 Pro Max和iPhone 15 Pro分别占据了前三名的位置。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[成为最大二手交易网站后 闲鱼卖家的路子越来越野 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461072.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461072.htm"/>
-        <updated>2024-12-07T10:17:32.000Z</updated>
-        <content type="html"><![CDATA[如果说科技是人类发展的第一生产力，那么“懒”，或许就是推动科技发展的最核心要素。因为懒得走路，于是人类发明了汽车。因为懒得搓衣，于是人类发明洗衣机。]]></content>
+        <title type="html"><![CDATA[微信查删单向好友功能上线 周鸿祎点赞马化腾 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461000.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461000.htm"/>
+        <updated>2024-12-09T17:42:58.532Z</updated>
+        <content type="html"><![CDATA[12月6日晚间，360董事长周鸿祎发微博表示，马化腾马总帮了我一个大忙， 我真的特别感谢他，他把微信增加了一个功能，解决了困扰我很久的痛点。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁“偷了”华为红枫原色影像技术？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461450.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461450.htm"/>
+        <updated>2024-12-09T09:33:42.000Z</updated>
+        <content type="html"><![CDATA[11月26日，华为正式发布了新一代旗舰智能手机Mate 70系列，首发了红枫原色摄像头，拥有150万多光谱通道，可以捕捉更为丰富的环境光谱信息，使得色彩还原准确度提升120%，引发了业界的广泛关注。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CT扫描显示 USB-C数据线可能可以隐藏大量恶意硬件 (cnbeta一周排行)]]></title>
@@ -79,11 +62,11 @@
         <content type="html"><![CDATA[在亚马逊或任何其他在线零售商上进行简单搜索即可发现，消费者有多种 USB-C 电缆可供选择，价格从几美元到 100 多美元不等。 价格主要取决于长度、结构质量、是否符合 USB-C 规范的各个部分以及品牌等因素。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谁“偷了”华为红枫原色影像技术？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461450.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461450.htm"/>
-        <updated>2024-12-09T09:33:42.000Z</updated>
-        <content type="html"><![CDATA[11月26日，华为正式发布了新一代旗舰智能手机Mate 70系列，首发了红枫原色摄像头，拥有150万多光谱通道，可以捕捉更为丰富的环境光谱信息，使得色彩还原准确度提升120%，引发了业界的广泛关注。]]></content>
+        <title type="html"><![CDATA[成为最大二手交易网站后 闲鱼卖家的路子越来越野 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461072.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461072.htm"/>
+        <updated>2024-12-07T10:17:32.000Z</updated>
+        <content type="html"><![CDATA[如果说科技是人类发展的第一生产力，那么“懒”，或许就是推动科技发展的最核心要素。因为懒得走路，于是人类发明了汽车。因为懒得搓衣，于是人类发明洗衣机。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[疑似外设厂商意外泄露 Switch 2真机外观曝光 (cnbeta一周排行)]]></title>
@@ -95,46 +78,25 @@
 2看上去非常像Switch，暂时无法确定真伪。Satisfye目前已将意外泄露的视频删除。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[法国团队成功对苹果Mac Studio专有存储模块实现逆向 明年起将提供实惠的升级 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1460808.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1460808.htm"/>
-        <updated>2024-12-06T09:49:48.000Z</updated>
-        <content type="html"><![CDATA[苹果在多数设备里都对存储模块进行加密，不过在最新推出的 Mac Mini 2024 中并没有绑定硬件序列号，目前已经有商家和专业维修人士通过替换闪存芯片的方式进行扩容，后续可能会直接提供可替代的 SSD 模块。]]></content>
+        <title type="html"><![CDATA[阿里挺进日本，再造一个淘宝 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1462100.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1462100.htm"/>
+        <updated>2024-12-13T17:41:56.446Z</updated>
+        <content type="html"><![CDATA[阿里在日本上线了一个TAO。这是一个日版的淘宝，从界面设计到使用习惯再到语言，完全日本化。这是淘宝在海外的第一个本土化电商APP，也是阿里2022年在西班牙推出Miravia后，又一新的本土化平台。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国男子来中国武当山习武14年 金发变黑发 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1461324.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1461324.htm"/>
-        <updated>2024-12-12T17:42:44.550Z</updated>
-        <content type="html"><![CDATA[近日，美国男子来中国武当山习武14年，从一头金发变成黑发一事引发关注。对此，<strong>当事人杰克对媒体回应称，可能与食物、生活环境有关。据悉，杰克20岁来到中国，如今是三丰派第十六代传人。</strong>]]></content>
+        <title type="html"><![CDATA[彭博社论：建比特币储备将是迄今为止最大的加密货币骗局 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461924.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461924.htm"/>
+        <updated>2024-12-13T17:41:56.452Z</updated>
+        <content type="html"><![CDATA[彭博发表社论认为，比特币没有工业用途，没有实际现金流，也与真实经济没有任何联系。它仅仅是一个纯粹的投机工具。它的价格完全依赖于一个更傻的人愿意支付多少钱。除了浪费纳税人资金外，创建比特币储备只会富裕现有比特币的拥有者。美国政府则将成为市场上那个“更傻的人”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果手表吸在高铁玻璃上拿不下来 网友纷纷效仿 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461654.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461654.htm"/>
-        <updated>2024-12-11T17:42:17.905Z</updated>
-        <content type="html"><![CDATA[12月9日消息，据媒体报道，近日网传苹果手表会吸在高铁玻璃上拿不下来，许多网友现身说法用自己的设备做实验。有的网友表示“能取下来”，也有的网友表示“取不下来”。对此，有博主解释称，<strong>苹果手表取不下来是因为“光胶现象”，这是一种物理学现象，当物体表面的光滑程度超过一定限度时，越光滑，则摩擦力反而会越大。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软放宽Windows 11安装条件 不再强制要求TPM 2.0 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461938.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461938.htm"/>
-        <updated>2024-12-12T17:42:44.553Z</updated>
-        <content type="html"><![CDATA[微软终于打开了保护运行不兼容硬件的系统（包括缺少 TPM 2.0 的系统）升级 Windows 11 的铁门。对于使用旧系统或系统中没有 TPM 2.0 模块但想要升级到较新操作系统版本的用户来说，这是一个好消息。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想买混动的先等等 电池马上就要越来越大了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1460764.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1460764.htm"/>
-        <updated>2024-12-06T09:02:14.000Z</updated>
-        <content type="html"><![CDATA[有一说一，现在的新能源车，尤其是混动车的造车理念，是越来越像手机了。这不，手机电池刚升完级，现在又搞到车上去了，你看看<strong>今年新出的这几家混动车，都开始搞大电池。</strong>2024 款的零跑 C11 ，增程版的电池最大能有 300km 、深蓝 S07 还用上了 3C 超充，最大也搞到了 285km ……]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前十月全球汽车销量Top10国家 中国第一  断层式领先 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461548.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461548.htm"/>
-        <updated>2024-12-12T17:42:44.556Z</updated>
-        <content type="html"><![CDATA[易车榜今日发布了今年前10月全球汽车销量Top10国家榜。榜单显示，<strong>中国前十月共计销售汽车1803.02万辆，位居榜单第一，比第二名美国多出450万辆，断层式领先。</strong>]]></content>
+        <title type="html"><![CDATA[人们为什么怀念马云？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1462032.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1462032.htm"/>
+        <updated>2024-12-11T08:44:48.000Z</updated>
+        <content type="html"><![CDATA[曾几何时，马云是中国商业界的一道重要风景。他每次公开露面都是意气风发，金句频出。那时的马云，也正是当时中国经济蓬勃发展的一个缩影。后来，由于一些意外事件，马云长期旅居国外，很少在国内露面，更没有再在公开场合发表过演讲。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[还没普及就凉凉，这代Wi-Fi 7还有救吗？ (cnbeta一周排行)]]></title>
@@ -146,10 +108,47 @@
 ，虽然每天都在用，却没啥人关注它迭代到第几代了。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人们为什么怀念马云？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1462032.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1462032.htm"/>
-        <updated>2024-12-11T08:44:48.000Z</updated>
-        <content type="html"><![CDATA[曾几何时，马云是中国商业界的一道重要风景。他每次公开露面都是意气风发，金句频出。那时的马云，也正是当时中国经济蓬勃发展的一个缩影。后来，由于一些意外事件，马云长期旅居国外，很少在国内露面，更没有再在公开场合发表过演讲。]]></content>
+        <title type="html"><![CDATA[微软放宽Windows 11安装条件 不再强制要求TPM 2.0 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461938.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461938.htm"/>
+        <updated>2024-12-12T17:42:44.553Z</updated>
+        <content type="html"><![CDATA[微软终于打开了保护运行不兼容硬件的系统（包括缺少 TPM 2.0 的系统）升级 Windows 11 的铁门。对于使用旧系统或系统中没有 TPM 2.0 模块但想要升级到较新操作系统版本的用户来说，这是一个好消息。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前十月全球汽车销量Top10国家 中国第一  断层式领先 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461548.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461548.htm"/>
+        <updated>2024-12-12T17:42:44.556Z</updated>
+        <content type="html"><![CDATA[易车榜今日发布了今年前10月全球汽车销量Top10国家榜。榜单显示，<strong>中国前十月共计销售汽车1803.02万辆，位居榜单第一，比第二名美国多出450万辆，断层式领先。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国男子来中国武当山习武14年 金发变黑发 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1461324.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1461324.htm"/>
+        <updated>2024-12-12T17:42:44.550Z</updated>
+        <content type="html"><![CDATA[近日，美国男子来中国武当山习武14年，从一头金发变成黑发一事引发关注。对此，<strong>当事人杰克对媒体回应称，可能与食物、生活环境有关。据悉，杰克20岁来到中国，如今是三丰派第十六代传人。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TechInsights：华为最新Mate 70手机显示其芯片进展停滞不前 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1462268.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1462268.htm"/>
+        <updated>2024-12-13T17:41:56.469Z</updated>
+        <content type="html"><![CDATA[华为最新旗舰智能手机所采用的芯片与一年前的芯片略有不同，这表明这家中国公司的技术进步正在放缓。根据 TechInsights 
+研究人员对该设备的拆解，新推出的 Mate 70 Pro Plus 手机采用的处理器采用与去年 Mate 60 Pro 相同的 7 
+纳米技术制造。这款名为麒麟 9020的芯片由华为设计，再次由上海中芯国际制造有限公司生产。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果手表吸在高铁玻璃上拿不下来 网友纷纷效仿 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461654.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461654.htm"/>
+        <updated>2024-12-11T17:42:17.905Z</updated>
+        <content type="html"><![CDATA[12月9日消息，据媒体报道，近日网传苹果手表会吸在高铁玻璃上拿不下来，许多网友现身说法用自己的设备做实验。有的网友表示“能取下来”，也有的网友表示“取不下来”。对此，有博主解释称，<strong>苹果手表取不下来是因为“光胶现象”，这是一种物理学现象，当物体表面的光滑程度超过一定限度时，越光滑，则摩擦力反而会越大。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钓鱼佬钓到一条有编码的鱼：“浙海研C50” 来历找到了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1461300.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1461300.htm"/>
+        <updated>2024-12-13T17:41:56.469Z</updated>
+        <content type="html"><![CDATA[最近，台州网友@小羊驼在社交媒体上求助，<strong>称自己在大陈岛钓到一条有编码的鱼，好奇这条鱼能不能吃</strong>，并附上了一张图片。根据这张图片显示，<strong>他钓上来的应该是一条黑鲷鱼，背鳍末端处挂着一个粉红色的标签，上面写着“浙海研C50”。</strong>]]></content>
     </entry>
 </feed>
