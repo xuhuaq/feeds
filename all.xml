@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-15T05:42:24.310Z</updated>
+    <updated>2024-12-15T17:39:56.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[中国最大沙漠 被围起来了 (cnbeta一周排行)]]></title>
@@ -20,34 +20,11 @@
  CPU、GPU 和 ASIC，但中国的公司仍不愿转而使用国内替代产品。 这种情况适用于所有类型的半导体，从汽车应用和跨领域应用的组件到人工智能和高性能计算所需的最尖端处理器。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全球最热销iPhone、Android手机是哪些？两大机构数据差异不小 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461310.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461310.htm"/>
-        <updated>2024-12-11T17:42:17.904Z</updated>
-        <content type="html"><![CDATA[根据市场调研公司Counterpoint和Canalys最新发布的2024年第三季度全球热销手机TOP 10排行榜，我们可以一窥当前全球智能手机市场的热销机型。<strong>在Counterpoint的榜单中，苹果iPhone 15系列表现强劲，iPhone 15、iPhone 15 Pro Max和iPhone 15 Pro分别占据了前三名的位置。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社论：建比特币储备将是迄今为止最大的加密货币骗局 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461924.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461924.htm"/>
-        <updated>2024-12-13T17:41:56.452Z</updated>
-        <content type="html"><![CDATA[彭博发表社论认为，比特币没有工业用途，没有实际现金流，也与真实经济没有任何联系。它仅仅是一个纯粹的投机工具。它的价格完全依赖于一个更傻的人愿意支付多少钱。除了浪费纳税人资金外，创建比特币储备只会富裕现有比特币的拥有者。美国政府则将成为市场上那个“更傻的人”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁“偷了”华为红枫原色影像技术？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461450.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461450.htm"/>
-        <updated>2024-12-09T09:33:42.000Z</updated>
-        <content type="html"><![CDATA[11月26日，华为正式发布了新一代旗舰智能手机Mate 70系列，首发了红枫原色摄像头，拥有150万多光谱通道，可以捕捉更为丰富的环境光谱信息，使得色彩还原准确度提升120%，引发了业界的广泛关注。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还没普及就凉凉，这代Wi-Fi 7还有救吗？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461676.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461676.htm"/>
-        <updated>2024-12-12T17:42:44.558Z</updated>
-        <content type="html"><![CDATA[一聊到 5G，说啥的都有，什么&nbsp;“&nbsp;流量贵，一晚上烧掉一套房&nbsp;”&nbsp;、&nbsp;“&nbsp;真假 5G 的区别&nbsp;”&nbsp;以及&nbsp;“ 5G 
-基站辐射大&nbsp;”&nbsp;等等，哪怕你从来没主动关注过这些新闻，是不是总感觉在哪里听到过？反观 Wi-Fi 
-，虽然每天都在用，却没啥人关注它迭代到第几代了。]]></content>
+        <title type="html"><![CDATA[微软放宽Windows 11安装条件 不再强制要求TPM 2.0 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461938.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461938.htm"/>
+        <updated>2024-12-12T17:42:44.553Z</updated>
+        <content type="html"><![CDATA[微软终于打开了保护运行不兼容硬件的系统（包括缺少 TPM 2.0 的系统）升级 Windows 11 的铁门。对于使用旧系统或系统中没有 TPM 2.0 模块但想要升级到较新操作系统版本的用户来说，这是一个好消息。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TechInsights：华为最新Mate 70手机显示其芯片进展停滞不前 (cnbeta一周排行)]]></title>
@@ -59,11 +36,34 @@
 纳米技术制造。这款名为麒麟 9020的芯片由华为设计，再次由上海中芯国际制造有限公司生产。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软放宽Windows 11安装条件 不再强制要求TPM 2.0 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1461938.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1461938.htm"/>
-        <updated>2024-12-12T17:42:44.553Z</updated>
-        <content type="html"><![CDATA[微软终于打开了保护运行不兼容硬件的系统（包括缺少 TPM 2.0 的系统）升级 Windows 11 的铁门。对于使用旧系统或系统中没有 TPM 2.0 模块但想要升级到较新操作系统版本的用户来说，这是一个好消息。]]></content>
+        <title type="html"><![CDATA[还没普及就凉凉，这代Wi-Fi 7还有救吗？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461676.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461676.htm"/>
+        <updated>2024-12-12T17:42:44.558Z</updated>
+        <content type="html"><![CDATA[一聊到 5G，说啥的都有，什么&nbsp;“&nbsp;流量贵，一晚上烧掉一套房&nbsp;”&nbsp;、&nbsp;“&nbsp;真假 5G 的区别&nbsp;”&nbsp;以及&nbsp;“ 5G 
+基站辐射大&nbsp;”&nbsp;等等，哪怕你从来没主动关注过这些新闻，是不是总感觉在哪里听到过？反观 Wi-Fi 
+，虽然每天都在用，却没啥人关注它迭代到第几代了。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彭博社论：建比特币储备将是迄今为止最大的加密货币骗局 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461924.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461924.htm"/>
+        <updated>2024-12-13T17:41:56.452Z</updated>
+        <content type="html"><![CDATA[彭博发表社论认为，比特币没有工业用途，没有实际现金流，也与真实经济没有任何联系。它仅仅是一个纯粹的投机工具。它的价格完全依赖于一个更傻的人愿意支付多少钱。除了浪费纳税人资金外，创建比特币储备只会富裕现有比特币的拥有者。美国政府则将成为市场上那个“更傻的人”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球最热销iPhone、Android手机是哪些？两大机构数据差异不小 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461310.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461310.htm"/>
+        <updated>2024-12-11T17:42:17.904Z</updated>
+        <content type="html"><![CDATA[根据市场调研公司Counterpoint和Canalys最新发布的2024年第三季度全球热销手机TOP 10排行榜，我们可以一窥当前全球智能手机市场的热销机型。<strong>在Counterpoint的榜单中，苹果iPhone 15系列表现强劲，iPhone 15、iPhone 15 Pro Max和iPhone 15 Pro分别占据了前三名的位置。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁“偷了”华为红枫原色影像技术？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1461450.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1461450.htm"/>
+        <updated>2024-12-09T09:33:42.000Z</updated>
+        <content type="html"><![CDATA[11月26日，华为正式发布了新一代旗舰智能手机Mate 70系列，首发了红枫原色摄像头，拥有150万多光谱通道，可以捕捉更为丰富的环境光谱信息，使得色彩还原准确度提升120%，引发了业界的广泛关注。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[阿里挺进日本，再造一个淘宝 (cnbeta一周排行)]]></title>
@@ -82,6 +82,20 @@
 2看上去非常像Switch，暂时无法确定真伪。Satisfye目前已将意外泄露的视频删除。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[这种长得像枣，浑身没毛的水果，竟是猕猴桃？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1462652.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1462652.htm"/>
+        <updated>2024-12-13T09:16:24.000Z</updated>
+        <content type="html"><![CDATA[对于猕猴桃大家都不陌生，但是提到“软枣猕猴桃”很多人可能不太了解。这位新晋的网红水果，有枣的外形却是猕猴桃的口感，小贩们把这个水果夸成了“神仙果”，降血脂、降血压、增强免疫力……软枣猕猴桃，真实身份到底如何呢？]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国男子来中国武当山习武14年 金发变黑发 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1461324.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1461324.htm"/>
+        <updated>2024-12-12T17:42:44.550Z</updated>
+        <content type="html"><![CDATA[近日，美国男子来中国武当山习武14年，从一头金发变成黑发一事引发关注。对此，<strong>当事人杰克对媒体回应称，可能与食物、生活环境有关。据悉，杰克20岁来到中国，如今是三丰派第十六代传人。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[人们为什么怀念马云？ (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1462032.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1462032.htm"/>
@@ -96,11 +110,13 @@
         <content type="html"><![CDATA[易车榜今日发布了今年前10月全球汽车销量Top10国家榜。榜单显示，<strong>中国前十月共计销售汽车1803.02万辆，位居榜单第一，比第二名美国多出450万辆，断层式领先。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国男子来中国武当山习武14年 金发变黑发 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1461324.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1461324.htm"/>
-        <updated>2024-12-12T17:42:44.550Z</updated>
-        <content type="html"><![CDATA[近日，美国男子来中国武当山习武14年，从一头金发变成黑发一事引发关注。对此，<strong>当事人杰克对媒体回应称，可能与食物、生活环境有关。据悉，杰克20岁来到中国，如今是三丰派第十六代传人。</strong>]]></content>
+        <title type="html"><![CDATA[vivo 将于明年推出全新子品牌 Jovi (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1462312.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1462312.htm"/>
+        <updated>2024-12-12T03:59:14.000Z</updated>
+        <content type="html"><![CDATA[中国智能手机制造商喜欢创建子品牌来迎合不同领域的市场--例如红米（Redmi）、Poco、iQOO、Realme。 而 vivo 也正在打造继 
+iQOO 之后的下一个子品牌。这个品牌将被命名为"Jovi"，如果听起来有点耳熟，那是因为 vivo 
+一直在使用这个名字来命名其人工智能助手和其他一些系统应用。 现在看来，Jovi 已经准备好成长为自己的智能手机品牌了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果手表吸在高铁玻璃上拿不下来 网友纷纷效仿 (cnbeta一周排行)]]></title>
@@ -110,20 +126,18 @@
         <content type="html"><![CDATA[12月9日消息，据媒体报道，近日网传苹果手表会吸在高铁玻璃上拿不下来，许多网友现身说法用自己的设备做实验。有的网友表示“能取下来”，也有的网友表示“取不下来”。对此，有博主解释称，<strong>苹果手表取不下来是因为“光胶现象”，这是一种物理学现象，当物体表面的光滑程度超过一定限度时，越光滑，则摩擦力反而会越大。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ptyxis 成为 Ubuntu 推荐的 GNOME 终端替代品 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/soft/1461984.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/soft/1461984.htm"/>
+        <updated>2024-12-11T02:47:53.000Z</updated>
+        <content type="html"><![CDATA[虽然 Ubuntu 桌面已经提供了较新的 GNOME 控制台作为终端的替代，但最近围绕 Ptyxis 的热潮显然正在成为 Ubuntu 阵营推荐的 GNOME 终端替代品。Ptyxis 是前身为 GNOME Prompt 的终端模拟器， 在利用 VTE 库的同时强调性能和功能。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[知情人士披露极越闪崩原因：存在高达70亿财务窟窿致百度撤资 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1462484.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1462484.htm"/>
         <updated>2024-12-14T17:39:59.916Z</updated>
         <content type="html"><![CDATA[极越汽车突然就崩盘了，这种突发情况惊掉了不少人的眼镜，那么到底是为何？据媒体最新报道，<strong>多名熟悉此事的人士认为极越闪崩主要原因在于百度撤资。</strong>而百度内部人士告知，公司2024年10月曾派财务团队进入极越尽调，为后续30亿投资做准备：<strong>“结果发现极越一滩烂帐，有高达70亿财务窟窿，决定不再继续投入。”</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivo 将于明年推出全新子品牌 Jovi (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1462312.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1462312.htm"/>
-        <updated>2024-12-12T03:59:14.000Z</updated>
-        <content type="html"><![CDATA[中国智能手机制造商喜欢创建子品牌来迎合不同领域的市场--例如红米（Redmi）、Poco、iQOO、Realme。 而 vivo 也正在打造继 
-iQOO 之后的下一个子品牌。这个品牌将被命名为"Jovi"，如果听起来有点耳熟，那是因为 vivo 
-一直在使用这个名字来命名其人工智能助手和其他一些系统应用。 现在看来，Jovi 已经准备好成长为自己的智能手机品牌了。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[钓鱼佬钓到一条有编码的鱼：“浙海研C50” 来历找到了 (cnbeta一周排行)]]></title>
@@ -138,19 +152,5 @@ iQOO 之后的下一个子品牌。这个品牌将被命名为"Jovi"，如果听
         <link href="https://www.cnbeta.com.tw/articles/tech/1462328.htm"/>
         <updated>2024-12-12T08:57:53.000Z</updated>
         <content type="html"><![CDATA[<strong>12月10日，谷歌公布最新一代量子芯片——Willow，轰动全球科技界，连马斯克都惊叹一声“哇塞” ！</strong>Willow芯片强大在哪？距离大规模量产还有多远？]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ptyxis 成为 Ubuntu 推荐的 GNOME 终端替代品 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/soft/1461984.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/soft/1461984.htm"/>
-        <updated>2024-12-11T02:47:53.000Z</updated>
-        <content type="html"><![CDATA[虽然 Ubuntu 桌面已经提供了较新的 GNOME 控制台作为终端的替代，但最近围绕 Ptyxis 的热潮显然正在成为 Ubuntu 阵营推荐的 GNOME 终端替代品。Ptyxis 是前身为 GNOME Prompt 的终端模拟器， 在利用 VTE 库的同时强调性能和功能。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯测试切断全球网络连接 VPN无法绕过 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1462492.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1462492.htm"/>
-        <updated>2024-12-14T17:39:59.937Z</updated>
-        <content type="html"><![CDATA[据美国非营利组织战争研究所（ISW）和西方新闻机构转发的欧洲和俄罗斯新闻报道称，俄罗斯已切断了该国部分地区与世界其他地区的网络连接，为期一天。]]></content>
     </entry>
 </feed>
