@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-12-23T05:41:03.343Z</updated>
+    <updated>2024-12-23T17:39:28.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -45,13 +45,6 @@
 系列的大部分细节已经泄露。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TGA美女主持人被网友们称赞 穿黑纱裙非常吸睛]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1463458.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1463458.htm"/>
-        <updated>2024-12-19T17:40:12.666Z</updated>
-        <content type="html"><![CDATA[今年TGA颁奖典礼已落幕，《宇宙机器人》获得年度最佳游戏。本次颁奖典礼上除了新作预告和颁奖外，美女主持人Sydnee Goodman也受到网友关注。她身穿黑纱包臀裙，非常吸睛！]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[塑胶手表表带被确认为令人担忧的PFAS来源]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1464200.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1464200.htm"/>
@@ -66,61 +59,11 @@
         <content type="html"><![CDATA[根据 IDC 的数据，中国已成为最大的腕戴式设备市场，2024 年前三季度的出货量达到 4580 万块，同比增长 20.1%，推动了全球市场的增长。 这个市场包括智能手表和腕带，其中全球智能手表出货量达到 1.122 亿块，比去年下降了 3.8%，而中国则猛增了 23.3%，达到 3290 万块。 腕带方面，全球出货量为 2680 万条，同比增长 12.7%，中国出货量为 1290 万条，同比增长 12.6%。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[据称三星已经解雇了在网上泄露 Galaxy S25+ 原型机的员工]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1464448.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1464448.htm"/>
-        <updated>2024-12-21T17:38:16.046Z</updated>
-        <content type="html"><![CDATA[科技界的泄密事件就像热带地区的雨水一样常见。 员工、内部人士甚至承包商都会冒着丢饭碗的危险，泄露即将面世的产品。 但有时，这些泄密事件却会产生惊人的反效果。 例如，Samsung Galaxy S25+ 原型机 最近在网上浮出水面。一张照片显示的似乎是正在运行的 Galaxy S25+ 原型机。 泄密者也许太急于分享，忘记模糊掉手机底部的序列号。 这一疏忽很快被眼尖的网民发现。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极越CEO夏一平：我太想把车卖好了 造成今天的错，感到深深的歉意]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463304.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463304.htm"/>
-        <updated>2024-12-16T09:00:05.000Z</updated>
-        <content type="html"><![CDATA[12月16日消息，今日凌晨极越CEO夏一平在朋友圈发表声明，称自己太想把极越的两款车卖好了。而这可能为极越走入今天的困境埋下伏笔，作为CEO，自己犯了许多错误，对员工、车主、供应商乃至股东，自己都感到深深的歉意。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国联通成功开发FaceTime诈骗识别 与苹果联动处置]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463780.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463780.htm"/>
-        <updated>2024-12-19T17:40:12.672Z</updated>
-        <content type="html"><![CDATA[<strong>今年以来，iPhone手机经常出现FaceTime诈骗的案件。</strong>因为FaceTime显示的昵称是用户Apple账户设置的名字，可以随意编辑，很多诈骗分子会把昵称改成某某公安局，或者某某反诈中心。如果受害者没有反应过来，就有可能会以为自己涉案了，产生恐慌从而影响判断。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大疆创新逃过美国无人机禁令 除非特朗普介入 后续会被自动禁止]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1464338.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1464338.htm"/>
-        <updated>2024-12-21T17:38:16.037Z</updated>
-        <content type="html"><![CDATA[美国参议院<a href="https://www.reuters.com/world/us/majority-us-senate-backs-massive-defense-bill-voting-continues-2024-12-18/">通过了</a>年度国防开支法案--《国防授权法》（NDAA），该法案可能会对全球最大的无人机公司产生重大影响--尽管不一定是中国大疆所担心的立即禁止。虽然该法案没有包含"反中共无人机法案"的全部条款，这些条款会迅速阻止大疆产品进口到美国，但它却启动了为期一年的倒计时，直到大疆产品（以及竞争对手Autel Robotics的产品）被自动禁止。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5.1GHz也没用 AMD史上最快四核心只能勉强喂饱RTX 4060]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463236.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463236.htm"/>
-        <updated>2024-12-19T17:40:12.676Z</updated>
-        <content type="html"><![CDATA[如今，四核心处理器已经基本离我们远去，不过AMD今年中面向中小企业发布的EPYC 4004系列，却包含了一款入门级的是四核心EPYC 4124P，而且是AMD史上最快的四核心。<strong>EPYC 4124P基于Zen4架构，四核心八线程，主频高达5.1GHz，三级缓存16MB，接口AM5，可以兼容桌面平台，价格只要149美元。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据称新款 Magic Mouse 将解决 15 年来的所有问题]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463244.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463244.htm"/>
-        <updated>2024-12-18T17:41:16.709Z</updated>
-        <content type="html"><![CDATA[苹果公司可能会在 2026 年推出其 Magic Mouse 的替代品，据说新设计将最终消除用户长期以来一直吐槽的问题。在 2023 年和 
-2024 年的大部分时间里，都有传言称苹果将推出一款采用 USB-C 接口的新款 Magic Mouse。 这一消息最终在 2024 年 10 月实现，它和妙控键盘都更换了最新的有线连接接口。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星 Galaxy S25 Ultra 的窄边框效果令人印象深刻]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463968.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463968.htm"/>
-        <updated>2024-12-18T09:48:03.000Z</updated>
-        <content type="html"><![CDATA[已经有传言称三星即将推出的Galaxy S25 Ultra将配备超薄屏幕边框，但今天我们又获得了一个新的细节。根据 Ice Universe 的说法，S25 Ultra 实际上将在边框变窄的竞争中胜出，其边框比任何其他手机都要薄，包括 Xiaomi 15 和 iPhone 16 Pro Max。，这两款产品都拥有令人印象深刻的小边框，但 S25 Ultra 将在这方面更进一步。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泄露的三星 Galaxy S25+ 图片显示了一种似曾相识的设计]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463878.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463878.htm"/>
-        <updated>2024-12-18T01:17:00.000Z</updated>
-        <content type="html"><![CDATA[三星将于1 月 22 日在美国加利福尼亚州圣何塞举办 Galaxy Unpacked 活动。 预计届时该公司将发布 Galaxy S25 系列以及与高通和Google合作开发的代号为"Project Moohan"的 Galaxy XR 头显。 关于整个 Galaxy S25 系列的消息已经泄露了很多。 有消息称，今年的 S 系列将在全球范围内采用Snapdragon 8 Elite 芯片。]]></content>
+        <title type="html"><![CDATA[TGA美女主持人被网友们称赞 穿黑纱裙非常吸睛]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1463458.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1463458.htm"/>
+        <updated>2024-12-19T17:40:12.666Z</updated>
+        <content type="html"><![CDATA[今年TGA颁奖典礼已落幕，《宇宙机器人》获得年度最佳游戏。本次颁奖典礼上除了新作预告和颁奖外，美女主持人Sydnee Goodman也受到网友关注。她身穿黑纱包臀裙，非常吸睛！]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[明年大爆款 小米YU7实车首次曝光：颜值高到没朋友]]></title>
@@ -130,11 +73,55 @@
         <content type="html"><![CDATA[今日，<strong>一组小米SUV车型YU7无伪装实车照片在网络上流传</strong>，据称拍摄地点位于北京雁栖湖。相比于官图和申报图，实车图更能展现立体感和细节，同时也更加真实，因此更具参考价值。从照片看，YU7整体姿态相当流畅，同时采用了家族化设计语言，随处可见SU7的设计元素，不过由于YU7是一台SUV，因此有不少改变，<strong>比如前舱盖两侧的隆起更加突出，营造肌肉感，并且还拥有实体风道，可优化空气动力学，减少能耗。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[兜底极越车主智驾和地图 百度回应了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463332.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463332.htm"/>
-        <updated>2024-12-16T09:32:39.000Z</updated>
-        <content type="html"><![CDATA[极越事件满城风雨，百度站出来，给了车主们一个交代。这周最大的舆论风暴之一，就是极越汽车突然宣布“原地解散”，让极越车主、让供应商、让极越的五千多号员工猝不及防。事件持续发酵，群情激奋，总要有人平息。极越背后的百度和吉利，站出来紧急发布了联合声明。他们也在深思熟虑后，向极越车主和员工做出了承诺。]]></content>
+        <title type="html"><![CDATA[三星 Galaxy S25 Ultra 的窄边框效果令人印象深刻]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1463968.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1463968.htm"/>
+        <updated>2024-12-18T09:48:03.000Z</updated>
+        <content type="html"><![CDATA[已经有传言称三星即将推出的Galaxy S25 Ultra将配备超薄屏幕边框，但今天我们又获得了一个新的细节。根据 Ice Universe 的说法，S25 Ultra 实际上将在边框变窄的竞争中胜出，其边框比任何其他手机都要薄，包括 Xiaomi 15 和 iPhone 16 Pro Max。，这两款产品都拥有令人印象深刻的小边框，但 S25 Ultra 将在这方面更进一步。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆创新逃过美国无人机禁令 除非特朗普介入 后续会被自动禁止]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1464338.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1464338.htm"/>
+        <updated>2024-12-21T17:38:16.037Z</updated>
+        <content type="html"><![CDATA[美国参议院<a href="https://www.reuters.com/world/us/majority-us-senate-backs-massive-defense-bill-voting-continues-2024-12-18/">通过了</a>年度国防开支法案--《国防授权法》（NDAA），该法案可能会对全球最大的无人机公司产生重大影响--尽管不一定是中国大疆所担心的立即禁止。虽然该法案没有包含"反中共无人机法案"的全部条款，这些条款会迅速阻止大疆产品进口到美国，但它却启动了为期一年的倒计时，直到大疆产品（以及竞争对手Autel Robotics的产品）被自动禁止。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据称三星已经解雇了在网上泄露 Galaxy S25+ 原型机的员工]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1464448.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1464448.htm"/>
+        <updated>2024-12-21T17:38:16.046Z</updated>
+        <content type="html"><![CDATA[科技界的泄密事件就像热带地区的雨水一样常见。 员工、内部人士甚至承包商都会冒着丢饭碗的危险，泄露即将面世的产品。 但有时，这些泄密事件却会产生惊人的反效果。 例如，Samsung Galaxy S25+ 原型机 最近在网上浮出水面。一张照片显示的似乎是正在运行的 Galaxy S25+ 原型机。 泄密者也许太急于分享，忘记模糊掉手机底部的序列号。 这一疏忽很快被眼尖的网民发现。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泄露的三星 Galaxy S25+ 图片显示了一种似曾相识的设计]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1463878.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1463878.htm"/>
+        <updated>2024-12-18T01:17:00.000Z</updated>
+        <content type="html"><![CDATA[三星将于1 月 22 日在美国加利福尼亚州圣何塞举办 Galaxy Unpacked 活动。 预计届时该公司将发布 Galaxy S25 系列以及与高通和Google合作开发的代号为"Project Moohan"的 Galaxy XR 头显。 关于整个 Galaxy S25 系列的消息已经泄露了很多。 有消息称，今年的 S 系列将在全球范围内采用Snapdragon 8 Elite 芯片。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国联通成功开发FaceTime诈骗识别 与苹果联动处置]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1463780.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1463780.htm"/>
+        <updated>2024-12-19T17:40:12.672Z</updated>
+        <content type="html"><![CDATA[<strong>今年以来，iPhone手机经常出现FaceTime诈骗的案件。</strong>因为FaceTime显示的昵称是用户Apple账户设置的名字，可以随意编辑，很多诈骗分子会把昵称改成某某公安局，或者某某反诈中心。如果受害者没有反应过来，就有可能会以为自己涉案了，产生恐慌从而影响判断。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉60度电池跑出100度续航 雷军承认小米需要3-5年学习]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1465098.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1465098.htm"/>
+        <updated>2024-12-23T17:39:27.661Z</updated>
+        <content type="html"><![CDATA[特斯拉公司副总裁陶琳今日发文称，<strong>特斯拉车型能耗表现出众，可以用60度跑出100度电池的效果。</strong>她强调，<strong>特斯拉的高效并不来自大电池、车辆配置的简单堆砌，而是得益于创新的电池设计+低功耗的电驱系统+更高的能量转换效率+整车轻量化的设计。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUDA护城河，有多深？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1463984.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1463984.htm"/>
+        <updated>2024-12-23T17:39:27.664Z</updated>
+        <content type="html"><![CDATA[NVIDIA 正面临着多年来最激烈的竞争，英特尔和 AMD 
+推出的新加速器在内存容量、性能和价格方面对其最佳芯片构成挑战。然而，仅仅打造一个有竞争力的部件是不够的：你还必须拥有可以利用所有 FLOPS 
+的软件——NVIDIA 花了近二十年的时间通过其 CUDA 运行时来构建它。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美国政府可能会在明年禁止在该国销售TP-Link路由器]]></title>
@@ -142,6 +129,20 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1464164.htm"/>
         <updated>2024-12-20T17:39:40.446Z</updated>
         <content type="html"><![CDATA[由于 TP-Link 互联网路由器屡次与中国相关的网络攻击有关，美国当局出于国家安全考虑，正在考虑禁售该产品。 <a href="https://www.wsj.com/politics/national-security/us-ban-china-router-tp-link-systems-7d7507e6?st=SEX5iL&amp;reflink=desktopwebshare_permalink">据</a>华尔街日报报道，商务部、国防部和司法部的调查人员都对该公司展开了调查，据说商务部的一个办公室还传唤了TP-Link的相关热晕。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海外仅需20.3万起 全新你丰田埃尔法/威尔法官图正式发布]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1464684.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1464684.htm"/>
+        <updated>2024-12-23T17:39:27.674Z</updated>
+        <content type="html"><![CDATA[丰田汽车近日发布了2025款埃尔法和威尔法的官图，<strong>宣布这两款车型将在日本市场新增PHEV（插电混动）版本。</strong>据悉，2025款埃尔法和威尔法将于2025年1月7日和1月31日分别亮相。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年值得期待的五个苹果产品]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1464850.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1464850.htm"/>
+        <updated>2024-12-21T10:12:29.000Z</updated>
+        <content type="html"><![CDATA[看起来 2025 年将是苹果公司重要的一年，公司计划对iPhone进行革新，进一步推进智能家居产品，并改进Apple Intelligence。 据传，2025 年苹果将推出多款新产品，包括新 iPhone、M4 Mac、智能家居指挥中心等。这里我们重点介绍将在 2025 年产生最大影响的五大苹果产品。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[山姆出售“一日会员体验卡”？500万会员彻底破防]]></title>
