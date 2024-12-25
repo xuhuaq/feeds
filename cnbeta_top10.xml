@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-12-25T05:40:53.769Z</updated>
+    <updated>2024-12-25T17:39:35.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[科学家复活了3万年前的种子 直到植物开花才发现和现代的不同]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1464474.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1464474.htm"/>
-        <updated>2024-12-21T17:38:16.051Z</updated>
-        <content type="html"><![CDATA[全球大约有11%的表面被永久冻土覆盖，这些土地至少持续两年时间温度维持在0摄氏度以下，它们存在于南北极地地区，以及高山和部分极地海床。永久冻土的植被类型通常是苔原，以苔藓、地衣为主，有时候一些浅根灌木也会在那里生存。即便环境十分恶劣，可供食用的植物不多，但依然吸引了许多动物在那里繁衍生息。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[2025年贺岁纪念钞、纪念币今晚预约 抢到赚500元]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1465292.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1465292.htm"/>
         <updated>2024-12-24T17:38:36.783Z</updated>
         <content type="html"><![CDATA[12月23日消息，中国人民银行于2024年12月16日起发行2025年贺岁纪念钞，面额20元，发行数量为1亿张（含留存历史货币档案2万张）。同时发行的还有双色铜合金纪念币，面额10元，发行数量为1亿枚（含留存历史货币档案1万枚）。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家复活了3万年前的种子 直到植物开花才发现和现代的不同]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1464474.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1464474.htm"/>
+        <updated>2024-12-21T17:38:16.051Z</updated>
+        <content type="html"><![CDATA[全球大约有11%的表面被永久冻土覆盖，这些土地至少持续两年时间温度维持在0摄氏度以下，它们存在于南北极地地区，以及高山和部分极地海床。永久冻土的植被类型通常是苔原，以苔藓、地衣为主，有时候一些浅根灌木也会在那里生存。即便环境十分恶劣，可供食用的植物不多，但依然吸引了许多动物在那里繁衍生息。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ASML今年卖了多少光刻机？]]></title>
@@ -36,18 +36,18 @@
  Electronics。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[塑胶手表表带被确认为令人担忧的PFAS来源]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1464200.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1464200.htm"/>
-        <updated>2024-12-19T02:09:12.000Z</updated>
-        <content type="html"><![CDATA[智能手表有助于改善我们的健康和健身。 但一份新的报告称，我们必须考虑给智能手表戴上什么样的表带，因为有几个流行品牌被发现含有大量与健康问题有关的一类化学物质。被称为全氟烷基和多氟烷基物质（PFAS）的化学物质在生产过程中的益处几乎没有争论的余地。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[明年大爆款 小米YU7实车首次曝光：颜值高到没朋友]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1464610.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1464610.htm"/>
         <updated>2024-12-22T17:38:05.389Z</updated>
         <content type="html"><![CDATA[今日，<strong>一组小米SUV车型YU7无伪装实车照片在网络上流传</strong>，据称拍摄地点位于北京雁栖湖。相比于官图和申报图，实车图更能展现立体感和细节，同时也更加真实，因此更具参考价值。从照片看，YU7整体姿态相当流畅，同时采用了家族化设计语言，随处可见SU7的设计元素，不过由于YU7是一台SUV，因此有不少改变，<strong>比如前舱盖两侧的隆起更加突出，营造肌肉感，并且还拥有实体风道，可优化空气动力学，减少能耗。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[塑胶手表表带被确认为令人担忧的PFAS来源]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1464200.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1464200.htm"/>
+        <updated>2024-12-19T02:09:12.000Z</updated>
+        <content type="html"><![CDATA[智能手表有助于改善我们的健康和健身。 但一份新的报告称，我们必须考虑给智能手表戴上什么样的表带，因为有几个流行品牌被发现含有大量与健康问题有关的一类化学物质。被称为全氟烷基和多氟烷基物质（PFAS）的化学物质在生产过程中的益处几乎没有争论的余地。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果在全球可穿戴设备市场中失宠 跌至第二]]></title>
@@ -57,11 +57,11 @@
         <content type="html"><![CDATA[根据 IDC 的数据，中国已成为最大的腕戴式设备市场，2024 年前三季度的出货量达到 4580 万块，同比增长 20.1%，推动了全球市场的增长。 这个市场包括智能手表和腕带，其中全球智能手表出货量达到 1.122 亿块，比去年下降了 3.8%，而中国则猛增了 23.3%，达到 3290 万块。 腕带方面，全球出货量为 2680 万条，同比增长 12.7%，中国出货量为 1290 万条，同比增长 12.6%。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星 Galaxy S25 Ultra 的窄边框效果令人印象深刻]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463968.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463968.htm"/>
-        <updated>2024-12-18T09:48:03.000Z</updated>
-        <content type="html"><![CDATA[已经有传言称三星即将推出的Galaxy S25 Ultra将配备超薄屏幕边框，但今天我们又获得了一个新的细节。根据 Ice Universe 的说法，S25 Ultra 实际上将在边框变窄的竞争中胜出，其边框比任何其他手机都要薄，包括 Xiaomi 15 和 iPhone 16 Pro Max。，这两款产品都拥有令人印象深刻的小边框，但 S25 Ultra 将在这方面更进一步。]]></content>
+        <title type="html"><![CDATA[ASML 29亿元的EUV光刻机做成乐高玩具：要价1660元依然疯抢]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1465142.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1465142.htm"/>
+        <updated>2024-12-23T01:09:55.000Z</updated>
+        <content type="html"><![CDATA[ASML已经向Intel等客户出货迄今最先进的高NA EVU光刻机TWINSCAN EXE:5000，还打造了一个特别的纪念品，等比例缩小的乐高玩具，结果超乎寻常的火爆。这款光刻机乐高玩具一共有<strong>851块零件</strong>，拼接完成后的尺寸约为352x99×64毫米，<strong>定价高达227.95美元，约合人民币1660元</strong>，而且限量每人只能买一个。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉60度电池跑出100度续航 雷军承认小米需要3-5年学习]]></title>
@@ -69,6 +69,13 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1465098.htm"/>
         <updated>2024-12-23T17:39:27.661Z</updated>
         <content type="html"><![CDATA[特斯拉公司副总裁陶琳今日发文称，<strong>特斯拉车型能耗表现出众，可以用60度跑出100度电池的效果。</strong>她强调，<strong>特斯拉的高效并不来自大电池、车辆配置的简单堆砌，而是得益于创新的电池设计+低功耗的电驱系统+更高的能量转换效率+整车轻量化的设计。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国联通宣布购买eSIM iPad立减600元 可领300GB全国流量年包]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1465060.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1465060.htm"/>
+        <updated>2024-12-24T17:38:36.827Z</updated>
+        <content type="html"><![CDATA[今日，中国联通宣布，12月22日起，<strong>在中国联通购买支持eSIM的iPad Air（M2）与iPad mini（A17 Pro）可享600元起限时立减优惠，并且还能领取300GB全国流量年包专属权益。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大疆创新逃过美国无人机禁令 除非特朗普介入 后续会被自动禁止]]></title>
@@ -85,34 +92,11 @@
         <content type="html"><![CDATA[科技界的泄密事件就像热带地区的雨水一样常见。 员工、内部人士甚至承包商都会冒着丢饭碗的危险，泄露即将面世的产品。 但有时，这些泄密事件却会产生惊人的反效果。 例如，Samsung Galaxy S25+ 原型机 最近在网上浮出水面。一张照片显示的似乎是正在运行的 Galaxy S25+ 原型机。 泄密者也许太急于分享，忘记模糊掉手机底部的序列号。 这一疏忽很快被眼尖的网民发现。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[泄露的三星 Galaxy S25+ 图片显示了一种似曾相识的设计]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463878.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463878.htm"/>
-        <updated>2024-12-18T01:17:00.000Z</updated>
-        <content type="html"><![CDATA[三星将于1 月 22 日在美国加利福尼亚州圣何塞举办 Galaxy Unpacked 活动。 预计届时该公司将发布 Galaxy S25 系列以及与高通和Google合作开发的代号为"Project Moohan"的 Galaxy XR 头显。 关于整个 Galaxy S25 系列的消息已经泄露了很多。 有消息称，今年的 S 系列将在全球范围内采用Snapdragon 8 Elite 芯片。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUDA护城河，有多深？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463984.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463984.htm"/>
-        <updated>2024-12-23T17:39:27.664Z</updated>
-        <content type="html"><![CDATA[NVIDIA 正面临着多年来最激烈的竞争，英特尔和 AMD 
-推出的新加速器在内存容量、性能和价格方面对其最佳芯片构成挑战。然而，仅仅打造一个有竞争力的部件是不够的：你还必须拥有可以利用所有 FLOPS 
-的软件——NVIDIA 花了近二十年的时间通过其 CUDA 运行时来构建它。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASML 29亿元的EUV光刻机做成乐高玩具：要价1660元依然疯抢]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1465142.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1465142.htm"/>
-        <updated>2024-12-23T01:09:55.000Z</updated>
-        <content type="html"><![CDATA[ASML已经向Intel等客户出货迄今最先进的高NA EVU光刻机TWINSCAN EXE:5000，还打造了一个特别的纪念品，等比例缩小的乐高玩具，结果超乎寻常的火爆。这款光刻机乐高玩具一共有<strong>851块零件</strong>，拼接完成后的尺寸约为352x99×64毫米，<strong>定价高达227.95美元，约合人民币1660元</strong>，而且限量每人只能买一个。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国联通成功开发FaceTime诈骗识别 与苹果联动处置]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1463780.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1463780.htm"/>
-        <updated>2024-12-19T17:40:12.672Z</updated>
-        <content type="html"><![CDATA[<strong>今年以来，iPhone手机经常出现FaceTime诈骗的案件。</strong>因为FaceTime显示的昵称是用户Apple账户设置的名字，可以随意编辑，很多诈骗分子会把昵称改成某某公安局，或者某某反诈中心。如果受害者没有反应过来，就有可能会以为自己涉案了，产生恐慌从而影响判断。]]></content>
+        <title type="html"><![CDATA[传闻 iOS 19 将兼容这些 iPhone]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1465154.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1465154.htm"/>
+        <updated>2024-12-23T01:28:59.000Z</updated>
+        <content type="html"><![CDATA[据<a href="https://iphonesoft.fr/2024/12/20/ios-19-liste-iphone-compatibles-ipad-moins">法国网站 iPhoneSoft.fr</a> 报道，iOS 19 将不会放弃对前一代所支持的任何 iPhone 机型的支持。 该报道援引了苹果公司内部人士的消息。报告称，iOS 19 将兼容任何能够运行 iOS 18 的 iPhone，这意味着以下机型都会被兼容：]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网友票选年度最佳手机：iPhone罕见跌出Top 4]]></title>
@@ -122,18 +106,11 @@
         <content type="html"><![CDATA[在Android Authority近期的年度最佳手机票选中<strong>，三星Galaxy S24 Ultra经过两轮激烈竞争后脱颖而出，被网友们选为年度最佳手机。今年OnePlus 12将iPhone 16挤出了前四，打破了苹果iPhone连续四年至少进入前四名的传统，iPhone 16 Pro Max位列第五。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国联通宣布购买eSIM iPad立减600元 可领300GB全国流量年包]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1465060.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1465060.htm"/>
-        <updated>2024-12-24T17:38:36.827Z</updated>
-        <content type="html"><![CDATA[今日，中国联通宣布，12月22日起，<strong>在中国联通购买支持eSIM的iPad Air（M2）与iPad mini（A17 Pro）可享600元起限时立减优惠，并且还能领取300GB全国流量年包专属权益。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传闻 iOS 19 将兼容这些 iPhone]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1465154.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1465154.htm"/>
-        <updated>2024-12-23T01:28:59.000Z</updated>
-        <content type="html"><![CDATA[据<a href="https://iphonesoft.fr/2024/12/20/ios-19-liste-iphone-compatibles-ipad-moins">法国网站 iPhoneSoft.fr</a> 报道，iOS 19 将不会放弃对前一代所支持的任何 iPhone 机型的支持。 该报道援引了苹果公司内部人士的消息。报告称，iOS 19 将兼容任何能够运行 iOS 18 的 iPhone，这意味着以下机型都会被兼容：]]></content>
+        <title type="html"><![CDATA[卫星鸟瞰日本东京：不是首都 胜似首都]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1465148.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1465148.htm"/>
+        <updated>2024-12-23T01:16:31.000Z</updated>
+        <content type="html"><![CDATA[<strong>尽管在法律上，日本没有明确规定东京为首都，但事实上，东京承担着日本首都的角色，包括政治决策、政府机构驻地等。</strong>作为日本的事实首都，东京具有重要的地位，是日本内阁和国会的所在地，是日本政治、经济、文化和交通的中心。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025年值得期待的五个苹果产品]]></title>
@@ -143,10 +120,33 @@
         <content type="html"><![CDATA[看起来 2025 年将是苹果公司重要的一年，公司计划对iPhone进行革新，进一步推进智能家居产品，并改进Apple Intelligence。 据传，2025 年苹果将推出多款新产品，包括新 iPhone、M4 Mac、智能家居指挥中心等。这里我们重点介绍将在 2025 年产生最大影响的五大苹果产品。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[俄罗斯宣布自研EUV光刻机 号称比ASML更便宜、更容易制造]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1464432.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1464432.htm"/>
+        <updated>2024-12-25T17:39:34.401Z</updated>
+        <content type="html"><![CDATA[<strong>俄罗斯已公布自主开发EUV（极紫外光刻）光刻机的路线图，目标是比ASML的光刻机更便宜、更容易制造</strong>。据悉，<strong>俄罗斯的自主光刻机采用11.2nm的激光光源，而非ASML标准的13.5nm。这种波长将与现有的EUV设备不兼容，需要俄罗斯开发自己的光刻生态系统，这可能需要十年或更长时间。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[海外仅需20.3万起 全新你丰田埃尔法/威尔法官图正式发布]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1464684.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1464684.htm"/>
         <updated>2024-12-23T17:39:27.674Z</updated>
         <content type="html"><![CDATA[丰田汽车近日发布了2025款埃尔法和威尔法的官图，<strong>宣布这两款车型将在日本市场新增PHEV（插电混动）版本。</strong>据悉，2025款埃尔法和威尔法将于2025年1月7日和1月31日分别亮相。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平台通报：“56学姐”吴柳芳被禁言处罚]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1465492.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1465492.htm"/>
+        <updated>2024-12-24T08:50:34.000Z</updated>
+        <content type="html"><![CDATA[12月24日，抖音安全中心官方宣布，对吴柳芳的账号做出处罚。上个月，前体操冠军吴柳芳因在抖音账号发布性感热舞视频，和奥运冠军管晨辰的互怼引发热议。之后，她的账号一度被禁止关注，恢复之后疯狂涨粉300多万，但随后陷入停滞当中，吴柳芳也再没有更新视频和进行直播。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab不再为中国区用户提供GitLab.com账号服务 旧账户将被删除]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1465262.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1465262.htm"/>
+        <updated>2024-12-25T17:39:34.406Z</updated>
+        <content type="html"><![CDATA[GitLab 今天发出，GitLab.com 账号服务将不再向中国区域（包括香港与澳门）的用户提供，现有的服务将被极狐替代。中国 IP 
+地址现在访问 GitLab.com 会呗跳转到 about.gitlab.com，之后 GitLab 
+将从系统中删除这些用户。帐户以下是公告全文：]]></content>
     </entry>
 </feed>
