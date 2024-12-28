@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2024-12-28T05:39:58.391Z</updated>
+    <updated>2024-12-28T17:38:14.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,19 +13,18 @@
         <content type="html"><![CDATA[12月23日消息，中国人民银行于2024年12月16日起发行2025年贺岁纪念钞，面额20元，发行数量为1亿张（含留存历史货币档案2万张）。同时发行的还有双色铜合金纪念币，面额10元，发行数量为1亿枚（含留存历史货币档案1万枚）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASML今年卖了多少光刻机？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1464698.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1464698.htm"/>
-        <updated>2024-12-21T17:38:16.024Z</updated>
-        <content type="html"><![CDATA[1984年4月1日愚人节这一天，飞利浦和跟荷兰的一家小公司合资，成了一家新公司。新公司的缩写叫ALS，跟渐冻症的缩写是一样的。一直到1996年，这家公司改名叫ASML。也就是现在，大名鼎鼎的ASML。今年，ASML的High
- NA EUV光刻机成为设备新晋“顶流”。<br>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[商用茶包会释放出数百万微塑料 进入人体肠道细胞]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1465928.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1465928.htm"/>
         <updated>2024-12-27T17:38:26.865Z</updated>
         <content type="html"><![CDATA[阿布扎比大学的研究详细描述了基于聚合物的商用茶叶袋在浸泡时如何释放出数以百万计的纳米塑料和微塑料。 这项研究首次表明，这些微粒能够被人体肠道细胞吸收，从而进入血液并扩散到全身。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猛犸象最后的抵抗：有8只被困孤岛 持续繁衍6000年 直到3650年前才灭绝]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1466296.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1466296.htm"/>
+        <updated>2024-12-28T17:38:13.430Z</updated>
+        <content type="html"><![CDATA[猛犸象这种已灭绝的动物，在西伯利亚的永久冻土中埋藏着许多它们的化石，这些化石述说着它们过去的辉煌。以前的人看到这些巨大的化石，给后人留下了独眼巨人的传说；而现代人很喜欢挖掘猛犸象的化石，因为一个品相好的猛犸象象牙会给他们赚得百倍的利润。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国联通宣布购买eSIM iPad立减600元 可领300GB全国流量年包]]></title>
@@ -42,20 +41,6 @@
         <content type="html"><![CDATA[ASML已经向Intel等客户出货迄今最先进的高NA EVU光刻机TWINSCAN EXE:5000，还打造了一个特别的纪念品，等比例缩小的乐高玩具，结果超乎寻常的火爆。这款光刻机乐高玩具一共有<strong>851块零件</strong>，拼接完成后的尺寸约为352x99×64毫米，<strong>定价高达227.95美元，约合人民币1660元</strong>，而且限量每人只能买一个。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉60度电池跑出100度续航 雷军承认小米需要3-5年学习]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1465098.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1465098.htm"/>
-        <updated>2024-12-23T17:39:27.661Z</updated>
-        <content type="html"><![CDATA[特斯拉公司副总裁陶琳今日发文称，<strong>特斯拉车型能耗表现出众，可以用60度跑出100度电池的效果。</strong>她强调，<strong>特斯拉的高效并不来自大电池、车辆配置的简单堆砌，而是得益于创新的电池设计+低功耗的电驱系统+更高的能量转换效率+整车轻量化的设计。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[600万粉丝一夜归零 又被禁言的吴柳芳喊冤：为何只禁我？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1465838.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1465838.htm"/>
-        <updated>2024-12-25T10:04:52.000Z</updated>
-        <content type="html"><![CDATA[12月25日消息，抖音官方账号发布公告，吴柳芳等多个抖音账号以及其背后的MCN机构遭到平台处置。处置措施包括“清除因违规行为增长的粉丝”。“56学姐（798）”等11个账号被采取禁言、暂停营利权限、清除因违规行为增长的粉丝等处置措施，MCN机构“大海星辰”因操纵上述账号多次发布低俗内容吸粉引流，影响恶劣，被采取限制后台账号管理功能30日处置。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[俄自研EUV光刻机曝光：11.2nm光源，每小时处理60片12吋晶圆]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1464918.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1464918.htm"/>
@@ -65,34 +50,6 @@
 基础设施相容，需要俄罗斯自行开发配套的曝光生态系统，可能需要数年甚至十年以上时间。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传闻 iOS 19 将兼容这些 iPhone]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1465154.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1465154.htm"/>
-        <updated>2024-12-23T01:28:59.000Z</updated>
-        <content type="html"><![CDATA[据<a href="https://iphonesoft.fr/2024/12/20/ios-19-liste-iphone-compatibles-ipad-moins">法国网站 iPhoneSoft.fr</a> 报道，iOS 19 将不会放弃对前一代所支持的任何 iPhone 机型的支持。 该报道援引了苹果公司内部人士的消息。报告称，iOS 19 将兼容任何能够运行 iOS 18 的 iPhone，这意味着以下机型都会被兼容：]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年值得期待的五个苹果产品]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1464850.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1464850.htm"/>
-        <updated>2024-12-21T10:12:29.000Z</updated>
-        <content type="html"><![CDATA[看起来 2025 年将是苹果公司重要的一年，公司计划对iPhone进行革新，进一步推进智能家居产品，并改进Apple Intelligence。 据传，2025 年苹果将推出多款新产品，包括新 iPhone、M4 Mac、智能家居指挥中心等。这里我们重点介绍将在 2025 年产生最大影响的五大苹果产品。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卫星鸟瞰日本东京：不是首都 胜似首都]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1465148.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1465148.htm"/>
-        <updated>2024-12-23T01:16:31.000Z</updated>
-        <content type="html"><![CDATA[<strong>尽管在法律上，日本没有明确规定东京为首都，但事实上，东京承担着日本首都的角色，包括政治决策、政府机构驻地等。</strong>作为日本的事实首都，东京具有重要的地位，是日本内阁和国会的所在地，是日本政治、经济、文化和交通的中心。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球最孤独的动物：这只大猩猩独囚商场36年 主人声称3000万可赎身]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1465770.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1465770.htm"/>
-        <updated>2024-12-27T17:38:26.890Z</updated>
-        <content type="html"><![CDATA[Bua Noi，又叫小莲花，是居住在泰国的一只雌性大猩猩。作为泰国目前唯一的一只，也是最后的一只，Bua Noi并没有享受到顶级国宝般的待遇，相反，因为特殊的居住环境，它被认为是“世界上最孤独的大猩猩”，同时也是最悲伤的。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[任天堂Switch2真机曝光：U形支架、磁吸Joy-Con接口]]></title>
         <id>https://www.cnbeta.com.tw/articles/game/1466070.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/game/1466070.htm"/>
@@ -100,11 +57,25 @@
         <content type="html"><![CDATA[据报道，备受瞩目的任天堂Switch 2游戏掌机外观设计近日曝光。<strong>新主机巧妙地融入了U形支架设计，并引入了创新的磁吸式Joy-Con接口，不仅提升了用户体验，还保留了机身侧面标志性的任天堂标志，</strong>预示着这可能是Switch 2的最终零售形态。尤为值得一提的是，右侧Joy-Con的Home键下方增设了一个全新按键，进一步增强了操作便捷性。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网友票选年度最佳手机：iPhone罕见跌出Top 4]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1465070.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1465070.htm"/>
-        <updated>2024-12-24T17:38:36.826Z</updated>
-        <content type="html"><![CDATA[在Android Authority近期的年度最佳手机票选中<strong>，三星Galaxy S24 Ultra经过两轮激烈竞争后脱颖而出，被网友们选为年度最佳手机。今年OnePlus 12将iPhone 16挤出了前四，打破了苹果iPhone连续四年至少进入前四名的传统，iPhone 16 Pro Max位列第五。</strong>]]></content>
+        <title type="html"><![CDATA[600万粉丝一夜归零 又被禁言的吴柳芳喊冤：为何只禁我？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1465838.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1465838.htm"/>
+        <updated>2024-12-25T10:04:52.000Z</updated>
+        <content type="html"><![CDATA[12月25日消息，抖音官方账号发布公告，吴柳芳等多个抖音账号以及其背后的MCN机构遭到平台处置。处置措施包括“清除因违规行为增长的粉丝”。“56学姐（798）”等11个账号被采取禁言、暂停营利权限、清除因违规行为增长的粉丝等处置措施，MCN机构“大海星辰”因操纵上述账号多次发布低俗内容吸粉引流，影响恶劣，被采取限制后台账号管理功能30日处置。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉60度电池跑出100度续航 雷军承认小米需要3-5年学习]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1465098.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1465098.htm"/>
+        <updated>2024-12-23T17:39:27.661Z</updated>
+        <content type="html"><![CDATA[特斯拉公司副总裁陶琳今日发文称，<strong>特斯拉车型能耗表现出众，可以用60度跑出100度电池的效果。</strong>她强调，<strong>特斯拉的高效并不来自大电池、车辆配置的简单堆砌，而是得益于创新的电池设计+低功耗的电驱系统+更高的能量转换效率+整车轻量化的设计。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传闻 iOS 19 将兼容这些 iPhone]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1465154.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1465154.htm"/>
+        <updated>2024-12-23T01:28:59.000Z</updated>
+        <content type="html"><![CDATA[据<a href="https://iphonesoft.fr/2024/12/20/ios-19-liste-iphone-compatibles-ipad-moins">法国网站 iPhoneSoft.fr</a> 报道，iOS 19 将不会放弃对前一代所支持的任何 iPhone 机型的支持。 该报道援引了苹果公司内部人士的消息。报告称，iOS 19 将兼容任何能够运行 iOS 18 的 iPhone，这意味着以下机型都会被兼容：]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果手机最强标准版：iPhone 17屏幕变大变强]]></title>
@@ -114,6 +85,20 @@
         <content type="html"><![CDATA[<strong>今年苹果调整了iPhone 16 Pro系列的屏幕尺寸，比2023年的iPhone 15 Pro系列机型更大。</strong>展望明年，iPhone 17系列的屏幕尺寸也会变大变强，<strong>其中iPhone 17标准版的屏幕增大至6.3英寸，看齐Pro。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[侮辱诽谤华为产品 一博主被法院判赔20万]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1466072.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1466072.htm"/>
+        <updated>2024-12-26T09:38:05.000Z</updated>
+        <content type="html"><![CDATA[日前，东莞市第一人民法院在南方日报刊登“华为技术有限公司、华为终端有限公司诉余明亮名誉权纠纷案判决内容公告”。判决公告显示，二审驳回上诉，维持原判，<strong>判令余明亮（博主“余凉凉的日常”）停止侵权、删除侵权视频及在各网站平台向华为赔礼道歉、消除影响，并赔偿华为经济损失20万元。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球最孤独的动物：这只大猩猩独囚商场36年 主人声称3000万可赎身]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1465770.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1465770.htm"/>
+        <updated>2024-12-27T17:38:26.890Z</updated>
+        <content type="html"><![CDATA[Bua Noi，又叫小莲花，是居住在泰国的一只雌性大猩猩。作为泰国目前唯一的一只，也是最后的一只，Bua Noi并没有享受到顶级国宝般的待遇，相反，因为特殊的居住环境，它被认为是“世界上最孤独的大猩猩”，同时也是最悲伤的。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[由于没人使用 cURL最终决定放弃基于Rust开发了四年的HTTP后端替代]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1465272.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1465272.htm"/>
@@ -121,18 +106,25 @@
         <content type="html"><![CDATA[知名开源项目 cURL 的开发者丹尼尔斯滕伯格日前发布博客宣布 cURL 的基于 Rust 的替代 HTTP 后端实现项目失败，从 2025 年 2 月发布的 cURL v8.12.0 版开始相关代码将会被彻底删除。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[蛇年纪念钞溢价到1000元一套]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1466010.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1466010.htm"/>
+        <updated>2024-12-28T17:38:13.466Z</updated>
+        <content type="html"><![CDATA[2025年蛇年贺岁纪念币和纪念钞炒疯了！今天，话题#蛇年纪念钞溢价到1000元一套#等上热搜。报道称，<strong>在二手平台上，蛇年纪念币已经溢价到400元一套，高出原价一倍；而纪念钞更是溢价到1000元一套，高出1.5倍。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卫星鸟瞰日本东京：不是首都 胜似首都]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1465148.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1465148.htm"/>
+        <updated>2024-12-23T01:16:31.000Z</updated>
+        <content type="html"><![CDATA[<strong>尽管在法律上，日本没有明确规定东京为首都，但事实上，东京承担着日本首都的角色，包括政治决策、政府机构驻地等。</strong>作为日本的事实首都，东京具有重要的地位，是日本内阁和国会的所在地，是日本政治、经济、文化和交通的中心。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[平台通报：“56学姐”吴柳芳被禁言处罚]]></title>
         <id>https://www.cnbeta.com.tw/articles/movie/1465492.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/movie/1465492.htm"/>
         <updated>2024-12-24T08:50:34.000Z</updated>
         <content type="html"><![CDATA[12月24日，抖音安全中心官方宣布，对吴柳芳的账号做出处罚。上个月，前体操冠军吴柳芳因在抖音账号发布性感热舞视频，和奥运冠军管晨辰的互怼引发热议。之后，她的账号一度被禁止关注，恢复之后疯狂涨粉300多万，但随后陷入停滞当中，吴柳芳也再没有更新视频和进行直播。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零跑花费200万为5000名工程师拍了张大合照：每人脸上痘痘都看得清]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1465944.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1465944.htm"/>
-        <updated>2024-12-27T17:38:26.899Z</updated>
-        <content type="html"><![CDATA[零跑汽车官方今日宣布，在零跑汽车成立九周年之际，<strong>零跑在黄龙体育场给5000名工程师拍了一张大合影。</strong>从大合照来看，零跑5000名工程师坐在体育场看台上，被一张照片同时记录了下来。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[在这个日本爆火的App里，日本人不许说日语]]></title>
@@ -143,10 +135,17 @@
 吗？简单来说，就是把日语句子中那些平假名、片假名全去掉，只留下汉字，然后看情况稍加修饰，让句子依旧能表达出原先的意思。这玩意说起来高深，实际上看着有点像文言文，它还有个好处，那就是甭管你是中国人还是日本人，看到伪中国语都能懂个大概。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[调查报告：为何电动车主不会再使用燃油车？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1465202.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1465202.htm"/>
-        <updated>2024-12-23T09:16:07.000Z</updated>
-        <content type="html"><![CDATA[全球电动汽车联盟最新发布的研究显示，很少有人会在电动化后转回内燃机汽车。<strong>调查中显示，在那些不会再次选择纯电动汽车的人中，只有1%的人会重新选择汽油或柴油，4%的人会选择插电式混合动力汽车。</strong>]]></content>
+        <title type="html"><![CDATA[网友票选年度最佳手机：iPhone罕见跌出Top 4]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1465070.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1465070.htm"/>
+        <updated>2024-12-24T17:38:36.826Z</updated>
+        <content type="html"><![CDATA[在Android Authority近期的年度最佳手机票选中<strong>，三星Galaxy S24 Ultra经过两轮激烈竞争后脱颖而出，被网友们选为年度最佳手机。今年OnePlus 12将iPhone 16挤出了前四，打破了苹果iPhone连续四年至少进入前四名的传统，iPhone 16 Pro Max位列第五。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零跑花费200万为5000名工程师拍了张大合照：每人脸上痘痘都看得清]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1465944.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1465944.htm"/>
+        <updated>2024-12-27T17:38:26.899Z</updated>
+        <content type="html"><![CDATA[零跑汽车官方今日宣布，在零跑汽车成立九周年之际，<strong>零跑在黄龙体育场给5000名工程师拍了一张大合影。</strong>从大合照来看，零跑5000名工程师坐在体育场看台上，被一张照片同时记录了下来。]]></content>
     </entry>
 </feed>
