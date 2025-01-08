@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-08T05:40:36.689Z</updated>
+    <updated>2025-01-08T17:39:49.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[北大韦神板书曝光：果然数学的尽头是英语 一句中文也没有 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1467660.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1467660.htm"/>
-        <updated>2025-01-02T17:38:58.914Z</updated>
-        <content type="html"><![CDATA[12月31日，网友到北大蹭“韦神”韦东奕的数学课，<strong>“黑板上一句中文也没有，果然数学的尽头是英语”</strong>。发布视频的网友还表示，韦神的板书非常工整。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[38C3：黑客从地面劫持并修复失效长达十年的 Beesat-1 卫星 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1467708.htm</id>
@@ -52,14 +45,6 @@
         <content type="html"><![CDATA[根据灯塔专业版截至12月31日18点的数据，<strong>当天全国只有济南的两家电影院卖出了4张《回家的你》的电影票，日票房仅124元</strong>。《回家的你》的导演为木童，演员阵容强大，徐帆、范伟、陈乔恩、赵天宇、张晨光、张伦硕均有出演。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克将X昵称改回本名 昨日暴涨的meme币十分钟暴跌90% (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1467882.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1467882.htm"/>
-        <updated>2025-01-05T17:38:01.112Z</updated>
-        <content type="html"><![CDATA[在马斯克将其X账号的昵称改回本名“Elon Musk”后，昨日一度暴涨100多倍的表情包代币Kekius 
-M的价格随即转跌，十分钟内暴跌了90%。尽管如此，在过去24小时内，这种加密代币的价格仍然上涨了惊人的232%。其交易量过去24小时激增1310%，达到990万美元。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[开发人员仅用184MB内存运行Windows 11 创下纪录 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1468402.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1468402.htm"/>
@@ -81,6 +66,21 @@ M的价格随即转跌，十分钟内暴跌了90%。尽管如此，在过去24�
         <content type="html"><![CDATA[今天，网上出现了据称是 Nintendo Switch 2 Joy-Con 手柄的新照片，<a href="https://www.reddit.com/user/SwordfishAgile3472/" target="_blank" rel="noopener">SwordfishAgile3472</a> 在 Nintendo Switch 2 reddit分论坛上分享了这些新图片，图片展示了手柄的侧面和背面，提供了简单配色方案的新外观，以及与当前手柄相比的一些变化，例如更大的设备肩部按钮等。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[马斯克将X昵称改回本名 昨日暴涨的meme币十分钟暴跌90% (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1467882.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1467882.htm"/>
+        <updated>2025-01-05T17:38:01.112Z</updated>
+        <content type="html"><![CDATA[在马斯克将其X账号的昵称改回本名“Elon Musk”后，昨日一度暴涨100多倍的表情包代币Kekius 
+M的价格随即转跌，十分钟内暴跌了90%。尽管如此，在过去24小时内，这种加密代币的价格仍然上涨了惊人的232%。其交易量过去24小时激增1310%，达到990万美元。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为首款SSD上线京东：明天开售 1TB 499元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1469066.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1469066.htm"/>
+        <updated>2025-01-07T09:06:20.000Z</updated>
+        <content type="html"><![CDATA[华为近期在京东上线了首款SSD固态硬盘，是刚刚发布的新品——坤灵eKitStor Xtreme 200E。目前只上架了1TB版本，售价499元，将在明天上午10点正式开售。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[日本电视塔跨年倒数完竟直接关灯 现场观众都愣住了 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/funny/1467788.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/funny/1467788.htm"/>
@@ -95,18 +95,18 @@ M的价格随即转跌，十分钟内暴跌了90%。尽管如此，在过去24�
         <content type="html"><![CDATA[今年的第一起泄密事件与任天堂 Switch 2 有关。 据称，即将推出的游戏机主板的三张图片<a href="https://www.reddit.com/r/NintendoSwitch2/comments/1hqu83a/switch_2_motherboard/" target="_blank" rel="noopener">在 Reddit</a> 上泄露。其使用的内存似乎是 SK Hynix LPDDR5 48Gbit。 泄露的图片还显示了英伟达（NVIDIA）的标识，这也是完全在意料之中的，因为之前泄露的信息都表明任天堂 Switch 2 将再次采用英伟达（NVIDIA）的硬件。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特斯拉大转型：离中国更远了，离美国更近了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1468434.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1468434.htm"/>
-        <updated>2025-01-04T10:24:41.000Z</updated>
-        <content type="html"><![CDATA[特斯拉今年三季报略显平庸，但画饼仙人马斯克成功完成电话会逆转。凭借业绩指引和Model 2两张大饼，资本市场喜笑颜开，给特斯拉送上大涨。大超预期的汽车毛利率和提前释放的交付量指引，构成了资本市场用钱投票的核心因素，但这绝对不是马斯克乐见的景象。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微软希望通过 Windows 11 的全新系统 UI 方便用户了解电脑规格 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1468574.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1468574.htm"/>
         <updated>2025-01-05T04:04:21.000Z</updated>
         <content type="html"><![CDATA[Windows 11 的设置比 Windows 10 上的设置要好得多，不仅更容易理解，而且更有条理。 现在，微软希望在"设置"中的"系统"页面添加"卡片"，突出显示 PC 的规格。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉大转型：离中国更远了，离美国更近了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1468434.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1468434.htm"/>
+        <updated>2025-01-04T10:24:41.000Z</updated>
+        <content type="html"><![CDATA[特斯拉今年三季报略显平庸，但画饼仙人马斯克成功完成电话会逆转。凭借业绩指引和Model 2两张大饼，资本市场喜笑颜开，给特斯拉送上大涨。大超预期的汽车毛利率和提前释放的交付量指引，构成了资本市场用钱投票的核心因素，但这绝对不是马斯克乐见的景象。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果推出蛇年手机保护壳：适配iPhone 16全系 售价398元 (cnbeta一周排行)]]></title>
@@ -116,6 +116,13 @@ M的价格随即转跌，十分钟内暴跌了90%。尽管如此，在过去24�
         <content type="html"><![CDATA[为迎接即将到来的中国农历蛇年，苹果不仅推出了AirPods 4蛇年特别款，<strong>还在官网上架了全新蛇年手机壳，适配iPhone 16全系，售价398元。对比去年龙年款的498元来说，价格直降100元。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[色情禁令生效后 佛罗里达州Google搜索"免费VPN"的次数猛增 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1468746.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1468746.htm"/>
+        <updated>2025-01-06T02:44:22.000Z</updated>
+        <content type="html"><![CDATA[佛罗里达州人正在寻找VPN的方式绕过该州对访问在线色情内容的新年龄验证要求所带来的封锁。 Google趋势的数据显示，在过去几天里，佛罗里达州对"免费 VPN"的搜索量急剧上升。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[老太迎124岁生日：阎王爷把我忘了 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/funny/1467780.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/funny/1467780.htm"/>
@@ -123,33 +130,26 @@ M的价格随即转跌，十分钟内暴跌了90%。尽管如此，在过去24�
         <content type="html"><![CDATA[1月1日消息，据媒体报道，<strong>四川省南充市南部县一位老人迎来她的124岁生日。</strong>据了解，这位老人出生于1901年1月1日，2025年元旦是她的124岁生辰，家族现已六世同堂，她说“阎王爷把我搞忘了”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[首款NVIDIA GeForce RTX 5080 GPU定制型号泄露：16 GB GDDR7显存已确认 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1468046.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1468046.htm"/>
-        <updated>2025-01-07T17:40:08.762Z</updated>
-        <content type="html"><![CDATA[NVIDIA GeForce RTX 5080 GPU 将成为首批上架的 RTX 
-50"Blackwell"游戏产品，其中一款定制型号似乎已经泄露。您现在看到的是微星的 GeForce RTX 5080 GAMING Trio
- OC 版，它采用了类似但略有升级的设计，似乎是 2.2 插槽设计，而不是之前 RTX 4080 GAMING Trio 的 3.5 插槽设计。]]></content>
+        <title type="html"><![CDATA[美国将腾讯、宁德时代列入涉嫌协助北京军方的中国公司名单 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1469040.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1469040.htm"/>
+        <updated>2025-01-07T05:09:49.000Z</updated>
+        <content type="html"><![CDATA[美国国防部周一表示，已将包括腾讯控股、电池制造商宁德时代在内的中国科技巨头添加到其表示与中国军队协作的公司名单中。据当局文件，名单中还包括芯片制造商长鑫存储、物联网方案供应商移远通信和无人机制造商道通科技。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全球首款妈祖平安智能手表发布：搭载华为智能机芯 售价1999元 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1468314.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1468314.htm"/>
-        <updated>2025-01-07T17:40:08.764Z</updated>
-        <content type="html"><![CDATA[日前，在2025年湄洲妈祖祖庙跨年祈福盛典上，<strong>全球首款妈祖平安智能腕表发布，手表搭载华为智能机芯，售价1999元。</strong>据媒体报道，每售出一只妈祖平安智能腕表，即捐献给湄洲妈祖祖庙10元爱心善款，用于助力妈祖文化传承。]]></content>
+        <title type="html"><![CDATA[戴尔告别拥有数十年历史的XPS、Inspiron、Latitude、Precision等品牌 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1469038.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1469038.htm"/>
+        <updated>2025-01-07T05:06:11.000Z</updated>
+        <content type="html"><![CDATA[戴尔将放弃一些最具代表性的笔记本电脑品牌。 在本周一举行的 CES 2025 上，这家 PC 公司宣布将从新款笔记本电脑、台式机和显示器产品线中删去 XPS、Inspiron、Latitude、Precision 和 OptiPlex 等名称，取而代之的是 Dell、Dell Pro 和 Dell Pro Max。 此举旨在为戴尔产品组合打造"统一品牌"。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[云南一村民下水道捡到国家一级保护动物：像猫又像狐狸 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1467480.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1467480.htm"/>
-        <updated>2025-01-07T17:40:08.765Z</updated>
-        <content type="html"><![CDATA[<strong>云南普洱，有村民在下水道中发现一只奄奄一息的“小猫”。</strong>当天上午，这只“小猫”被发现时，它全身沾满污泥，动弹不得。毛色棕黄，带有黑色条纹和斑点，体长30公分左右，看上去和一只猫的大小相当。仔细观察头面部特征，又有点像狐狸。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币即将开启数周抛售，系好安全带 华尔街分析师：至少下跌10% (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1467890.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1467890.htm"/>
-        <updated>2025-01-07T17:40:08.770Z</updated>
-        <content type="html"><![CDATA[一位顶级技术策略师发出警告，比特币在大选后的涨势已经减弱，这种加密货币可能很快就会出现持续数周的抛售。独立研究提供商Fairlead Strategies创始人凯蒂•斯托克顿（Katie Stockton）认为，<span style="">比特币可能会再跌10%，</span>因为一些技术指标显示，比特币近期将出现看跌势头。]]></content>
+        <title type="html"><![CDATA[用GPT总结2024年的人，全破防了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1468482.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1468482.htm"/>
+        <updated>2025-01-08T17:39:48.250Z</updated>
+        <content type="html"><![CDATA[2024 年过去了，你有被各种软件的年终总结刷屏吗？有的软件的总结对你来说无关痛痒：来到某鱼的第七年，卖出了 0 
+元的物品，你可真是一个居家小能手！有的软件的总结不知不觉就扎心了：凌晨四点半，是你还在搜索“布洛芬怎样能够快速生效吗？”有些软件，我庆幸它没有年终总结：今年你点击
+ xx 的朋友圈 100 次，但是为什么没有跟 ta 说话呢？]]></content>
     </entry>
 </feed>
