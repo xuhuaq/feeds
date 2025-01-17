@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-01-17T05:39:46.962Z</updated>
+    <updated>2025-01-17T17:39:46.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[TikTok被禁 一夜间美国人疯狂涌入小红书 中国网友一觉醒来懵了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1470914.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1470914.htm"/>
-        <updated>2025-01-14T09:11:14.000Z</updated>
-        <content type="html"><![CDATA[随着TikTok在美国的禁令传闻愈演愈烈，小红书，竟成为了意外的“<strong>捡漏王</strong>”！大批美国网友以“TikTok Refugee”（TikTok难民）为名，组团涌入小红书。而这一切的起因，源于TikTok在美国面临的法律危机。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[原来的“高级水果”今年却跌下神坛 到底发生了什么？]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1471206.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1471206.htm"/>
         <updated>2025-01-15T09:22:42.000Z</updated>
         <content type="html"><![CDATA[比起前两年，今年车厘子的价格简直是是断崖式下降！往年七八十块钱一斤的车厘子，今年甚至跌到了 15 元一斤，就算是 2-3J 的车厘子也就 25-35 元一斤。据专家预测，<strong>今年车厘子价格将在一月底跌至最低，那么为何今年价格会如此便宜呢？</strong>我们今天来简单了解一下车厘子降价的原因。更重要的是教大家怎么才能挑选到好吃的车厘子。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok被禁 一夜间美国人疯狂涌入小红书 中国网友一觉醒来懵了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1470914.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1470914.htm"/>
+        <updated>2025-01-14T09:11:14.000Z</updated>
+        <content type="html"><![CDATA[随着TikTok在美国的禁令传闻愈演愈烈，小红书，竟成为了意外的“<strong>捡漏王</strong>”！大批美国网友以“TikTok Refugee”（TikTok难民）为名，组团涌入小红书。而这一切的起因，源于TikTok在美国面临的法律危机。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《自然》发表数据：中国科学在哪方面落后于美国]]></title>
@@ -27,32 +27,11 @@
         <content type="html"><![CDATA[中国与美国科学的比较，每个人有自己的看法。只有数据才是事实，不以个人观点为转移。2024年10月24日，国际科学期刊《自然》发表了专题文章，其中有几个图，显示数据及其比较。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024年中国手机市场份额排名出炉：华为跃升第2 苹果退步明显]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1469976.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1469976.htm"/>
-        <updated>2025-01-10T09:21:51.000Z</updated>
-        <content type="html"><![CDATA[已经过去的2024年，中国手机市场的份额也是发生了一些变化，比如苹果已经滑落至第四名。整体来看，vivo（含iQOO）再创辉煌，由2023年的第二名上升到去年的第一名，华为由前年的第六名来到去年的第二名，小米也由第五名攀升至第三名。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉焕新Model Y中国上市：详细升级一览 官方放话“尽管对比”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1470020.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1470020.htm"/>
-        <updated>2025-01-10T10:09:40.000Z</updated>
-        <content type="html"><![CDATA[毫无征兆，今日特斯拉焕新Model Y正式上线中国官网。<strong>官方对新Model Y相当自信，称“尽管对比”</strong>。雷军也非常应景的回应了一句：好的。足见焕新Model Y的关注度，以及小米YU7的直接对标对象。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水果中的“黑钻石”：黑莓]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1469968.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1469968.htm"/>
-        <updated>2025-01-10T09:15:07.000Z</updated>
-        <content type="html"><![CDATA[浆果是水果界“酸甜多汁”的代表，色泽鲜艳、口感细嫩、一口爆浆。在浆果中，近几年，黑莓经常荣登各种“养生场合”，被夸的都要飘起来了，搞得很多人满脸疑惑，黑莓真有这么好？这篇文章我们就来说说这位浆果中的小明星。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清华学霸女流谈嫁给初中学历YJJ：他很优秀 只是没走学校这条路]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1469846.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1469846.htm"/>
-        <updated>2025-01-13T17:40:36.656Z</updated>
-        <content type="html"><![CDATA[近日，拥有“学历天花板”之称的游戏主播@女流接受了三联生活周刊的<a href="https://weibo.com/1191965271/P8C1bF9iD" target="_blank" class="n1">采访</a>，分享了自己从清华高材生到游戏主播的职业选择历程，以及她对婚姻生活的看法。]]></content>
+        <title type="html"><![CDATA[支付宝被曝出严重事故Bug 5分钟内所有订单减免20%]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1471642.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1471642.htm"/>
+        <updated>2025-01-17T17:39:45.601Z</updated>
+        <content type="html"><![CDATA[根据V2EX论坛的爆料，今天支付宝发生了堪称为P000级的事故。爆料称，<strong>从目前的情况来看，在购物、还信用卡、缴纳签证等场景下，在今天下午14:40-14:45期间，所有订单都被“政府补贴”减免20%。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[李子柒现身微博之夜红毯 穿着亲手缝的非遗螺钿披风]]></title>
@@ -76,18 +55,18 @@
         <content type="html"><![CDATA[据五位熟悉富士康印度业务的人士称，富士康正在停止对其印度苹果 iPhone 工厂的中国员工进行新的轮岗，转而派遣台湾工人。 这些消息人士透露，从中国向印度运送专业制造设备的计划也被搁置。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[扎克伯格指责苹果20年后依然在吃乔布斯的老本]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1470286.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1470286.htm"/>
-        <updated>2025-01-11T11:24:35.000Z</updated>
-        <content type="html"><![CDATA[Meta 首席执行官马克-扎克伯格（Mark Zuckerberg）认为苹果公司"已经有一段时间没有真正发明出什么伟大的东西了"，而且苹果公司一直在依赖其过去的成功。他还说："史蒂夫-乔布斯发明了 iPhone，而 20 年后的今天，他们只是坐享其成。"]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[是语文出了轨 还是数学劈了腿？深圳小学数学试卷因阅读量大上热搜]]></title>
         <id>https://www.cnbeta.com.tw/articles/funny/1470092.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/funny/1470092.htm"/>
         <updated>2025-01-15T17:38:58.636Z</updated>
         <content type="html"><![CDATA[近日，<strong>深圳南山</strong>因为一张小学数学试卷冲上了热搜。<strong>事情的起因是题目过难、阅读量很大，四年级数学考试延长了20分钟。</strong>据不少家长反映，看完深圳南山四年级数学期末试卷后相当不淡定，<strong>原计划考试时间90分钟，一共36道题，整整6页A4纸。</strong>规划计算一下时间，平均每道题必须两分半钟做完。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扎克伯格指责苹果20年后依然在吃乔布斯的老本]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1470286.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1470286.htm"/>
+        <updated>2025-01-11T11:24:35.000Z</updated>
+        <content type="html"><![CDATA[Meta 首席执行官马克-扎克伯格（Mark Zuckerberg）认为苹果公司"已经有一段时间没有真正发明出什么伟大的东西了"，而且苹果公司一直在依赖其过去的成功。他还说："史蒂夫-乔布斯发明了 iPhone，而 20 年后的今天，他们只是坐享其成。"]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我卧底了TikTok难民群：美国网友为什么选择小红书？]]></title>
@@ -97,18 +76,25 @@
         <content type="html"><![CDATA[周一一大早打开小红书，发现大数据完全混乱了。我的首页冒出了一大堆我从来没关注过，也和我的兴趣爱好八杆子打不着的美国人，他们发自己的猫、自己的狗、自己的松鼠，甚至自己的驴，他们说着塑料中文，来势汹汹，占领了我的小红书首页。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Switch 2的泄露让任天堂很不舒服 发布时机太差了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1470682.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1470682.htm"/>
+        <updated>2025-01-16T17:39:10.482Z</updated>
+        <content type="html"><![CDATA[在CES 2025展会上，虽然任天堂并未参展，但展会上却大规模泄露了Switch2的实机情报。多家配件厂商纷纷展示了他们为这款新主机准备的首批配件，并公开讨论了他们所掌握的Switch2相关信息。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大疆将不再强制阻止无人机在美国飞越设定地理围栏的"禁飞区"]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1471230.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1471230.htm"/>
+        <updated>2025-01-15T09:58:59.000Z</updated>
+        <content type="html"><![CDATA[十多年来，在美国，大疆无人机无法轻易飞越禁飞区。 大疆的地理围栏软件会自动阻止无人机飞越跑道、发电厂、野火等突发公共事件以及白宫。但令人困惑的是，在美国多年来最严重的无人机不信任事件，以及<a href="https://dronedj.com/2025/01/13/dji-mini-drone-la-fire/">大疆无人机操作员阻碍洛杉矶野火扑救工作的事件</a>中，大疆创新正在摆脱其强大的地理围栏。 <br>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[安然宣布预售The Egg蛋形家用核反应堆]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1470570.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1470570.htm"/>
         <updated>2025-01-13T01:09:46.000Z</updated>
         <content type="html"><![CDATA["<a href="https://enron.com/pages/the-egg">The Egg，家用核反应堆</a>。"是的，安然网站现在正在宣布"为您的家庭供电的微型核反应堆"。 安然公司 28 岁的新任首席执行官康纳-盖多斯（Connor Gaydos）坚称，他们"一次只用一个鸡蛋，让世界变得更美好"。"]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博主称王自如放不下面子：重做自媒体的话 一年还清3000万负债]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1470490.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1470490.htm"/>
-        <updated>2025-01-15T17:38:58.645Z</updated>
-        <content type="html"><![CDATA[近期，因为容貌沧桑，且因3000万债务被强制执行等事，此前的数码圈顶流王自如，频频引起网友关注。科技博主@ 科技新一 今日发文称，<strong>王自如现在最大的问题是放不下面子，他骨子里其实还是瞧不上自媒体的，但反而这是目前最能让他真正腾飞的行业。整好了，一年一个小目标对他来说很轻松。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[更多三星 Galaxy S25、S25+ 和 S25 Ultra 渲染图泄露]]></title>
@@ -118,31 +104,45 @@
         <content type="html"><![CDATA[今天是三星即将发布的旗舰设备泄露的大日子。 首先，Galaxy S25、Galaxy S25+ 和Galaxy S25 Ultra规格被曝光，然后我们看到每款机型泄露了一系列配色。现在，我们又看到了更多的渲染图。 泄密者埃文-布拉斯（Evan Blass）也加入了这一行列，并发布了另外三张图片，每款机型一张。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[出差8天变9个月 美国滞留太空宇航员再发声：我们并不觉得被抛弃]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1469978.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1469978.htm"/>
-        <updated>2025-01-10T09:22:06.000Z</updated>
-        <content type="html"><![CDATA[<strong>被滞留在太空的美国宇航员公开表示，他们并不觉得被抛弃。</strong>已滞留国际空间站7个月的两名美国宇航员与美国国家航空航天局（NASA）官员进行视频直播活动时谈及滞留太空的感受，“我们并不觉得被抛弃。是的，最终我们还是想回家。”“但我们在这里还有很多事要做，我们得在回家前把所有事情都做完。“]]></content>
+        <title type="html"><![CDATA[博主称王自如放不下面子：重做自媒体的话 一年还清3000万负债]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1470490.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1470490.htm"/>
+        <updated>2025-01-15T17:38:58.645Z</updated>
+        <content type="html"><![CDATA[近期，因为容貌沧桑，且因3000万债务被强制执行等事，此前的数码圈顶流王自如，频频引起网友关注。科技博主@ 科技新一 今日发文称，<strong>王自如现在最大的问题是放不下面子，他骨子里其实还是瞧不上自媒体的，但反而这是目前最能让他真正腾飞的行业。整好了，一年一个小目标对他来说很轻松。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[彻底告别刘海、药丸屏 iPhone 18 Pro系列变成单挖孔?]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1469974.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1469974.htm"/>
-        <updated>2025-01-10T09:20:26.000Z</updated>
-        <content type="html"><![CDATA[从iPhone 14 Pro开始，苹果引入了灵动岛挖孔，终于开始抛弃刘海屏。<strong>其实一直以来，苹果的终极目标就是打造一款完全无开孔的手机，包括按键、接口、听筒等等都完全隐藏，当然也包括刘海区域。</strong>]]></content>
+        <title type="html"><![CDATA[超薄导体将取代铜在先进电子设备中的应用]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1470520.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1470520.htm"/>
+        <updated>2025-01-17T17:39:45.632Z</updated>
+        <content type="html"><![CDATA[斯坦福大学的研究人员发现了一种新材料--磷化铌，在制成超薄薄膜后，其导电性能超过了铜。这一突破可以缓解传统金属线在纳米级电路中的限制，从而彻底改变未来电子产品的效率和性能。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Switch 2的泄露让任天堂很不舒服 发布时机太差了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1470682.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1470682.htm"/>
-        <updated>2025-01-16T17:39:10.482Z</updated>
-        <content type="html"><![CDATA[在CES 2025展会上，虽然任天堂并未参展，但展会上却大规模泄露了Switch2的实机情报。多家配件厂商纷纷展示了他们为这款新主机准备的首批配件，并公开讨论了他们所掌握的Switch2相关信息。]]></content>
+        <title type="html"><![CDATA[一夜之间，小红书上挤满了TikTok美国“难民”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1470908.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1470908.htm"/>
+        <updated>2025-01-14T09:07:04.000Z</updated>
+        <content type="html"><![CDATA[小红书的用户们迎来了一场“文化冲击”：大量讲英语的美国用户涌入了这款原本以华人用户为主的生活方式分享平台。这群被戏称为“洋抖难民”的美国用户，为何大规模涌入小红书？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[黄仁勋一句话 韩国芯片业“慌”了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1470010.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1470010.htm"/>
-        <updated>2025-01-10T10:02:25.000Z</updated>
-        <content type="html"><![CDATA[在本届的CES，黄仁勋又一如既往地成为了明星。凭借着一系列全新的新产品，这家最炙手可热的公司成为了大家讨论的热点。那些能够与英伟达扯上关系的厂商，也希望借着这个机会大展所长。其中，来自韩国的三星和SK海力士无疑是最紧张之一。这一方面与他们作为存储龙头，所提供的HBM会否被黄仁勋所领导的英伟达采用，会成为影响他们公司未来发展的关键因素；另一方面，公司能否在英伟达新产品中获得机会，也会影响未来的走势。]]></content>
+        <title type="html"><![CDATA[特斯拉新款Model Y重回转向拨杆]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1470250.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1470250.htm"/>
+        <updated>2025-01-11T10:21:34.000Z</updated>
+        <content type="html"><![CDATA[特斯拉焕新Model Y上市之后，<strong>很多人对新车的换挡、打转向灯的操作方式很关心。</strong>因为之前焕新Model 3的屏幕换挡、方向盘按钮打转向灯的操作方式一直为人诟病，尤其后者被视为“反人类”设计。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本水族馆翻车鱼因游客稀少而自闭 饲养员扎草人为其解闷]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1470954.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1470954.htm"/>
+        <updated>2025-01-14T10:09:22.000Z</updated>
+        <content type="html"><![CDATA[1月13日消息，动物是否会有情绪？答案是肯定的，有些甚至会自闭，比如大家熟知的陪伴型动物，如狗、猫，你可能想不到的是，就连鱼也有这种情况存在。媒体报道，日本山口县下关市的水族馆从2024年12月起闭馆，计划休整至2025年夏天，<strong>最近，饲养员发现翻车鱼状态不太对劲，连水母都不吃了</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国星巴克宣布不再把任何走进其门店的人都视为顾客]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1470884.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1470884.htm"/>
+        <updated>2025-01-14T08:50:18.000Z</updated>
+        <content type="html"><![CDATA[日前，星巴克在北美各地咖啡店推出了一项新的顾客行为准则，<strong>撤销了允许所有人入店的开放政策，新规旨在保护顾客与员工的人身安全、改善体验。</strong>行为准则警告说，违规者将被要求离开，并表示如有必要，商店可致电执法部门。]]></content>
     </entry>
 </feed>
