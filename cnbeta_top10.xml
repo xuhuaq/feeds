@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-01-24T05:39:53.761Z</updated>
+    <updated>2025-01-24T17:38:41.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,11 +13,20 @@
         <content type="html"><![CDATA[盗版成人视频网站 MISSAV 每年的访问量可能达到百亿次，在全球网站流量排名里该网站排在前 60 以内，在平稳运营多年后目前该网站的主域名被查封 (但已经通过新域名转世)。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[支付宝被曝出严重事故Bug 5分钟内所有订单减免20%]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1471642.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1471642.htm"/>
-        <updated>2025-01-17T17:39:45.601Z</updated>
-        <content type="html"><![CDATA[根据V2EX论坛的爆料，今天支付宝发生了堪称为P000级的事故。爆料称，<strong>从目前的情况来看，在购物、还信用卡、缴纳签证等场景下，在今天下午14:40-14:45期间，所有订单都被“政府补贴”减免20%。</strong>]]></content>
+        <title type="html"><![CDATA[抖音员工离职前给周受资、梁汝波发消息 收获暖心回复]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1473108.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1473108.htm"/>
+        <updated>2025-01-23T17:39:47.525Z</updated>
+        <content type="html"><![CDATA[近日，一位即将离开抖音集团的员工，在离职前夕主动向TikTok的首席执行官周受资以及字节跳动的首席执行官梁汝波发送了告别信息。不过令人没想到的是，周受资在收到离职员工的信息后给予了暖心的回复，称“祝你一切顺利（Wishing you the best）”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节跳动董事：TikTok交易将完成 最快本周末达成可行方案]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1473156.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1473156.htm"/>
+        <updated>2025-01-24T17:38:41.260Z</updated>
+        <content type="html"><![CDATA[1月22日消息，据Axios报道，泛大西洋资本集团首席执行官比尔·福特 (Bill Ford) 周三在瑞士达沃斯举行的一场活动上向 Axios 
+表示，将达成协议以确保TikTok能够继续在美国使用。泛大西洋资本集团是 TikTok 
+中国母公司字节跳动的主要投资者。福特是字节跳动的董事会成员。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上海人2024年最爱买的车型出炉：特斯拉霸榜前2]]></title>
@@ -34,76 +43,6 @@
         <content type="html"><![CDATA[有网友发现，为了符合新出台的国家补贴政策标准，多款高端智能手机，包括<strong>iPhone 16 Plus 128G</strong>版本，已悄然将价格调整至<strong>6000元</strong>人民币以内，部分机型更是直接降价高达千元。值得注意的是，尽管多数iPhone的原价并未直接叠加国家补贴，但在<strong>年货节</strong>促销活动的叠加效应下，<strong>iPhone 14、iPhone 15及iPhone 16</strong>系列等多款热门机型均可享受国家补贴的优惠。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[抖音员工离职前给周受资、梁汝波发消息 收获暖心回复]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1473108.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1473108.htm"/>
-        <updated>2025-01-23T17:39:47.525Z</updated>
-        <content type="html"><![CDATA[近日，一位即将离开抖音集团的员工，在离职前夕主动向TikTok的首席执行官周受资以及字节跳动的首席执行官梁汝波发送了告别信息。不过令人没想到的是，周受资在收到离职员工的信息后给予了暖心的回复，称“祝你一切顺利（Wishing you the best）”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克吐槽TikTok可在美国运营 X却不能在中国运营：官方回应]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1472508.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1472508.htm"/>
-        <updated>2025-01-21T17:40:10.680Z</updated>
-        <content type="html"><![CDATA[TikTok能在美国运营这件事，引起了马斯克的吐槽。上周日马斯克表示，TikTok可以在美国运营，但X却不被允许在中国运营。这需要做出改变。这番言论也是引起了不少国外网友的热议，对此我国方面回应称，只要遵守中国的法律法规完全没问题。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国“人造太阳”创世界纪录 首次完成1亿摄氏度1000秒高质量燃烧]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1472582.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1472582.htm"/>
-        <updated>2025-01-23T17:39:47.527Z</updated>
-        <content type="html"><![CDATA[据央视新闻报道，<strong>今天中国“人造太阳”全超导托卡马克核聚变实验装置（EAST）在安徽合肥创造新世界纪录。首次完成1亿摄氏度1000秒“高质量燃烧”，</strong>标志我国聚变能源研究实现从基础科学向工程实践的重大跨越，对人类加快实现聚变发电具有重要意义。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星Galaxy S25系列详细参数出炉：首发高频版骁龙8Elite 全面向12GB内存迈进]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1472130.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1472130.htm"/>
-        <updated>2025-01-22T17:39:43.074Z</updated>
-        <content type="html"><![CDATA[根据海外博主爆料的消息来看，三星即将推出的Galaxy S25系列手机将配备高频版骁龙8至尊版芯片，据悉，三星Galaxy S25系列配备的芯片将<strong>命名为骁龙8 Elite for Galaxy，</strong>其主频达到4.47GHz，相比标准版4.32GHz更为强悍。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂公布Switch 2 直面会将于4月2日举办]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1471682.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1471682.htm"/>
-        <updated>2025-01-20T17:38:26.857Z</updated>
-        <content type="html"><![CDATA[任天堂在周四发布的视频中分享了有关 Nintendo Switch 2 的首批细节。 除了"2025 年"之外，任天堂没有给出这款游戏机的具体发布日期。这款游戏机看起来很像初代Switch，但尺寸更大。 在视频中，Joy-Con 手柄是黑色的，带有彩色点缀，在右侧 Joy-Con 的主页按钮下有一个新按钮，这个按钮曾在泄露的信息中出现过。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男子开火车头卧铺带全家自驾游：车厢内6个房间 能住13人]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1471708.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1471708.htm"/>
-        <updated>2025-01-17T01:05:38.000Z</updated>
-        <content type="html"><![CDATA[近日，博主@ 狼先生～（卷儿哥）开着火车卧铺带全家人自驾游的视频火了。博主带着父母他们一行十多人，<strong>开着“火车卧铺”一路南下，从辽宁辽阳到海南三亚去过年，一路上边走边玩。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok恢复在美服务]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1472404.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1472404.htm"/>
-        <updated>2025-01-20T04:31:02.000Z</updated>
-        <content type="html"><![CDATA[短视频社交媒体平台TikTok19日恢复在美国的服务。美国西部时间19日9时30分（北京时间20日1时30分）左右，TikTok在社交媒体上发布声明说，公司已与互联网服务提供商达成一致，正在恢复相关服务。记者随即查看，TikTok应用程序已恢复正常使用，TikTok网站也已恢复正常。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信：今天过14岁“生日” 公布第一行代码]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1472766.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1472766.htm"/>
-        <updated>2025-01-22T17:39:43.079Z</updated>
-        <content type="html"><![CDATA[今日，微信官方视频号“微信派”发布消息称，“14年前的今天，2011年1月21日，微信1.0 for iPhone（测试版）全新发布。到今天，微信正式发布整整14年”，并公布了微信最初的第一行代码。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年国补才刚开始，就有人在京东赚麻了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1472908.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1472908.htm"/>
-        <updated>2025-01-23T17:39:47.541Z</updated>
-        <content type="html"><![CDATA[<strong>这一到年末，人就不想工作。</strong>咋说呢，看起来哥们是在努力搬砖，但心里想的全是&nbsp;“&nbsp;干不下去了&nbsp;”、“&nbsp;坐等回家过年&nbsp;”&nbsp;。一会日历上盘算着回家时间，一会思考是开车还是坐高铁。我知道差评君不是一个人，大家都一样。你看朋友同事之间的寒暄，也变成了&nbsp;“&nbsp;几号回家&nbsp;”&nbsp;、&nbsp;“&nbsp;抢到车票没&nbsp;”&nbsp;。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄仁勋今日中午宴请35位芯片大佬：摆五桌每桌8000元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1472292.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1472292.htm"/>
-        <updated>2025-01-21T17:40:10.688Z</updated>
-        <content type="html"><![CDATA[今日中午，英伟达创始人兼CEO黄仁勋在台湾的<strong>“砖窑古早味怀旧餐厅”</strong>宴请了超过<strong>35位</strong>来自芯片企业的合作伙伴。现场共设<strong>五桌</strong>宴席，每桌标准高达<strong>8000</strong>元。据了解，黄仁勋此次宴请的嘉宾阵容强大，包括<strong>台积电董事长魏哲家、鸿海董事长刘扬伟、英业达董事长叶力诚</strong>等多位知名芯片及科技企业的大佬，他们的身价合计超过<strong>万亿元</strong>。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[三星Galaxy S25系列发布 旗舰售价1300美元 2月7日上市]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1473212.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1473212.htm"/>
@@ -113,18 +52,39 @@
 的显著特点是该公司对移动人工智能的持续关注。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[国产“窜天石猴”超音速飞机亮相：四倍音速 全球3小时可达]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1472740.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1472740.htm"/>
-        <updated>2025-01-21T11:47:18.000Z</updated>
-        <content type="html"><![CDATA[据“成都发布”公众号，日前，四川凌空天行科技有限公司举办“云行”超音速飞机产品发布会，<strong>下一代超音速飞机验证机——“窜天石猴”亮相。</strong>根据规划，“窜天石猴”超音速飞机2026年将完成首飞。]]></content>
+        <title type="html"><![CDATA[中国“人造太阳”创世界纪录 首次完成1亿摄氏度1000秒高质量燃烧]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1472582.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1472582.htm"/>
+        <updated>2025-01-23T17:39:47.527Z</updated>
+        <content type="html"><![CDATA[据央视新闻报道，<strong>今天中国“人造太阳”全超导托卡马克核聚变实验装置（EAST）在安徽合肥创造新世界纪录。首次完成1亿摄氏度1000秒“高质量燃烧”，</strong>标志我国聚变能源研究实现从基础科学向工程实践的重大跨越，对人类加快实现聚变发电具有重要意义。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[陈波：小米NAS已进入到开发的尾声]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1472052.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1472052.htm"/>
-        <updated>2025-01-18T10:12:25.000Z</updated>
-        <content type="html"><![CDATA[<strong>小米生态链总经理陈波日前直播时透露了小米NAS最新进展，称目前已进入到开发的尾声，逐渐要转入到制造和落地。</strong>据介绍，小米NAS首版打样进行了多轮测试，NAS外观会比较简约、优雅、高级、有一些科技感。]]></content>
+        <title type="html"><![CDATA[马斯克吐槽TikTok可在美国运营 X却不能在中国运营：官方回应]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472508.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472508.htm"/>
+        <updated>2025-01-21T17:40:10.680Z</updated>
+        <content type="html"><![CDATA[TikTok能在美国运营这件事，引起了马斯克的吐槽。上周日马斯克表示，TikTok可以在美国运营，但X却不被允许在中国运营。这需要做出改变。这番言论也是引起了不少国外网友的热议，对此我国方面回应称，只要遵守中国的法律法规完全没问题。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年国补才刚开始，就有人在京东赚麻了？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472908.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472908.htm"/>
+        <updated>2025-01-23T17:39:47.541Z</updated>
+        <content type="html"><![CDATA[<strong>这一到年末，人就不想工作。</strong>咋说呢，看起来哥们是在努力搬砖，但心里想的全是&nbsp;“&nbsp;干不下去了&nbsp;”、“&nbsp;坐等回家过年&nbsp;”&nbsp;。一会日历上盘算着回家时间，一会思考是开车还是坐高铁。我知道差评君不是一个人，大家都一样。你看朋友同事之间的寒暄，也变成了&nbsp;“&nbsp;几号回家&nbsp;”&nbsp;、&nbsp;“&nbsp;抢到车票没&nbsp;”&nbsp;。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy S25系列详细参数出炉：首发高频版骁龙8Elite 全面向12GB内存迈进]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472130.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472130.htm"/>
+        <updated>2025-01-22T17:39:43.074Z</updated>
+        <content type="html"><![CDATA[根据海外博主爆料的消息来看，三星即将推出的Galaxy S25系列手机将配备高频版骁龙8至尊版芯片，据悉，三星Galaxy S25系列配备的芯片将<strong>命名为骁龙8 Elite for Galaxy，</strong>其主频达到4.47GHz，相比标准版4.32GHz更为强悍。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok恢复在美服务]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472404.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472404.htm"/>
+        <updated>2025-01-20T04:31:02.000Z</updated>
+        <content type="html"><![CDATA[短视频社交媒体平台TikTok19日恢复在美国的服务。美国西部时间19日9时30分（北京时间20日1时30分）左右，TikTok在社交媒体上发布声明说，公司已与互联网服务提供商达成一致，正在恢复相关服务。记者随即查看，TikTok应用程序已恢复正常使用，TikTok网站也已恢复正常。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[返老还童，OpenAI做到了？首个逆龄AI将登场 人类寿命可延长10年]]></title>
@@ -134,17 +94,61 @@
         <content type="html"><![CDATA[超级智能要来了？ 人类“长生不老”有希望了？外媒称，OpenAI开发出了首款用于“长寿”的AI模型 ——GPT-4b micro，预计将人类寿命延长10年。这一突破性成果，可能会彻底改变人类对衰老的认知。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[女子练车偶遇大长腿挖掘机 上路能直接从其它车车顶开过去]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1471674.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1471674.htm"/>
-        <updated>2025-01-22T17:39:43.081Z</updated>
-        <content type="html"><![CDATA[据报道，日前，黑龙江，一位女网友在练车路上，看到了一辆“大长腿”挖掘机，起初她还以为出现了幻觉，后来发现竟是真的。视频中，这辆挖掘机的大长腿高数米，在路上行走时，<strong>如果不是它的挖斗在道路前方挡着，挖掘机能从路上的车辆的车顶直接开过去。</strong>]]></content>
+        <title type="html"><![CDATA[微信：今天过14岁“生日” 公布第一行代码]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472766.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472766.htm"/>
+        <updated>2025-01-22T17:39:43.079Z</updated>
+        <content type="html"><![CDATA[今日，微信官方视频号“微信派”发布消息称，“14年前的今天，2011年1月21日，微信1.0 for iPhone（测试版）全新发布。到今天，微信正式发布整整14年”，并公布了微信最初的第一行代码。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[宇树科技人形机器人再进化：全球最柔顺行走、仿人奔跑]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1471876.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1471876.htm"/>
-        <updated>2025-01-20T17:38:26.865Z</updated>
-        <content type="html"><![CDATA[日前因为可“上山下河、腾空飞跃、托马斯回旋”工业轮足机器狗爆火出圈的宇树科技，最新展示了自家人形机器人的相关进展。视频里，<strong>这款人形机器人展示了行走和跑步两大技能，但不同于普通人形机器人，它的最大亮点就是非常柔顺和仿人</strong>。]]></content>
+        <title type="html"><![CDATA[马斯克承认找代练 称不这样做就无法击败亚洲玩家]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1472738.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1472738.htm"/>
+        <updated>2025-01-21T11:46:53.000Z</updated>
+        <content type="html"><![CDATA[关于埃隆·马斯克是否曾雇佣他人代练《流放之路2》和《暗黑破坏神4》的疑问，如今已尘埃落定——答案是肯定的。此前，马斯克在直播其全球排名的《流放之路2》硬核模式账号时，因游戏操作上的明显认知短缺而遭到玩家质疑，被指控存在“共享账号”行为。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上千公里行程1分钟完成？ 揭开网约车司机“开挂秘籍”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472798.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472798.htm"/>
+        <updated>2025-01-24T17:38:41.291Z</updated>
+        <content type="html"><![CDATA[行程只有3公里，却跑了7个小时才完成。更离谱的还有接近2000公里的顺风车订单，却仅用不到1分钟的时间完成，这些奇怪的订单，就出现在上海警方侦办的一起专门针对网约车平台的诈骗案件中。为了能够从网约车平台获取到更多的车费，一些网约车司机可谓是煞费苦心。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 17后面板据称与前代相比有显著设计变化 水平挡板遮盖后置摄像头]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472876.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472876.htm"/>
+        <updated>2025-01-24T17:38:41.293Z</updated>
+        <content type="html"><![CDATA[在过去的几代 iPhone 中，苹果几乎没有关注过其设计，只有其 iPhone 16 
+系列产品在设计上做了一些小改动，包括“Pro”型号的显示屏尺寸略有增加。而到了某个时候，甚至连客户都会厌倦无法区分新款和旧款，而不管目前有大量的内部升级。幸运的是，类似设计的
+ iPhone 时代可能即将结束，一位爆料人展示了一款据称属于 iPhone 17 的后面板，该面板带有水平挡板板，一端包含摄像头打孔。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陈波：小米NAS已进入到开发的尾声]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472052.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472052.htm"/>
+        <updated>2025-01-18T10:12:25.000Z</updated>
+        <content type="html"><![CDATA[<strong>小米生态链总经理陈波日前直播时透露了小米NAS最新进展，称目前已进入到开发的尾声，逐渐要转入到制造和落地。</strong>据介绍，小米NAS首版打样进行了多轮测试，NAS外观会比较简约、优雅、高级、有一些科技感。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄仁勋今日中午宴请35位芯片大佬：摆五桌每桌8000元]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472292.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472292.htm"/>
+        <updated>2025-01-21T17:40:10.688Z</updated>
+        <content type="html"><![CDATA[今日中午，英伟达创始人兼CEO黄仁勋在台湾的<strong>“砖窑古早味怀旧餐厅”</strong>宴请了超过<strong>35位</strong>来自芯片企业的合作伙伴。现场共设<strong>五桌</strong>宴席，每桌标准高达<strong>8000</strong>元。据了解，黄仁勋此次宴请的嘉宾阵容强大，包括<strong>台积电董事长魏哲家、鸿海董事长刘扬伟、英业达董事长叶力诚</strong>等多位知名芯片及科技企业的大佬，他们的身价合计超过<strong>万亿元</strong>。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产“窜天石猴”超音速飞机亮相：四倍音速 全球3小时可达]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1472740.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1472740.htm"/>
+        <updated>2025-01-21T11:47:18.000Z</updated>
+        <content type="html"><![CDATA[据“成都发布”公众号，日前，四川凌空天行科技有限公司举办“云行”超音速飞机产品发布会，<strong>下一代超音速飞机验证机——“窜天石猴”亮相。</strong>根据规划，“窜天石猴”超音速飞机2026年将完成首飞。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子自制背包式飞行器试飞成功：7台发动机、极速120km/h]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1472532.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1472532.htm"/>
+        <updated>2025-01-24T17:38:41.305Z</updated>
+        <content type="html"><![CDATA[中国人对飞的向往由来已久，万户舍生飞天就是最具代表的事件，而如今，还有更多寂寂无名的“小人物”在干着飞天大事件。近日在广东广州，<strong>男子用7台涡喷发动机自制背包式飞行器试飞成功。</strong>]]></content>
     </entry>
 </feed>
