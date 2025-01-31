@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-01-31T05:40:00.726Z</updated>
+    <updated>2025-01-31T17:38:35.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[为什么车厘子历经一个月到中国还不坏 买回家没几天就坏了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1473572.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1473572.htm"/>
-        <updated>2025-01-24T09:29:54.000Z</updated>
-        <content type="html"><![CDATA[要说春节最火的水果是谁？<strong>非车厘子莫属！</strong>尤其是来自智利的车厘子。这些车厘子从智利漂洋过海来到中国，路上要花一个多月，神奇的是——<strong>经历了这么久的颠簸，咱们买到家的车厘子还可以保持相当新鲜。</strong>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[数据显示美国用户已抛弃小红书：日活下降一半]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1473866.htm</id>
@@ -41,18 +34,11 @@
         <content type="html"><![CDATA[许多基于微信交易生态的重建，正在不动声色地发生。两天前（1 月 25 日），“送礼物” 功能随着微信版本更新悄然闯入群聊——微信用户可在输入面板选择 “礼物” 功能发送至群聊，且打破私聊只能送一件的限制，方便用户在群聊场景自由选择礼物份数。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1999年内衣广告轰动全国 当事人感慨：曾羞耻崩溃 如今感到自豪]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1473484.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1473484.htm"/>
-        <updated>2025-01-25T17:38:04.139Z</updated>
-        <content type="html"><![CDATA[今天，演员倪虹洁勇敢地分享了自己一段尘封已久的往事。<strong>那是在1999年，她拍摄的一则内衣广告，在那个相对保守的年代，一时间轰动全国。</strong>而倪虹洁凭借这份勇气和独特的魅力，不仅让这则广告备受关注，自己也在广告界崭露头角，被评为“全国十大广告明星之一”。此后，她顺势进军演艺圈，开启了人生新的篇章。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[等了8年 三星Galaxy S25系列终于支持无缝更新]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1473562.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1473562.htm"/>
-        <updated>2025-01-24T09:24:53.000Z</updated>
-        <content type="html"><![CDATA[谷歌在2016年引入了无缝更新，也就是A/B系统更新。时隔8年时间，<strong>三星Galaxy S25系列终于支持无缝更新，它将显著改善用户的OTA更新体验。</strong>]]></content>
+        <title type="html"><![CDATA[iOS 18.3 中的所有新功能汇总]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474448.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474448.htm"/>
+        <updated>2025-01-28T09:28:29.000Z</updated>
+        <content type="html"><![CDATA[iOS 18.3 是 iOS 18 操作系统的第三次重大更新，虽然其功能不如 iOS 18.1 或 iOS 18.2 那么丰富，但有一些 Apple Intelligence 方面的变化值得了解，此外还有一些其他调整、错误修复和安全更新。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[距离索尼发布下一代旗舰降噪耳机WH-1000XM6可能已经不远]]></title>
@@ -62,25 +48,11 @@
         <content type="html"><![CDATA[索尼推出旗舰产品 WH-1000XM5 耳机已经三年了，这是对于大多数人而言公认的最佳无线耳机，现在，一份监管文件表明 XM6 耳机可能即将推出。联邦通信委员会 (FCC) 的文件暗示了局部重新设计，包括一款新的铰链和看似可拆卸的耳垫。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[让硅谷难安，DeepSeek的含金量还在上升]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474066.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474066.htm"/>
-        <updated>2025-01-26T10:02:15.000Z</updated>
-        <content type="html"><![CDATA[OpenAI的最强对手出现了，这一次来自中国。<strong>2025年一开年就火遍全球的DeepSeek（深度求索），1月20日晚上演了一场“偷袭珍珠港”——发布推理模型 DeepSeek-R1 正式版，</strong>同步开源模型权重，并允许用户利用模型输出、通过模型蒸馏等方式训练其他模型。这款大模型在数学、代码、自然语言推理等任务上，性能比肩OpenAI o1正式版。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[全球掀DeepSeek复现狂潮 30刀见证"啊哈"时刻]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1474116.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1474116.htm"/>
         <updated>2025-01-28T17:38:53.760Z</updated>
         <content type="html"><![CDATA[就在刚刚，网上已经出现了一波复现DeepSeek的狂潮。UC伯克利、港科大、HuggingFace等纷纷成功复现，只用强化学习，没有监督微调，30美元就能见证‘啊哈时刻’！全球AI大模型，或许正在进入下一分水岭。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这5个电器是“耗电刺客” 返乡过节时一定要拔掉电源]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474112.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474112.htm"/>
-        <updated>2025-01-26T10:56:27.000Z</updated>
-        <content type="html"><![CDATA[春节假期，多数人会返乡过节。然而，每年假期结束回来后，都有不少人发现自己的电费依然要交不少。很多人纳闷，明明很长时间没在家，怎么还要交那么多电费呢？这里就要跟大家介绍一个概念了，那就是<strong>“<strong>待机能耗</strong>”</strong>——如果插头没有拔掉，电器即便没有启用，它们依然在待机状态下产生耗电。日常生活中，一些常见电器的耗电量还不低。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果iPhone SE 4机模上手：首次刘海屏+后置单摄]]></title>
@@ -90,18 +62,25 @@
         <content type="html"><![CDATA[<strong>综合多方信息，苹果将于3月份发布全新iPhone SE 4已经基本实锤。</strong>目前供应链工厂已经备货，甚至进入量产阶段，各种详细数据也不断确认。知名爆料人“Majin Bu”最新晒出了iPhone SE 4机模，让我们可以提前一览新机外观设计。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 18.3 中的所有新功能汇总]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474448.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474448.htm"/>
-        <updated>2025-01-28T09:28:29.000Z</updated>
-        <content type="html"><![CDATA[iOS 18.3 是 iOS 18 操作系统的第三次重大更新，虽然其功能不如 iOS 18.1 或 iOS 18.2 那么丰富，但有一些 Apple Intelligence 方面的变化值得了解，此外还有一些其他调整、错误修复和安全更新。]]></content>
+        <title type="html"><![CDATA[让硅谷难安，DeepSeek的含金量还在上升]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474066.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474066.htm"/>
+        <updated>2025-01-26T10:02:15.000Z</updated>
+        <content type="html"><![CDATA[OpenAI的最强对手出现了，这一次来自中国。<strong>2025年一开年就火遍全球的DeepSeek（深度求索），1月20日晚上演了一场“偷袭珍珠港”——发布推理模型 DeepSeek-R1 正式版，</strong>同步开源模型权重，并允许用户利用模型输出、通过模型蒸馏等方式训练其他模型。这款大模型在数学、代码、自然语言推理等任务上，性能比肩OpenAI o1正式版。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一颗小行星发现17小时就被除名：因为它是马斯克的特斯拉跑车]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1473648.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1473648.htm"/>
-        <updated>2025-01-27T17:39:25.339Z</updated>
-        <content type="html"><![CDATA[哈佛-史密松天体物理学中心的小行星中心(MPC)最近闹了个大乌龙，好不容易发现一颗小行星，但很快就把它除名了，因为它其实是一辆跑车。2025年1月初，业余天文学家H.A. Güler首次发现了一个异常天体，随后提交给了MPC。]]></content>
+        <title type="html"><![CDATA[华为芯片为 DeepSeek AI的推理阶段提供了支持]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474716.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474716.htm"/>
+        <updated>2025-01-31T17:38:34.789Z</updated>
+        <content type="html"><![CDATA[DeepSeek 这款中国人工智能模型声称在成本效率方面大大超过了美国的竞争对手，人工智能大战由此进入白热化阶段。 它的开源聊天机器人已将该应用推向了 51 个国家的 App Store 榜首位置，现在又有消息称它是在华为人工智能芯片上运行的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这5个电器是“耗电刺客” 返乡过节时一定要拔掉电源]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474112.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474112.htm"/>
+        <updated>2025-01-26T10:56:27.000Z</updated>
+        <content type="html"><![CDATA[春节假期，多数人会返乡过节。然而，每年假期结束回来后，都有不少人发现自己的电费依然要交不少。很多人纳闷，明明很长时间没在家，怎么还要交那么多电费呢？这里就要跟大家介绍一个概念了，那就是<strong>“<strong>待机能耗</strong>”</strong>——如果插头没有拔掉，电器即便没有启用，它们依然在待机状态下产生耗电。日常生活中，一些常见电器的耗电量还不低。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek如何弯道大超车：震撼硅谷巨头 击溃出口管制]]></title>
@@ -111,11 +90,18 @@
         <content type="html"><![CDATA[“当我们所有人都在过圣诞的时候，一个中国实验室却发布了震撼世界的AI模型。这显然具有象征意义。长期以来，美国都在AI竞争中处于全球领先地位，但DeepSeek的最新模型却在改变这一格局。”&nbsp;Scale&nbsp;AI的创始人兼CEO亚历山大·王（Alexandr&nbsp;Wang）在接受美国媒体采访时这样感慨。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[柯洁不接受处罚退赛 韩国夺冠棋手卞相壹“神之一手”火了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1473418.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1473418.htm"/>
-        <updated>2025-01-30T17:39:13.947Z</updated>
-        <content type="html"><![CDATA[1月23日，LG杯决赛三番棋决胜局，柯洁1-2不敌卞相壹无缘冠军，决胜盘柯洁抗议未果退赛。韩国裁判现场宣布：因为柯洁提子没有放到棋盒盖，正常判罚两目，而柯洁不接受判罚，选择退赛，卞相壹夺冠。]]></content>
+        <title type="html"><![CDATA[小米YU7 Max高清实车曝光 质感不输50万豪车]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1473814.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1473814.htm"/>
+        <updated>2025-01-30T17:39:13.954Z</updated>
+        <content type="html"><![CDATA[小米YU7无疑是今年最受瞩目的一款车，它不仅是小米首款SUV，也将是纯电SUV神车——特斯拉Model Y的最大对手。刚刚，<strong>博主“搞机王腾霄”晒出了小米YU7上路的高清照片，照片中的车辆细节清晰可见，尾标赫然标注着“YU7 Max”。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蛇年最忙的女人赵雅芝：73岁高龄身材、颜值依然抗打]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1474882.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1474882.htm"/>
+        <updated>2025-01-31T17:38:34.849Z</updated>
+        <content type="html"><![CDATA[1月30日消息，中国香港女演员赵雅芝可能是蛇年最忙碌的艺人之一。据悉，71岁的赵雅芝受国内9家电视台邀请，现身它们的“春晚”舞台。<strong>央视总台蛇年春晚播出的第一个小品节目《借伞》引发关注和热议。小品围绕《白蛇传》中“断桥借伞”的经典桥段，巧妙串联京剧、粤剧、川剧、越剧四个剧种，颇具创意。此外，经典剧集《新白娘子传奇》两位主演赵雅芝、叶童的亮相更是触发回忆杀。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《自然》发文：中国廉价、开放的人工智能模型DeepSeek让科学家们兴奋不已]]></title>
@@ -133,17 +119,31 @@ o1等“推理”模型的一个负担得起且开放的竞争对手。这些模
         <content type="html"><![CDATA[DeepSeek 以其突破性的 R1 模型震惊了全球科技界，该模型足以与 OpenAI 的 o1 模型相媲美，但其成本仅为培养一个复杂大模型所需的典型成本的 1/50。 现在，英伟达（NVIDIA）公司也加入了这场混战，为 DeepSeek 的努力背书。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米YU7 Max高清实车曝光 质感不输50万豪车]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1473814.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1473814.htm"/>
-        <updated>2025-01-30T17:39:13.954Z</updated>
-        <content type="html"><![CDATA[小米YU7无疑是今年最受瞩目的一款车，它不仅是小米首款SUV，也将是纯电SUV神车——特斯拉Model Y的最大对手。刚刚，<strong>博主“搞机王腾霄”晒出了小米YU7上路的高清照片，照片中的车辆细节清晰可见，尾标赫然标注着“YU7 Max”。</strong>]]></content>
+        <title type="html"><![CDATA[苹果首次公布AirPods固件升级攻略：共6步]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474446.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474446.htm"/>
+        <updated>2025-01-28T09:24:21.000Z</updated>
+        <content type="html"><![CDATA[苹果的AirPods、AirPods Pro和AirPods Max耳机系列产品偶尔会更新固件，提供功能升级或修复。以往苹果并没有告知用户具体如何升级，只是在介绍中提到“<strong>当AirPods正在充电时，以及在连接到Wi-Fi的iPhone、iPad或Mac的蓝牙通信范围内，固件更新会自动提供。您还可以使用iPhone、iPad或Mac检查您的AirPods是否为最新版本。</strong>”]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国AI太强 Meta工程师自曝疯狂熬夜复制DeepSeek]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1473652.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1473652.htm"/>
-        <updated>2025-01-30T17:39:13.956Z</updated>
-        <content type="html"><![CDATA[Meta员工在TeamBlind爆料，点燃了一把火。自诩开源先锋的Meta，直接被DeepSeek这家中国公司整得无地自容。不仅工程师争分夺秒复现模型，年薪超过DeepSeek训练成本的高管们，心底也有点虚。今天，Meta员工在匿名社区TeamBlind上的一个帖子，在业内被传疯了。]]></content>
+        <title type="html"><![CDATA[超级女网红“一条小团团”复播：自嘲已经“刑满释放”]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1473942.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1473942.htm"/>
+        <updated>2025-01-31T17:38:34.855Z</updated>
+        <content type="html"><![CDATA[超级网红“一条小团团”在消失一年后于近期复播，引发网友热议。此前有网友在该账号评论区下开玩笑称：“小团团八年刑满了”，小团团则自嘲称：“是的，刑满释放了。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国大模型DeepSeek正在让硅谷陷入恐慌]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1473770.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1473770.htm"/>
+        <updated>2025-01-31T17:38:34.857Z</updated>
+        <content type="html"><![CDATA[1月24日，CNBC发文称，<strong>DeepSeek R1，因其性能超越美国顶尖同类模型，且构建成本更低、使用的芯片算力也较弱，引发了硅谷的恐慌。</strong>CNBC表示，<strong>DeepSeek R1使用英伟达性能稍逊的H800芯片，仅用两个月时间、不到600万美元就构建完成了这个模型。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米15 Ultra真机首次现身]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1473808.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1473808.htm"/>
+        <updated>2025-01-31T17:38:34.859Z</updated>
+        <content type="html"><![CDATA[<strong>有网友最新曝光了疑似小米15 Ultra的真机图，外观上与此前多次曝光的设计图一样，基本就是量产机的样子了。</strong>整体来看，小米15 Ultra延续了上代的环形镜头设计，不过镜头排列有所改变，采用L型方案。]]></content>
     </entry>
 </feed>
