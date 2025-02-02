@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-02-02T05:39:23.495Z</updated>
+    <updated>2025-02-02T17:37:59.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[iOS 18.3 是 iOS 18 操作系统的第三次重大更新，虽然其功能不如 iOS 18.1 或 iOS 18.2 那么丰富，但有一些 Apple Intelligence 方面的变化值得了解，此外还有一些其他调整、错误修复和安全更新。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信“送”出一场奇袭]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474232.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474232.htm"/>
-        <updated>2025-01-27T08:54:26.000Z</updated>
-        <content type="html"><![CDATA[许多基于微信交易生态的重建，正在不动声色地发生。两天前（1 月 25 日），“送礼物” 功能随着微信版本更新悄然闯入群聊——微信用户可在输入面板选择 “礼物” 功能发送至群聊，且打破私聊只能送一件的限制，方便用户在群聊场景自由选择礼物份数。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[华为芯片为 DeepSeek AI的推理阶段提供了支持]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1474716.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1474716.htm"/>
@@ -34,32 +27,27 @@
         <content type="html"><![CDATA[DeepSeek 这款中国人工智能模型声称在成本效率方面大大超过了美国的竞争对手，人工智能大战由此进入白热化阶段。 它的开源聊天机器人已将该应用推向了 51 个国家的 App Store 榜首位置，现在又有消息称它是在华为人工智能芯片上运行的。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果iPhone SE 4机模上手：首次刘海屏+后置单摄]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474088.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474088.htm"/>
-        <updated>2025-01-26T10:19:08.000Z</updated>
-        <content type="html"><![CDATA[<strong>综合多方信息，苹果将于3月份发布全新iPhone SE 4已经基本实锤。</strong>目前供应链工厂已经备货，甚至进入量产阶段，各种详细数据也不断确认。知名爆料人“Majin Bu”最新晒出了iPhone SE 4机模，让我们可以提前一览新机外观设计。]]></content>
+        <title type="html"><![CDATA[微信“送”出一场奇袭]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474232.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474232.htm"/>
+        <updated>2025-01-27T08:54:26.000Z</updated>
+        <content type="html"><![CDATA[许多基于微信交易生态的重建，正在不动声色地发生。两天前（1 月 25 日），“送礼物” 功能随着微信版本更新悄然闯入群聊——微信用户可在输入面板选择 “礼物” 功能发送至群聊，且打破私聊只能送一件的限制，方便用户在群聊场景自由选择礼物份数。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全球掀DeepSeek复现狂潮 30刀见证"啊哈"时刻]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474116.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474116.htm"/>
-        <updated>2025-01-28T17:38:53.760Z</updated>
-        <content type="html"><![CDATA[就在刚刚，网上已经出现了一波复现DeepSeek的狂潮。UC伯克利、港科大、HuggingFace等纷纷成功复现，只用强化学习，没有监督微调，30美元就能见证‘啊哈时刻’！全球AI大模型，或许正在进入下一分水岭。]]></content>
+        <title type="html"><![CDATA[越来越少的iPhone购买者为额外的存储空间付费]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474790.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474790.htm"/>
+        <updated>2025-01-30T03:04:44.000Z</updated>
+        <content type="html"><![CDATA[长期以来，苹果一直依赖 iPhone 存储升级作为收入驱动因素。 
+这种策略很简单--提供"足够好"的基本存储选项，同时用价格更高的升级来吸引用户。但最近的数据表明，"咬咬牙买顶配"的人越来越少。 
+根据消费者情报研究合作伙伴（CIRP）的一份报告，最新款 iPhone 机型的存储升级已全面下降，这标志着消费者行为的转变。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[让硅谷难安，DeepSeek的含金量还在上升]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474066.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474066.htm"/>
-        <updated>2025-01-26T10:02:15.000Z</updated>
-        <content type="html"><![CDATA[OpenAI的最强对手出现了，这一次来自中国。<strong>2025年一开年就火遍全球的DeepSeek（深度求索），1月20日晚上演了一场“偷袭珍珠港”——发布推理模型 DeepSeek-R1 正式版，</strong>同步开源模型权重，并允许用户利用模型输出、通过模型蒸馏等方式训练其他模型。这款大模型在数学、代码、自然语言推理等任务上，性能比肩OpenAI o1正式版。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这5个电器是“耗电刺客” 返乡过节时一定要拔掉电源]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474112.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474112.htm"/>
-        <updated>2025-01-26T10:56:27.000Z</updated>
-        <content type="html"><![CDATA[春节假期，多数人会返乡过节。然而，每年假期结束回来后，都有不少人发现自己的电费依然要交不少。很多人纳闷，明明很长时间没在家，怎么还要交那么多电费呢？这里就要跟大家介绍一个概念了，那就是<strong>“<strong>待机能耗</strong>”</strong>——如果插头没有拔掉，电器即便没有启用，它们依然在待机状态下产生耗电。日常生活中，一些常见电器的耗电量还不低。]]></content>
+        <title type="html"><![CDATA[这种小番茄有剧毒 很多人还把它当观赏植物]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1474334.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1474334.htm"/>
+        <updated>2025-02-01T17:38:36.991Z</updated>
+        <content type="html"><![CDATA[去年，美国女演员艾丽西亚·西尔维斯通（Alicia Silverstone）发了一个短视频，说自己在路边摘了一个橙色小番茄，吃了一口之后忽然觉得不太对劲，在平台发视频询问粉丝小番茄是什么。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek如何弯道大超车：震撼硅谷巨头 击溃出口管制]]></title>
@@ -91,41 +79,11 @@ o1等“推理”模型的一个负担得起且开放的竞争对手。这些模
         <content type="html"><![CDATA[DeepSeek 以其突破性的 R1 模型震惊了全球科技界，该模型足以与 OpenAI 的 o1 模型相媲美，但其成本仅为培养一个复杂大模型所需的典型成本的 1/50。 现在，英伟达（NVIDIA）公司也加入了这场混战，为 DeepSeek 的努力背书。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超级女网红“一条小团团”复播：自嘲已经“刑满释放”]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1473942.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1473942.htm"/>
-        <updated>2025-01-31T17:38:34.855Z</updated>
-        <content type="html"><![CDATA[超级网红“一条小团团”在消失一年后于近期复播，引发网友热议。此前有网友在该账号评论区下开玩笑称：“小团团八年刑满了”，小团团则自嘲称：“是的，刑满释放了。”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越来越少的iPhone购买者为额外的存储空间付费]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474790.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474790.htm"/>
-        <updated>2025-01-30T03:04:44.000Z</updated>
-        <content type="html"><![CDATA[长期以来，苹果一直依赖 iPhone 存储升级作为收入驱动因素。 
-这种策略很简单--提供"足够好"的基本存储选项，同时用价格更高的升级来吸引用户。但最近的数据表明，"咬咬牙买顶配"的人越来越少。 
-根据消费者情报研究合作伙伴（CIRP）的一份报告，最新款 iPhone 机型的存储升级已全面下降，这标志着消费者行为的转变。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微软正在调查DeepSeek是否不当使用了OpenAI的API]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1474742.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1474742.htm"/>
         <updated>2025-02-01T17:38:36.987Z</updated>
         <content type="html"><![CDATA[就在 David Sacks <a href="https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/"> 声称</a> DeepSeek 使用 OpenAI 的模型来训练自己的模型几个小时之后，彭博法律板块<a rel="nofollow" href="https://archive.ph/ZF48u#selection-1635.0-1637.213">报道</a>称微软正在调查 DeepSeek 使用 OpenAI 应用程序编程接口 (API) 的情况。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《射雕英雄传：侠之大者》口碑如何 豆瓣首批评价：五毛特效 剧情稀烂]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1474754.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1474754.htm"/>
-        <updated>2025-02-01T17:38:36.989Z</updated>
-        <content type="html"><![CDATA[今日，<strong>由徐克执导，肖战、庄达菲领衔主演的武侠电影《射雕英雄传：侠之大者》在中国内地上映。</strong>该片口碑如何？目前已有首批观众在豆瓣留评。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这种小番茄有剧毒 很多人还把它当观赏植物]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1474334.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1474334.htm"/>
-        <updated>2025-02-01T17:38:36.991Z</updated>
-        <content type="html"><![CDATA[去年，美国女演员艾丽西亚·西尔维斯通（Alicia Silverstone）发了一个短视频，说自己在路边摘了一个橙色小番茄，吃了一口之后忽然觉得不太对劲，在平台发视频询问粉丝小番茄是什么。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NordVPN发布的新协议NordWhisper可绕过封锁VPN的网络]]></title>
@@ -135,6 +93,13 @@ o1等“推理”模型的一个负担得起且开放的竞争对手。这些模
         <content type="html"><![CDATA[NordVPN 宣布了<a href="https://www.anrdoezrs.net/links/8836598/type/dlg/sid/__vg0129awD__601225__________________/https://nordvpn.com/blog/nordwhisper-protocol/" rel="sponsored nofollow noopener" target="_blank" data-dl-uid="48" data-dl-original="true" data-dl-translated="true">一项新的 NordWhisper 协议</a>，该协议可以更轻松地绕过通常会阻止 VPN 连接的网络。 该协议的运行方式不同于传统的 VPN 流量模式（有时会被网络管理员检测到），在机场、咖啡厅、办公室和学校等互联网安全过滤限制较多的环境中，该协议可提供 "更流畅、更一致的浏览体验"。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《射雕英雄传：侠之大者》口碑如何 豆瓣首批评价：五毛特效 剧情稀烂]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1474754.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1474754.htm"/>
+        <updated>2025-02-01T17:38:36.989Z</updated>
+        <content type="html"><![CDATA[今日，<strong>由徐克执导，肖战、庄达菲领衔主演的武侠电影《射雕英雄传：侠之大者》在中国内地上映。</strong>该片口碑如何？目前已有首批观众在豆瓣留评。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[客户喊话博通：“我们曾经喜欢 VMware，但现在我们讨厌它”]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1474810.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1474810.htm"/>
@@ -142,10 +107,47 @@ o1等“推理”模型的一个负担得起且开放的竞争对手。这些模
         <content type="html"><![CDATA[自收购完成以来，博通对 VMware 的管理引起了客户的普遍不满，许多人考虑减少或消除与该公司的联系。然而客户本身面临的压力越来越大，要么继续订阅 VMware，要么放弃 VMware 支持，要么完全放弃 VMware 技术。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[消息称iOS 18.4四月上线 万众期待的中文版Apple Intelligence来了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474250.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474250.htm"/>
+        <updated>2025-01-27T09:32:06.000Z</updated>
+        <content type="html"><![CDATA[知名苹果记者Mark Gurman爆料，苹果计划在4月份推出iOS 18.4。新版系统主要有两大变化，<strong>一是Siri更加智能，二是Apple Intelligence支持更多语言。</strong>iOS 18.4的Siri更加智能，它具备屏幕感知能力，能充分理解上下文并完成用户的指令。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“DeepSeek甚至绕过了CUDA” 工程师灵魂提问：英伟达护城河还在吗？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474678.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474678.htm"/>
+        <updated>2025-02-02T17:37:59.203Z</updated>
+        <content type="html"><![CDATA[英伟达刚刚从<strong>DeepSeek-R1</strong>引发的4万亿元暴跌中缓过劲来，又面临新的压力？硬件媒体Tom‘s Hardware带来开年最新热议：<strong>DeepSeek甚至绕过了CUDA，使用更底层的编程语言做优化。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[这种春节“顶流”水果一吃就停不下来 但吃太多会让你变黄]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1474184.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1474184.htm"/>
         <updated>2025-02-01T17:38:36.997Z</updated>
         <content type="html"><![CDATA[每年春节前后，都是砂糖橘大量上市的季节，也是它成为水果界顶流的时候。家家户户都成筐成筐地买，很多人一吃就停不下来，“橘子皮小山”一堆又一堆。的确，春节期间，亲朋好友欢聚一堂，最适合这时候一起炫的水果，非砂糖橘莫属。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传DeepSeek拥有5万个英伟达AI芯片 即使受到美国限制]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474286.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474286.htm"/>
+        <updated>2025-01-27T10:25:12.000Z</updated>
+        <content type="html"><![CDATA[据 DeepSeek 首席执行官称，中国人工智能实验室 DeepSeek 可以使用数万个 NVIDIA H100 AI GPU 
+进行训练。DeepSeek R1 是世界上最先进的 AI 模型之一，可与 OpenAI 的新 o1 和 Meta 的 Llama AI 
+模型相媲美。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六足机器狗在南极上班 运输、开路双管齐下]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474126.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474126.htm"/>
+        <updated>2025-02-02T17:37:59.211Z</updated>
+        <content type="html"><![CDATA[据央视报道，近日，在南极中山站附近的广袤冰盖地区，一款由我国自主研发的六足机器狗成功完成了一系列科考测试。据了解，<strong>这款六足机器狗采用了先进的仿生学设计，拥有六条灵活自如的机械腿，</strong>能够在南极崎岖不平的冰面上稳健行走。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达盘前暴跌超13% DeepSeek大模型给出5点分析]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1474356.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1474356.htm"/>
+        <updated>2025-02-02T17:37:59.220Z</updated>
+        <content type="html"><![CDATA[今日，英伟达盘前股价暴跌超13%，消息面上，DeepSeek引发芯片股估值担忧。对于英伟达股价暴跌的原因，DeepSeek大模型给出了以下5点：]]></content>
     </entry>
 </feed>
