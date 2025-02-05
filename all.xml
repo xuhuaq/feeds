@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-05T05:41:18.547Z</updated>
+    <updated>2025-02-05T17:39:10.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[蛇年最忙的女人赵雅芝：73岁高龄身材、颜值依然抗打 (cnbeta一周排行)]]></title>
@@ -10,13 +10,6 @@
         <link href="https://www.cnbeta.com.tw/articles/movie/1474882.htm"/>
         <updated>2025-01-31T17:38:34.849Z</updated>
         <content type="html"><![CDATA[1月30日消息，中国香港女演员赵雅芝可能是蛇年最忙碌的艺人之一。据悉，71岁的赵雅芝受国内9家电视台邀请，现身它们的“春晚”舞台。<strong>央视总台蛇年春晚播出的第一个小品节目《借伞》引发关注和热议。小品围绕《白蛇传》中“断桥借伞”的经典桥段，巧妙串联京剧、粤剧、川剧、越剧四个剧种，颇具创意。此外，经典剧集《新白娘子传奇》两位主演赵雅芝、叶童的亮相更是触发回忆杀。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为芯片为 DeepSeek AI的推理阶段提供了支持 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474716.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474716.htm"/>
-        <updated>2025-01-31T17:38:34.789Z</updated>
-        <content type="html"><![CDATA[DeepSeek 这款中国人工智能模型声称在成本效率方面大大超过了美国的竞争对手，人工智能大战由此进入白热化阶段。 它的开源聊天机器人已将该应用推向了 51 个国家的 App Store 榜首位置，现在又有消息称它是在华为人工智能芯片上运行的。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[越来越少的iPhone购买者为额外的存储空间付费 (cnbeta一周排行)]]></title>
@@ -35,6 +28,27 @@
         <content type="html"><![CDATA[今日，#从春晚配角到主角他熬了20年#话题登上热搜。<strong>2025年春晚现场，扭秧歌的机器人引发网友关注。它从配角到主角熬了整整20年，早在2005年就在春晚现场出现过。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[制冷技术70年没有进步 但这一突破正在改变一切 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1475378.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1475378.htm"/>
+        <updated>2025-02-02T04:07:25.000Z</updated>
+        <content type="html"><![CDATA[科学家们增强了热电偶制冷的能力，这是一种利用电化学反应的冷却方法。通过改进电解质成分，他们显著提高了效率，使其成为从可穿戴技术到工业系统等冷却应用中一种前景广阔的低能耗替代方法。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《射雕英雄传：侠之大者》口碑如何 豆瓣首批评价：五毛特效 剧情稀烂 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1474754.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1474754.htm"/>
+        <updated>2025-02-01T17:38:36.989Z</updated>
+        <content type="html"><![CDATA[今日，<strong>由徐克执导，肖战、庄达菲领衔主演的武侠电影《射雕英雄传：侠之大者》在中国内地上映。</strong>该片口碑如何？目前已有首批观众在豆瓣留评。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主机大战落幕 场上只剩索尼 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1475460.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1475460.htm"/>
+        <updated>2025-02-04T17:40:59.648Z</updated>
+        <content type="html"><![CDATA[Kotaku刊发了一篇文章，标题是“战争结束，没有赢家”：该文称，主机大战可能在几年前已分出胜负，2025年不是终战的确切年份，各条战线仍残留小规模冲突，这只是惯性使然，比如索尼仍会发售新主机，但主战场已空无一人，PlayStation正在与空气作战。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NordVPN发布的新协议NordWhisper可绕过封锁VPN的网络 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1474768.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1474768.htm"/>
@@ -47,27 +61,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1474742.htm"/>
         <updated>2025-02-01T17:38:36.987Z</updated>
         <content type="html"><![CDATA[就在 David Sacks <a href="https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/"> 声称</a> DeepSeek 使用 OpenAI 的模型来训练自己的模型几个小时之后，彭博法律板块<a rel="nofollow" href="https://archive.ph/ZF48u#selection-1635.0-1637.213">报道</a>称微软正在调查 DeepSeek 使用 OpenAI 应用程序编程接口 (API) 的情况。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《射雕英雄传：侠之大者》口碑如何 豆瓣首批评价：五毛特效 剧情稀烂 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1474754.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1474754.htm"/>
-        <updated>2025-02-01T17:38:36.989Z</updated>
-        <content type="html"><![CDATA[今日，<strong>由徐克执导，肖战、庄达菲领衔主演的武侠电影《射雕英雄传：侠之大者》在中国内地上映。</strong>该片口碑如何？目前已有首批观众在豆瓣留评。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[制冷技术70年没有进步 但这一突破正在改变一切 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1475378.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1475378.htm"/>
-        <updated>2025-02-02T04:07:25.000Z</updated>
-        <content type="html"><![CDATA[科学家们增强了热电偶制冷的能力，这是一种利用电化学反应的冷却方法。通过改进电解质成分，他们显著提高了效率，使其成为从可穿戴技术到工业系统等冷却应用中一种前景广阔的低能耗替代方法。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主机大战落幕 场上只剩索尼 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1475460.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1475460.htm"/>
-        <updated>2025-02-04T17:40:59.648Z</updated>
-        <content type="html"><![CDATA[Kotaku刊发了一篇文章，标题是“战争结束，没有赢家”：该文称，主机大战可能在几年前已分出胜负，2025年不是终战的确切年份，各条战线仍残留小规模冲突，这只是惯性使然，比如索尼仍会发售新主机，但主战场已空无一人，PlayStation正在与空气作战。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克确认正测试星链直连iPhone 苹果原合作伙伴股价暴跌 (cnbeta一周排行)]]></title>
@@ -94,13 +87,6 @@ PC Surface。这款平板电脑内置英特尔 Core Ultra Series 2
         <content type="html"><![CDATA[自收购完成以来，博通对 VMware 的管理引起了客户的普遍不满，许多人考虑减少或消除与该公司的联系。然而客户本身面临的压力越来越大，要么继续订阅 VMware，要么放弃 VMware 支持，要么完全放弃 VMware 技术。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“DeepSeek甚至绕过了CUDA” 工程师灵魂提问：英伟达护城河还在吗？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474678.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474678.htm"/>
-        <updated>2025-02-02T17:37:59.203Z</updated>
-        <content type="html"><![CDATA[英伟达刚刚从<strong>DeepSeek-R1</strong>引发的4万亿元暴跌中缓过劲来，又面临新的压力？硬件媒体Tom‘s Hardware带来开年最新热议：<strong>DeepSeek甚至绕过了CUDA，使用更底层的编程语言做优化。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ai2 称其新型人工智能模型击败了 DeepSeek (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1475088.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1475088.htm"/>
@@ -122,6 +108,28 @@ PC Surface。这款平板电脑内置英特尔 Core Ultra Series 2
         <content type="html"><![CDATA[近期DeepSeek频繁出现问题，三言发现现在DeepSeek的深度思考和联网搜索功能均无法使用。打开搜索功能对话窗口会提示“由于技术原因，联网搜索暂不可用”，使用深度思考会提示“服务器繁忙，请稍后再试”。不过如果关闭深度思考和联网搜索功能，还可以正常对话，但可用性会大打折扣。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CarPlay走向边缘化 被新势力逼的？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1475834.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1475834.htm"/>
+        <updated>2025-02-04T09:07:01.000Z</updated>
+        <content type="html"><![CDATA[作为一家快50岁的公司，苹果在消费电子领域推出了不少里程碑性质的产品，比如iPods、iPhone、AirPods。但在漫长的岁月中，苹果也有不少失败的产品，比如因售价过高和手写识别频频出错而遭到腰斩的Newton掌上电脑、因过于追求设计美感而牺牲了性能与散热的Mac
+ Pro垃圾桶，以及不久前才宣告失败的造车计划——Titan。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网友实测：一根铁丝插电视上 可免费看卫视直播 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1475970.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1475970.htm"/>
+        <updated>2025-02-05T17:39:10.231Z</updated>
+        <content type="html"><![CDATA[近期，“只要插入一根铁丝就能免费看电视”的话题，引起网友关注热议。据网友透露，我们接收的信号是国家广电免费发射的地面数字信号，<strong>每年都会有经费维护，只要插入DTMB信号接口就行。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下水道投鞭炮孩子父亲拟卖房赔偿 “会飞的雷克萨斯”车主已涨粉20多万 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1475404.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1475404.htm"/>
+        <updated>2025-02-02T07:10:02.000Z</updated>
+        <content type="html"><![CDATA[近日在在四川内江资中，一名小孩往下水道投放鞭炮，结果这一不当行为瞬间引发剧烈爆炸。据国内媒体报道称，四川资中县一男孩将鞭炮扔进下水道引发化粪池内沼气爆燃，事故现场多辆停放在旁边的豪车被毁。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[英伟达晒首批买到RTX 50用户：笑到合不拢嘴 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1475140.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1475140.htm"/>
@@ -129,24 +137,17 @@ PC Surface。这款平板电脑内置英特尔 Core Ultra Series 2
         <content type="html"><![CDATA[今天RTX 50系显卡上市销售，跟预测的一样，开卖就秒售罄的节奏。从Newegg网站的情况看，47款不同的RTX 5080和RTX 5090显卡均已售罄，从999.99美元的基础型号RTX 5080到售价高达2799.99美元的华硕ROG Astral RTX 5090，无一幸免。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软向所有 Copilot 用户免费提供 OpenAI 的 o1 推理模型 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474968.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474968.htm"/>
-        <updated>2025-02-04T17:40:59.662Z</updated>
-        <content type="html"><![CDATA[微软本周将为所有 Copilot 用户带来 OpenAI 的 o1 推理模型。不再需要订阅每月 20 美元的 Copilot Pro 或 ChatGPT Plus 计划就能获得它，因为微软将免费向所有 Copilot 用户提供它。]]></content>
+        <title type="html"><![CDATA[NVIDIA RTX 5090和 5080 GPU“纸上发布”如同耍猴 令玩家沮丧不已 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1475548.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1475548.htm"/>
+        <updated>2025-02-03T01:34:45.000Z</updated>
+        <content type="html"><![CDATA[NVIDIA 备受期待的 RTX 5090 和 5080 显卡于 1 月 30 日发布，但此次发布因严重的库存短缺而受到影响，导致许多人将其称为“纸上发布”。尽管 NVIDIA 本周早些时候警告过潜在的供应问题，但库存的稀缺让许多热切的客户感到失望和沮丧。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google为开发Pixel和Android的员工提供"自愿离职"机会 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1474982.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1474982.htm"/>
-        <updated>2025-01-31T02:58:13.000Z</updated>
-        <content type="html"><![CDATA[去年，负责 Pixel 硬件和 Android 软件的团队合并为一个部门，Google今天宣布了一项针对平台和设备部门员工的"自愿离职计划"。高级副总裁里克-奥斯特罗（Rick Osterloh）今天上午向员工发出了一份关于"自愿离职计划"的备忘录，该公司证实了这一消息。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国留学生吐槽北欧硕士课程中LGBT横行 校方要求道歉 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1475056.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1475056.htm"/>
-        <updated>2025-02-03T17:38:59.755Z</updated>
-        <content type="html"><![CDATA[1月31日消息，最近，一位在瑞典留学的网友在贴吧分享了游戏设计硕士课程的课件内容，并对课程中过度强调LGBTQ和多元化元素提出了吐槽。没想到，这一言论竟然被学校得知，结果被要求公开道歉。]]></content>
+        <title type="html"><![CDATA[《哪吒2》百万条锁链有多难做：特效老师电脑开机开了2个小时 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1475714.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1475714.htm"/>
+        <updated>2025-02-05T17:39:10.241Z</updated>
+        <content type="html"><![CDATA[《哪吒之魔童闹海》毫无意外拿下春节档票房冠军，影片爆火背后，是制作团队的用心。据悉，比起前作《哪吒之魔童闹海》整个故事更宏大，涵盖仙界、人间、妖界的角色数量增大，<strong>特效镜头超1900个，仅特效镜头就超过前作全片镜头数量（1800多个）。</strong>]]></content>
     </entry>
 </feed>
