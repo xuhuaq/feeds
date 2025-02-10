@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-02-10T05:40:44.662Z</updated>
+    <updated>2025-02-10T17:39:07.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[在中国市场站稳后，华为手机开始重回全球，而官方已经宣布了新的动作。华为手机今日宣布，2月18日将马来西亚吉隆坡举行产品发布会。<strong>虽然官方没有透露太多的内容，但华为的新折叠屏产品Mate X6的广告牌之前已出现在中国香港、迪拜和吉隆坡等国际化都市的核心位置，这预示着华为回归全球市场的决心。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从春晚配角到主角他熬了20年 瘦了 也长高了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1475490.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1475490.htm"/>
-        <updated>2025-02-04T17:40:59.638Z</updated>
-        <content type="html"><![CDATA[今日，#从春晚配角到主角他熬了20年#话题登上热搜。<strong>2025年春晚现场，扭秧歌的机器人引发网友关注。它从配角到主角熬了整整20年，早在2005年就在春晚现场出现过。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[复旦大学研究表明：在知道自己将被关闭后 AI复制了自己]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1476012.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1476012.htm"/>
         <updated>2025-02-06T17:39:48.877Z</updated>
         <content type="html"><![CDATA[复旦大学研究显示，Meta和阿里巴巴的两个大型语言模型成功实现了自我复制，且无需人类干预。该研究呼吁采取紧急措施以应对这一风险，并警告称，在最坏情况下，人类可能最终失去对尖端AI系统的控制。此外，GoogleDeepMind和伦敦政治经济学院的研究表明，AI可能是模仿人类行为，并非拥有自我意识和感知。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汪小菲微信群讨伐周受资：你凭什么封我号？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1477226.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1477226.htm"/>
+        <updated>2025-02-09T10:38:35.000Z</updated>
+        <content type="html"><![CDATA[近日，<strong>知名企业家汪小菲在社交媒体微信群里上质疑TikTok首席执行官周受资</strong>的一段对话引发了广泛关注。在这段对话中，汪小菲质问了周受资关于其个人社交媒体账号被封的原因，并强烈表达了对这一事件的不满。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[泰国总理邀请小米汽车在泰国建立第一家海外工厂]]></title>
@@ -56,13 +56,6 @@
  Pro垃圾桶，以及不久前才宣告失败的造车计划——Titan。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这几种悄悄藏着咖啡因的食物 可能让你整夜睡不好]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1475926.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1475926.htm"/>
-        <updated>2025-02-06T17:39:48.879Z</updated>
-        <content type="html"><![CDATA[你是否有过这样的经历：明明没喝咖啡，结果翻来覆去就是睡不着，脑海中还不断闪现各种思绪？其实，这背后可能有一个“幕后黑手”——<strong><strong>咖啡因</strong></strong><strong>。</strong>是的，你没听错，除了咖啡，很多食物中都隐藏着咖啡因这个“睡眠小偷”。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google发布Gemini 2.0 向所有人开放其有史以来最强AI模型]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1476376.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1476376.htm"/>
@@ -71,6 +64,13 @@
  
 2.0正式向所有用户开放使用。据Google表示，这是该公司迄今为止“最强大”的AI模型套件。此前在去年12月，Google仅向开发者和受信任的测试者开放了部分功能，并将一些特性整合进Google的核心产品。如今全面开放后，所有新模型都可通过GoogleAI
  Studio和Gemini API供开发者使用。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这几种悄悄藏着咖啡因的食物 可能让你整夜睡不好]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1475926.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1475926.htm"/>
+        <updated>2025-02-06T17:39:48.879Z</updated>
+        <content type="html"><![CDATA[你是否有过这样的经历：明明没喝咖啡，结果翻来覆去就是睡不着，脑海中还不断闪现各种思绪？其实，这背后可能有一个“幕后黑手”——<strong><strong>咖啡因</strong></strong><strong>。</strong>是的，你没听错，除了咖啡，很多食物中都隐藏着咖啡因这个“睡眠小偷”。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[汪小菲清空带货橱窗 被拍90度鞠躬双眼红肿称“熙媛是我的家人”]]></title>
@@ -89,11 +89,11 @@
 NPU。 M4 的神经引擎额定功率为 38 TOPS，比 M3 引擎的 18 TOPS 有了大幅提升。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OPPO Find N5官宣：全球最薄折叠屏 两周后亮相]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1476198.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1476198.htm"/>
-        <updated>2025-02-06T17:39:48.895Z</updated>
-        <content type="html"><![CDATA[OPPO预告全球最薄折叠屏Find N5将于两周后正式亮相。这款新品搭载高通骁龙8至尊版移动平台，<strong>是全球第一款骁龙8至尊版折叠屏，也是迄今为止性能最强悍的折叠屏旗舰。</strong>]]></content>
+        <title type="html"><![CDATA[全球第一台可扩展光量子计算机问世 35颗光子芯片、13公里光纤]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1475872.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1475872.htm"/>
+        <updated>2025-02-04T10:08:12.000Z</updated>
+        <content type="html"><![CDATA[量子计算机被视为计算的未来，各种突破也是接连不断。<strong>加拿大创业公司Xanadu就宣布，他们打造了全球第一台可扩展联网的、模块化的、基于光子的量子计算机“Aurora”，而且能在室温下运行，可用于药物研发、机器学习算法研究。</strong>相关论文已发表在《自然》杂志。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[男子回应开小飞机返程：飞机是103万买的 百公里油耗8L]]></title>
@@ -103,6 +103,20 @@ NPU。 M4 的神经引擎额定功率为 38 TOPS，比 M3 引擎的 18 TOPS 有�
         <content type="html"><![CDATA[近期，“男子春节开飞机返程拍下高速堵车”的话题引起网友关注热议。报道称，近日，安徽滁州，春节返程高峰高速拥堵，男子直接开飞机回市区，还拍下了高速堵车的画面。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[两辆小米YU7出街被拍 基本无伪装]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1476574.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1476574.htm"/>
+        <updated>2025-02-08T17:39:08.688Z</updated>
+        <content type="html"><![CDATA[今年最为重磅的一款纯电SUV当属小米YU7，该车已经申报，近日，两辆几乎无伪装的实车上路被拍。<strong>此次被网友偶遇的两台车均配备激光雷达，推测为Max版，支持高阶智驾能力。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO Find N5官宣：全球最薄折叠屏 两周后亮相]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1476198.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1476198.htm"/>
+        <updated>2025-02-06T17:39:48.895Z</updated>
+        <content type="html"><![CDATA[OPPO预告全球最薄折叠屏Find N5将于两周后正式亮相。这款新品搭载高通骁龙8至尊版移动平台，<strong>是全球第一款骁龙8至尊版折叠屏，也是迄今为止性能最强悍的折叠屏旗舰。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[网友实测：一根铁丝插电视上 可免费看卫视直播]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1475970.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1475970.htm"/>
@@ -110,18 +124,11 @@ NPU。 M4 的神经引擎额定功率为 38 TOPS，比 M3 引擎的 18 TOPS 有�
         <content type="html"><![CDATA[近期，“只要插入一根铁丝就能免费看电视”的话题，引起网友关注热议。据网友透露，我们接收的信号是国家广电免费发射的地面数字信号，<strong>每年都会有经费维护，只要插入DTMB信号接口就行。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全球第一台可扩展光量子计算机问世 35颗光子芯片、13公里光纤]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1475872.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1475872.htm"/>
-        <updated>2025-02-04T10:08:12.000Z</updated>
-        <content type="html"><![CDATA[量子计算机被视为计算的未来，各种突破也是接连不断。<strong>加拿大创业公司Xanadu就宣布，他们打造了全球第一台可扩展联网的、模块化的、基于光子的量子计算机“Aurora”，而且能在室温下运行，可用于药物研发、机器学习算法研究。</strong>相关论文已发表在《自然》杂志。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两辆小米YU7出街被拍 基本无伪装]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1476574.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1476574.htm"/>
-        <updated>2025-02-08T17:39:08.688Z</updated>
-        <content type="html"><![CDATA[今年最为重磅的一款纯电SUV当属小米YU7，该车已经申报，近日，两辆几乎无伪装的实车上路被拍。<strong>此次被网友偶遇的两台车均配备激光雷达，推测为Max版，支持高阶智驾能力。</strong>]]></content>
+        <title type="html"><![CDATA[官方证实铁丝插电视完全能免费看电视]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1477106.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1477106.htm"/>
+        <updated>2025-02-10T17:39:06.234Z</updated>
+        <content type="html"><![CDATA[针对当前“只要插入一根铁丝就能免费看电视”的话题，官方已经证实了。<strong>山东省广播电视传输保障中心调频电视部科长冯晗接受媒体采访时，一根电线免费看电视，山东至少能收16套电视节目，而且是真的完全免费。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[华为与DeepSeek联手：算力已达英伟达60%、CANN取代CUDA架构]]></title>
@@ -143,12 +150,5 @@ NPU。 M4 的神经引擎额定功率为 38 TOPS，比 M3 引擎的 18 TOPS 有�
         <link href="https://www.cnbeta.com.tw/articles/tech/1476582.htm"/>
         <updated>2025-02-09T17:38:00.179Z</updated>
         <content type="html"><![CDATA[今日有市场消息称，知名风险投资人薛蛮子去世。对此，薛蛮子本人下午17点左右发布朋友圈对传言进行辟谣。薛蛮子发文称，“大年初九我和女儿给大家拜个晚年了！”并配上自己和女儿的合照。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国邮政朝令夕改 继续接受来自中国的包裹]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1476342.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1476342.htm"/>
-        <updated>2025-02-07T17:39:12.599Z</updated>
-        <content type="html"><![CDATA[美国邮政服务公司（US Postal Service）撤销了昨天突然做出的停止接收来自中国和香港的入境包裹的决定。 美国邮政将继续接收来自这两个国家和地区的国际快件，但警告说这将"扰乱"递送工作。]]></content>
     </entry>
 </feed>
