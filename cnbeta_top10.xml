@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-02-15T05:40:01.317Z</updated>
+    <updated>2025-02-15T17:38:58.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[巨兽之地：这是地球史上最独特的生物群落之一 各种动物大到离谱]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1477328.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1477328.htm"/>
-        <updated>2025-02-11T17:40:06.283Z</updated>
-        <content type="html"><![CDATA[1972年，哈佛大学的古生物学家在委内瑞拉北部进行研究考察时发现了一些史前巨型龟类的化石遗骸。这些史前巨龟的体型震惊了所有人，古生物学家拼凑了一些化石样本，并对它们进行描述和分类，将其归入<strong>骇龟属（Stupendemys）</strong>，他们推测这些巨龟的龟壳大小在2.3-3.5米之间，体重可能超过1100公斤，是已知最大、最重的龟类，比其已知的近亲重了100倍。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI发布最新论文：DeepSeek和Kimi发现了o1的秘密]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1478184.htm</id>
@@ -20,6 +13,13 @@
         <content type="html"><![CDATA[在中国AI公司的影响下，OpenAI不得不公开O系列强化学习的秘密。今天（2月12日），OpenAI发布了关于推理模型在竞技编程中应用的研究论文报告《Competitive
  Programming with Large Reasoning 
 Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（国际信息学奥林匹克竞赛）和CodeForces（全球知名在线编程竞赛）中的成绩。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巨兽之地：这是地球史上最独特的生物群落之一 各种动物大到离谱]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1477328.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1477328.htm"/>
+        <updated>2025-02-11T17:40:06.283Z</updated>
+        <content type="html"><![CDATA[1972年，哈佛大学的古生物学家在委内瑞拉北部进行研究考察时发现了一些史前巨型龟类的化石遗骸。这些史前巨龟的体型震惊了所有人，古生物学家拼凑了一些化石样本，并对它们进行描述和分类，将其归入<strong>骇龟属（Stupendemys）</strong>，他们推测这些巨龟的龟壳大小在2.3-3.5米之间，体重可能超过1100公斤，是已知最大、最重的龟类，比其已知的近亲重了100倍。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[汪小菲微信群讨伐周受资：你凭什么封我号？]]></title>
@@ -64,13 +64,6 @@ Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（�
         <content type="html"><![CDATA[近日，一位名为江仁基的<strong>00后小伙</strong>成为了亲朋好友以及众多网友和媒体关注的焦点。事件的起因是一位在英国留学的中国学生在社交媒体上发布了一段视频，视频中他提到一觉醒来，发现楼下竟然停着一辆挂着“陕A”牌照的汽车，这迅速引发了广泛的关注和热议。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[官方证实铁丝插电视完全能免费看电视]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1477106.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1477106.htm"/>
-        <updated>2025-02-10T17:39:06.234Z</updated>
-        <content type="html"><![CDATA[针对当前“只要插入一根铁丝就能免费看电视”的话题，官方已经证实了。<strong>山东省广播电视传输保障中心调频电视部科长冯晗接受媒体采访时，一根电线免费看电视，山东至少能收16套电视节目，而且是真的完全免费。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美女博主爆改家用空调外机给电脑降温 把RTX 5090核心压到2℃]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1477480.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1477480.htm"/>
@@ -78,11 +71,11 @@ Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（�
         <content type="html"><![CDATA[再牛X的PC液冷，也比不上空调外机。近日，B站博主<a class="f14_link" href="https://www.bilibili.com/video/BV1UtfmYKEig/?spm_id_from=333.1007.tianma.6-4-22.click&amp;vd_source=ab6f7cce77d930be2096916d61222bc9" target="_blank">电解碳酸钠</a>用家用空调外机给电脑降温的案例，吸引了国外媒体关注。<strong>该博主竟然把空调外机爆改成了电脑散热器，堪称RTX 5090绝配。到底是怎么做的呢？思路是大概这样的</strong>——]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[28岁韩国美女气象主播离世 留17页遗书控诉职场霸凌]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1476854.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1476854.htm"/>
-        <updated>2025-02-12T17:40:08.082Z</updated>
-        <content type="html"><![CDATA[2024年9月，韩国MBC电视台的美女气象主播吴尤安娜突然离世，年仅28岁。她的死讯在三个月后才被公开，引发了广泛关注。据韩联社报道，随着吴尤安娜的手机被解锁，一篇长达17页、共计2750字的遗书曝光，揭露了她长期遭受职场霸凌的悲惨经历。上面写明她长期遭受职场霸凌，多次向公司反馈却惨遭无视，甚至自杀未遂后还要带伤上镜播报新闻。]]></content>
+        <title type="html"><![CDATA[官方证实铁丝插电视完全能免费看电视]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1477106.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1477106.htm"/>
+        <updated>2025-02-10T17:39:06.234Z</updated>
+        <content type="html"><![CDATA[针对当前“只要插入一根铁丝就能免费看电视”的话题，官方已经证实了。<strong>山东省广播电视传输保障中心调频电视部科长冯晗接受媒体采访时，一根电线免费看电视，山东至少能收16套电视节目，而且是真的完全免费。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025年最全CPU性能排行 锐龙7 9800X3D断崖式遥遥领先]]></title>
@@ -106,6 +99,41 @@ Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（�
         <content type="html"><![CDATA[2月12日消息，今日正值农历元宵佳节，不少人又要迫不及待等到天黑想要肆意燃放烟花爆竹，然而这种行为伴随着一定的风险，近日甚至有人因此而送命。媒体报道，此事发生在安徽合肥，<strong>当晚，一男子酒后点燃礼花弹瞬间爆炸当场身亡</strong>。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iPhone新型电诈手段出现 苹果确认存在]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1478492.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1478492.htm"/>
+        <updated>2025-02-15T17:38:57.828Z</updated>
+        <content type="html"><![CDATA[<strong>近日，众多iPhone用户纷纷反映，他们收到了一则“重设密码”的弹窗提醒。</strong>当弹窗浮现时，其内容清晰地显示为：“使用这部iPhone重设你的Apple ID密码。”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能复活16年前的诺基亚手机？我们试了下这个开源操作系统]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1477602.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1477602.htm"/>
+        <updated>2025-02-14T17:38:43.801Z</updated>
+        <content type="html"><![CDATA[不知道有多少差友，是像托尼一样偏爱老设备的垃圾佬。尤其对一些当年错过的老手机，我一直是念念不忘，它们都快成了托尼的机圈&nbsp;“&nbsp;白月光&nbsp;”&nbsp;了。而且这时候你打开海鲜市场就会发现，这些曾经的旗舰，有的甚至只卖 2-300&nbsp;元，价格普遍挺香。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI首席执行官奥尔特曼：希望与中国合作，这很重要]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1477918.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1477918.htm"/>
+        <updated>2025-02-14T17:38:43.799Z</updated>
+        <content type="html"><![CDATA[2月11日，美国企业家埃隆·马斯克等投资人当地时间2月10日提议“以974亿美元竞购”由其参与创建的美国开放人工智能研究中心（OpenAI）的非营利性母公司。对此，2月11日在法国巴黎出席人工智能行动峰会的OpenAI首席执行官萨姆·奥尔特曼再次强调“公司不卖”，并表示，“如果马斯克愿意谈”，那么他将“很乐意收购推特（即社交媒体平台X）”。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 18.3.1发布 包含对主动暴露漏洞的修复]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1477614.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1477614.htm"/>
+        <updated>2025-02-11T02:39:08.000Z</updated>
+        <content type="html"><![CDATA[苹果公司今天发布的 iOS 18.3.1 和 iPadOS 18.3.1 更新包含一个重要的安全修复，由于该漏洞已经在外部被利用，因此苹果选择主动曝光漏洞并敦促用户必须尽快安装新软件。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI放王炸：GPT-5免费无限使用 产品矩阵大整合]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1478270.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1478270.htm"/>
+        <updated>2025-02-13T06:50:51.000Z</updated>
+        <content type="html"><![CDATA[今天凌晨3点，OpenAI首席执行官Sam Altman公布了GPT-4.5和GPT-5的炸裂消息。Altman表示，OpenAI很快发布GPT-4.5，就是传说中的猎户座模型（Orion），也是最后一个非思维链模型。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SpaceX又丢失了一枚飞往太空的火箭 FAA认为不需要调查]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1477158.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1477158.htm"/>
@@ -120,33 +148,5 @@ Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（�
         <link href="https://www.cnbeta.com.tw/articles/science/1477600.htm"/>
         <updated>2025-02-13T17:38:53.926Z</updated>
         <content type="html"><![CDATA[2024年6月进入国际空间站的NASA航天员巴里·威尔莫尔、苏尼·威廉姆斯，已经在太空滞留了8个多月，之前公开的计划是今年2月份搭乘SpaceX的龙飞船返回，但没想到又生变故！据悉，计划执行此次撤回宇航员的Crew-10任务飞船出现电池问题，预计要到4月底才能发射，这样的话两位宇航员又要在太空多待两个月。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI放王炸：GPT-5免费无限使用 产品矩阵大整合]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1478270.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1478270.htm"/>
-        <updated>2025-02-13T06:50:51.000Z</updated>
-        <content type="html"><![CDATA[今天凌晨3点，OpenAI首席执行官Sam Altman公布了GPT-4.5和GPT-5的炸裂消息。Altman表示，OpenAI很快发布GPT-4.5，就是传说中的猎户座模型（Orion），也是最后一个非思维链模型。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI首席执行官奥尔特曼：希望与中国合作，这很重要]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1477918.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1477918.htm"/>
-        <updated>2025-02-14T17:38:43.799Z</updated>
-        <content type="html"><![CDATA[2月11日，美国企业家埃隆·马斯克等投资人当地时间2月10日提议“以974亿美元竞购”由其参与创建的美国开放人工智能研究中心（OpenAI）的非营利性母公司。对此，2月11日在法国巴黎出席人工智能行动峰会的OpenAI首席执行官萨姆·奥尔特曼再次强调“公司不卖”，并表示，“如果马斯克愿意谈”，那么他将“很乐意收购推特（即社交媒体平台X）”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能复活16年前的诺基亚手机？我们试了下这个开源操作系统]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1477602.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1477602.htm"/>
-        <updated>2025-02-14T17:38:43.801Z</updated>
-        <content type="html"><![CDATA[不知道有多少差友，是像托尼一样偏爱老设备的垃圾佬。尤其对一些当年错过的老手机，我一直是念念不忘，它们都快成了托尼的机圈&nbsp;“&nbsp;白月光&nbsp;”&nbsp;了。而且这时候你打开海鲜市场就会发现，这些曾经的旗舰，有的甚至只卖 2-300&nbsp;元，价格普遍挺香。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 18.3.1发布 包含对主动暴露漏洞的修复]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1477614.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1477614.htm"/>
-        <updated>2025-02-11T02:39:08.000Z</updated>
-        <content type="html"><![CDATA[苹果公司今天发布的 iOS 18.3.1 和 iPadOS 18.3.1 更新包含一个重要的安全修复，由于该漏洞已经在外部被利用，因此苹果选择主动曝光漏洞并敦促用户必须尽快安装新软件。]]></content>
     </entry>
 </feed>
