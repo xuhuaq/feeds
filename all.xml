@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-18T05:41:25.487Z</updated>
+    <updated>2025-02-18T17:40:21.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[OpenAI发布最新论文：DeepSeek和Kimi发现了o1的秘密 (cnbeta一周排行)]]></title>
@@ -12,27 +12,6 @@
         <content type="html"><![CDATA[在中国AI公司的影响下，OpenAI不得不公开O系列强化学习的秘密。今天（2月12日），OpenAI发布了关于推理模型在竞技编程中应用的研究论文报告《Competitive
  Programming with Large Reasoning 
 Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（国际信息学奥林匹克竞赛）和CodeForces（全球知名在线编程竞赛）中的成绩。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张兰挣扎，带货生意仍在继续 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1477580.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1477580.htm"/>
-        <updated>2025-02-12T17:40:08.072Z</updated>
-        <content type="html"><![CDATA[尽管个人账号被抖音封禁、儿子汪小菲宣称要和自己断绝关系、被全网网民口诛笔伐<strong>……但张兰的带货生意仍在继续。</strong>从2月9日开始，除了被抖音封禁的三个账号，张兰汪小菲母子控制的多个平台账号均开通直播。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[排队至少6小时起 年轻人们带着小马扎去SKP抢购老铺黄金…… (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1478588.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1478588.htm"/>
-        <updated>2025-02-14T09:17:08.000Z</updated>
-        <content type="html"><![CDATA[情人节的消费旋风，吹过商场奢华的走廊，带着一丝甜蜜，也带着一丝疯狂。在这个特殊的节日，北京SKP商场门庭若市，最疯狂的专柜要属“黄金界爱马仕”的老铺黄金。新浪财经探访发现，早上10点，老铺黄金门店刚刚开门，门口已经大排长龙。有消费者抱怨：“连店门都挤不进去，排队至少6小时起！”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M4 MacBook Air 即将发布 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1477616.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1477616.htm"/>
-        <updated>2025-02-11T03:26:24.000Z</updated>
-        <content type="html"><![CDATA[有迹象表明，配备 M4 芯片的全新 MacBook Air 将在不久的将来发布。 X 上的一个帐户今天分享了 MacBook Air 将使用的标识符，这些标识符与 M4 芯片相对应。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone新型电诈手段出现 苹果确认存在 (cnbeta一周排行)]]></title>
@@ -49,25 +28,11 @@ Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（�
         <content type="html"><![CDATA[从手机、电动车到储能电站，锂电池在人们生活中无处不在。但由于在使用过程中不断损失锂离子，手机电池用久了就充不进电，电动车充满电能跑的里程数越来越短，寒冷地区的电池更容易坏，废旧电池数量越来越多。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国发现全球最古老鸟类：比始祖鸟更像鸟 大小和鹦鹉接近 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1478440.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1478440.htm"/>
-        <updated>2025-02-16T17:38:40.517Z</updated>
-        <content type="html"><![CDATA[全球最早的鸟类原来不是始祖鸟！据央视报道，<strong>今天，中国科学院古脊椎动物与古人类研究所与福建省地质调查研究院联合发布最新研究成果：</strong>通过对福建省政和动物群发现的侏罗纪鸟类化石的研究，<strong>发现全球最古老的鸟类之一——“政和八闽鸟”，也是迄今唯一确切的侏罗纪鸟类，</strong>揭示了现代鸟类的体型结构在侏罗纪晚期（距今1.5亿年）就已经出现，<strong>该研究将以尾综骨为代表的鸟类重要特征出现的时间提早了近2000万年。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年最全CPU性能排行 锐龙7 9800X3D断崖式遥遥领先 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1477568.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1477568.htm"/>
-        <updated>2025-02-13T17:38:53.911Z</updated>
-        <content type="html"><![CDATA[AMD、Intel的新一代处理器都已经陆续登场，Tom's Hardware也更新了他们的排行榜，从游戏性能、单线程性能、多线程性能等多个角度，对于双方的近几代处理器进行了综合评定。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 17 Pro Max 渲染图显示奇特的相机栏布局 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1478740.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1478740.htm"/>
-        <updated>2025-02-16T17:38:40.524Z</updated>
-        <content type="html"><![CDATA[有博主绘制了iPhone 17 Pro系列渲染图。如图所示，iPhone 17 Pro采用大面积矩阵相机DECD设计<strong>，造型神似小米11 Ultra，</strong>它的三颗摄像头仍然排布在左侧位置，镜头排列与iPhone 16 Pro保持一致，左侧是主摄和超广角，右侧是长焦。]]></content>
+        <title type="html"><![CDATA[排队至少6小时起 年轻人们带着小马扎去SKP抢购老铺黄金…… (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1478588.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1478588.htm"/>
+        <updated>2025-02-14T09:17:08.000Z</updated>
+        <content type="html"><![CDATA[情人节的消费旋风，吹过商场奢华的走廊，带着一丝甜蜜，也带着一丝疯狂。在这个特殊的节日，北京SKP商场门庭若市，最疯狂的专柜要属“黄金界爱马仕”的老铺黄金。新浪财经探访发现，早上10点，老铺黄金门店刚刚开门，门口已经大排长龙。有消费者抱怨：“连店门都挤不进去，排队至少6小时起！”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024新能源车保值率排名一览：特斯拉霸榜前二 越贵越不值钱 (cnbeta一周排行)]]></title>
@@ -77,11 +42,25 @@ Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（�
         <content type="html"><![CDATA[过去1年你知道哪些新能源车保值吗，中国汽车流通协会就给出了答案。中国汽车流通协会发布了《2024年度中国汽车保值率报告》，其中在新能源车保值率方面，特斯拉两款车占据前二，比亚迪海鸥是保值率最高的国产新能源车。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[能复活16年前的诺基亚手机？我们试了下这个开源操作系统 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1477602.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1477602.htm"/>
-        <updated>2025-02-14T17:38:43.801Z</updated>
-        <content type="html"><![CDATA[不知道有多少差友，是像托尼一样偏爱老设备的垃圾佬。尤其对一些当年错过的老手机，我一直是念念不忘，它们都快成了托尼的机圈&nbsp;“&nbsp;白月光&nbsp;”&nbsp;了。而且这时候你打开海鲜市场就会发现，这些曾经的旗舰，有的甚至只卖 2-300&nbsp;元，价格普遍挺香。]]></content>
+        <title type="html"><![CDATA[中国发现全球最古老鸟类：比始祖鸟更像鸟 大小和鹦鹉接近 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1478440.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1478440.htm"/>
+        <updated>2025-02-16T17:38:40.517Z</updated>
+        <content type="html"><![CDATA[全球最早的鸟类原来不是始祖鸟！据央视报道，<strong>今天，中国科学院古脊椎动物与古人类研究所与福建省地质调查研究院联合发布最新研究成果：</strong>通过对福建省政和动物群发现的侏罗纪鸟类化石的研究，<strong>发现全球最古老的鸟类之一——“政和八闽鸟”，也是迄今唯一确切的侏罗纪鸟类，</strong>揭示了现代鸟类的体型结构在侏罗纪晚期（距今1.5亿年）就已经出现，<strong>该研究将以尾综骨为代表的鸟类重要特征出现的时间提早了近2000万年。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 17 Pro Max 渲染图显示奇特的相机栏布局 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1478740.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1478740.htm"/>
+        <updated>2025-02-16T17:38:40.524Z</updated>
+        <content type="html"><![CDATA[有博主绘制了iPhone 17 Pro系列渲染图。如图所示，iPhone 17 Pro采用大面积矩阵相机DECD设计<strong>，造型神似小米11 Ultra，</strong>它的三颗摄像头仍然排布在左侧位置，镜头排列与iPhone 16 Pro保持一致，左侧是主摄和超广角，右侧是长焦。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025款iPhone SE带来的改变可能令其比以往三代更受欢迎 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1478842.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1478842.htm"/>
+        <updated>2025-02-15T01:40:42.000Z</updated>
+        <content type="html"><![CDATA[据天风证券分析师郭明錤称，苹果今年的iPhone SE 4 销量可能超过 2000 万部，成为有史以来最受欢迎的 iPhone SE 机型。郭在 X 上发表的一篇文章中称，预计第四代 iPhone SE 在 2025 年上半年和下半年的出货量分别约为 1200 万部和 1000 万部--这显然要好于之前的 iPhone SE 机型。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI首席执行官奥尔特曼：希望与中国合作，这很重要 (cnbeta一周排行)]]></title>
@@ -98,18 +77,25 @@ Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（�
         <content type="html"><![CDATA[2月12日消息，今日正值农历元宵佳节，不少人又要迫不及待等到天黑想要肆意燃放烟花爆竹，然而这种行为伴随着一定的风险，近日甚至有人因此而送命。媒体报道，此事发生在安徽合肥，<strong>当晚，一男子酒后点燃礼花弹瞬间爆炸当场身亡</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 18.3.1发布 包含对主动暴露漏洞的修复 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1477614.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1477614.htm"/>
-        <updated>2025-02-11T02:39:08.000Z</updated>
-        <content type="html"><![CDATA[苹果公司今天发布的 iOS 18.3.1 和 iPadOS 18.3.1 更新包含一个重要的安全修复，由于该漏洞已经在外部被利用，因此苹果选择主动曝光漏洞并敦促用户必须尽快安装新软件。]]></content>
+        <title type="html"><![CDATA[一车主利用15分钟内免停车费逃费71次 “节省”2500元构成盗窃罪 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1478888.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1478888.htm"/>
+        <updated>2025-02-15T10:24:15.000Z</updated>
+        <content type="html"><![CDATA[人类非常聪明，总是善于发现各种漏洞并从中获利，不过这种做法可是有代价的。据“荔枝新闻”<a class="f14_link" href="https://video.weibo.com/show?fid=1034:5134059945525301" target="_blank">报道</a>，近日，江苏一名车主利用“停车不足15分钟免费”钻空子而被当场逮住。据介绍，<strong>男子会在开车进入停车场后，立即转至出口处，在闸机识别到车辆信息后抬杠后，则退回停车场。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[外国人走了，那些留在小红书的博主如何了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1477522.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1477522.htm"/>
-        <updated>2025-02-16T17:38:40.529Z</updated>
-        <content type="html"><![CDATA[直播间隙，Leo习惯性点开实时数据——在线人数显示100+，而大半个月前，这一数字是4000+。涌入小红书的外国人陆续撤回TikTok"快乐老家"了，但他每天仍兢兢业业地开播、发帖，只因连麦席上，还有扎根中国社区的老外在谈天说地。]]></content>
+        <title type="html"><![CDATA[Tim Cook推文暗示第四代iPhone SE的名称有变 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1479180.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1479180.htm"/>
+        <updated>2025-02-18T17:40:20.915Z</updated>
+        <content type="html"><![CDATA[在预计于 2025 年 2 月 19 日发布iPhone SE 4 之前，有迹象表明之前有关该机将更名的说法可能属实。2025 年 1 月初，似乎不太可能泄露的消息称 iPhone SE 4 将更名为 iPhone 16E。 这主要是因为泄露信息的来源，但"iPhone SE"自 2016 年以来一直是一个成功的品牌。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回忆杀大揭秘：饺子导演和网友15年前私人邮件曝光 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1478896.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1478896.htm"/>
+        <updated>2025-02-15T10:38:47.000Z</updated>
+        <content type="html"><![CDATA[据猫眼专业版最新数据显示，饺子导演新作《哪吒之魔童闹海》正持续热映，其执导<strong>电影累计票房已跨越157亿大关</strong>，这一成就使饺子导演荣登中国影史票房最高导演宝座，引发了全网的热烈祝贺。近期，一位网友发帖分享了其于<strong>15年前</strong>与饺子导演（<strong>当时网名为“饺克力”</strong>）的邮件交流记录。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI放王炸：GPT-5免费无限使用 产品矩阵大整合 (cnbeta一周排行)]]></title>
@@ -119,25 +105,32 @@ Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（�
         <content type="html"><![CDATA[今天凌晨3点，OpenAI首席执行官Sam Altman公布了GPT-4.5和GPT-5的炸裂消息。Altman表示，OpenAI很快发布GPT-4.5，就是传说中的猎户座模型（Orion），也是最后一个非思维链模型。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[滞留空间站的美国宇航员回归地球行程又被推迟 预计3月19日 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1477600.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1477600.htm"/>
-        <updated>2025-02-13T17:38:53.926Z</updated>
-        <content type="html"><![CDATA[2024年6月进入国际空间站的NASA航天员巴里·威尔莫尔、苏尼·威廉姆斯，已经在太空滞留了8个多月，之前公开的计划是今年2月份搭乘SpaceX的龙飞船返回，但没想到又生变故！据悉，计划执行此次撤回宇航员的Crew-10任务飞船出现电池问题，预计要到4月底才能发射，这样的话两位宇航员又要在太空多待两个月。]]></content>
+        <title type="html"><![CDATA[DeepSeek又得了个第一 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1478670.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1478670.htm"/>
+        <updated>2025-02-18T17:40:20.919Z</updated>
+        <content type="html"><![CDATA[刚刚，DeepSeek在开源社区Hugging Face上的<strong>点赞数跃居第一</strong>，获约8730次点赞，这一数字仍在持续上涨。这是继DeepSeek应用力压ChatGPT登顶美区App Store免费榜、模型在开源社区GitHub上Star数首次超越OpenAI之后，创下的又一个历史时刻，DeepSeek在海外平台再次登顶。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025款iPhone SE带来的改变可能令其比以往三代更受欢迎 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1478842.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1478842.htm"/>
-        <updated>2025-02-15T01:40:42.000Z</updated>
-        <content type="html"><![CDATA[据天风证券分析师郭明錤称，苹果今年的iPhone SE 4 销量可能超过 2000 万部，成为有史以来最受欢迎的 iPhone SE 机型。郭在 X 上发表的一篇文章中称，预计第四代 iPhone SE 在 2025 年上半年和下半年的出货量分别约为 1200 万部和 1000 万部--这显然要好于之前的 iPhone SE 机型。]]></content>
+        <title type="html"><![CDATA[为何焕新Model Y回归实体转向拨杆？特斯拉负责人首次公开回应 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1478938.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1478938.htm"/>
+        <updated>2025-02-18T17:40:20.921Z</updated>
+        <content type="html"><![CDATA[今年早些时候，特斯拉发布了焕新版Model Y。和去年上市的焕新Model 3相同，同样取消了实体换挡杆，集成在中控屏里；<strong>但和Model 3不同的是，回归或者说是保留了实体转向拨杆。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星正在重新考虑为Galaxy S26系列采用硅碳电池 容量可能增至7000mAh (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1477592.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1477592.htm"/>
-        <updated>2025-02-17T17:39:14.895Z</updated>
-        <content type="html"><![CDATA[Galaxy S25 Ultra 的电池容量一直保持在 5000mAh 的水平上，这个数字几代产品以来就没有进步过。然而据报道，这家韩国企业集团正在审查一项计划，以便在即将推出的 Galaxy S26 系列中采用硅碳电池。]]></content>
+        <title type="html"><![CDATA[陈震回应OPPO泄密处罚：当时不知道 实在是不好意思 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1478768.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1478768.htm"/>
+        <updated>2025-02-18T17:40:20.922Z</updated>
+        <content type="html"><![CDATA[上个月，陈震突然晒出了OPPO尚未发布的Find N5，引起不小轰动。当时这款手机还在早期预热中，甚至官方还没公布出完整的外观，结果真机却提前曝光。<strong>今日，OPPO法务部通报了关于此事的处理结果，系王某宇没有严格遵守保密义务，对样机保管不慎所致。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[闪迪第5代固态硬盘仅需7W功率即可提供14000MB/s以上的读写速度 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1479042.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1479042.htm"/>
+        <updated>2025-02-16T04:45:08.000Z</updated>
+        <content type="html"><![CDATA[SSD的速度越快，耗电量通常就越大。 不过，闪迪似乎已经破解了这一密码，其最新推出的第五代 PCIe 5.0 SSD，将当前接口的速度提升到了极限，同时保持了与现代 Gen4 驱动器相当的功耗。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[英国和美国拒绝签署国际人工智能宣言 (cnbeta一周排行)]]></title>
@@ -145,5 +138,12 @@ Models》，文中放出了OpenAI三个推理模型：o1、o1-ioi、o3在IOI（�
         <link href="https://www.cnbeta.com.tw/articles/tech/1477876.htm"/>
         <updated>2025-02-17T17:39:14.897Z</updated>
         <content type="html"><![CDATA[在巴黎举行的全球峰会上，英国和美国没有签署人工智能（AI）国际宣言。这份由法国、中国和印度等国签署的声明承诺以"开放"、"包容"和"道德"的方式来发展人工智能技术。在巴黎举行的人工智能行动峰会的讨论重点是人工智能对社会和环境的影响--以及需要采取哪些行动来获取其利益和防范其风险。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果首款折叠屏iPhone的双屏方案曝光：5.49英寸+7.74英寸 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1478714.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1478714.htm"/>
+        <updated>2025-02-18T17:40:20.929Z</updated>
+        <content type="html"><![CDATA[<strong>据博主数码闲聊站爆料，苹果第一款折叠屏是大折叠，目前打样外屏5.49"，内屏7.74"。</strong>其实苹果一直研发折叠屏技术，这已经是业内公开的秘密，只是受限于折痕等效果，迟迟没有推出量产机型。]]></content>
     </entry>
 </feed>
