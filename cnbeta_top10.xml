@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-02-24T05:41:13.905Z</updated>
+    <updated>2025-02-24T17:39:55.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -41,13 +41,11 @@
         <content type="html"><![CDATA[上个月，DeepSeek 的推理模型 R1 在人工智能领域引起了轩然大波，然而，它却因主动审查与中国有关的话题而受到批评。 虽然这对于海外用户而言似乎是一个相当小众的话题，但审查可能会影响其他与中国有关的查询，这使得它对各类用例的帮助大打折扣。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[提前适应iPhone 17设计语言 不要到时候再说丑]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1479650.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1479650.htm"/>
-        <updated>2025-02-19T17:40:09.448Z</updated>
-        <content type="html"><![CDATA[YouTube 频道 Front Page Tech 今日曝光了传闻已久的“iPhone 17 
-Air”模型的设计，该机型预计将于今年晚些时候发布。&nbsp; 在今日上传的一段视频中，Front Page Tech 分享了据信可能是“iPhone 
-17 Air”最终设计的渲染图。]]></content>
+        <title type="html"><![CDATA[留美博士用AI写论文遭开除后起诉校方 导师力挺：从未见过如此大的敌意]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1480778.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1480778.htm"/>
+        <updated>2025-02-24T17:39:54.567Z</updated>
+        <content type="html"><![CDATA[据科技媒体Gizmodo报道，近日，美国明尼苏达大学中国籍博士生Haishan Yang（杨海山，音译）决定起诉校方，否认了校方对他违规使用AI工具完成考试的指控，并索赔总计133.5万美元（约合人民币968万元）。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[黑客组织发布可激活几乎所有现代微软软件的工具]]></title>
@@ -57,11 +55,13 @@ Air”模型的设计，该机型预计将于今年晚些时候发布。&nbsp; �
         <content type="html"><![CDATA[一个黑客组织发布了被一些人称为"Windows/Office 盗版领域有史以来最大的突破"。 这种新方法可以永久激活大多数微软产品，完全绕过微软的反盗版系统。 然而，微软似乎并不在意。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tim Cook推文暗示第四代iPhone SE的名称有变]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1479180.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1479180.htm"/>
-        <updated>2025-02-18T17:40:20.915Z</updated>
-        <content type="html"><![CDATA[在预计于 2025 年 2 月 19 日发布iPhone SE 4 之前，有迹象表明之前有关该机将更名的说法可能属实。2025 年 1 月初，似乎不太可能泄露的消息称 iPhone SE 4 将更名为 iPhone 16E。 这主要是因为泄露信息的来源，但"iPhone SE"自 2016 年以来一直是一个成功的品牌。]]></content>
+        <title type="html"><![CDATA[提前适应iPhone 17设计语言 不要到时候再说丑]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1479650.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1479650.htm"/>
+        <updated>2025-02-19T17:40:09.448Z</updated>
+        <content type="html"><![CDATA[YouTube 频道 Front Page Tech 今日曝光了传闻已久的“iPhone 17 
+Air”模型的设计，该机型预计将于今年晚些时候发布。&nbsp; 在今日上传的一段视频中，Front Page Tech 分享了据信可能是“iPhone 
+17 Air”最终设计的渲染图。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“吴倩莲近照”热搜 网友：一代女神变阿婆 岁月放过谁]]></title>
@@ -69,27 +69,6 @@ Air”模型的设计，该机型预计将于今年晚些时候发布。&nbsp; �
         <link href="https://www.cnbeta.com.tw/articles/movie/1480164.htm"/>
         <updated>2025-02-20T09:31:46.000Z</updated>
         <content type="html"><![CDATA[2月20日消息，近日，退圈多年的香港女神吴倩莲近照曝光引热议。<strong>56 岁的她，一头银发醒目耀眼，清瘦的身形、自然的面容，与记忆中那个风华绝代的女神大相径庭，让不少网友直呼 “认不出”，感慨 “女神成了白发阿婆”。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA H100 GPU被做成奢侈包包：售价超过47万元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1479168.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1479168.htm"/>
-        <updated>2025-02-19T17:40:09.451Z</updated>
-        <content type="html"><![CDATA[去年，一家名为GPU Purse的厂商将一块古老的入门级显卡GT 730做成了背包，保留PCB和芯片、元件，作为包包的一侧，而风扇安装在另一侧，要价达1024美元，折合约7300元人民币。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比亚迪车主联合声明：新车买入半年贬值18%-25% 严重损害消费者信任和利益]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1479316.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1479316.htm"/>
-        <updated>2025-02-19T17:40:09.456Z</updated>
-        <content type="html"><![CDATA[一则《比亚迪汽车 24、25 款车型全体车主联合维权声明》流出。内容显示，鉴于比亚迪股份有限公司（简称“比亚迪”）在宣传及销售过程中“知新卖旧”、老车主的购车权益受到损害等诸多问题，购买了比亚迪24、25新款王朝、海洋系列全系车型的全体车主今日发布联合发表维权声明。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 16e很好 但跟咱们没啥关系]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1480376.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1480376.htm"/>
-        <updated>2025-02-23T17:40:08.697Z</updated>
-        <content type="html"><![CDATA[这回没有 Good morning ！沐浴着加州清晨的阳光，库克老头子又带着新品来了。跟大家此前预想的一样，这次带来的是 iPhone SE 的继任者，只不过命名跟广为流传的 SE4 不同，这次的新品叫做 iPhone 16e ，<strong>没错，苹果这次对 iPhone SE 的定位有点改变了，这次是更便宜版的 iPhone 16 </strong>！如果 4499 也算是便宜的话……]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美议员提议全面禁止中国学生签证]]></title>
@@ -100,11 +79,11 @@ Air”模型的设计，该机型预计将于今年晚些时候发布。&nbsp; �
 Moore)呼吁美国国会立法，禁止向中国公民发放学生签证。分析人士说，鉴于美国已经发生了多起中国学生涉嫌严重国家安全问题的事件，美国人对此感到担忧是非常自然的，但试图切断中国学生接受美国教育的机会，可能不是解决问题的最佳方法。更佳的办法应该是关闭受到中国资助的美国校园的中国学生和学者协会。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果设计大改版：iPhone 17 Air确认横向条形后摄 机身厚度仅5.5mm]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1479334.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1479334.htm"/>
-        <updated>2025-02-22T17:39:01.812Z</updated>
-        <content type="html"><![CDATA[iPhone的背部设计从11代以来几乎没怎么变过，Pro版一直延续三摄矩阵，只是尺寸越来越夸张。这样千篇一律的外观已经让用户审美疲劳，在外观上丝毫无法激起购买欲望。]]></content>
+        <title type="html"><![CDATA[iPhone 16e很好 但跟咱们没啥关系]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1480376.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1480376.htm"/>
+        <updated>2025-02-23T17:40:08.697Z</updated>
+        <content type="html"><![CDATA[这回没有 Good morning ！沐浴着加州清晨的阳光，库克老头子又带着新品来了。跟大家此前预想的一样，这次带来的是 iPhone SE 的继任者，只不过命名跟广为流传的 SE4 不同，这次的新品叫做 iPhone 16e ，<strong>没错，苹果这次对 iPhone SE 的定位有点改变了，这次是更便宜版的 iPhone 16 </strong>！如果 4499 也算是便宜的话……]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[男子墙壁画申公豹被老人破坏 网友：果然人心中的成见就是一座大山]]></title>
@@ -114,11 +93,11 @@ Moore)呼吁美国国会立法，禁止向中国公民发放学生签证。分�
         <content type="html"><![CDATA[近日，山东青岛一位80后墙绘师用时2天彩绘申公豹走红。不过昨日，该网友发布新视频称，申公豹墙绘被人破坏了，双眼和牙齿被涂抹的一塌糊涂。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone的导航被骂成这样 真是因为苹果“抠”……]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1479198.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1479198.htm"/>
-        <updated>2025-02-22T17:39:01.817Z</updated>
-        <content type="html"><![CDATA[说到手机导航这事儿，大伙肯定不陌生了，像托尼这种出行方式比较多样的，无论走路骑行，还是地铁开车，基本都离不开地图的帮助。虽然有人抱怨手机定位不准的情况经常发生，但总得来讲，手机的定位精准度最近两年还是有不小提升的。或者说，是国产厂商手机的精准度提高了……]]></content>
+        <title type="html"><![CDATA[中国科学家又取得新突破 纯红光钙钛矿LED问世]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1480564.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1480564.htm"/>
+        <updated>2025-02-24T17:39:54.579Z</updated>
+        <content type="html"><![CDATA[<strong>南开大学化学学院教授袁明鉴、中国科学院院士陈军及研究员章炜领衔的科研团队，在新型钙钛矿超高清显示技术领域的最新研究进展。</strong>该团队针对新型钙钛矿超高清显示技术中的一项全球性挑战——纯红光CsPbI3钙钛矿量子点材料的相稳定性不足问题，创造性地提出了“外延异质结界面应力操控”策略。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[空客CEO谈中国商飞：飞机制造业可能“从双头垄断过渡到潜在的三足鼎立”局面]]></title>
@@ -129,11 +108,11 @@ Moore)呼吁美国国会立法，禁止向中国公民发放学生签证。分�
  局面。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 17 Pro模具曝光：横向大矩阵设计 苹果变化最大的Pro机型]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1479520.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1479520.htm"/>
-        <updated>2025-02-18T10:02:58.000Z</updated>
-        <content type="html"><![CDATA[爆料人<strong>Majin Bu在社交平台上晒出了iPhone 17 Pro的相机模具原型。</strong>尽管画面比较模糊，但仍然能够看出模具开了五个孔，<strong>左边三个开孔对应的是三颗摄像头，右边两个开孔对应的是闪光灯和LiDAR激光雷达扫描仪。</strong>]]></content>
+        <title type="html"><![CDATA[“地球上最聪明人工智能”Grok 3答不对9.11和9.9谁大：马斯克回应]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1479968.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1479968.htm"/>
+        <updated>2025-02-24T17:39:54.583Z</updated>
+        <content type="html"><![CDATA[号称“地球上最聪明人工智能”的Grok 3也翻车了，答不对9.11和9.9谁大，不少网友也是看笑了。一些媒体测试了最新的Beta版Grok 3，并提出了那个经典的用来刁难大模型的问题：“9.11与9.9哪个大？”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[买CPU收到一包沙子 卖家拒退款还在闲鱼小法庭玩抽象：这是原材料]]></title>
@@ -143,10 +122,33 @@ Moore)呼吁美国国会立法，禁止向中国公民发放学生签证。分�
         <content type="html"><![CDATA[在网络购物日益普及的今天，消费者们需要格外谨慎，因为稍有不慎，就可能遇到一些令人哭笑不得、甚至离谱至极的事儿。近日，二手平台上就出现了这样一起让人瞠目结舌的纠纷事件。一位买家买了一颗CPU，收到货发现竟然是一袋沙子，而卖家的解释让人无语。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iPhone 17 Pro模具曝光：横向大矩阵设计 苹果变化最大的Pro机型]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1479520.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1479520.htm"/>
+        <updated>2025-02-18T10:02:58.000Z</updated>
+        <content type="html"><![CDATA[爆料人<strong>Majin Bu在社交平台上晒出了iPhone 17 Pro的相机模具原型。</strong>尽管画面比较模糊，但仍然能够看出模具开了五个孔，<strong>左边三个开孔对应的是三颗摄像头，右边两个开孔对应的是闪光灯和LiDAR激光雷达扫描仪。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy S24 Ultra 用户分享手机边缘锋利导致口袋破裂的图片]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1480766.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1480766.htm"/>
+        <updated>2025-02-24T17:39:54.589Z</updated>
+        <content type="html"><![CDATA[Galaxy S24 Ultra 用户最大的痛点之一是该机型的设计，由于机身边缘比较锋利，握持起来很不舒服。 三星注意到了这一点，新推出的 
+S25 Ultra 机型采用了圆角设计，使手机更容易握持，同时也提供了更好的人体工学设计。 
+然而，许多没有选择新款高端手机而继续使用前代手机的用户仍然不得不面对这种不实用的设计。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[跟Deepseek炒股的第四天 我的收益居然涨到10%了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1479570.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1479570.htm"/>
         <updated>2025-02-23T17:40:08.747Z</updated>
         <content type="html"><![CDATA[DeepSeek掀起的AI热潮还在持续蔓延。不少投资者开始使用AI炒股——他们不再紧盯K线图，而是将决策权交给AI。同时，券商机构纷纷接入AI，积极推动投资工具的普惠化，掀起新一轮的财富管理革命。AI工具的普及，降低了股票投资的门槛，但同时也带来了潜在风险。市场分析人士认为，<strong>AI能突破人类处理信息的边界，但市场博弈是复杂系统，建议将AI工具作为查找资料的参考依据。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[董明珠：经销商请客吃饭  酒店用的不是格力空调不准吃]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1480196.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1480196.htm"/>
+        <updated>2025-02-20T10:36:35.000Z</updated>
+        <content type="html"><![CDATA[今日，企业家随访式对谈节目《酌见》第二季第三期上线，新东方董事长俞敏洪对话格力电器董明珠。董明珠在节目中透露，有一次经销商在酒店安排请客吃饭，她进去一看发现酒店挂的空调不是格力的。]]></content>
     </entry>
 </feed>
