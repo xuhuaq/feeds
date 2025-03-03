@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-03-03T05:42:17.592Z</updated>
+    <updated>2025-03-03T17:41:05.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -15,11 +15,11 @@
 根据最新的报道，大都会运输局（MTA）和Google正在试验这些设备如何利用其先进的内部传感器来防止地铁车厢出现问题，从而避免安装昂贵得多的设备。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[复古口号回归 DeepSeek一夜把百度干回20年前]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1481114.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1481114.htm"/>
-        <updated>2025-02-25T17:42:01.697Z</updated>
-        <content type="html"><![CDATA[没完了，刚刚接入DeepSeek的百度，又双叒叕搞事情了。最新消息，“<strong>百度一下，你就知道</strong>”这条2005年开始伴随着中国用户度过了互联网黄金岁月的Slogan，<strong>回归了。</strong>]]></content>
+        <title type="html"><![CDATA[OpenAI 发布 GPT-4.5 迄今为止规模最大、知识最丰富的模型]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1482096.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1482096.htm"/>
+        <updated>2025-02-28T04:18:07.000Z</updated>
+        <content type="html"><![CDATA[今天，OpenAI 发布了其新的非推理模型，GPT-4.5，这是迄今为止规模最大、知识最丰富的模型。 顾名思义，GPT-4.5 是在 GPT-4o 的基础上，在预训练过程中进一步扩展而成的。 OpenAI 已经确认，GPT-4.5 并不是一个前沿模型，但它是他们最大的 LLM，与 GPT-4o 相比，它拥有更多的世界知识、更好的写作技巧和更精致的个性。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[机顶盒内置化电视机样机已研制完成 彻底取消盒子]]></title>
@@ -29,18 +29,13 @@
         <content type="html"><![CDATA[日前，国家广电总局、工信部、网信办等部门召开了治理电视“套娃”收费和操作复杂工作总结部署会。<strong>会上介绍，目前已经完成机顶盒内置化电视机样机研制，</strong><strong>为实现取消机顶盒、彻底解决操作复杂问题奠定了基础。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[搭载M4芯片的MacBook Air预计将于3月上市 性能与Pro相差无几]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1480970.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1480970.htm"/>
-        <updated>2025-02-24T01:38:55.000Z</updated>
-        <content type="html"><![CDATA[苹果 2025 年的计划始于 iPhone 16e 的发布，这款产品有望成为 2022 年机型的坚实继任者，不过，苹果在今年第一季度还有更多产品正在筹备中。最受期待的苹果产品之一是 M4 MacBook Air。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 发布 GPT-4.5 迄今为止规模最大、知识最丰富的模型]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1482096.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1482096.htm"/>
-        <updated>2025-02-28T04:18:07.000Z</updated>
-        <content type="html"><![CDATA[今天，OpenAI 发布了其新的非推理模型，GPT-4.5，这是迄今为止规模最大、知识最丰富的模型。 顾名思义，GPT-4.5 是在 GPT-4o 的基础上，在预训练过程中进一步扩展而成的。 OpenAI 已经确认，GPT-4.5 并不是一个前沿模型，但它是他们最大的 LLM，与 GPT-4o 相比，它拥有更多的世界知识、更好的写作技巧和更精致的个性。]]></content>
+        <title type="html"><![CDATA[土卫六的轨道似乎被什么东西撼动了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1481534.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1481534.htm"/>
+        <updated>2025-02-26T02:17:03.000Z</updated>
+        <content type="html"><![CDATA[<strong>科学家正在研究土星的卫星土卫六，以了解潮汐力如何影响其轨道，揭示其内部结构和过去变化的线索。这项研究表明，土卫六的轨道在地质时间尺度上正在迅速演变，这意味着过去
+ 3.5 
+亿年内的一次事件扰乱了它曾经稳定的轨道。</strong>无论是由于撞击还是其他天体事件，研究结果表明土卫六仍在进入圆形轨道，这让科学家们对其近期的过去仍是一个谜。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[印度建成一条超级高铁测试轨道：理论速度1224km/h]]></title>
@@ -50,20 +45,19 @@
         <content type="html"><![CDATA[继美国和中国后，印度也已经开始探索超级高铁项目。媒体报道，在印度铁道部支持下，<strong>印度理工学院马德拉斯分校建造了印度首条422米长的超级高铁测试轨道</strong>。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GPT-4.5被DeepSeek 500倍吊打 基准测试全班垫底 OpenAI痛失护城河]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1482508.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1482508.htm"/>
+        <updated>2025-03-02T00:13:41.000Z</updated>
+        <content type="html"><![CDATA[GPT-4.5上线一天，已经引起了集体群嘲：这个模型彻头彻尾失败了，OpenAI已经陷入严重困境，失去护城河！有人算出，GPT-4.5比DeepSeek
+ V3贵了500倍，性能却更差。有的权威AI预测者看完GPT-4.5，气得直接把AGI预测时间推后了……当然了，OpenAI并不这么认为。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[中国科学院院士高福：马斯克正在伤害科学]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1481482.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1481482.htm"/>
         <updated>2025-02-27T17:40:51.118Z</updated>
         <content type="html"><![CDATA[自1月20日特朗普授权马斯克成立政府效率部（DOGE）以来，美国联邦科研机构经历了一系列前所未有的改革冲击。美国国立卫生研究院（NIH）、美国国家科学基金会（NSF）和美国疾病控制与预防中心（CDC）等机构实施了大规模的经费削减和裁员。这种科学领域内“一刀切”式的改革，有学者认为是“美国历史上从没有发生的事情”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[土卫六的轨道似乎被什么东西撼动了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1481534.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1481534.htm"/>
-        <updated>2025-02-26T02:17:03.000Z</updated>
-        <content type="html"><![CDATA[<strong>科学家正在研究土星的卫星土卫六，以了解潮汐力如何影响其轨道，揭示其内部结构和过去变化的线索。这项研究表明，土卫六的轨道在地质时间尺度上正在迅速演变，这意味着过去
- 3.5 
-亿年内的一次事件扰乱了它曾经稳定的轨道。</strong>无论是由于撞击还是其他天体事件，研究结果表明土卫六仍在进入圆形轨道，这让科学家们对其近期的过去仍是一个谜。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉罕见收购了一家破产公司 它究竟有什么样的魅力？]]></title>
@@ -94,20 +88,42 @@
         <content type="html"><![CDATA[有博主基于CAD渲染图绘制了iPhone 17全系渲染图，这是苹果史上外观变化最大的一代。如图所示，iPhone 17系列共有4款机型，<strong>分别是iPhone 17、iPhone 17 Air、iPhone 17 Pro和iPhone 17 Pro Max，苹果砍掉了Plus机型，取而代之的是Air机型。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新型长距离Wi-Fi HaLow路由器上市 连接距离长达 10 英里 售价99美元]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1480980.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1480980.htm"/>
-        <updated>2025-02-24T04:49:52.000Z</updated>
-        <content type="html"><![CDATA[Morse Micro 推出了一款 Wi-Fi HaLow 路由器 MM-HL1-EXT，有望推动长距离、低功耗通信的发展。 该设备是 
-HaLowLink 1 系列的一部分，采用 IEEE 802.11ah Wi-Fi HaLow 标准，在农村地区的连接范围可达 10 
-英里，在城市环境中的连接范围可达 1.86 英里。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[想要免费激活 Windows 11？ 只需问问 Microsoft Copilot]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1482060.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1482060.htm"/>
         <updated>2025-03-02T17:38:47.476Z</updated>
         <content type="html"><![CDATA[一位前微软工程师最近在 X 上 &nbsp;分享了一些关于激活 Windows 11 的技巧和窍门，而无需向公司支付一分钱（是的，盗版）。 看到一名 Windows 工程师向数百名用户兜售盗版无疑有些尴尬，但更奇怪的是，微软自己的 Copilot 却毫不避讳地告诉您如何盗版 Windows。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约时报：小米三年就能造车，苹果为何不能？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1482380.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1482380.htm"/>
+        <updated>2025-03-01T10:46:38.000Z</updated>
+        <content type="html"><![CDATA[小米本周发布了高端车型SU7 Ultra。《纽约时报》周五发文，分析了小米能短时间造车，苹果却失败的原因，点出了中国的供应链主导地位、小米生态的整合优势。经过近十年的尝试后，苹果公司最终还是在去年放弃了制造电动汽车的努力，取消了一项耗资100亿美元的项目。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要想去除水中的重金属 只要泡点茶就行了？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1482470.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1482470.htm"/>
+        <updated>2025-03-03T17:41:05.183Z</updated>
+        <content type="html"><![CDATA[茶已被证明可减少抑郁、可降低糖尿病风险，甚至可能延长饮用者的寿命。 新的研究表明，茶叶还能去除泡茶水中的有毒重金属。这项研究由伊利诺伊州西北大学维纳亚克-德拉维德教授和博士生本杰明-辛德尔领导的团队进行。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软官宣今年5月关闭Skype业务 Teams取而代之]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1482334.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1482334.htm"/>
+        <updated>2025-03-03T17:41:05.183Z</updated>
+        <content type="html"><![CDATA[这代表着一个时代的终结。 微软将于今年5月关闭 Skype，取而代之的是面向消费者的免费版 Microsoft Teams。 现有的 
+Skype 用户将可以登录 Microsoft Teams 
+应用程序，他们的消息历史记录、群组聊天和联系人都将自动迁移，而无需创建另一个账户，或者他们也可以选择导出数据。 
+微软还将逐步取消对拨打国内或国际号码的支持。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[167天的奇迹救援 发射失利的两颗中国探月卫星又活了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1482602.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1482602.htm"/>
+        <updated>2025-03-03T17:41:05.184Z</updated>
+        <content type="html"><![CDATA[一般来说，卫星发射升空后如果遇到故障，想要救援几乎是不可能的，但是中国却创造了一个奇迹！<strong>2024年3月13日，我国使用长征二号丙火箭发射了DRO-A星、DRO-B星，计划进入围绕月球的远距离逆行轨道(DRO)，但是本应将卫星组合体送入地月转移轨道的火箭上面级“远征一号S”出现故障，导致两颗卫星飞行高度过低。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[余承东一句话，奔驰高管发飙了？]]></title>
@@ -132,24 +148,10 @@ HaLowLink 1 系列的一部分，采用 IEEE 802.11ah Wi-Fi HaLow 标准，在�
         <content type="html"><![CDATA[作为全球快餐巨头，麦当劳在中国市场正遭遇着一场“信任危机”。近年来，麦当劳在中国市场以每年新增近千家门店的速度扩张，计划到2028年突破1万家门店。然而，伴随门店数量激增的是消费者对门店卫生问题的频繁投诉。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国强力打击缅甸、泰国电信诈骗园区后 卫星图上已黯淡无光]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1481688.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1481688.htm"/>
-        <updated>2025-03-02T17:38:47.487Z</updated>
-        <content type="html"><![CDATA[针对缅甸、泰国持续不断的电信诈骗案件，我国持续采取强力措施，并与缅甸、泰国合作，共同打击。<strong>当地时间2月5日上午9时起，泰国切断了泰缅边境5个地点的电力、燃油供应和互联网连接，尤其是缅甸妙瓦底、大其力等电诈团伙密集活动的地区。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[三条狗拆了一辆本田]]></title>
         <id>https://www.cnbeta.com.tw/articles/funny/1481172.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/funny/1481172.htm"/>
         <updated>2025-03-02T17:38:47.489Z</updated>
         <content type="html"><![CDATA[三个臭皮匠顶个诸葛亮，三条大黄狗能让车主愁。近日，有网友偶遇了令人哭笑不得的一幕：在某地，<strong>一辆挂着粤E（佛山）牌照的一辆本田轿车遭遇破坏，而始作俑者是三条黄狗</strong>。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传音发布全球最薄智能手机：神似传闻中的iPhone 17 Air 厚度仅5.75mm]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1482308.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1482308.htm"/>
-        <updated>2025-03-02T17:38:47.491Z</updated>
-        <content type="html"><![CDATA[赶在MWC 2025举办之前，<strong>传音发布全球最薄智能手机Tecno Spark Slim，其厚度只有5.75mm。</strong>为了实现极致的超薄设计，Tecno Spark Slim塞进了一块超薄电池，其厚度只有4.04mm。]]></content>
     </entry>
 </feed>
