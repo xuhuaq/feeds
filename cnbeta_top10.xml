@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-03-04T05:41:41.591Z</updated>
+    <updated>2025-03-05T05:42:04.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -15,11 +15,33 @@
 根据最新的报道，大都会运输局（MTA）和Google正在试验这些设备如何利用其先进的内部传感器来防止地铁车厢出现问题，从而避免安装昂贵得多的设备。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[167天的奇迹救援 发射失利的两颗中国探月卫星又活了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1482602.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1482602.htm"/>
+        <updated>2025-03-03T17:41:05.184Z</updated>
+        <content type="html"><![CDATA[一般来说，卫星发射升空后如果遇到故障，想要救援几乎是不可能的，但是中国却创造了一个奇迹！<strong>2024年3月13日，我国使用长征二号丙火箭发射了DRO-A星、DRO-B星，计划进入围绕月球的远距离逆行轨道(DRO)，但是本应将卫星组合体送入地月转移轨道的火箭上面级“远征一号S”出现故障，导致两颗卫星飞行高度过低。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenAI 发布 GPT-4.5 迄今为止规模最大、知识最丰富的模型]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1482096.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1482096.htm"/>
         <updated>2025-02-28T04:18:07.000Z</updated>
         <content type="html"><![CDATA[今天，OpenAI 发布了其新的非推理模型，GPT-4.5，这是迄今为止规模最大、知识最丰富的模型。 顾名思义，GPT-4.5 是在 GPT-4o 的基础上，在预训练过程中进一步扩展而成的。 OpenAI 已经确认，GPT-4.5 并不是一个前沿模型，但它是他们最大的 LLM，与 GPT-4o 相比，它拥有更多的世界知识、更好的写作技巧和更精致的个性。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信新功能可以腾出更多存储空间 你的手机有救了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1482678.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1482678.htm"/>
+        <updated>2025-03-03T09:57:32.000Z</updated>
+        <content type="html"><![CDATA[你的手机存储有救了，至少对iPhone用户来说，因为微信又加大对存储空间的清理。有不少网友发现，微信iOS版本出现了热更新，具体来说就是：在iOS版本中的微信对存储空间做出了优化，之前软件提供将“其他数据”拆分成“资源文件和其他账号的聊天记录”和“必要文件”，而在这个基础上，腾讯还加入了对聊天记录中的xx
+ MB 的原图、原视频优化，这势必能节省更多的存储空间。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要想去除水中的重金属 只要泡点茶就行了？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1482470.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1482470.htm"/>
+        <updated>2025-03-03T17:41:05.183Z</updated>
+        <content type="html"><![CDATA[茶已被证明可减少抑郁、可降低糖尿病风险，甚至可能延长饮用者的寿命。 新的研究表明，茶叶还能去除泡茶水中的有毒重金属。这项研究由伊利诺伊州西北大学维纳亚克-德拉维德教授和博士生本杰明-辛德尔领导的团队进行。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[机顶盒内置化电视机样机已研制完成 彻底取消盒子]]></title>
@@ -38,19 +60,19 @@
 亿年内的一次事件扰乱了它曾经稳定的轨道。</strong>无论是由于撞击还是其他天体事件，研究结果表明土卫六仍在进入圆形轨道，这让科学家们对其近期的过去仍是一个谜。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[印度建成一条超级高铁测试轨道：理论速度1224km/h]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1481738.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1481738.htm"/>
-        <updated>2025-02-28T17:40:25.031Z</updated>
-        <content type="html"><![CDATA[继美国和中国后，印度也已经开始探索超级高铁项目。媒体报道，在印度铁道部支持下，<strong>印度理工学院马德拉斯分校建造了印度首条422米长的超级高铁测试轨道</strong>。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-4.5被DeepSeek 500倍吊打 基准测试全班垫底 OpenAI痛失护城河]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1482508.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1482508.htm"/>
         <updated>2025-03-02T00:13:41.000Z</updated>
         <content type="html"><![CDATA[GPT-4.5上线一天，已经引起了集体群嘲：这个模型彻头彻尾失败了，OpenAI已经陷入严重困境，失去护城河！有人算出，GPT-4.5比DeepSeek
  V3贵了500倍，性能却更差。有的权威AI预测者看完GPT-4.5，气得直接把AGI预测时间推后了……当然了，OpenAI并不这么认为。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度建成一条超级高铁测试轨道：理论速度1224km/h]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1481738.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1481738.htm"/>
+        <updated>2025-02-28T17:40:25.031Z</updated>
+        <content type="html"><![CDATA[继美国和中国后，印度也已经开始探索超级高铁项目。媒体报道，在印度铁道部支持下，<strong>印度理工学院马德拉斯分校建造了印度首条422米长的超级高铁测试轨道</strong>。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国科学院院士高福：马斯克正在伤害科学]]></title>
@@ -67,6 +89,13 @@
         <content type="html"><![CDATA[两年没收购的特斯拉，突然买下一家德国公司，属实罕见。要知道，唯效率至上、喜欢“单打独斗”独立自研的马斯克，投资、收购动作一向十分谨慎且少见——除非这家公司的确有过人之处。上一次的收购消息，还是2023年，特斯拉在德国买下Wiferion，一家5年拿下上百个企业的无线充电公司。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[想要免费激活 Windows 11？ 只需问问 Microsoft Copilot]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1482060.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1482060.htm"/>
+        <updated>2025-03-02T17:38:47.476Z</updated>
+        <content type="html"><![CDATA[一位前微软工程师最近在 X 上 &nbsp;分享了一些关于激活 Windows 11 的技巧和窍门，而无需向公司支付一分钱（是的，盗版）。 看到一名 Windows 工程师向数百名用户兜售盗版无疑有些尴尬，但更奇怪的是，微软自己的 Copilot 却毫不避讳地告诉您如何盗版 Windows。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[陈震违章7次 懂车帝违章34次 特斯拉FSD测试一本驾照不够用]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1481942.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1481942.htm"/>
@@ -81,34 +110,6 @@
         <content type="html"><![CDATA[所谓情比金坚可并不具有普适性，<strong>近日，“最长接吻时间”夫妇宣告分手。</strong>据悉，这对夫妇来自泰国，名为艾卡柴和拉克萨娜·提拉那拉特，<strong>双方曾在2013年凭借58小时35分钟接吻时长创下世界吉尼斯纪录</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone 17全系渲染图曝光：4款机型 3种外观]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1481994.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1481994.htm"/>
-        <updated>2025-03-01T17:38:11.777Z</updated>
-        <content type="html"><![CDATA[有博主基于CAD渲染图绘制了iPhone 17全系渲染图，这是苹果史上外观变化最大的一代。如图所示，iPhone 17系列共有4款机型，<strong>分别是iPhone 17、iPhone 17 Air、iPhone 17 Pro和iPhone 17 Pro Max，苹果砍掉了Plus机型，取而代之的是Air机型。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想要免费激活 Windows 11？ 只需问问 Microsoft Copilot]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1482060.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1482060.htm"/>
-        <updated>2025-03-02T17:38:47.476Z</updated>
-        <content type="html"><![CDATA[一位前微软工程师最近在 X 上 &nbsp;分享了一些关于激活 Windows 11 的技巧和窍门，而无需向公司支付一分钱（是的，盗版）。 看到一名 Windows 工程师向数百名用户兜售盗版无疑有些尴尬，但更奇怪的是，微软自己的 Copilot 却毫不避讳地告诉您如何盗版 Windows。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约时报：小米三年就能造车，苹果为何不能？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1482380.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1482380.htm"/>
-        <updated>2025-03-01T10:46:38.000Z</updated>
-        <content type="html"><![CDATA[小米本周发布了高端车型SU7 Ultra。《纽约时报》周五发文，分析了小米能短时间造车，苹果却失败的原因，点出了中国的供应链主导地位、小米生态的整合优势。经过近十年的尝试后，苹果公司最终还是在去年放弃了制造电动汽车的努力，取消了一项耗资100亿美元的项目。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要想去除水中的重金属 只要泡点茶就行了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1482470.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1482470.htm"/>
-        <updated>2025-03-03T17:41:05.183Z</updated>
-        <content type="html"><![CDATA[茶已被证明可减少抑郁、可降低糖尿病风险，甚至可能延长饮用者的寿命。 新的研究表明，茶叶还能去除泡茶水中的有毒重金属。这项研究由伊利诺伊州西北大学维纳亚克-德拉维德教授和博士生本杰明-辛德尔领导的团队进行。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[微软官宣今年5月关闭Skype业务 Teams取而代之]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1482334.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1482334.htm"/>
@@ -119,39 +120,40 @@ Skype 用户将可以登录 Microsoft Teams
 微软还将逐步取消对拨打国内或国际号码的支持。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[167天的奇迹救援 发射失利的两颗中国探月卫星又活了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1482602.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1482602.htm"/>
-        <updated>2025-03-03T17:41:05.184Z</updated>
-        <content type="html"><![CDATA[一般来说，卫星发射升空后如果遇到故障，想要救援几乎是不可能的，但是中国却创造了一个奇迹！<strong>2024年3月13日，我国使用长征二号丙火箭发射了DRO-A星、DRO-B星，计划进入围绕月球的远距离逆行轨道(DRO)，但是本应将卫星组合体送入地月转移轨道的火箭上面级“远征一号S”出现故障，导致两颗卫星飞行高度过低。</strong>]]></content>
+        <title type="html"><![CDATA[美国满世界找的稀土资源，到底是个啥？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1482388.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1482388.htm"/>
+        <updated>2025-03-01T10:58:06.000Z</updated>
+        <content type="html"><![CDATA[近日，国际相关热点中频频提到了“稀土”这种资源。这确实是一种重要的资源。在生活中它离咱们并不遥远。当你打开手机，屏幕背光中的铕元素正发出柔和红光；当你乘坐新能源车出行时，电机里的钕铁硼磁体正将电能转化为动能；午休网购时，为数据精准传输保驾护航的光纤，其核心掺杂着铒元素——这些都是稀土。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[余承东一句话，奔驰高管发飙了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1481266.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1481266.htm"/>
-        <updated>2025-02-25T09:06:02.000Z</updated>
-        <content type="html"><![CDATA[北京奔驰销售公司总裁段建军，已经连续两年在某论坛上“开炮”。去年，他炮轰有些车企的“堆料竞争策略”，直言“这种竞争方式短视”。今年，他又将槽点聚焦在“对标”上，称“不排斥也不畏惧被对标和被对比，但对合不合理的对标，要捍卫权益”。]]></content>
+        <title type="html"><![CDATA[iPhone 17全系渲染图曝光：4款机型 3种外观]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1481994.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1481994.htm"/>
+        <updated>2025-03-01T17:38:11.777Z</updated>
+        <content type="html"><![CDATA[有博主基于CAD渲染图绘制了iPhone 17全系渲染图，这是苹果史上外观变化最大的一代。如图所示，iPhone 17系列共有4款机型，<strong>分别是iPhone 17、iPhone 17 Air、iPhone 17 Pro和iPhone 17 Pro Max，苹果砍掉了Plus机型，取而代之的是Air机型。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DOGE爆发内讧，三分之一员工集体辞职：不会再帮马斯克]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1481774.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1481774.htm"/>
-        <updated>2025-02-28T17:40:25.035Z</updated>
-        <content type="html"><![CDATA[据美国全国公共广播电台（NPR）周二报道，美国政府效率部（DOGE）已有21名员工辞职，占该部门员工数量的三分之一。报道称，提出辞职的21名员工，主要由软件工程师和产品经理构成。他们曾是美国数字服务局（US
- Digital Service）的成员，该机构后更名为美国政府效率部，也就是现在的DOGE。]]></content>
+        <title type="html"><![CDATA[iPhone设计师公开乔布斯临终遗愿]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1482568.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1482568.htm"/>
+        <updated>2025-03-05T05:42:03.728Z</updated>
+        <content type="html"><![CDATA[商业内幕报道，曾主导iPhone、iPad等产品设计的乔尼·艾维在一档广播节目中，谈起了与胰腺癌晚期的乔布斯的最后对话。艾维回忆道，<strong>乔布斯曾说：“当我不在了，我真的不想你们反复纠结‘史蒂夫会怎么做？’”</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[多地麦当劳“遍地垃圾”？ 员工称降本惹祸]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1481854.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1481854.htm"/>
-        <updated>2025-02-27T09:40:01.000Z</updated>
-        <content type="html"><![CDATA[作为全球快餐巨头，麦当劳在中国市场正遭遇着一场“信任危机”。近年来，麦当劳在中国市场以每年新增近千家门店的速度扩张，计划到2028年突破1万家门店。然而，伴随门店数量激增的是消费者对门店卫生问题的频繁投诉。]]></content>
+        <title type="html"><![CDATA[纽约时报：小米三年就能造车，苹果为何不能？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1482380.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1482380.htm"/>
+        <updated>2025-03-01T10:46:38.000Z</updated>
+        <content type="html"><![CDATA[小米本周发布了高端车型SU7 Ultra。《纽约时报》周五发文，分析了小米能短时间造车，苹果却失败的原因，点出了中国的供应链主导地位、小米生态的整合优势。经过近十年的尝试后，苹果公司最终还是在去年放弃了制造电动汽车的努力，取消了一项耗资100亿美元的项目。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三条狗拆了一辆本田]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1481172.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1481172.htm"/>
-        <updated>2025-03-02T17:38:47.489Z</updated>
-        <content type="html"><![CDATA[三个臭皮匠顶个诸葛亮，三条大黄狗能让车主愁。近日，有网友偶遇了令人哭笑不得的一幕：在某地，<strong>一辆挂着粤E（佛山）牌照的一辆本田轿车遭遇破坏，而始作俑者是三条黄狗</strong>。]]></content>
+        <title type="html"><![CDATA[“雷神”神速：仅两小时，全年目标完成了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1482122.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1482122.htm"/>
+        <updated>2025-02-28T09:28:48.000Z</updated>
+        <content type="html"><![CDATA[就在昨天，雷军在一日之内上演了两个角色。上午，因小米集团股价盘中大涨带动其身家水涨船高，短暂被外界称为“新首富”。他随即在武大校友群回应称：假新闻。当晚，在手机和汽车双Ultra的发布会上，雷军拿出了诚意：小米15
+ Ultra相比上代并未涨价；小米SU7 
+Ultra的52.99万元售价，甚至比此前81.49万元的预售价低了28.5万元。他在发布会上直言：“要让喜欢这辆车的人真的买得起。”]]></content>
     </entry>
 </feed>
