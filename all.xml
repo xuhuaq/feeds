@@ -2,28 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-09T05:38:44.726Z</updated>
+    <updated>2025-03-09T17:37:53.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[167天的奇迹救援 发射失利的两颗中国探月卫星又活了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1482602.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1482602.htm"/>
-        <updated>2025-03-03T17:41:05.184Z</updated>
-        <content type="html"><![CDATA[一般来说，卫星发射升空后如果遇到故障，想要救援几乎是不可能的，但是中国却创造了一个奇迹！<strong>2024年3月13日，我国使用长征二号丙火箭发射了DRO-A星、DRO-B星，计划进入围绕月球的远距离逆行轨道(DRO)，但是本应将卫星组合体送入地月转移轨道的火箭上面级“远征一号S”出现故障，导致两颗卫星飞行高度过低。</strong>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[婉拒马斯克 现在不回来 特朗普阴阳滞留太空美宇航员：希望擦出爱的火花 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1483826.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1483826.htm"/>
         <updated>2025-03-08T18:37:21.151Z</updated>
         <content type="html"><![CDATA[NASA宇航员苏妮塔·威廉姆斯和巴里·威尔莫尔已经在国际空间站滞留了九个月，不过这两人并不着急回来。马斯克之前接受采访时曾表示计划4周内发射飞船，将两名滞留太空美宇航员接回地球。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国芯片研究领先全球，远超美国 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1483344.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1483344.htm"/>
-        <updated>2025-03-06T17:40:58.227Z</updated>
-        <content type="html"><![CDATA[中美芯片贸易战已进入第五个年头，美国的干预似乎正在产生反噬：新兴技术观察站（ETO）最近的一项研究发现，中国对下一代芯片制造技术的研究是美国的两倍多。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[亚洲最大露天煤矿百米厚煤层足足开采了118年 古代植物咋都埋那了？ (cnbeta一周排行)]]></title>
@@ -33,6 +19,20 @@
         <content type="html"><![CDATA[说到煤炭，很多人都会想到山西，那里是中国煤炭的主要生产地区，产量占到全中国的四分之一。不过亚洲最大、最壮观的露天煤矿坑并不在山西，它在辽宁，是<strong>抚顺西露天矿</strong>的遗迹，这是世界上最著名的煤矿之一，无论是开采历史，还是出产的矿产，都极具特色。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[167天的奇迹救援 发射失利的两颗中国探月卫星又活了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1482602.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1482602.htm"/>
+        <updated>2025-03-03T17:41:05.184Z</updated>
+        <content type="html"><![CDATA[一般来说，卫星发射升空后如果遇到故障，想要救援几乎是不可能的，但是中国却创造了一个奇迹！<strong>2024年3月13日，我国使用长征二号丙火箭发射了DRO-A星、DRO-B星，计划进入围绕月球的远距离逆行轨道(DRO)，但是本应将卫星组合体送入地月转移轨道的火箭上面级“远征一号S”出现故障，导致两颗卫星飞行高度过低。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国芯片研究领先全球，远超美国 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1483344.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1483344.htm"/>
+        <updated>2025-03-06T17:40:58.227Z</updated>
+        <content type="html"><![CDATA[中美芯片贸易战已进入第五个年头，美国的干预似乎正在产生反噬：新兴技术观察站（ETO）最近的一项研究发现，中国对下一代芯片制造技术的研究是美国的两倍多。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[为什么现在市场上的水果都那么好看？是加了什么“狠活”吗？ (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1482776.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1482776.htm"/>
@@ -40,11 +40,13 @@
         <content type="html"><![CDATA[逛超市的水果区，很容易就会发现琳琅满目的草莓、苹果、橙子、车厘子、砂糖桔、沃柑等等，个个饱满诱人，色彩鲜艳，让人看了就觉得好吃。然而，网上不少自媒体宣称：这些水果之所以如此漂亮，肯定是用了见不得人的所谓“狠活”。这仿佛在说“只有那些长相不佳的水果，才是纯天然的，吃起来才健康”。但，真的是这样吗？]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[要想去除水中的重金属 只要泡点茶就行了？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1482470.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1482470.htm"/>
-        <updated>2025-03-03T17:41:05.183Z</updated>
-        <content type="html"><![CDATA[茶已被证明可减少抑郁、可降低糖尿病风险，甚至可能延长饮用者的寿命。 新的研究表明，茶叶还能去除泡茶水中的有毒重金属。这项研究由伊利诺伊州西北大学维纳亚克-德拉维德教授和博士生本杰明-辛德尔领导的团队进行。]]></content>
+        <title type="html"><![CDATA[天文学家在20光年之外发现一颗可能适宜居住的"超级地球" (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1483762.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1483762.htm"/>
+        <updated>2025-03-07T10:19:48.000Z</updated>
+        <content type="html"><![CDATA[一个新世界刚刚被发现，它围绕着一颗类太阳恒星运行，距离太阳只有20光年，它可能是最有希望研究类地大气的地方之一。科学家已经证实了HD 20794
+ d的存在，这是一颗超级地球，绕恒星运行需要647天，位于宜居带内--可能存在液态水的区域。 
+这一突破建立在二十多年的观测基础之上，为利用下一代望远镜研究行星大气层打开了大门。<br>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信新功能可以腾出更多存储空间 你的手机有救了 (cnbeta一周排行)]]></title>
@@ -55,12 +57,11 @@
  MB 的原图、原视频优化，这势必能节省更多的存储空间。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4.5被DeepSeek 500倍吊打 基准测试全班垫底 OpenAI痛失护城河 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1482508.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1482508.htm"/>
-        <updated>2025-03-02T00:13:41.000Z</updated>
-        <content type="html"><![CDATA[GPT-4.5上线一天，已经引起了集体群嘲：这个模型彻头彻尾失败了，OpenAI已经陷入严重困境，失去护城河！有人算出，GPT-4.5比DeepSeek
- V3贵了500倍，性能却更差。有的权威AI预测者看完GPT-4.5，气得直接把AGI预测时间推后了……当然了，OpenAI并不这么认为。]]></content>
+        <title type="html"><![CDATA[DeepSeek的胡编乱造 正在淹没中文互联网 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1483336.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1483336.htm"/>
+        <updated>2025-03-08T18:37:21.155Z</updated>
+        <content type="html"><![CDATA[虽然DeepSeek-R1确实好用，但它在爆火之后，成了人手一个的AI工具，也对中文互联网的信息环境造成了严重的污染情况，这是一个固然难以避免但也理应得到重视的问题。最近一个星期以来，就我看到的刷屏文章，至少有三例都是DeepSeek-R1生成出来的、充满了事实错误的内容，却因其以假乱真的迷惑性，让很多朋友信以为真，情绪激动的分享传播。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国团队发布Manus 全球第一款通用AI智能体 可自主完成所有任务 (cnbeta一周排行)]]></title>
@@ -70,61 +71,11 @@
         <content type="html"><![CDATA[今天的AI圈沸腾了，AI智能体板块大涨。Manus的发布，让中国AI科技再一次震撼全世界。今日，<strong>来自中国的AI创业公司Monica发布了全球第一款通用AI 代理</strong>——<a class="f14_link" href="https://manus.im/" target="_blank">Manus</a>，源自拉丁语中的“手”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepSeek的胡编乱造 正在淹没中文互联网 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1483336.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1483336.htm"/>
-        <updated>2025-03-08T18:37:21.155Z</updated>
-        <content type="html"><![CDATA[虽然DeepSeek-R1确实好用，但它在爆火之后，成了人手一个的AI工具，也对中文互联网的信息环境造成了严重的污染情况，这是一个固然难以避免但也理应得到重视的问题。最近一个星期以来，就我看到的刷屏文章，至少有三例都是DeepSeek-R1生成出来的、充满了事实错误的内容，却因其以假乱真的迷惑性，让很多朋友信以为真，情绪激动的分享传播。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[男子用思域发动机、不锈钢管手搓飞机：仅用10天就成功升空 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/funny/1482822.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/funny/1482822.htm"/>
         <updated>2025-03-06T17:40:58.215Z</updated>
         <content type="html"><![CDATA[日前，有博主发视频称，<strong>自己改装本田思域1.5T发动机，使用不锈钢管、手钳、角磨机等用料，花费10天手搓了一台飞机，一次试飞并成功上天。</strong>博主分享的视频中，这架飞机尾部有一个动力旋翼，飞机上部则是一个升力旋翼，在水泥路面就能够快速起飞和降落。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想并肩 DeepSeek 不能靠自嗨和邀请码 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1483576.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1483576.htm"/>
-        <updated>2025-03-07T17:40:10.764Z</updated>
-        <content type="html"><![CDATA[如果根据AI自媒体们的标题来看，昨天全世界AI圈应该无人存活，因为他们又被“炸”了。这次扔炸弹的是一个叫做“Manus”的产品。它是一个中国团队开发的只通过一部全英文的宣传片发布的，没有邀请码就用不了的
- AI Agent 产品，官方称它为“全球首个通用 Agent”。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASML今年将在北京建维修中心 为中国光刻机提供服务 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1483586.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1483586.htm"/>
-        <updated>2025-03-08T18:37:21.158Z</updated>
-        <content type="html"><![CDATA[之前有消息称，美国要求ASML不能为中国光刻机提供维修，不过后者已经给出了答案。光刻机巨头阿斯麦（ASML）宣布，计划进一步投资提升其全球的设备修复能力，使其与公司的增长相匹配。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新款 M4 MacBook Air 解决了该系列最大的问题 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1483446.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1483446.htm"/>
-        <updated>2025-03-06T01:07:45.000Z</updated>
-        <content type="html"><![CDATA[<strong>新款 M4 MacBook Air 解决了该产品线的一个关键问题，现在可支持两台外接显示器，而且不受上一代 M3 处理器的限制。</strong>新推出的 MacBook Air 为使用多台显示器的用户带来了重大改进。 虽然以前的 M3 机型支持两台显示器，但只有当 MacBook Air 的盖子合上时才能同时使用两台显示器。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷军建议新能源绿牌换颜色 网友心声：工信部用了最丑的一版 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1483058.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1483058.htm"/>
-        <updated>2025-03-07T17:40:10.769Z</updated>
-        <content type="html"><![CDATA[全国人大代表、小米创办人兼董事长兼CEO、金山软件董事长雷军公布了他的2025两会建议中，提到了新能源绿牌应换颜色，这制约了汽车产品的设计效果。在优化新能源汽车号牌设计方面，雷军表示，随着年轻消费者数量增多，用户对汽车外观与个性化功能拥有更加多元化的需求。例如，新能源汽车的绿色号牌在某种程度上制约了汽车产品的设计效果，现有汽车号牌不具备智能化能力，难以满足日常出行、交通管理的智能化发展需求。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国成世界水产养殖第一大国 核心发展离不开它 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1483382.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1483382.htm"/>
-        <updated>2025-03-08T18:37:21.167Z</updated>
-        <content type="html"><![CDATA[日前，2025 年中央一号文件发布。文件指出，促进渔业高质量发展，支持发展深远海养殖，建设海上牧场。这一政策不仅为渔业未来指明了方向，也<strong>与我们每个人的餐桌息息相关</strong>——毕竟，鱼、虾、蟹、贝等水产品早已成为我们日常饮食中不可或缺的美味。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可贴在任何地方发电的太阳能薄膜即将问世 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1483378.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1483378.htm"/>
-        <updated>2025-03-08T18:37:21.168Z</updated>
-        <content type="html"><![CDATA[自 2012 年以来，英国的 Power Roll 公司一直在研究一种打印低成本太阳能薄膜的方法，以便利用阳光产生清洁能源。 现在，该公司距离制造出轻质、可随处使用的薄膜又迈进了关键的一步，其包晶石太阳能电池的新设计应能使生产成本更低、规模更大。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉开始在美国促销汽车 终身免费充电、零首付 (cnbeta一周排行)]]></title>
@@ -135,17 +86,69 @@
  3买家提供免息或零首付贷款融资方案。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone设计师公开乔布斯临终遗愿 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1482568.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1482568.htm"/>
-        <updated>2025-03-05T05:42:03.728Z</updated>
-        <content type="html"><![CDATA[商业内幕报道，曾主导iPhone、iPad等产品设计的乔尼·艾维在一档广播节目中，谈起了与胰腺癌晚期的乔布斯的最后对话。艾维回忆道，<strong>乔布斯曾说：“当我不在了，我真的不想你们反复纠结‘史蒂夫会怎么做？’”</strong>]]></content>
+        <title type="html"><![CDATA[想并肩 DeepSeek 不能靠自嗨和邀请码 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1483576.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1483576.htm"/>
+        <updated>2025-03-07T17:40:10.764Z</updated>
+        <content type="html"><![CDATA[如果根据AI自媒体们的标题来看，昨天全世界AI圈应该无人存活，因为他们又被“炸”了。这次扔炸弹的是一个叫做“Manus”的产品。它是一个中国团队开发的只通过一部全英文的宣传片发布的，没有邀请码就用不了的
+ AI Agent 产品，官方称它为“全球首个通用 Agent”。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[西班牙国王费利佩六世到访MWC华为展台：现场体验Mate XT三折叠 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1482972.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1482972.htm"/>
-        <updated>2025-03-04T09:57:23.000Z</updated>
-        <content type="html"><![CDATA[<strong>MWC近日正式开幕，华为、小米等多家国产手机厂商都设置了自己的展台。</strong>据差评君官微消息，西班牙国王费利佩六世亲自参观了华为的展台，并且现场体验了Mate XT三折叠。华为Mate XT非凡大师作为全球首款，也是目前全球唯一的三折叠，在全球市场都非常受关注。]]></content>
+        <title type="html"><![CDATA[可贴在任何地方发电的太阳能薄膜即将问世 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1483378.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1483378.htm"/>
+        <updated>2025-03-08T18:37:21.168Z</updated>
+        <content type="html"><![CDATA[自 2012 年以来，英国的 Power Roll 公司一直在研究一种打印低成本太阳能薄膜的方法，以便利用阳光产生清洁能源。 现在，该公司距离制造出轻质、可随处使用的薄膜又迈进了关键的一步，其包晶石太阳能电池的新设计应能使生产成本更低、规模更大。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASML今年将在北京建维修中心 为中国光刻机提供服务 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1483586.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1483586.htm"/>
+        <updated>2025-03-08T18:37:21.158Z</updated>
+        <content type="html"><![CDATA[之前有消息称，美国要求ASML不能为中国光刻机提供维修，不过后者已经给出了答案。光刻机巨头阿斯麦（ASML）宣布，计划进一步投资提升其全球的设备修复能力，使其与公司的增长相匹配。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史上最大的人类粪便化石：长20cm宽5cm 预估至少值39000美元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1483260.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1483260.htm"/>
+        <updated>2025-03-05T11:58:36.000Z</updated>
+        <content type="html"><![CDATA[一坨巨大的粪便，人们像珍宝一样小心呵护并保存，还安置在博物馆里供游客欣赏。被游客不小心撞坏，断成3截了，博物馆还想尽办法将其修复了。听起来，这个事情很不真实。粪便？珍宝？展品？这几个词同时用来描述一个物体，像是在开玩笑，但现实是，这样珍贵的排泄物是真的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新款 M4 MacBook Air 解决了该系列最大的问题 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1483446.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1483446.htm"/>
+        <updated>2025-03-06T01:07:45.000Z</updated>
+        <content type="html"><![CDATA[<strong>新款 M4 MacBook Air 解决了该产品线的一个关键问题，现在可支持两台外接显示器，而且不受上一代 M3 处理器的限制。</strong>新推出的 MacBook Air 为使用多台显示器的用户带来了重大改进。 虽然以前的 M3 机型支持两台显示器，但只有当 MacBook Air 的盖子合上时才能同时使用两台显示器。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国成世界水产养殖第一大国 核心发展离不开它 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1483382.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1483382.htm"/>
+        <updated>2025-03-08T18:37:21.167Z</updated>
+        <content type="html"><![CDATA[日前，2025 年中央一号文件发布。文件指出，促进渔业高质量发展，支持发展深远海养殖，建设海上牧场。这一政策不仅为渔业未来指明了方向，也<strong>与我们每个人的餐桌息息相关</strong>——毕竟，鱼、虾、蟹、贝等水产品早已成为我们日常饮食中不可或缺的美味。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军建议新能源绿牌换颜色 网友心声：工信部用了最丑的一版 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1483058.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1483058.htm"/>
+        <updated>2025-03-07T17:40:10.769Z</updated>
+        <content type="html"><![CDATA[全国人大代表、小米创办人兼董事长兼CEO、金山软件董事长雷军公布了他的2025两会建议中，提到了新能源绿牌应换颜色，这制约了汽车产品的设计效果。在优化新能源汽车号牌设计方面，雷军表示，随着年轻消费者数量增多，用户对汽车外观与个性化功能拥有更加多元化的需求。例如，新能源汽车的绿色号牌在某种程度上制约了汽车产品的设计效果，现有汽车号牌不具备智能化能力，难以满足日常出行、交通管理的智能化发展需求。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称中国开发出国产EUV工具 挑战ASML的垄断地位 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1484082.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1484082.htm"/>
+        <updated>2025-03-09T02:49:50.000Z</updated>
+        <content type="html"><![CDATA[中国国产极紫外（EUV）光刻机的发展远非遥不可及。 
+目前正在华为东莞工厂进行测试的最新系统采用了激光诱导放电等离子体（LDP）技术，代表了一种可能具有颠覆性的极紫外光产生方法。 该系统计划于 
+2025 年第三季度进行试生产，并于 2026 年实现量产，这有可能使中国打破 ASML 在先进光刻技术领域的技术垄断。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果推出配备M4芯片的新款MacBook Air 起价999美元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1483416.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1483416.htm"/>
+        <updated>2025-03-09T17:37:53.115Z</updated>
+        <content type="html"><![CDATA[苹果公司在其网站上推出了新款 MacBook Air，在保留我们熟悉设计的同时提高了性能。 新款笔记本电脑配备了苹果公司的 M4 芯片，这是 M 系列芯片阵容的最新成员。]]></content>
     </entry>
 </feed>
