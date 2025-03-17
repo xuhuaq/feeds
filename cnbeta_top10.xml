@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-03-17T05:41:41.746Z</updated>
+    <updated>2025-03-17T17:41:40.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[头发白了，还能变黑吗？医生的答案出乎意料]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1484324.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1484324.htm"/>
-        <updated>2025-03-11T17:41:47.670Z</updated>
-        <content type="html"><![CDATA[相信喜欢自己长白头发的人并不多，尤其是许多中年人，和一些过早白头的青年人，总会抱怨白头发对自己个人形象造成了影响，很受困扰，哪怕只有几根白头发，在头上也似乎显得格外醒目。不少人不禁会发问，头发变白后，还能再黑回来吗？要简单回答的话，答案是——能黑回来，比如染发。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[下毒迷晕再交配 为避免被吃掉，雄性蓝纹章鱼手段很“下作”]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1485028.htm</id>
@@ -48,13 +41,6 @@
         <content type="html"><![CDATA[目前比特币区块网络由于算力极高因此想要挖矿的化通常需要搭载 ASIC 芯片的专用矿机，这类矿机售价动辄上万美元对于个人矿工来说成本非常高。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软说明用户应当全新安装Windows 11而不是从Windows 10升级的原因]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1484278.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1484278.htm"/>
-        <updated>2025-03-10T10:15:30.000Z</updated>
-        <content type="html"><![CDATA[随着 Windows 10 即将结束支持目前微软也在发布更多支持文档并在系统内弹出更多通知提醒用户升级到 Windows 11，不过微软并不推荐用户直接升级，最好是备份数据后完全重装系统。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI称DeepSeek为"国家控制" 呼吁禁止使用中国开发的模型]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1485294.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1485294.htm"/>
@@ -69,13 +55,6 @@
         <content type="html"><![CDATA[国产PC将迎来新的突破，因为华为新品已经展示了科技自立自强的最新成果。据最新报道称，华为这款新品来自擎云新PC，其自研率接近100%。这一突破不仅填补了国产商用PC领域的技术空白，也确保了供应链的稳定性和产品的可持续迭代能力。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一加宣布放弃经典三段式按键 升级自定义按键]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1484652.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1484652.htm"/>
-        <updated>2025-03-14T17:39:31.378Z</updated>
-        <content type="html"><![CDATA[一加创始人刘作虎在一加社区宣布，一加将会放弃经典的三段式按键。刘作虎解释，<strong>一加收到了用户的持续反馈，他们希望手机能配备一个自定义功能按键。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[博主曝苹果A17 Pro有两个版本 网友：以后谁还敢买首发]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1485236.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1485236.htm"/>
@@ -83,13 +62,11 @@
         <content type="html"><![CDATA[博主白饭炒白米饭介绍，苹果A17 Pro事实上有两个版本，<strong>分别是339S01257、339S01258，</strong>去年9月苹果卖的是6-7月的N3B，<strong>台积电新批次的N3B工艺有改良，解决了一开始网友曝出的发热和能耗问题。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[报告称华为规避美国制裁 通过空壳公司从台积电获得200万枚Ascend 910B]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1484464.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1484464.htm"/>
-        <updated>2025-03-11T01:59:06.000Z</updated>
-        <content type="html"><![CDATA[根据战略与国际研究中心最近的一份报告，华为通过误导台积电的空壳公司获得了约 200 万个 Ascend 910B 
-芯片。此次订购违反了美国旨在限制中国获取先进半导体技术的出口管制。报告详细说明了华为如何利用中间商为其 AI 
-加速器采购芯片，直到台积电发现这一欺骗行为并停止发货。]]></content>
+        <title type="html"><![CDATA[一加宣布放弃经典三段式按键 升级自定义按键]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1484652.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1484652.htm"/>
+        <updated>2025-03-14T17:39:31.378Z</updated>
+        <content type="html"><![CDATA[一加创始人刘作虎在一加社区宣布，一加将会放弃经典的三段式按键。刘作虎解释，<strong>一加收到了用户的持续反馈，他们希望手机能配备一个自定义功能按键。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全球首款Android 16旗舰 Pixel 10系列渲染图出炉]]></title>
@@ -106,18 +83,13 @@
         <content type="html"><![CDATA[3月13日消息，据媒体报道，某机场的一处广告牌上，女士伸出大拇指点赞，这名女士有6根手指。对此，<strong>广告公司回应称，海报画面系AI生成，目前已经更换。</strong>据了解，生成式AI也被称为AIGC，也就是人工智能算法生成的内容，只需要输入一些提示词，<strong>AI就能相应地产出你想要的文章、视频、音频、图像等。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[实测苹果M3 Ultra运行DeepSeek R1满血版：速度超过8卡A100]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1484964.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1484964.htm"/>
-        <updated>2025-03-14T17:39:31.380Z</updated>
-        <content type="html"><![CDATA[近日，B站UP主“虽然但是张黑黑”分享了一段<a class="f14_link" href="https://www.bilibili.com/video/BV1nkRnYTEWx/?spm_id_from=888.80997.embed_other.whitelist&amp;bvid=BV1nkRnYTEWx" target="_blank">视频</a>，<strong>展示了满血版苹果M3 Ultra运行6710亿参数的DeepSeek R1模型的测试结果，其速度甚至超过了8张A100显卡，而成本却低得多。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超长寿命碳-14核电池研制成功]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1484534.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1484534.htm"/>
-        <updated>2025-03-11T11:14:26.000Z</updated>
-        <content type="html"><![CDATA[<strong>由无锡贝塔医药科技有限公司与西北师范大学科研团队联合研制的国内首款C-14核电池“烛龙一号”工程样机成功问世。</strong>这一突破标志着我国在核能技术及微型核电池领域取得了重大进展，为未来能源技术的发展开辟了新的方向。]]></content>
+        <title type="html"><![CDATA[报告称华为规避美国制裁 通过空壳公司从台积电获得200万枚Ascend 910B]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1484464.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1484464.htm"/>
+        <updated>2025-03-11T01:59:06.000Z</updated>
+        <content type="html"><![CDATA[根据战略与国际研究中心最近的一份报告，华为通过误导台积电的空壳公司获得了约 200 万个 Ascend 910B 
+芯片。此次订购违反了美国旨在限制中国获取先进半导体技术的出口管制。报告详细说明了华为如何利用中间商为其 AI 
+加速器采购芯片，直到台积电发现这一欺骗行为并停止发货。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[距今已1400年北朝建筑遗迹确认 出土大量珍稀文物]]></title>
@@ -127,11 +99,25 @@
         <content type="html"><![CDATA[今日，据河北省邯郸市峰峰矿区文物保护中心(响堂山石窟研究院)透露，考古人员在对<strong>北响堂山石窟以西、常乐寺遗址</strong>以东山麓地带的北朝至宋金建筑基址区进行考古发掘时，<strong>首次确认北响堂山石窟区域北朝建筑遗迹的存在</strong>。响堂山石窟包括南、北两处遗址群，开凿于北齐年间，<strong>距今已1400多年</strong>。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[纽约时报：马斯克的商业帝国摇摇欲坠 他远不如乔布斯和黄仁勋]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1484354.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1484354.htm"/>
-        <updated>2025-03-12T17:41:10.978Z</updated>
-        <content type="html"><![CDATA[纽约时报发文称，<strong>马斯克的商业帝国如今摇摇欲坠。</strong>在过去六周里，<strong>特斯拉的股价暴跌了约40%</strong>，几乎抹去了2024年大选后其所有的涨幅。纽约时报认为，这揭示了马斯克的软肋：<strong>他的财富在很大程度上依赖于其狂热追随者的过高期望</strong>。随着这些期望的破灭，他的影响力也会随之减弱。]]></content>
+        <title type="html"><![CDATA[木头明明可以直接当柴烧 为什么古人要把木头加工成木炭售卖呢？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1485290.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1485290.htm"/>
+        <updated>2025-03-14T01:07:53.000Z</updated>
+        <content type="html"><![CDATA[我盲猜下，阅读这篇文章的读者都背过《卖炭翁》！这是唐代诗人白居易创作的一首诗，讲述了一个烧木炭卖钱的老人在谋生过程中的艰辛和遭遇。这首诗的开篇第一句就是：卖炭翁，伐薪烧炭南山中。有趣的问题就来了，木头本身就可以当柴火烧，为什么古代“卖碳翁”要把树木砍伐了，然后再烧成木炭售卖呢？直接把木头劈成柴卖不是应该更好吗？]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朱诺号的新发现：木卫一的内部并不像我们想象的那样]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1484584.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1484584.htm"/>
+        <updated>2025-03-11T00:24:26.000Z</updated>
+        <content type="html"><![CDATA[长期争论不休的木卫一岩浆海洋可能并不存在。朱诺号航天器数据显示，如果存在岩浆海洋，潮汐力对卫星的变形与预期不同。相反，木卫一的地幔看起来大部分是固体，这挑战了旧模型，并暗示其内部更为复杂。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实测苹果M3 Ultra运行DeepSeek R1满血版：速度超过8卡A100]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1484964.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1484964.htm"/>
+        <updated>2025-03-14T17:39:31.380Z</updated>
+        <content type="html"><![CDATA[近日，B站UP主“虽然但是张黑黑”分享了一段<a class="f14_link" href="https://www.bilibili.com/video/BV1nkRnYTEWx/?spm_id_from=888.80997.embed_other.whitelist&amp;bvid=BV1nkRnYTEWx" target="_blank">视频</a>，<strong>展示了满血版苹果M3 Ultra运行6710亿参数的DeepSeek R1模型的测试结果，其速度甚至超过了8张A100显卡，而成本却低得多。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美媒：DeepSeek之后 这四家中国公司有望颠覆科技界]]></title>
@@ -139,6 +125,20 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1485268.htm"/>
         <updated>2025-03-16T17:39:15.061Z</updated>
         <content type="html"><![CDATA[3月13日，<strong>techxplore发文称，DeepSeek在今年1月的成功震撼了金融市场与美国科技巨头，但这本不应令人如此意外。</strong>数十年来，众多中国企业通过差异化战略构建竞争优势，它们的的制胜法门在于更快、更廉价的创新迭代与商业灵活性。除DeepSeek外，另有四家中国公司正以相似路径颠覆科技界：]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超长寿命碳-14核电池研制成功]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1484534.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1484534.htm"/>
+        <updated>2025-03-11T11:14:26.000Z</updated>
+        <content type="html"><![CDATA[<strong>由无锡贝塔医药科技有限公司与西北师范大学科研团队联合研制的国内首款C-14核电池“烛龙一号”工程样机成功问世。</strong>这一突破标志着我国在核能技术及微型核电池领域取得了重大进展，为未来能源技术的发展开辟了新的方向。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市面上的包装玉米是“僵尸玉米”？这些关于玉米的真相一定要知道]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1485674.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1485674.htm"/>
+        <updated>2025-03-17T17:41:39.360Z</updated>
+        <content type="html"><![CDATA[不知道大家发现没有，现在超市里到处都是各种真空玉米、冷冻玉米，还有撕开包装就能直接炫的甜玉米粒。这些加工玉米方便了我们的生活，但也有很多很多人，一边吃一边担心：]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[比钢铁更强，比凯夫拉更韧 - 蜘蛛丝的秘密终于被揭开了]]></title>
