@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-03-24T05:42:31.218Z</updated>
+    <updated>2025-03-24T17:42:01.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://www.cnbeta.com.tw/articles/tech/1486344.htm"/>
         <updated>2025-03-20T17:41:47.622Z</updated>
         <content type="html"><![CDATA[当 Google 正在为Android 16 更新的发布做准备时，三星用户仍在等待基于 Android 15 的 One UI 7 官方更新。这段日子他们似乎忘记了 One UI 7 的推出计划，目前正式运行 One UI 7 的设备只有Galaxy S25 系列机型。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX 13小时内创纪录3连发 拯救被困宇航员、一箭74星]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1485852.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1485852.htm"/>
-        <updated>2025-03-18T17:41:22.753Z</updated>
-        <content type="html"><![CDATA[SpaceX又一次完成了史无前例的壮举，在短短13个小时内执行了三次不同的航天发射任务，并且都取得了圆满成功。三次任务均由猎鹰9号完成，其中两枚都是18手，而且全部回收成功。<strong>首先是北京时间3月15日7点03分，在短暂推迟后，猎鹰9号B1090.2火箭成功发射了耐力号载人龙飞船。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[沾上多邻国，你这辈子就完了]]></title>
@@ -34,27 +27,6 @@
         <content type="html"><![CDATA[在小便门事件后，海底捞官方启动赔偿方案，目前不少消费者已经收到了海底捞的补偿款。一位网友称，他的5600元赔偿款到账后，和他同吃的朋友要求平分这笔钱。<strong>其朋友认为，大家一起吃的饭，都面临着食品安全的风险，所以都有资格分这笔钱。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谁是马斯克心中最聪明的人？他点了三个人的名字]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486534.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486534.htm"/>
-        <updated>2025-03-19T09:53:05.000Z</updated>
-        <content type="html"><![CDATA[据《商业内幕》报道，<strong>埃隆·马斯克(Elon Musk)近日做客共和党参议员泰德·克鲁兹(Ted Cruz)的播客节目，说出了他心目中的最聪明的人。</strong>根据周一播出的最新一期《泰德·克鲁兹的裁决》《Verdict with Ted Cruz》，克鲁兹让马斯克点出他遇到过的最聪明的人或者他非常钦佩的CEO。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果新款iPad外观变了 侧面印上中国制造]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1485948.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1485948.htm"/>
-        <updated>2025-03-17T10:45:13.000Z</updated>
-        <content type="html"><![CDATA[在社交平台上，不少网友反映，新款iPad的侧面印有“便携式电脑 中国制造”字样。据悉，前几代iPad都是在设备背面下方印上两行字样，<strong>第一行是“Designed by Apple in California Assembled in China”，第二行是“设备型号+便携式电脑 中国制造”的字样。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在任何人都无需登录即可使用 Google Gemini]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486664.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486664.htm"/>
-        <updated>2025-03-21T17:41:44.072Z</updated>
-        <content type="html"><![CDATA[Google准备在今年晚些时候用其人工智能助手 Gemini取代 Google Assistant。一旦过渡完成，Google将从 Play Store 中移除 Google Assistant 应用，并使其在设备上无法访问。最近，Gemini 获得了Canvas 和 Audio Overviews 功能。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NASA等了11年的观测：竟被一根破裂的水管逼停了]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1486706.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1486706.htm"/>
@@ -62,11 +34,18 @@
         <content type="html"><![CDATA[我们看过许多震撼的太阳图像，比如这张说不上是邪恶还是可爱的“太阳微笑.jpg”，以及很多动态高清的视频。这些标志性的高清影像多来自<strong>太阳动力学观测台</strong>（Solar Dynamics Observatory，SDO）。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这是唯一的海洋开花植物 在海底开花对其它海洋植物降维打击]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1485878.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1485878.htm"/>
-        <updated>2025-03-17T02:05:44.000Z</updated>
-        <content type="html"><![CDATA[我们现在的世界，陆地上到处都是具有开花能力的植物，这些植物通过开花吸引昆虫等动物来授粉，然后结出将种子包裹在果皮内的美味果实，吸引各种动物来食用并传播种子。大约1亿年前，其中有一种被子植物将它们的“天赋”带到了海洋，成为海洋中唯一的开花植物。]]></content>
+        <title type="html"><![CDATA[谁是马斯克心中最聪明的人？他点了三个人的名字]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486534.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486534.htm"/>
+        <updated>2025-03-19T09:53:05.000Z</updated>
+        <content type="html"><![CDATA[据《商业内幕》报道，<strong>埃隆·马斯克(Elon Musk)近日做客共和党参议员泰德·克鲁兹(Ted Cruz)的播客节目，说出了他心目中的最聪明的人。</strong>根据周一播出的最新一期《泰德·克鲁兹的裁决》《Verdict with Ted Cruz》，克鲁兹让马斯克点出他遇到过的最聪明的人或者他非常钦佩的CEO。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在任何人都无需登录即可使用 Google Gemini]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486664.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486664.htm"/>
+        <updated>2025-03-21T17:41:44.072Z</updated>
+        <content type="html"><![CDATA[Google准备在今年晚些时候用其人工智能助手 Gemini取代 Google Assistant。一旦过渡完成，Google将从 Play Store 中移除 Google Assistant 应用，并使其在设备上无法访问。最近，Gemini 获得了Canvas 和 Audio Overviews 功能。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全球首款“阔折叠”新形态手机 华为Pura X正式发布：7499元起]]></title>
@@ -90,18 +69,18 @@
         <content type="html"><![CDATA[美国的粉煤灰含有大量稀土元素，有可能减少对进口的依赖，正在进行的研究和试点项目致力于使开采具有经济可行性。煤灰是燃烧煤炭作为燃料后留下的粉状残渣，几十年来一直堆积在美国各地。德克萨斯大学奥斯汀分校的最新研究表明，这一储量丰富的稀土元素足以显著增强美国的稀土储量，而无需额外开采。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[两名滞留太空的宇航员是如何度过这九个月的？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1486396.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1486396.htm"/>
-        <updated>2025-03-20T17:41:47.635Z</updated>
-        <content type="html"><![CDATA[3月18日，BBC发文，揭秘了两名滞留太空的宇航员，<strong>布奇·威尔莫尔和苏尼·威廉姆斯如何在国际空间站度过了九个月的时光。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[主板BIOS更新超100小时引上万名网友在线围观 最终等来“无信号”]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1486330.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1486330.htm"/>
         <updated>2025-03-21T17:41:44.088Z</updated>
         <content type="html"><![CDATA[近日，一位Reddit网友分享了自己更新主板BIOS的“噩梦”经历，引发了上万名网友的关注。<strong>这位名为GoatWithAGun的用户在尝试更新映泰A320MH主板的BIOS时，本以为只需几分钟，却意外变成了一场长达100多个小时的“马拉松”。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两名滞留太空的宇航员是如何度过这九个月的？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1486396.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1486396.htm"/>
+        <updated>2025-03-20T17:41:47.635Z</updated>
+        <content type="html"><![CDATA[3月18日，BBC发文，揭秘了两名滞留太空的宇航员，<strong>布奇·威尔莫尔和苏尼·威廉姆斯如何在国际空间站度过了九个月的时光。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[苹果芯片，太多了]]></title>
@@ -114,11 +93,11 @@ Studio作为超高端Mac发布。顾客可以选择配备可连接高达 512GB�
  Pro”相同的“M4 Max”版本。<strong>但其实除此以外，苹果还在开发很多我们没注意到的芯片。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[百度副总裁为13岁女儿“开盒他人”道歉：已严肃批评 恳请网友停止扩散]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486072.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486072.htm"/>
-        <updated>2025-03-20T17:41:47.641Z</updated>
-        <content type="html"><![CDATA[真是可怜天下父母心！今日，<strong>百度副总裁谢广军陷入女儿“开盒”与被“开盒”的质疑。</strong>事件起因是有<strong>网友B</strong>曾在社交媒体上对某明星发表评论。]]></content>
+        <title type="html"><![CDATA[Perplexity 欲收购 TikTok 并开源其算法]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487296.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487296.htm"/>
+        <updated>2025-03-22T02:50:44.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.perplexity.ai/hub/blog/rebuilding-tiktok-in-america" style="text-wrap-mode: wrap;">根据周五发布的公司博客文章，</a><span style="text-wrap-mode: wrap;">人工智能搜索初创公司 Perplexity 刚刚提出收购（并改造）TikTok 的要约。该公司写道：“Perplexity 拥有独特的优势，可以在不造成垄断的情况下重建 TikTok 算法，将世界一流的技术能力与 Little Tech 的独立性结合起来。”</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小米汽车令美国两大巨头“汗颜” 可怕的还在后面]]></title>
@@ -128,11 +107,32 @@ Studio作为超高端Mac发布。顾客可以选择配备可连接高达 512GB�
         <content type="html"><![CDATA[The Information发文称，<strong>在过去的一年里，小米让两个强大的美国品牌相形见绌</strong>：首先，它推出了一款电动汽车，而苹果尽管投入了约100亿美元，且努力了十年，却未能做到这一点。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[百度副总裁为13岁女儿“开盒他人”道歉：已严肃批评 恳请网友停止扩散]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486072.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486072.htm"/>
+        <updated>2025-03-20T17:41:47.641Z</updated>
+        <content type="html"><![CDATA[真是可怜天下父母心！今日，<strong>百度副总裁谢广军陷入女儿“开盒”与被“开盒”的质疑。</strong>事件起因是有<strong>网友B</strong>曾在社交媒体上对某明星发表评论。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老黄发布新核弹B300 英伟达：B200已破DeepSeek-R1推理世界纪录]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486522.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486522.htm"/>
+        <updated>2025-03-19T07:23:16.000Z</updated>
+        <content type="html"><![CDATA[皮衣<strong>老黄</strong>，带着<strong>最强AI芯片GB300</strong>闪亮登场“AI超级碗”<strong>GTC</strong>，燃爆全场！性能方面，和去年发布的GB200相比，推理性能是其1.5倍。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google发布Pixel 9A 起价仍为499美元]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1486722.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1486722.htm"/>
         <updated>2025-03-23T17:39:37.317Z</updated>
         <content type="html"><![CDATA[Google 刚刚发布了 Pixel 9A，没有人感到惊讶，因为它的一系列细节都已经提前泄露给所有人。 摄像头凸起消失，配备更大的屏幕、Tensor G4 处理器和更好的防水性能，而且起价仍为 499 美元。 这一切看起来都非常划算，尤其是考虑到苹果对其新款入门级手机的定价。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7499元起 余承东所谓“全国人民买得起”的新手机为何风评两极分化？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487082.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487082.htm"/>
+        <updated>2025-03-21T10:06:25.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">3月20日，余承东预热数月的“新形态手机”终于揭晓。这是一款屏幕比例为16:10的阔折叠手机，引发了网友们两极分化的评论，尤其是7499元起的售价，似乎并不符合余承东所言的“全国人民都买得起”。他在发布会后表示，华为商城特推出12个月免息分期的优惠购机服务，以此回应网友们的关切。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google员工解释Android新增终端应用的真实目的]]></title>
@@ -144,10 +144,10 @@ Studio作为超高端Mac发布。顾客可以选择配备可连接高达 512GB�
 Linux 系统，帮助用户运行 Linux 各类脚本和应用程序等。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[老黄发布新核弹B300 英伟达：B200已破DeepSeek-R1推理世界纪录]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486522.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486522.htm"/>
-        <updated>2025-03-19T07:23:16.000Z</updated>
-        <content type="html"><![CDATA[皮衣<strong>老黄</strong>，带着<strong>最强AI芯片GB300</strong>闪亮登场“AI超级碗”<strong>GTC</strong>，燃爆全场！性能方面，和去年发布的GB200相比，推理性能是其1.5倍。]]></content>
+        <title type="html"><![CDATA[马斯克变性女儿晒新照引网友围观 已和父亲断绝关系]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487084.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487084.htm"/>
+        <updated>2025-03-21T10:07:29.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">近日马斯克的大儿子（现在是大女儿）更新了照片，这引起了网友的围观。从这位女孩最新的描述看：“原名Xavier Musk，现在叫Vivian Wilson，并已经声明和马斯克脱离关系，并改跟母亲姓。”</span>]]></content>
     </entry>
 </feed>
