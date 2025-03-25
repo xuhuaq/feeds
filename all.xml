@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-25T05:42:21.166Z</updated>
+    <updated>2025-03-25T17:42:39.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[三星One UI 7官方推送将于4月7日开始 符合条件的Galaxy设备列表已公布 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486344.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486344.htm"/>
-        <updated>2025-03-20T17:41:47.622Z</updated>
-        <content type="html"><![CDATA[当 Google 正在为Android 16 更新的发布做准备时，三星用户仍在等待基于 Android 15 的 One UI 7 官方更新。这段日子他们似乎忘记了 One UI 7 的推出计划，目前正式运行 One UI 7 的设备只有Galaxy S25 系列机型。]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[沾上多邻国，你这辈子就完了 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1486428.htm</id>
@@ -47,49 +40,18 @@
         <content type="html"><![CDATA[Google准备在今年晚些时候用其人工智能助手 Gemini取代 Google Assistant。一旦过渡完成，Google将从 Play Store 中移除 Google Assistant 应用，并使其在设备上无法访问。最近，Gemini 获得了Canvas 和 Audio Overviews 功能。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“不结账不给装电梯”要回4.62亿 这家公司卡住了恒大的脖子 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487734.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487734.htm"/>
+        <updated>2025-03-25T17:42:38.736Z</updated>
+        <content type="html"><![CDATA[还有人能从恒大要出钱来？真有！而且要出来4个多亿！在恒大集团陷入债务危机，整个产业链上下游都在为恒大集团的债务焦头烂额时，号称中国最大电梯设备运营商的上海机电，却上演了一出经典的“讨债”戏码。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全球首款“阔折叠”新形态手机 华为Pura X正式发布：7499元起 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1486932.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1486932.htm"/>
         <updated>2025-03-21T17:41:44.080Z</updated>
         <content type="html"><![CDATA[<strong style="text-wrap-mode: wrap;">今天下午，华为预热已久的全新形态手机正式亮相，终于揭晓了命名——华为Pura X。</strong><span style="text-wrap-mode: wrap;">从命名就能确认，该机定位Pura系列的旗舰序列，就像Mate X之于Mate系列。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新款Apple TV 4K发布日期曝光 年底见 配置升级有点大 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486186.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486186.htm"/>
-        <updated>2025-03-18T09:32:07.000Z</updated>
-        <content type="html"><![CDATA[距离苹果上次更新Apple TV 4K已经接近两年半，许多用户都在期待新款产品的到来。那么，下一款Apple TV 4K何时会发布呢？根据最新消息，等待的时间或许不会太久。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国的煤灰填埋场中存在巨大的稀土元素储藏库 价值84亿美元 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486106.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486106.htm"/>
-        <updated>2025-03-20T17:41:47.632Z</updated>
-        <content type="html"><![CDATA[美国的粉煤灰含有大量稀土元素，有可能减少对进口的依赖，正在进行的研究和试点项目致力于使开采具有经济可行性。煤灰是燃烧煤炭作为燃料后留下的粉状残渣，几十年来一直堆积在美国各地。德克萨斯大学奥斯汀分校的最新研究表明，这一储量丰富的稀土元素足以显著增强美国的稀土储量，而无需额外开采。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主板BIOS更新超100小时引上万名网友在线围观 最终等来“无信号” (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486330.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486330.htm"/>
-        <updated>2025-03-21T17:41:44.088Z</updated>
-        <content type="html"><![CDATA[近日，一位Reddit网友分享了自己更新主板BIOS的“噩梦”经历，引发了上万名网友的关注。<strong>这位名为GoatWithAGun的用户在尝试更新映泰A320MH主板的BIOS时，本以为只需几分钟，却意外变成了一场长达100多个小时的“马拉松”。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两名滞留太空的宇航员是如何度过这九个月的？ (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1486396.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1486396.htm"/>
-        <updated>2025-03-20T17:41:47.635Z</updated>
-        <content type="html"><![CDATA[3月18日，BBC发文，揭秘了两名滞留太空的宇航员，<strong>布奇·威尔莫尔和苏尼·威廉姆斯如何在国际空间站度过了九个月的时光。</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果芯片，太多了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486250.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486250.htm"/>
-        <updated>2025-03-18T10:28:32.000Z</updated>
-        <content type="html"><![CDATA[2025年苹果仍会大力发布新产品。在这两种情况下，半导体都是产品的支柱。2025年2月28日，iPhone 
-16e发布，搭载苹果自家的调制解调器芯片组（其中不仅包含C1，还包括收发器和电源IC），3月12日，Mac 
-Studio作为超高端Mac发布。顾客可以选择配备可连接高达 512GB（千兆字节）统一内存的“M3 Ultra”版本，或配备与“MacBook
- Pro”相同的“M4 Max”版本。<strong>但其实除此以外，苹果还在开发很多我们没注意到的芯片。</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Perplexity 欲收购 TikTok 并开源其算法 (cnbeta一周排行)]]></title>
@@ -99,18 +61,18 @@ Studio作为超高端Mac发布。顾客可以选择配备可连接高达 512GB�
         <content type="html"><![CDATA[<a href="https://www.perplexity.ai/hub/blog/rebuilding-tiktok-in-america" style="text-wrap-mode: wrap;">根据周五发布的公司博客文章，</a><span style="text-wrap-mode: wrap;">人工智能搜索初创公司 Perplexity 刚刚提出收购（并改造）TikTok 的要约。该公司写道：“Perplexity 拥有独特的优势，可以在不造成垄断的情况下重建 TikTok 算法，将世界一流的技术能力与 Little Tech 的独立性结合起来。”</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米汽车令美国两大巨头“汗颜” 可怕的还在后面 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486134.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486134.htm"/>
-        <updated>2025-03-22T17:38:37.640Z</updated>
-        <content type="html"><![CDATA[The Information发文称，<strong>在过去的一年里，小米让两个强大的美国品牌相形见绌</strong>：首先，它推出了一款电动汽车，而苹果尽管投入了约100亿美元，且努力了十年，却未能做到这一点。]]></content>
+        <title type="html"><![CDATA[两名滞留太空的宇航员是如何度过这九个月的？ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1486396.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1486396.htm"/>
+        <updated>2025-03-20T17:41:47.635Z</updated>
+        <content type="html"><![CDATA[3月18日，BBC发文，揭秘了两名滞留太空的宇航员，<strong>布奇·威尔莫尔和苏尼·威廉姆斯如何在国际空间站度过了九个月的时光。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[百度副总裁为13岁女儿“开盒他人”道歉：已严肃批评 恳请网友停止扩散 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486072.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486072.htm"/>
-        <updated>2025-03-20T17:41:47.641Z</updated>
-        <content type="html"><![CDATA[真是可怜天下父母心！今日，<strong>百度副总裁谢广军陷入女儿“开盒”与被“开盒”的质疑。</strong>事件起因是有<strong>网友B</strong>曾在社交媒体上对某明星发表评论。]]></content>
+        <title type="html"><![CDATA[三星李在镕造访小米与雷军合影 赔罪饭局曾喝光5瓶红酒 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487520.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487520.htm"/>
+        <updated>2025-03-25T17:42:38.745Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">有网友爆料成，三星电子会长李在镕、高通公司总裁安蒙访问小米汽车工厂，由雷军、林斌等高层接见，并放出人员合照。</span><span style="text-wrap-mode: wrap;">有网友表示，此一时彼一时。</span><strong style="text-wrap-mode: wrap;">谁能记得，小米手机曾遭三星断供屏幕，雷军亲自赔罪的往事呢？</strong>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[老黄发布新核弹B300 英伟达：B200已破DeepSeek-R1推理世界纪录 (cnbeta一周排行)]]></title>
@@ -120,13 +82,6 @@ Studio作为超高端Mac发布。顾客可以选择配备可连接高达 512GB�
         <content type="html"><![CDATA[皮衣<strong>老黄</strong>，带着<strong>最强AI芯片GB300</strong>闪亮登场“AI超级碗”<strong>GTC</strong>，燃爆全场！性能方面，和去年发布的GB200相比，推理性能是其1.5倍。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google发布Pixel 9A 起价仍为499美元 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486722.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486722.htm"/>
-        <updated>2025-03-23T17:39:37.317Z</updated>
-        <content type="html"><![CDATA[Google 刚刚发布了 Pixel 9A，没有人感到惊讶，因为它的一系列细节都已经提前泄露给所有人。 摄像头凸起消失，配备更大的屏幕、Tensor G4 处理器和更好的防水性能，而且起价仍为 499 美元。 这一切看起来都非常划算，尤其是考虑到苹果对其新款入门级手机的定价。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7499元起 余承东所谓“全国人民买得起”的新手机为何风评两极分化？ (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1487082.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1487082.htm"/>
@@ -134,13 +89,26 @@ Studio作为超高端Mac发布。顾客可以选择配备可连接高达 512GB�
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">3月20日，余承东预热数月的“新形态手机”终于揭晓。这是一款屏幕比例为16:10的阔折叠手机，引发了网友们两极分化的评论，尤其是7499元起的售价，似乎并不符合余承东所言的“全国人民都买得起”。他在发布会后表示，华为商城特推出12个月免息分期的优惠购机服务，以此回应网友们的关切。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google员工解释Android新增终端应用的真实目的 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486242.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486242.htm"/>
-        <updated>2025-03-18T10:25:04.000Z</updated>
-        <content type="html"><![CDATA[这段时间Google为Android系统新开发的终端应用已经在 Android 16 测试版中提供，该终端应用并非连接Android系统本身，而是需要下载大约
- 500MB 的 Debian 系统作为虚拟机连接。也就是说新的终端应用本质上是在Android系统里开启虚拟机，然后终端应用连接虚拟机里的 
-Linux 系统，帮助用户运行 Linux 各类脚本和应用程序等。]]></content>
+        <title type="html"><![CDATA[Google发布Pixel 9A 起价仍为499美元 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486722.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486722.htm"/>
+        <updated>2025-03-23T17:39:37.317Z</updated>
+        <content type="html"><![CDATA[Google 刚刚发布了 Pixel 9A，没有人感到惊讶，因为它的一系列细节都已经提前泄露给所有人。 摄像头凸起消失，配备更大的屏幕、Tensor G4 处理器和更好的防水性能，而且起价仍为 499 美元。 这一切看起来都非常划算，尤其是考虑到苹果对其新款入门级手机的定价。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大神改出8GB版超频Switch：多款PC游戏可跑60FPS+ (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1486692.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1486692.htm"/>
+        <updated>2025-03-25T17:42:38.752Z</updated>
+        <content type="html"><![CDATA[近日，Switch改装爱好者Naga上传了一段测试视频，<strong>他在之前将Switch的内存升级到8GB的基础上，进行了超频处理，测试了20款PC游戏，结果显示不少游戏能达到60FPS+。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 很快就会让用户知道他们的电脑硬件糟糕在哪里 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486696.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486696.htm"/>
+        <updated>2025-03-25T17:42:38.752Z</updated>
+        <content type="html"><![CDATA[微软正在开发 Windows 11 中的一项新功能，该功能将有助于解释 RAM 较少或 GPU 较弱可能对 PC 性能产生的影响。 
+Windows 11 的最新预览版在系统设置中加入了一个新的常见问题部分，其中包含与 GPU 内存、系统 RAM 甚至操作系统版本有关的答案。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克变性女儿晒新照引网友围观 已和父亲断绝关系 (cnbeta一周排行)]]></title>
@@ -148,5 +116,33 @@ Linux 系统，帮助用户运行 Linux 各类脚本和应用程序等。]]></co
         <link href="https://www.cnbeta.com.tw/articles/tech/1487084.htm"/>
         <updated>2025-03-21T10:07:29.000Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">近日马斯克的大儿子（现在是大女儿）更新了照片，这引起了网友的围观。从这位女孩最新的描述看：“原名Xavier Musk，现在叫Vivian Wilson，并已经声明和马斯克脱离关系，并改跟母亲姓。”</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M4 MacBook Air非常出色 但MacBook Pro仍主导苹果笔记本业务 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486752.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486752.htm"/>
+        <updated>2025-03-25T17:42:38.754Z</updated>
+        <content type="html"><![CDATA[苹果的 M4 MacBook Air 比以往任何时候都更加强大，但 MacBook Pro 仍主导着高端笔记本电脑市场。最近，苹果的笔记本电脑阵容获得了重大更新，MacBook Pro 和 MacBook Air 都过渡到了 M4 芯片。 与 iPhone 可预测的年度周期不同，苹果对 Mac 的更新通常是零星的。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 16e 的 C1 调制解调器与 iPhone 16 的高通型号对比数据出炉 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486764.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486764.htm"/>
+        <updated>2025-03-20T02:35:01.000Z</updated>
+        <content type="html"><![CDATA[iPhone 16e 包含苹果首个自行定制设计的 C1 调制解调器，由于这是苹果的全新芯片类别，人们一直在质疑 C1 与苹果多年来一直使用的高通调制解调器相比有何优势。 事实证明，在许多比较 6GHz 以下性能的速度测试中，iPhone 16e 的表现几乎与 iPhone 16 相同甚至更好，但也会因网络而异。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个神秘族群给了人类20%基因 并可能让我们变得更聪明 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1487004.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1487004.htm"/>
+        <updated>2025-03-21T01:01:40.000Z</updated>
+        <content type="html"><![CDATA[从古至今，人类起源问题一直令人着迷，古人为此创造了各种神话传说，而今天的人们更愿意用最新的考古发现和科学技术，找到那么一点物理的或者化学的蛛丝马迹，然后科学家们像侦探一样慢慢拼凑人类起源的故事。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一辆70年前的宝马“老头乐”起拍价55万元 拍卖行：车在北京 能开能跑 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486996.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486996.htm"/>
+        <updated>2025-03-25T17:42:38.760Z</updated>
+        <content type="html"><![CDATA[近日，“一辆70年前宝马老头乐55万元起拍”的话题，引起网友关注热议。据报道，拍卖平台显示，<strong>这辆宝马古董车于1956年出厂，并非是民间公司乱造的老头乐车型，车型是宝马lsetta300，悬挂货真价实的宝马蓝天白云车标。</strong>]]></content>
     </entry>
 </feed>
