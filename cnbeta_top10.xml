@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-03-26T05:42:49.290Z</updated>
+    <updated>2025-03-26T17:42:07.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[沾上多邻国，你这辈子就完了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486428.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486428.htm"/>
-        <updated>2025-03-20T17:41:47.627Z</updated>
-        <content type="html"><![CDATA[说到真正和中国做题家“双向奔赴”的软件，就不得不提那只来自美国的绿色邪恶小鸟。讲两个真事：某天我正在洗澡，突然意识到还有几分钟时钟将会跨越零点，我立刻关掉水龙头，披着浴巾蹲在地上，赶在倒计时前打完了卡。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小便门事件后海底捞顾客拒与同桌人平分赔偿金 当事人称很纠结]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1486558.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1486558.htm"/>
-        <updated>2025-03-19T10:03:52.000Z</updated>
-        <content type="html"><![CDATA[在小便门事件后，海底捞官方启动赔偿方案，目前不少消费者已经收到了海底捞的补偿款。一位网友称，他的5600元赔偿款到账后，和他同吃的朋友要求平分这笔钱。<strong>其朋友认为，大家一起吃的饭，都面临着食品安全的风险，所以都有资格分这笔钱。</strong>]]></content>
+        <title type="html"><![CDATA[“不结账不给装电梯”要回4.62亿 这家公司卡住了恒大的脖子]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487734.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487734.htm"/>
+        <updated>2025-03-25T17:42:38.736Z</updated>
+        <content type="html"><![CDATA[还有人能从恒大要出钱来？真有！而且要出来4个多亿！在恒大集团陷入债务危机，整个产业链上下游都在为恒大集团的债务焦头烂额时，号称中国最大电梯设备运营商的上海机电，却上演了一出经典的“讨债”戏码。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NASA等了11年的观测：竟被一根破裂的水管逼停了]]></title>
@@ -25,27 +18,6 @@
         <link href="https://www.cnbeta.com.tw/articles/science/1486706.htm"/>
         <updated>2025-03-22T17:38:37.623Z</updated>
         <content type="html"><![CDATA[我们看过许多震撼的太阳图像，比如这张说不上是邪恶还是可爱的“太阳微笑.jpg”，以及很多动态高清的视频。这些标志性的高清影像多来自<strong>太阳动力学观测台</strong>（Solar Dynamics Observatory，SDO）。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁是马斯克心中最聪明的人？他点了三个人的名字]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486534.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486534.htm"/>
-        <updated>2025-03-19T09:53:05.000Z</updated>
-        <content type="html"><![CDATA[据《商业内幕》报道，<strong>埃隆·马斯克(Elon Musk)近日做客共和党参议员泰德·克鲁兹(Ted Cruz)的播客节目，说出了他心目中的最聪明的人。</strong>根据周一播出的最新一期《泰德·克鲁兹的裁决》《Verdict with Ted Cruz》，克鲁兹让马斯克点出他遇到过的最聪明的人或者他非常钦佩的CEO。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在任何人都无需登录即可使用 Google Gemini]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486664.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486664.htm"/>
-        <updated>2025-03-21T17:41:44.072Z</updated>
-        <content type="html"><![CDATA[Google准备在今年晚些时候用其人工智能助手 Gemini取代 Google Assistant。一旦过渡完成，Google将从 Play Store 中移除 Google Assistant 应用，并使其在设备上无法访问。最近，Gemini 获得了Canvas 和 Audio Overviews 功能。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“不结账不给装电梯”要回4.62亿 这家公司卡住了恒大的脖子]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1487734.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1487734.htm"/>
-        <updated>2025-03-25T17:42:38.736Z</updated>
-        <content type="html"><![CDATA[还有人能从恒大要出钱来？真有！而且要出来4个多亿！在恒大集团陷入债务危机，整个产业链上下游都在为恒大集团的债务焦头烂额时，号称中国最大电梯设备运营商的上海机电，却上演了一出经典的“讨债”戏码。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全球首款“阔折叠”新形态手机 华为Pura X正式发布：7499元起]]></title>
@@ -62,25 +34,11 @@
         <content type="html"><![CDATA[<a href="https://www.perplexity.ai/hub/blog/rebuilding-tiktok-in-america" style="text-wrap-mode: wrap;">根据周五发布的公司博客文章，</a><span style="text-wrap-mode: wrap;">人工智能搜索初创公司 Perplexity 刚刚提出收购（并改造）TikTok 的要约。该公司写道：“Perplexity 拥有独特的优势，可以在不造成垄断的情况下重建 TikTok 算法，将世界一流的技术能力与 Little Tech 的独立性结合起来。”</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[两名滞留太空的宇航员是如何度过这九个月的？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1486396.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1486396.htm"/>
-        <updated>2025-03-20T17:41:47.635Z</updated>
-        <content type="html"><![CDATA[3月18日，BBC发文，揭秘了两名滞留太空的宇航员，<strong>布奇·威尔莫尔和苏尼·威廉姆斯如何在国际空间站度过了九个月的时光。</strong>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[三星李在镕造访小米与雷军合影 赔罪饭局曾喝光5瓶红酒]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1487520.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1487520.htm"/>
         <updated>2025-03-25T17:42:38.745Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">有网友爆料成，三星电子会长李在镕、高通公司总裁安蒙访问小米汽车工厂，由雷军、林斌等高层接见，并放出人员合照。</span><span style="text-wrap-mode: wrap;">有网友表示，此一时彼一时。</span><strong style="text-wrap-mode: wrap;">谁能记得，小米手机曾遭三星断供屏幕，雷军亲自赔罪的往事呢？</strong>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老黄发布新核弹B300 英伟达：B200已破DeepSeek-R1推理世界纪录]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486522.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486522.htm"/>
-        <updated>2025-03-19T07:23:16.000Z</updated>
-        <content type="html"><![CDATA[皮衣<strong>老黄</strong>，带着<strong>最强AI芯片GB300</strong>闪亮登场“AI超级碗”<strong>GTC</strong>，燃爆全场！性能方面，和去年发布的GB200相比，推理性能是其1.5倍。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7499元起 余承东所谓“全国人民买得起”的新手机为何风评两极分化？]]></title>
@@ -104,12 +62,33 @@
         <content type="html"><![CDATA[近日，Switch改装爱好者Naga上传了一段测试视频，<strong>他在之前将Switch的内存升级到8GB的基础上，进行了超频处理，测试了20款PC游戏，结果显示不少游戏能达到60FPS+。</strong>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[章泽天近照曝光：头戴鸭舌帽 与梁朝伟、刘嘉玲夫妇合影]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1488108.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1488108.htm"/>
+        <updated>2025-03-26T17:42:06.769Z</updated>
+        <content type="html"><![CDATA[<strong style="text-wrap-mode: wrap;">近日，章泽天现身香港出席某活动，与梁朝伟聚、刘嘉玲夫妇合照。</strong><span style="text-wrap-mode: wrap;">据网友透露，这场活动是华美银行香港午宴，邀请各领域的名人大咖出席。有报道称，3月24日，画家曾梵志与洛杉矶艺术博物馆LACMA的Little先生主题对话，不少名流现身华美银行香港午宴。</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows 11 很快就会让用户知道他们的电脑硬件糟糕在哪里]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1486696.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1486696.htm"/>
         <updated>2025-03-25T17:42:38.752Z</updated>
         <content type="html"><![CDATA[微软正在开发 Windows 11 中的一项新功能，该功能将有助于解释 RAM 较少或 GPU 较弱可能对 PC 性能产生的影响。 
 Windows 11 的最新预览版在系统设置中加入了一个新的常见问题部分，其中包含与 GPU 内存、系统 RAM 甚至操作系统版本有关的答案。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亿万富豪贝索斯终于发喜帖？55岁女友成功转正选好婚纱]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487892.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487892.htm"/>
+        <updated>2025-03-26T17:42:06.771Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">61岁的前世界首富杰夫·贝索斯（目前第二富，第一马斯克），这次好像真的要和55岁的劳伦·桑切斯结婚了？！最近有小道消息说，这对备受关注的情侣终于发出了婚礼邀请函，地点和时间都曝光了。订婚两年之后，这对老房子着火似的情侣，真的打算步入婚姻殿堂了吗？</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek昨夜上新 新旧版V3对比实测 代码能力飙升]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487942.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487942.htm"/>
+        <updated>2025-03-25T07:18:39.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">昨日晚间，DeepSeek在开源平台悄然上线了升级后的DeepSeek-V3模型。新模型的版本号为DeepSeek-V3-0324，模型参数为6850亿，较早期版本的6710亿有小幅增长。不过，DeepSeek尚未放出新版模型的系统卡，我们暂时无法获取关于这款模型的更多信息。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马斯克变性女儿晒新照引网友围观 已和父亲断绝关系]]></title>
@@ -126,6 +105,34 @@ Windows 11 的最新预览版在系统设置中加入了一个新的常见问题
         <content type="html"><![CDATA[苹果的 M4 MacBook Air 比以往任何时候都更加强大，但 MacBook Pro 仍主导着高端笔记本电脑市场。最近，苹果的笔记本电脑阵容获得了重大更新，MacBook Pro 和 MacBook Air 都过渡到了 M4 芯片。 与 iPhone 可预测的年度周期不同，苹果对 Mac 的更新通常是零星的。]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[微软终于解除Windows 11 24H2发布之初就存在的升级限制]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487172.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487172.htm"/>
+        <updated>2025-03-26T17:42:06.780Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">微软已经解除了针对Windows 11 24H2版本的又一项升级限制，更多用户可以升级到24H2。</span><span style="text-wrap-mode: wrap;">由于《狂野飙车8：极速凌云》在安装Windows 11 24H2的设备上可能会出现卡死或无响应的问题，微软在系统升级时对相关设备进行了限制。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达大客户面临数百亿损失 而黄仁勋拿这件事开了个玩笑]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487740.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487740.htm"/>
+        <updated>2025-03-26T17:42:06.782Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">3月24日，商业内幕发文，英伟达首席执行官黄仁勋上周开了一个玩笑，但他的大客户们可能不会觉得好笑。“我之前说过，当Blackwell开始大量发货时，Hopper就会无人问津了，”黄仁勋在GTC大会上说道。“在某些情况下，Hopper还是不错的，” 他补充道，“但这种情况不多。”</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星将从4月7日开始推送基于Android 15的One UI 7正式版 附设备支持清单]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1487370.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1487370.htm"/>
+        <updated>2025-03-26T17:42:06.782Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">基于 Android 15 开发的三星 One UI 7 即将完成测试，从 2025 年 4 月份开始三星将发布稳定版并向 Galaxy S25 系列以外的机型推送。One UI 7 带来诸多新功能和变化，例如翻译和消息传递工具，三星还在该版本中带来不同的通知和快速设置方法。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一辆70年前的宝马“老头乐”起拍价55万元 拍卖行：车在北京 能开能跑]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1486996.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1486996.htm"/>
+        <updated>2025-03-25T17:42:38.760Z</updated>
+        <content type="html"><![CDATA[近日，“一辆70年前宝马老头乐55万元起拍”的话题，引起网友关注热议。据报道，拍卖平台显示，<strong>这辆宝马古董车于1956年出厂，并非是民间公司乱造的老头乐车型，车型是宝马lsetta300，悬挂货真价实的宝马蓝天白云车标。</strong>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone 16e 的 C1 调制解调器与 iPhone 16 的高通型号对比数据出炉]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1486764.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1486764.htm"/>
@@ -138,12 +145,5 @@ Windows 11 的最新预览版在系统设置中加入了一个新的常见问题
         <link href="https://www.cnbeta.com.tw/articles/science/1487004.htm"/>
         <updated>2025-03-21T01:01:40.000Z</updated>
         <content type="html"><![CDATA[从古至今，人类起源问题一直令人着迷，古人为此创造了各种神话传说，而今天的人们更愿意用最新的考古发现和科学技术，找到那么一点物理的或者化学的蛛丝马迹，然后科学家们像侦探一样慢慢拼凑人类起源的故事。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一辆70年前的宝马“老头乐”起拍价55万元 拍卖行：车在北京 能开能跑]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1486996.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1486996.htm"/>
-        <updated>2025-03-25T17:42:38.760Z</updated>
-        <content type="html"><![CDATA[近日，“一辆70年前宝马老头乐55万元起拍”的话题，引起网友关注热议。据报道，拍卖平台显示，<strong>这辆宝马古董车于1956年出厂，并非是民间公司乱造的老头乐车型，车型是宝马lsetta300，悬挂货真价实的宝马蓝天白云车标。</strong>]]></content>
     </entry>
 </feed>
