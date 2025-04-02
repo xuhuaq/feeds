@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-04-02T05:43:40.741Z</updated>
+    <updated>2025-04-02T17:42:07.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">最近看到一个有趣的视频！根据视频介绍称，一个女子在蚂蚁窝挖到一只像烤肠一样、长达100毫米的蚁后。</span><span style="text-wrap-mode: wrap;">这个其实是白蚁的蚁后！很多人分不清白蚁和蚂蚁，我们就来简单了解下两者的区别吧！</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[据传中芯国际将于2025年完成5nm工艺升级 但成本远高于台积电]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1488834.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1488834.htm"/>
-        <updated>2025-03-28T07:40:23.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">根据一份新报告，中芯国际将在 2025 年完成其 5nm 芯片的开发。使用较旧的 DUV 设备的结果将使中芯国际达到其 5nm 目标，但除了成本增加之外，据说其良率仅为台积电在同一技术上的良率的三分之一。</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美国火星车发现诡异的怪石 似乎有东西破壳而出]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1488968.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1488968.htm"/>
         <updated>2025-03-29T17:39:11.205Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">火星上经常能发现一些奇奇怪怪的东西，虽然最终都得到了科学解释，但乍一看总是让人难以置信。</span><strong style="text-wrap-mode: wrap;">现在，毅力号火星车又发现了一块诡异的石头，表面密布小圆球，部分甚至表面还有孔洞，仿佛有什么东西钻了出来。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据传中芯国际将于2025年完成5nm工艺升级 但成本远高于台积电]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1488834.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1488834.htm"/>
+        <updated>2025-03-28T07:40:23.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">根据一份新报告，中芯国际将在 2025 年完成其 5nm 芯片的开发。使用较旧的 DUV 设备的结果将使中芯国际达到其 5nm 目标，但除了成本增加之外，据说其良率仅为台积电在同一技术上的良率的三分之一。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[比尔盖茨预言10年内AI将取代两大职业 三种工作不会被取代]]></title>
@@ -48,18 +48,11 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">一项新研究表明，冲泡咖啡的方法可以显著影响天然升高胆固醇的化合物二萜的含量。咖啡的冲泡方式可能会影响心脏健康。咖啡文化遍布七大洲，是一种全球性饮料。事实上，全世界每天要喝掉超过</span>22.5 亿杯<span style="text-wrap-mode: wrap;">咖啡。咖啡含有生物活性成分，因此通常被认为对</span>健康有益。]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[迪士尼发照庆祝《白雪公主》票房登顶 豆瓣开分4.4分]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1488290.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1488290.htm"/>
-        <updated>2025-03-26T10:18:17.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">迪士尼真人电影《白雪公主》于3月21日全球上映后，北美首周末最终票房仅收获4220.6万美元，全球首周票房仅为8539.97万美元，而据票房统计网站BoxOfficeMojo3月23日发布的电影市场数据，35部影片北美周末票房(3月21日至23日)报收约7555万美元，较前一周末增加46%。《白雪公主》成为该统计周期唯一票房超过千万美元的影片。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新款 iPhone 17 Air 机身模型泄露 或将成为史上最薄 iPhone]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1488200.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1488200.htm"/>
-        <updated>2025-03-27T17:40:04.157Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">苹果预计将推出 iPhone 17 Air 作为其 2025 年秋季更新之一。顾名思义，它预计是 iPhone 的超薄版本，比名单上的其他型号薄得多。</span><span style="text-wrap-mode: wrap;">如果泄密者的消息正确，那么</span>iPhone 17<span style="text-wrap-mode: wrap;">&nbsp;Air 的厚度实际上将是 iPhone 17 Pro Max 的一半。</span>]]></content>
+        <title type="html"><![CDATA[华裔高管斗不过印度人的历史，被AI终结了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1489708.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1489708.htm"/>
+        <updated>2025-04-02T17:42:06.758Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">剥离非核心资产，押注AI芯片与代工业务……上任14天后，陈立武首次以英特尔CEO的身份于英特尔 Vision 2025活动上公开露面，发表了约30分钟的公开演讲，向外界传递出重振这家老牌芯片巨头的决心。自此，美国四大芯片巨头英伟达、AMD、博通和英特尔的“话事人”都成了华人。华人在硅谷的话语权和影响力达到了史无前例的高峰。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[剧中虚构的 Lumon Terminal Pro 电脑出现在苹果网站上]]></title>
@@ -83,18 +76,11 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">Google宣布，将免费向所有 Gemini 应用用户提供最新、最先进的 Gemini AI 模型 2.5 Pro 版。此前，只有 Gemini Advanced 用户才能使用这一实验模型，而现在，该模型将从本周六开始向公众开放。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 19 更多界面细节曝光：大量圆角、半透明UI]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1488286.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1488286.htm"/>
-        <updated>2025-03-26T10:15:20.000Z</updated>
-        <content type="html"><![CDATA[<strong style="text-wrap-mode: wrap;">苹果已经宣布WWDC25将于6月10日开启，届时将推出iOS 19等全新系统。</strong><span style="text-wrap-mode: wrap;">爆料者Jon Prosser今天分享了iOS 19的提前上手，展示了不同应用和功能的模型。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新加坡副总理到访百度 试乘萝卜快跑直竖大拇指点赞]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1488166.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1488166.htm"/>
-        <updated>2025-03-27T17:40:04.155Z</updated>
-        <content type="html"><![CDATA[根据百度官方公众号，在今天下午，新加坡副总理王瑞杰Heng Swee Keat一行来到了百度Apollo park，与百度创始人李彦宏会谈，并试乘萝卜快跑第六代无人驾驶汽车。试乘后，王瑞杰对萝卜快跑无人驾驶车辆的技术和舒适性给出了高度评价：“非常好，这就是未来！”，他还表示欢迎萝卜快跑来新加坡。]]></content>
+        <title type="html"><![CDATA[苹果发布 iOS 18.4 包含优先通知、环境音乐、新表情符号等]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1489590.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1489590.htm"/>
+        <updated>2025-04-01T01:22:59.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">苹果</span>今天发布了<span style="text-wrap-mode: wrap;">iOS 18.4 和 iPadOS 18.4，这是对去年发布的</span>iOS 18<span style="text-wrap-mode: wrap;">和</span>iPadOS 18<span style="text-wrap-mode: wrap;">操作系统更新的第四次更新。iOS 18.4 和 iPadOS 18.4 是在苹果</span>发布 iOS 18.3 和 iPadOS 18.3<span style="text-wrap-mode: wrap;">两个月后发布的。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[深圳的“北方华创” 新凯来发布5大核心设备]]></title>
@@ -104,18 +90,25 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">在上海国家会展中心举行的2025中国国际半导体设备和材料展（SEMICON China 2025）上，深圳新凯来工业机器有限公司（SiCarrier，以下简称“新凯来”）成为全场焦点。新凯来通过照片和模型的方式展示了其多款产品，其中最受关注的五大核心设备，均以中国名山命名，技术对标国际顶尖水平。包括：</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一只伪装成有毒毛虫的蜂鸟幼鸟让科学家感到震惊]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1489182.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1489182.htm"/>
+        <updated>2025-03-30T04:35:39.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">巴拿马的一只蜂鸟幼鸟模仿有毒的毛毛虫来躲避捕食者——这是鸟类模仿昆虫的罕见案例。当杰伊·福克 (Jay Falk) 和斯科特·泰勒 (Scott Taylor) 第一次在巴拿马茂密的雨林中发现白颈雅各宾蜂鸟幼鸟时，这两位鸟类生物学家并不确定他们看到的是什么。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“你逼我的”：特斯拉车主换车视频登上TikTok热搜]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1489690.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1489690.htm"/>
+        <updated>2025-04-01T10:37:02.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据《商业内幕》报道，特斯拉车主把自己的汽车以旧换新，改开其他品牌汽车的视频已经登上了TikTok热搜。在TikTok上，特斯拉车主发布了换车前后的对比视频，并配上#再见特斯拉(ByeTesla)的话题标签，以及泰勒·斯威夫特(Taylor Swift)2017年的热门歌曲《看看你逼我做的好事》(Look What You Made Me Do)。</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[消息称英伟达H20芯片遭中国限购]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1488576.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1488576.htm"/>
         <updated>2025-03-27T09:52:18.000Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">英伟达股价又迎来了大跌，市值一夜蒸发1691亿美元（约合人民币12291亿元）。之所以大跌，可能跟旗下H20芯片可能遭中国限购消息有关。据《金融时报》报道，国家发改革正建议中国企业在新建数据中心或扩建现有设施时，使用符合严格要求的AI芯片。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官宣代言人35小时即终止合同：英菲尼迪起诉王力宏]]></title>
-        <id>https://www.cnbeta.com.tw/articles/music/1488374.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/music/1488374.htm"/>
-        <updated>2025-03-31T17:41:27.010Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">企查查APP显示，</span><strong style="text-wrap-mode: wrap;">法院公开东风英菲尼迪汽车有限公司起诉王力宏、西东音乐（上海）有限公司财产损害赔偿纠纷的案件</strong><span style="text-wrap-mode: wrap;">。公告显示，该案件计划将于4月28日，由上海市金山区人民法院审理。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新型塑料一夜之间溶解于海洋 且不留任何微塑料]]></title>
@@ -125,24 +118,31 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">塑料坚固耐用，在使用时非常好，但当它们最终进入环境时就令人沮丧了。日本理化学研究所的科学家开发了一种新型塑料，它在日常使用中同样稳定，但在盐水中会迅速溶解，留下安全的化合物。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一只伪装成有毒毛虫的蜂鸟幼鸟让科学家感到震惊]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1489182.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1489182.htm"/>
-        <updated>2025-03-30T04:35:39.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">巴拿马的一只蜂鸟幼鸟模仿有毒的毛毛虫来躲避捕食者——这是鸟类模仿昆虫的罕见案例。当杰伊·福克 (Jay Falk) 和斯科特·泰勒 (Scott Taylor) 第一次在巴拿马茂密的雨林中发现白颈雅各宾蜂鸟幼鸟时，这两位鸟类生物学家并不确定他们看到的是什么。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google推出下一代人工智能推理模型Gemini 2.5]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1488206.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1488206.htm"/>
-        <updated>2025-03-26T01:05:06.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">周二，Google发布了 Gemini 2.5，这是一系列新的人工智能推理模型，可以在回答问题之前停下来“思考”。为了启动新模型系列，Google推出了 Gemini 2.5 Pro Experimental，这是一款多模式推理 AI 模型，该公司声称这是迄今为止最智能的模型。</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[突破40年障碍 科学家发现新型高温超导体]]></title>
         <id>https://www.cnbeta.com.tw/articles/science/1489048.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/science/1489048.htm"/>
         <updated>2025-03-29T04:13:48.000Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">新加坡国立大学的科学家合成了一种无铜超导氧化物，在环境压力下工作温度约为 40 K，使该领域超越了传统的氧化铜。这一突破加深了我们对非常规超导性的理解，并为节能电子产品开辟了新的可能性。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4o图像生成的秘密OpenAI没说，网友已经拼出真相？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1489108.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1489108.htm"/>
+        <updated>2025-04-02T17:42:06.770Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">自从 OpenAI 发布 GPT-4o 图像生成功能以来，短短几天时间，我们眼睛里看的，耳朵里听的，几乎都是关于它的消息。不会 PS 也能化身绘图专家，随便打开一个社交媒体，一眼望去都是 GPT-4o 生成的案例。比如，吉卜力画风的特朗普“积极坦诚对话”泽连斯基：</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google致中国合作伙伴信曝光：仍将发布完整源代码至AOSP]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1488980.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1488980.htm"/>
+        <updated>2025-04-02T17:42:06.770Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">一则“Google将终止开源Android”的消息在网上掀起轩然大波。作为全球使用最广泛的移动操作系统之一，AOSP是Android系统的核心部分，支持着全球超30亿台智能设备。在业内看来，如果真的采取闭源，将会对现有Android生态带来巨大冲击。但记者对多位Google的合作伙伴进行采访时了解到，Google目前确实对Android开发模式进行了变更，但该公司同时向合作方强调，调整并不意味着Android将转向闭源。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初三女生作文《旧轨还乡》火爆全网]]></title>
+        <id>https://www.cnbeta.com.tw/articles/funny/1488938.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/funny/1488938.htm"/>
+        <updated>2025-04-02T17:42:06.775Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">近日，杭州一所实验中学的语文老师，在自己运营的自媒体账号“语文山水”上，分享了</span><strong style="text-wrap-mode: wrap;">初三年级学生的作文《旧轨还乡》</strong><span style="text-wrap-mode: wrap;">。</span><span style="text-wrap-mode: wrap;">截至3月27日晚，</span><strong style="text-wrap-mode: wrap;">该视频在抖音已收获超过167万点赞，近7万条评论</strong><span style="text-wrap-mode: wrap;">，相关话题冲上热搜。不少网友感慨：太感动了，这篇作文句句不提思念，句句都是思念！</span>]]></content>
     </entry>
 </feed>
