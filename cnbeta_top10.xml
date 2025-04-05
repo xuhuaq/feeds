@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnbeta.com.tw/top10.htm</id>
     <title>cnbeta一周排行</title>
-    <updated>2025-04-05T05:41:45.631Z</updated>
+    <updated>2025-04-05T17:40:41.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[苹果用户5年没享受的微信功能，终于回归了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1489902.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1489902.htm"/>
+        <updated>2025-04-02T09:36:20.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">众所周知，iOS微信只有文章、网页、文件可以浮窗。唯独小程序不行。</span><span style="text-wrap-mode: wrap;">所以这些年，iPhone用户只要接触到微信小程序，体验就不太好。就拿上周世超和朋友吃饭来说，朋友让我点个酸菜鱼，我的操作是——</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华裔高管斗不过印度人的历史，被AI终结了]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1489708.htm</id>
@@ -18,13 +25,6 @@
         <link href="https://www.cnbeta.com.tw/articles/science/1489182.htm"/>
         <updated>2025-03-30T04:35:39.000Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">巴拿马的一只蜂鸟幼鸟模仿有毒的毛毛虫来躲避捕食者——这是鸟类模仿昆虫的罕见案例。当杰伊·福克 (Jay Falk) 和斯科特·泰勒 (Scott Taylor) 第一次在巴拿马茂密的雨林中发现白颈雅各宾蜂鸟幼鸟时，这两位鸟类生物学家并不确定他们看到的是什么。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果用户5年没享受的微信功能，终于回归了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1489902.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1489902.htm"/>
-        <updated>2025-04-02T09:36:20.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">众所周知，iOS微信只有文章、网页、文件可以浮窗。唯独小程序不行。</span><span style="text-wrap-mode: wrap;">所以这些年，iPhone用户只要接触到微信小程序，体验就不太好。就拿上周世超和朋友吃饭来说，朋友让我点个酸菜鱼，我的操作是——</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[宣称可当汽油、柴油用 每升便宜2块钱 央视揭"新能源动力液"猫腻]]></title>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">微软创始人比尔·盖茨近日在访谈中表示，</span><strong style="text-wrap-mode: wrap;">未来十年内，AI技术的进步将在不到10年内显著减少人类在医学、教育等许多传统任务中的角色。</strong><span style="text-wrap-mode: wrap;">盖茨表示，AI的进步将使许多目前由专业人士执行的工作变得不再需要人类。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新发现：咖啡冲泡方法对心脏健康有很大影响]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1489310.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1489310.htm"/>
-        <updated>2025-04-01T17:42:14.482Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">一项新研究表明，冲泡咖啡的方法可以显著影响天然升高胆固醇的化合物二萜的含量。咖啡的冲泡方式可能会影响心脏健康。咖啡文化遍布七大洲，是一种全球性饮料。事实上，全世界每天要喝掉超过</span>22.5 亿杯<span style="text-wrap-mode: wrap;">咖啡。咖啡含有生物活性成分，因此通常被认为对</span>健康有益。]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美国宣布国家进入紧急状态并对所有进口商品加征10%从价税]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1490170.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1490170.htm"/>
@@ -55,11 +48,25 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">美国宣布国家进入紧急状态并调整关税，总统特朗普表示鉴于过去五年美国年度商品贸易逆差增长超40%，2024年达1.2万亿美元，反映出贸易关系的不对称性，已导致国内生产能力（尤其是制造业与国防工业基础）衰退，削弱美国出口竞争力及生产激励。此类不对称性包括：</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新发现：咖啡冲泡方法对心脏健康有很大影响]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1489310.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1489310.htm"/>
+        <updated>2025-04-01T17:42:14.482Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">一项新研究表明，冲泡咖啡的方法可以显著影响天然升高胆固醇的化合物二萜的含量。咖啡的冲泡方式可能会影响心脏健康。咖啡文化遍布七大洲，是一种全球性饮料。事实上，全世界每天要喝掉超过</span>22.5 亿杯<span style="text-wrap-mode: wrap;">咖啡。咖啡含有生物活性成分，因此通常被认为对</span>健康有益。]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“你逼我的”：特斯拉车主换车视频登上TikTok热搜]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1489690.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1489690.htm"/>
         <updated>2025-04-01T10:37:02.000Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据《商业内幕》报道，特斯拉车主把自己的汽车以旧换新，改开其他品牌汽车的视频已经登上了TikTok热搜。在TikTok上，特斯拉车主发布了换车前后的对比视频，并配上#再见特斯拉(ByeTesla)的话题标签，以及泰勒·斯威夫特(Taylor Swift)2017年的热门歌曲《看看你逼我做的好事》(Look What You Made Me Do)。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家称金字塔下发现"史前地下城" 远超已知古埃及文明]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1490342.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1490342.htm"/>
+        <updated>2025-04-05T17:40:41.159Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">近日，意大利研究团队声称在埃及金字塔下方发现“38000年前的地下城市”，但这一时间点远超已知的古埃及文明，甚至超过已知的人类建筑史。</span><span style="text-wrap-mode: wrap;">据意大利科学家主导的“哈夫拉项目”研究团队称，他们使用雷达脉冲技术扫描地下结构，发现了八个直径下降井：</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2.7万条养殖三文鱼逃逸 挪威养殖场悬赏追捕 抓一条奖励500挪威克朗]]></title>
@@ -90,18 +97,25 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">一加宣布将在本月发布小屏旗舰一加13T。博主数码闲聊站爆料，</span><strong style="text-wrap-mode: wrap;">一加13T产品定位小屏大魔王，</strong><span style="text-wrap-mode: wrap;">主要在主打性能的赛道上增强游戏、续航、屏幕、网络等体验，性能释放相当激进，属于又小又强。</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[在中国买的iPhone不能用苹果AI？官方解释来了]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1490192.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1490192.htm"/>
+        <updated>2025-04-03T09:32:44.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据美国科技博客9to5mac报道，有读者反映，他在访问中国时购买了一部新iPhone，但是即便他离开了中国，依旧无法使用苹果的AI系统Apple Intelligence。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现名字可能会改变人的面容]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1489344.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1489344.htm"/>
+        <updated>2025-03-31T01:55:00.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">希伯来大学和赖希曼大学的研究人员领导的一项新研究表明，随着年龄的增长，人们的名字可能会影响他们的面容。成年人的面孔与其名字的匹配比偶然匹配更准确，而这种现象在儿童身上并不存在。</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[经济学家谈比亚迪激动到落泪：欧洲比亚迪价格是国内两倍 还比大众便宜]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1489490.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1489490.htm"/>
         <updated>2025-04-03T17:41:33.510Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">经济学家朱民在央视《面对面》节目中谈及中国制造业发展时一度哽咽落泪。他表示中国制造业占全球制造业的30.3%，是美国、德国、日本、韩国的总和。改革开放前20年，中国的制造业是最便宜的。后20年，中国制造业是又便宜又好的。今后20年，中国制造业是全球又便宜、又好、又科技的。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突破40年障碍 科学家发现新型高温超导体]]></title>
-        <id>https://www.cnbeta.com.tw/articles/science/1489048.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/science/1489048.htm"/>
-        <updated>2025-03-29T04:13:48.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">新加坡国立大学的科学家合成了一种无铜超导氧化物，在环境压力下工作温度约为 40 K，使该领域超越了传统的氧化铜。这一突破加深了我们对非常规超导性的理解，并为节能电子产品开辟了新的可能性。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[黑莓手机可能即将回归 新机运行Android 15并支持AI]]></title>
@@ -111,11 +125,11 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">尽管多年来有许多人尝试拯救或重振黑莓手机品牌，但大多数人认为它已经像渡渡鸟一样消失。</span><strong style="text-wrap-mode: wrap;">最近Reddit上的一篇帖子透露，一家英国的初创公司正悄悄努力复活Blackberry Classic及Onward Mobility未完成的产品。</strong>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在中国买的iPhone不能用苹果AI？官方解释来了]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1490192.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1490192.htm"/>
-        <updated>2025-04-03T09:32:44.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据美国科技博客9to5mac报道，有读者反映，他在访问中国时购买了一部新iPhone，但是即便他离开了中国，依旧无法使用苹果的AI系统Apple Intelligence。</span>]]></content>
+        <title type="html"><![CDATA[被喷烂的特斯拉FSD 怎么突然牛起来了？]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1489578.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1489578.htm"/>
+        <updated>2025-04-04T17:41:12.219Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">特斯拉FSD在中国的口碑，突然好起来了。就在一个月前，特斯拉FSD还在被全网狂喷，铺天盖地的测试似乎都要验证“FSD在中国就是一场骗局”。但谁能想得到，不过一个月时间，很多人就被FSD征服了。不仅通过视频肯定FSD驾驶表现的网友越来越多，有些其他汽车品牌的KOL也为FSD站台，</span><strong style="text-wrap-mode: wrap;">甚至在一些平台出现了“投敌行为”，认为“FSD才是辅助驾驶的未来”</strong><span style="text-wrap-mode: wrap;">。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新疆发现2.5亿多年前“生态绿洲”]]></title>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">距今约2.52亿年的二叠纪末大灭绝是寒武纪以来最严重的一次生物危机，导致了海洋和陆地生物的重大变革。多年来，中国科学院南京地质古生物研究所博士彭辉平在研究员刘锋的指导下，与中外科学家合作，对我国新疆吐哈盆地西缘出露的南桃东沟剖面中产出的孢粉化石进行了详细研究，发现了二叠纪末大灭绝期间的陆地“避难所”，相关研究成果3月13日凌晨发表于《科学进展》。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4o图像生成的秘密OpenAI没说，网友已经拼出真相？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1489108.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1489108.htm"/>
-        <updated>2025-04-02T17:42:06.770Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">自从 OpenAI 发布 GPT-4o 图像生成功能以来，短短几天时间，我们眼睛里看的，耳朵里听的，几乎都是关于它的消息。不会 PS 也能化身绘图专家，随便打开一个社交媒体，一眼望去都是 GPT-4o 生成的案例。比如，吉卜力画风的特朗普“积极坦诚对话”泽连斯基：</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[小米SU7碰撞爆燃致3女生死亡：车辆为SU7标准版 电池未配备电芯倒置技术]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1489780.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1489780.htm"/>
         <updated>2025-04-04T17:41:12.217Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">3月29日，一辆小米SU7在高速发生碰撞事故，致车上3位女生死亡一事，引起关注热议。</span><span style="text-wrap-mode: wrap;">据界面新闻报道，</span><strong style="text-wrap-mode: wrap;">小米汽车客服人员回应他们称，事故车辆为SU7标准版。</strong><span style="text-wrap-mode: wrap;">小米目前在售的SU7车型共有三个版本，分别为标准版、Pro版、Max版，三款车型的电池配置也不相同。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被喷烂的特斯拉FSD 怎么突然牛起来了？]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1489578.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1489578.htm"/>
-        <updated>2025-04-04T17:41:12.219Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">特斯拉FSD在中国的口碑，突然好起来了。就在一个月前，特斯拉FSD还在被全网狂喷，铺天盖地的测试似乎都要验证“FSD在中国就是一场骗局”。但谁能想得到，不过一个月时间，很多人就被FSD征服了。不仅通过视频肯定FSD驾驶表现的网友越来越多，有些其他汽车品牌的KOL也为FSD站台，</span><strong style="text-wrap-mode: wrap;">甚至在一些平台出现了“投敌行为”，认为“FSD才是辅助驾驶的未来”</strong><span style="text-wrap-mode: wrap;">。</span>]]></content>
     </entry>
 </feed>
