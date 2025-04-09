@@ -2,22 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuhuaq.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-09T05:42:46.350Z</updated>
+    <updated>2025-04-09T17:42:42.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[苹果用户5年没享受的微信功能，终于回归了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1489902.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1489902.htm"/>
-        <updated>2025-04-02T09:36:20.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">众所周知，iOS微信只有文章、网页、文件可以浮窗。唯独小程序不行。</span><span style="text-wrap-mode: wrap;">所以这些年，iPhone用户只要接触到微信小程序，体验就不太好。就拿上周世超和朋友吃饭来说，朋友让我点个酸菜鱼，我的操作是——</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣称可当汽油、柴油用 每升便宜2块钱 央视揭"新能源动力液"猫腻 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1489928.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1489928.htm"/>
-        <updated>2025-04-02T09:52:58.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据央视新闻报道，一些地方近年来出现了不少 “新能源加注站”，“加注站”宣称自己销售的车用燃料是一种新能源，不仅价格便宜，而且完全可替代普通的汽柴油使用。但有车主举报称，他们加注的燃料质量不合格。</span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[美国宣布国家进入紧急状态并对所有进口商品加征10%从价税 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1490170.htm</id>
@@ -33,13 +19,6 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">近日，意大利研究团队声称在埃及金字塔下方发现“38000年前的地下城市”，但这一时间点远超已知的古埃及文明，甚至超过已知的人类建筑史。</span><span style="text-wrap-mode: wrap;">据意大利科学家主导的“哈夫拉项目”研究团队称，他们使用雷达脉冲技术扫描地下结构，发现了八个直径下降井：</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在中国买的iPhone不能用苹果AI？官方解释来了 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1490192.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1490192.htm"/>
-        <updated>2025-04-03T09:32:44.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据美国科技博客9to5mac报道，有读者反映，他在访问中国时购买了一部新iPhone，但是即便他离开了中国，依旧无法使用苹果的AI系统Apple Intelligence。</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美媒揭秘内行才知道的窍门：中国电动车如何绕道进入美国 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1490248.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1490248.htm"/>
@@ -47,46 +26,18 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">4月3日消息，尽管几乎没有中国电动汽车能合法进入美国市场，但也有一些变通方法，可以让热情车迷用一定成本将它们驶上</span><span style="text-wrap-mode: wrap;">美国</span><span style="text-wrap-mode: wrap;">道路。当大多数人的网购包裹都能直送到家时，约翰·卡林（John Karlin）却不得不驱车八小时，从俄克拉荷马城赶往得克萨斯州弗里波特海关。这么做只为提取他的特殊”包裹”：一辆漂洋过海而来的</span><span style="text-wrap-mode: wrap;">中国</span><span style="text-wrap-mode: wrap;">电动汽车</span><span style="text-wrap-mode: wrap;">。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2.7万条养殖三文鱼逃逸 挪威养殖场悬赏追捕 抓一条奖励500挪威克朗 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/funny/1489938.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/funny/1489938.htm"/>
-        <updated>2025-04-02T10:02:18.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">前段时间，全球最大的三文鱼生产商Mowi公司发布了一则“悬赏通缉令”，通缉对象正是自家养殖场逃出去的2.7万条三文鱼，赏金则是一条500挪威克朗，约合人民币346元。2月9日，位于挪威特罗姆斯的一个养殖场中，工作人员发现其中一个围栏外圈受损，导致部分三文鱼逃逸。</span>]]></content>
+        <title type="html"><![CDATA[在中国买的iPhone不能用苹果AI？官方解释来了 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1490192.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1490192.htm"/>
+        <updated>2025-04-03T09:32:44.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据美国科技博客9to5mac报道，有读者反映，他在访问中国时购买了一部新iPhone，但是即便他离开了中国，依旧无法使用苹果的AI系统Apple Intelligence。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一加13T外观首曝：像谷歌Pixel 简约耐看 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1489826.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1489826.htm"/>
-        <updated>2025-04-04T17:41:12.193Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">一加宣布将在本月发布小屏旗舰一加13T。博主数码闲聊站爆料，</span><strong style="text-wrap-mode: wrap;">一加13T产品定位小屏大魔王，</strong><span style="text-wrap-mode: wrap;">主要在主打性能的赛道上增强游戏、续航、屏幕、网络等体验，性能释放相当激进，属于又小又强。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok生死劫：中国高管闪电收权 vs 美国强卖令 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1490852.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1490852.htm"/>
-        <updated>2025-04-06T10:14:13.000Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据《商业内幕》报道，TikTok员工透露，公司近期一系列美国高管的离职和团队重组，让字节跳动中国管理层加强了对TikTok美国业务的控制。就在这个月，TikTok美国销售与营销高管布雷克·钱德利(Blake Chandlee)辞职，他此前经常代表TikTok出席戛纳国际创意节和广告周等重要行业活动。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷军微博已停更四天 卢伟冰用一个表情包回应其近况 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1490794.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1490794.htm"/>
-        <updated>2025-04-07T17:41:34.126Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">继4月1日在微博上回应小米SU7事件之后，小米董事长兼CEO雷军目前微博已停更四天。此前，雷军表示，“我必须站出来，代表小米承诺：无论发生什么，小米都不会回避，我们将持续配合警方调查，跟进事情处理的进展，并尽最大努力回应家属和社会关心的问题。”此后其未再更新动态。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂Switch 2正式发布：终于支持4K画质、手柄还能变鼠标 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/game/1490106.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/game/1490106.htm"/>
-        <updated>2025-04-06T17:40:19.693Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">时隔八年，</span><strong style="text-wrap-mode: wrap;">任天堂新一代游戏机Switch 2今晚正式发布，新机在屏幕、手柄、性能等方面迎来重大提升，该机将于6月5日发售。</strong><span style="text-wrap-mode: wrap;">Switch 2日本国内专用版售价49980日元（约合2427元人民币），美版449.99美元（约合3270元人民币），多语言版69980日元（约合3398元人民币）。</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果紧急安排五架飞机满载iPhone运往美国 成功躲过新关税 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1491154.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1491154.htm"/>
-        <updated>2025-04-09T05:42:45.622Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">3月的最后一周，</span><strong style="text-wrap-mode: wrap;">苹果在短短3天时间里，安排5架飞机，满载iPhone等苹果设备从印度运往美国，并在新关税政策实施前顺利入关。</strong><span style="text-wrap-mode: wrap;">报道指出，苹果短期内不会提价，目前的产品库存能撑一段时间，9月份的iPhone 17系列可能会涨价。</span>]]></content>
+        <title type="html"><![CDATA[别再冤枉皮蛋了，它是“好蛋” (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1491396.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1491396.htm"/>
+        <updated>2025-04-09T17:42:41.267Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">一说到皮蛋，大家想到的第一个标签就是——外国人眼中的“中国黑暗料理”，网上甚至还有不少外国人挑战试吃皮蛋。</span><span style="text-wrap-mode: wrap;">其实不只外国人，中国人对它的评价也很两极分化：尽管有些人热衷于辣椒拌皮蛋，但还有些人始终觉得它重金属超标......</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国对美国加税34% 最受伤的不是美系车而是奔驰、宝马 (cnbeta一周排行)]]></title>
@@ -96,11 +47,46 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">当地时间4月2日，美国宣布对中国输美商品征收“对等关税”。</span><strong style="text-wrap-mode: wrap;">我国宣布了反制措施：对原产于美国的所有进口商品加征34%关税。</strong><span style="text-wrap-mode: wrap;">对于汽车行业来说，今后从美国进口的所有车辆，都需要在原有关税上，再叠加34%的反制关税，意味着美国进口的车辆国内售价也会上调。</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TikTok生死劫：中国高管闪电收权 vs 美国强卖令 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1490852.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1490852.htm"/>
+        <updated>2025-04-06T10:14:13.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据《商业内幕》报道，TikTok员工透露，公司近期一系列美国高管的离职和团队重组，让字节跳动中国管理层加强了对TikTok美国业务的控制。就在这个月，TikTok美国销售与营销高管布雷克·钱德利(Blake Chandlee)辞职，他此前经常代表TikTok出席戛纳国际创意节和广告周等重要行业活动。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果紧急安排五架飞机满载iPhone运往美国 成功躲过新关税 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1491154.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1491154.htm"/>
+        <updated>2025-04-09T05:42:45.622Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">3月的最后一周，</span><strong style="text-wrap-mode: wrap;">苹果在短短3天时间里，安排5架飞机，满载iPhone等苹果设备从印度运往美国，并在新关税政策实施前顺利入关。</strong><span style="text-wrap-mode: wrap;">报道指出，苹果短期内不会提价，目前的产品库存能撑一段时间，9月份的iPhone 17系列可能会涨价。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军微博已停更四天 卢伟冰用一个表情包回应其近况 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1490794.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1490794.htm"/>
+        <updated>2025-04-07T17:41:34.126Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">继4月1日在微博上回应小米SU7事件之后，小米董事长兼CEO雷军目前微博已停更四天。此前，雷军表示，“我必须站出来，代表小米承诺：无论发生什么，小米都不会回避，我们将持续配合警方调查，跟进事情处理的进展，并尽最大努力回应家属和社会关心的问题。”此后其未再更新动态。</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[特朗普威胁对中国征收高达104%的关税 苹果股价再度暴跌 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1491244.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1491244.htm"/>
         <updated>2025-04-09T05:42:45.623Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">美国</span><span style="text-wrap-mode: wrap;">总统</span><span style="text-wrap-mode: wrap;">特朗普正在加倍实施他的毁灭性关税计划，称由于中国对原来的关税进行了报复，他现在将把关税进一步提高 50%。特朗普最初提出的关税方案比外界担心的最坏的状况还要严重</span>，这些关税已经打击了苹果供应链所依赖的每个国家<span style="text-wrap-mode: wrap;">，导致该公司</span>股价暴跌<span style="text-wrap-mode: wrap;">，但现在情况更糟了。尽管白宫声称特朗普将考虑暂停征收关税是假新闻，但总统本人已宣布对中国实施报复性报复。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂Switch 2正式发布：终于支持4K画质、手柄还能变鼠标 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/game/1490106.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/game/1490106.htm"/>
+        <updated>2025-04-06T17:40:19.693Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">时隔八年，</span><strong style="text-wrap-mode: wrap;">任天堂新一代游戏机Switch 2今晚正式发布，新机在屏幕、手柄、性能等方面迎来重大提升，该机将于6月5日发售。</strong><span style="text-wrap-mode: wrap;">Switch 2日本国内专用版售价49980日元（约合2427元人民币），美版449.99美元（约合3270元人民币），多语言版69980日元（约合3398元人民币）。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[闲鱼上这种只卖19.9元的服务，我居然有点心动 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1491290.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1491290.htm"/>
+        <updated>2025-04-08T09:43:55.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">事情是这样子的。前两天机哥在厕所里刷“闲鱼”摸鱼。本来刷得好好的，结果首页突然给我甩了这么一位，描述页上赫然写着“曾经参加过核潜艇和航空母舰的建造与维修”的“国家认证水电工”的时候。我人都傻了半截。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 17 Pro机模现身 网友：看着看着就顺眼了 (cnbeta一周排行)]]></title>
@@ -117,18 +103,25 @@
         <content type="html"><![CDATA[莫纳什大学<span style="text-wrap-mode: wrap;">的数学家终于解决了一个可以追溯到 17 世纪的古老几何难题，为哲学家和数学家勒内·笛卡尔最初提出的一个等式提供了新的见解。</span><span style="text-wrap-mode: wrap;">研究人员利用受物理学启发的先进数学工具，通过找到任意数量切线圆的一般方程，扩展了笛卡尔四圆定理。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星将从四季度开始在其智能可穿戴设备和无线耳机中应用固态电池 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/tech/1490056.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/tech/1490056.htm"/>
-        <updated>2025-04-09T05:42:45.627Z</updated>
-        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">与众多制造商目前采用的技术相比，固态电池具有明显的优势。与使用液体电解质的传统电池不同，新型电池中存在固体电解质，这带来了许多好处。三星显然打算在今年使用这项技术，最新报告称其智能手表、智能戒指和耳机产品线将包括这些技术，但该公司的智能手机暂未考虑使用。</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[50多家中国公司发布HDMI和DisplayPort替代方案GPMI 支持480W供电+192Gbps带宽 (cnbeta一周排行)]]></title>
         <id>https://www.cnbeta.com.tw/articles/tech/1491078.htm</id>
         <link href="https://www.cnbeta.com.tw/articles/tech/1491078.htm"/>
         <updated>2025-04-07T11:11:56.000Z</updated>
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">中国有了自己的HDMI和DisplayPort替代方案。近日，由50多家中国公司组成的深圳8K超高清视频产业合作联盟，</span><strong style="text-wrap-mode: wrap;">发布了共同研发的GPMI （General Purpose Media Interface，通用多媒体接口） ，一举解决传统显示设备需要分别连接电源线与数据线的问题，仅通过一根线，就最高支持192Gbps带宽、480W供电能力。</strong>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刘畊宏直播跳操被强制关播 抖音回应：着装不当、提示过3次 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/movie/1490312.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/movie/1490312.htm"/>
+        <updated>2025-04-09T05:42:45.651Z</updated>
+        <content type="html"><![CDATA[<strong style="text-wrap-mode: wrap;">日前刘畊宏COS海王直播跳操，结果被抖音强制下播，随后他发布微博表示，跳得正嗨突然黑屏，理由是丝袜破洞、穿着诱惑。</strong><span style="text-wrap-mode: wrap;">刘畊宏声称，自己的直播间一直传播健康的正能量，都快四年了，“今天我COS海王，请问这服装哪里破洞了？我全身包着穿还穿着诱惑吗？”</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新西兰南岛的海滩黄金被完美地细致地拍摄下来 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/science/1490650.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/science/1490650.htm"/>
+        <updated>2025-04-09T17:42:41.308Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">科学家们首次拍摄了在新西兰南岛海岸线的沙子中发现的金色贵金属的详细照片。奥塔哥大学的研究人员精心收集了最全面的资料，对隐藏在该国东部海岸线白色沙滩中的微小金块进行了分析。这些闪闪发光的金属碎片细节生动，是该地区 19 世纪 60 年代淘金热时期的微小遗迹。</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微信引用回复功能更新：可以回语音表情包了 (cnbeta一周排行)]]></title>
@@ -138,10 +131,17 @@
         <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">据微信派发布的消息，微信引用回复功能更新，</span><strong style="text-wrap-mode: wrap;">现在可以引用表情包和语音进行回复，同时回复内容也不受限于文字，可以回复语音和表情包了。</strong><span style="text-wrap-mode: wrap;">需要注意的是，当使用安卓系统的手机，分别向iOS系统与安卓系统手机合并转发表情包时，双方的聊天记录都无法显示表情包的详情。</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刘畊宏直播跳操被强制关播 抖音回应：着装不当、提示过3次 (cnbeta一周排行)]]></title>
-        <id>https://www.cnbeta.com.tw/articles/movie/1490312.htm</id>
-        <link href="https://www.cnbeta.com.tw/articles/movie/1490312.htm"/>
-        <updated>2025-04-09T05:42:45.651Z</updated>
-        <content type="html"><![CDATA[<strong style="text-wrap-mode: wrap;">日前刘畊宏COS海王直播跳操，结果被抖音强制下播，随后他发布微博表示，跳得正嗨突然黑屏，理由是丝袜破洞、穿着诱惑。</strong><span style="text-wrap-mode: wrap;">刘畊宏声称，自己的直播间一直传播健康的正能量，都快四年了，“今天我COS海王，请问这服装哪里破洞了？我全身包着穿还穿着诱惑吗？”</span>]]></content>
+        <title type="html"><![CDATA[马斯克玩砸皮卡 美媒：Cybertruck堪称汽车业最大败笔 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1491106.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1491106.htm"/>
+        <updated>2025-04-09T17:42:41.312Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">美国《福布斯》发表文章称，特斯拉造型奇特的电动皮卡Cybertruck销售惨淡，比该公司CEO埃隆·马斯克(Elon Musk)的预期足足少了84%，堪称近几十年来汽车行业最失败的产品。</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果中国官网上架M4款MacBook Pro/Mac mini翻新版 3799元起 (cnbeta一周排行)]]></title>
+        <id>https://www.cnbeta.com.tw/articles/tech/1490890.htm</id>
+        <link href="https://www.cnbeta.com.tw/articles/tech/1490890.htm"/>
+        <updated>2025-04-06T11:08:05.000Z</updated>
+        <content type="html"><![CDATA[<span style="text-wrap-mode: wrap;">苹果中国官网最新上架了M4芯片款MacBook Pro和Mac mini翻新机型，相比全新机基本都提供了85折优惠，仅需3799元起。</span><span style="text-wrap-mode: wrap;">其中，Mac mini起售价3799元，全新原价则是4499元，14英寸MacBook Pro起售价10999元。</span>]]></content>
     </entry>
 </feed>
